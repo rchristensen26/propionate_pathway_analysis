@@ -1,0 +1,8 @@
+job	filter	gene_id	description	genome_id
+acrC_genomes	KO:K20143	2688136349	Acyl-CoA dehydrogenase	2687453271	
+acrC_genomes	KO:K20143	2585122232	Acyl-CoA dehydrogenase	2582581271	
+acrC_genomes	KO:K20143	648620332	butyryl-coa dehydrogenase	648276631	
+acrC_genomes	KO:K20143	2882234926	alkylation response protein AidB-like acyl-CoA dehydrogenase	2882234885	
+acrC_genomes	KO:K20143	2896952256	alkylation response protein AidB-like acyl-CoA dehydrogenase	2896947763	
+acrC_genomes	KO:K20143	2810849629	alkylation response protein AidB-like acyl-CoA dehydrogenase	2808606817	
+acrC_genomes	KO:K20143	2674858224	acyl-CoA dehydrogenase	2671180946	

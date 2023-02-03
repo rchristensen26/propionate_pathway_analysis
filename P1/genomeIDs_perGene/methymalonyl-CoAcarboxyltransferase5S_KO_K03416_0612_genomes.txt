@@ -1,0 +1,659 @@
+Domain	Status	Genome ID	Genome Name	
+Bacteria	Finished	637000001	Candidatus Koribacter versatilis Ellin345	
+Bacteria	Finished	637000082	Corynebacterium diphtheriae bv. Gravis	
+Bacteria	Finished	637000215	Cutibacterium acnes KPA171202	
+Bacteria	Finished	639633020	Chlorobium phaeobacteroides DSM 266	
+Bacteria	Finished	639633046	Nocardioides sp. JS614	
+Bacteria	Finished	639633050	Pelobacter propionicus DSM 2379	
+Bacteria	Finished	639633060	Candidatus Solibacter usitatus Ellin6076	
+Bacteria	Finished	642555129	Geobacter bemidjiensis Bem, DSM 16622	
+Bacteria	Permanent Draft	642979306	Corynebacterium amycolatum SK46	
+Bacteria	Finished	643692019	Corynebacterium kroppenstedtii DSM 44385	
+Bacteria	Permanent Draft	643886137	Corynebacterium glucuronolyticum ATCC 51866	
+Bacteria	Permanent Draft	643886147	Corynebacterium glucuronolyticum ATCC 51867	
+Bacteria	Permanent Draft	643886207	Corynebacterium matruchotii ATCC 33806	
+Bacteria	Finished	644736345	Corynebacterium efficiens YS-314, DSM 44549	
+Bacteria	Finished	644736371	Geobacter sp. M21	
+Bacteria	Permanent Draft	645951842	Corynebacterium efficiens YS-314, DSM 44549	
+Bacteria	Finished	646564561	Cutibacterium acnes SK137	
+Bacteria	Permanent Draft	647000296	Cutibacterium acnes J139	
+Bacteria	Permanent Draft	647000297	Cutibacterium acnes J165	
+Bacteria	Permanent Draft	647000298	Cutibacterium acnes SK187	
+Bacteria	Finished	648028019	Corynebacterium pseudotuberculosis FRC41	
+Bacteria	Finished	648231702	Corynebacterium pseudotuberculosis sv. Ovis 1002	
+Bacteria	Finished	648231703	Corynebacterium pseudotuberculosis C231	
+Bacteria	Permanent Draft	648276634	Corynebacterium matruchotii ATCC 14266	
+Bacteria	Finished	649633084	Propionibacterium freudenreichii shermanii CIRM-BIA1	
+Bacteria	Finished	650377927	Corynebacterium pseudotuberculosis I19	
+Bacteria	Finished	650716030	Corynebacterium ulcerans BR-AD22	
+Bacteria	Finished	651053019	Corynebacterium ulcerans 809	
+Bacteria	Finished	651053058	Cutibacterium acnes 266	
+Bacteria	Finished	651053059	Cutibacterium acnes 6609	
+Bacteria	Permanent Draft	651324091	Propionibacterium sp. 409-HC1	
+Bacteria	Permanent Draft	651324092	Propionibacterium sp. 434-HC2	
+Bacteria	Permanent Draft	2501846309	Chlorobaculum limnaeum DSM 1677	
+Bacteria	Permanent Draft	2511231051	Chlorobaculum limnaeum RK-j-1	
+Bacteria	Finished	2511231059	Corynebacterium diphtheriae HC03	
+Bacteria	Finished	2511231063	Cutibacterium acnes TypeIA2 P.acn33	
+Bacteria	Finished	2511231067	Corynebacterium pseudotuberculosis sv. Ovis 3/99-5	
+Bacteria	Finished	2511231075	Corynebacterium diphtheriae 31A	
+Bacteria	Finished	2511231083	Corynebacterium diphtheriae HC01	
+Bacteria	Finished	2511231084	Corynebacterium diphtheriae HC04	
+Bacteria	Finished	2511231088	Corynebacterium diphtheriae INCA 402	
+Bacteria	Finished	2511231089	Corynebacterium diphtheriae C7 (beta)	
+Bacteria	Finished	2511231091	Corynebacterium diphtheriae HC02	
+Bacteria	Finished	2511231095	Cutibacterium acnes TypeIA2 P.acn31	
+Bacteria	Finished	2511231099	Corynebacterium diphtheriae BH8	
+Bacteria	Finished	2511231107	Corynebacterium diphtheriae VA01	
+Bacteria	Finished	2511231111	Corynebacterium diphtheriae PW8	
+Bacteria	Finished	2511231115	Corynebacterium diphtheriae CDCE 8392	
+Bacteria	Finished	2511231125	Cutibacterium acnes TypeIA2 P.acn17	
+Bacteria	Finished	2511231126	Corynebacterium diphtheriae 241	
+Bacteria	Finished	2511231142	Corynebacterium pseudotuberculosis 1/06-A	
+Bacteria	Finished	2511231153	Corynebacterium pseudotuberculosis sv. II CIP52.97	
+Bacteria	Finished	2511231154	Corynebacterium pseudotuberculosis PAT10	
+Bacteria	Finished	2511231212	Corynebacterium pseudotuberculosis 42/02-A	
+Bacteria	Finished	2511231219	Cutibacterium acnes ATCC 11828	
+Bacteria	Permanent Draft	2512047045	Cutibacterium granulosum VPI 0507	
+Bacteria	Permanent Draft	2512047068	Propionibacterium sp. CC003-HC2	
+Bacteria	Finished	2512564036	Corynebacterium pseudotuberculosis 316	
+Bacteria	Finished	2512564058	Corynebacterium pseudotuberculosis sv. Ovis P54B96	
+Bacteria	Permanent Draft	2513237117	Acidipropionibacterium acidipropionici DSM 4900	
+Bacteria	Finished	2513237214	Corynebacterium pseudotuberculosis 267	
+Bacteria	Permanent Draft	2513237258	Mobilicoccus pelagius NBRC 104925	
+Bacteria	Permanent Draft	2513237388	Propionibacterium sp. 5_U_42AFAA	
+Bacteria	Permanent Draft	2513237389	Cutibacterium avidum VPI 0179	
+Bacteria	Permanent Draft	2515154014	Corynebacterium ciconiae DSM 44920	
+Bacteria	Permanent Draft	2515154214	Cutibacterium acnes DSM 1897	
+Bacteria	Permanent Draft	2516143011	Cutibacterium acnes PRP-38	
+Bacteria	Permanent Draft	2516653053	Deinococcus ficus KS 0460	
+Bacteria	Finished	2517093035	Corynebacterium ulcerans 0102	
+Bacteria	Permanent Draft	2518285594	Cutibacterium acnes ATCC 6919	
+Bacteria	Permanent Draft	2518285595	Cutibacterium granulosum ATCC 25564	
+Bacteria	Permanent Draft	2518285596	Cutibacterium avidum VPI 0179	
+Bacteria	Permanent Draft	2518285597	Acidipropionibacterium acidipropionici ATCC 4875	
+Bacteria	Permanent Draft	2518285598	Acidipropionibacterium jensenii ATCC 14073	
+Bacteria	Finished	2518645564	Corynebacterium pseudotuberculosis sv. Equi 258	
+Bacteria	Finished	2518645565	Corynebacterium pseudotuberculosis Cp162	
+Bacteria	Finished	2521172602	Acidipropionibacterium acidipropionici ATCC 4875	
+Bacteria	Permanent Draft	2522572156	Granulicoccus phenolivorans DSM 17626	
+Bacteria	Finished	2522572173	Cutibacterium acnes C1	
+Bacteria	Permanent Draft	2523231069	Acidipropionibacterium thoenii DSM 20276	
+Bacteria	Permanent Draft	2523231070	Propionicicella superfundia DSM 22317	
+Bacteria	Permanent Draft	2523533551	Acidipropionibacterium jensenii DSM 20535	
+Bacteria	Permanent Draft	2523533555	Propionimicrobium lymphophilum DSM 4903	
+Bacteria	Permanent Draft	2523533584	Dermatophilus congolensis DSM 44180	
+Bacteria	Permanent Draft	2523533600	Aestuariimicrobium kwangyangense DSM 21549	
+Bacteria	Permanent Draft	2524023180	Kineosphaera limosa NBRC 100340	
+Bacteria	Permanent Draft	2524023206	Citrifermentans bremense R1	
+Bacteria	Permanent Draft	2524614535	Arsenicicoccus bolidensis DSM 15745	
+Bacteria	Permanent Draft	2524614613	Corynebacterium freiburgense DSM 45254	
+Bacteria	Permanent Draft	2524614803	Propionibacterium acidifaciens DSM 21887	
+Bacteria	Permanent Draft	2524614857	Deinococcus ficus DSM 19119	
+Bacteria	Permanent Draft	2529292557	Corynebacterium glucuronolyticum DSM 44120	
+Bacteria	Permanent Draft	2529292840	Cutibacterium acnes HL002PA2	
+Bacteria	Permanent Draft	2529292847	Cutibacterium acnes HL063PA2	
+Bacteria	Permanent Draft	2529292952	Cutibacterium acnes HL082PA2	
+Bacteria	Permanent Draft	2529293281	Cutibacterium humerusii HL037PA3	
+Bacteria	Permanent Draft	2531839222	Cutibacterium acnes HL045PA1	
+Bacteria	Permanent Draft	2531839223	Cutibacterium acnes HL013PA1	
+Bacteria	Permanent Draft	2531839225	Cutibacterium acnes HL020PA1	
+Bacteria	Permanent Draft	2531839226	Cutibacterium acnes HL053PA2	
+Bacteria	Permanent Draft	2531839313	Cutibacterium acnes HL087PA2	
+Bacteria	Permanent Draft	2531839314	Cutibacterium acnes HL087PA3	
+Bacteria	Permanent Draft	2531839315	Cutibacterium acnes HL110PA4	
+Bacteria	Permanent Draft	2531839316	Cutibacterium acnes HL087PA1	
+Bacteria	Permanent Draft	2531839317	Cutibacterium acnes HL092PA1	
+Bacteria	Permanent Draft	2531839318	Cutibacterium acnes HL083PA1	
+Bacteria	Permanent Draft	2531839319	Cutibacterium acnes HL060PA1	
+Bacteria	Permanent Draft	2531839320	Cutibacterium acnes HL038PA1	
+Bacteria	Permanent Draft	2531839323	Cutibacterium acnes HL083PA2	
+Bacteria	Permanent Draft	2531839324	Cutibacterium acnes HL025PA1	
+Bacteria	Permanent Draft	2531839421	Cutibacterium acnes HL036PA3	
+Bacteria	Permanent Draft	2531839422	Cutibacterium humerusii HL044PA1	
+Bacteria	Permanent Draft	2531839423	Cutibacterium acnes HL030PA2	
+Bacteria	Permanent Draft	2531839424	Cutibacterium acnes HL001PA1	
+Bacteria	Permanent Draft	2531839425	Cutibacterium acnes HL036PA1	
+Bacteria	Permanent Draft	2531839426	Cutibacterium acnes HL036PA2	
+Bacteria	Permanent Draft	2531839427	Cutibacterium acnes HL050PA1	
+Bacteria	Permanent Draft	2531839428	Cutibacterium acnes HL050PA2	
+Bacteria	Permanent Draft	2531839429	Cutibacterium acnes HL050PA3	
+Bacteria	Permanent Draft	2531839430	Cutibacterium acnes HL030PA1	
+Bacteria	Permanent Draft	2531839451	Cutibacterium acnes FZ1/2/0	
+Bacteria	Permanent Draft	2531839572	Cutibacterium acnes SK182B-JCVI	
+Bacteria	Permanent Draft	2531839621	Cutibacterium humerusii P08	
+Bacteria	Permanent Draft	2531839679	Corynebacterium diphtheriae bv. intermedius NCTC 5011	
+Bacteria	Permanent Draft	2534681625	Rhodopirellula sp. SWK7	
+Bacteria	Permanent Draft	2534681797	Cutibacterium humerusii HL037PA2	
+Bacteria	Permanent Draft	2534681798	Cutibacterium acnes HL037PA1	
+Bacteria	Permanent Draft	2534682005	Cutibacterium acnes HL078PA1	
+Bacteria	Permanent Draft	2537561578	Cutibacterium acnes HL110PA3	
+Bacteria	Permanent Draft	2537561579	Cutibacterium acnes HL110PA2	
+Bacteria	Permanent Draft	2537561580	Cutibacterium acnes HL043PA2	
+Bacteria	Permanent Draft	2537561581	Cutibacterium acnes HL043PA1	
+Bacteria	Permanent Draft	2537561582	Cutibacterium acnes HL013PA2	
+Bacteria	Permanent Draft	2537561583	Cutibacterium acnes HL110PA1	
+Bacteria	Permanent Draft	2537561584	Cutibacterium acnes HL074PA1	
+Bacteria	Permanent Draft	2537561585	Cutibacterium acnes HL072PA2	
+Bacteria	Permanent Draft	2537561586	Cutibacterium acnes HL072PA1	
+Bacteria	Permanent Draft	2537561594	Cutibacterium acnes HL099PA1	
+Bacteria	Permanent Draft	2537561595	Cutibacterium acnes HL097PA1	
+Bacteria	Permanent Draft	2537561596	Cutibacterium acnes HL103PA1	
+Bacteria	Permanent Draft	2537561597	Cutibacterium acnes HL096PA3	
+Bacteria	Permanent Draft	2537561598	Cutibacterium acnes HL096PA2	
+Bacteria	Permanent Draft	2537561671	Cutibacterium acnes HL046PA2	
+Bacteria	Permanent Draft	2537561672	Cutibacterium acnes HL046PA1	
+Bacteria	Permanent Draft	2537561673	Cutibacterium acnes HL005PA2	
+Bacteria	Permanent Draft	2537561674	Cutibacterium acnes HL005PA1	
+Bacteria	Permanent Draft	2537561675	Cutibacterium acnes HL059PA1	
+Bacteria	Permanent Draft	2537561676	Cutibacterium acnes HL025PA2	
+Bacteria	Permanent Draft	2537561677	Cutibacterium acnes HL086PA1	
+Bacteria	Permanent Draft	2537561678	Cutibacterium acnes HL059PA2	
+Bacteria	Permanent Draft	2537561681	Cutibacterium acnes HL005PA4	
+Bacteria	Permanent Draft	2537561682	Cutibacterium acnes HL005PA3	
+Bacteria	Permanent Draft	2537561736	Cutibacterium acnes HL082PA1	
+Bacteria	Permanent Draft	2537561743	Cutibacterium acnes HL056PA1	
+Bacteria	Permanent Draft	2537561815	Cutibacterium acnes HL007PA1	
+Bacteria	Permanent Draft	2537561816	Cutibacterium acnes HL002PA3	
+Bacteria	Permanent Draft	2537561817	Cutibacterium acnes HL053PA1	
+Bacteria	Permanent Draft	2537561818	Cutibacterium acnes HL002PA1	
+Bacteria	Permanent Draft	2537561819	Cutibacterium acnes HL063PA1	
+Bacteria	Permanent Draft	2537561820	Cutibacterium acnes HL027PA2	
+Bacteria	Permanent Draft	2537561821	Cutibacterium acnes HL027PA1	
+Bacteria	Permanent Draft	2537561822	Cutibacterium acnes HL067PA1	
+Bacteria	Permanent Draft	2537561950	Corynebacterium durum F0235	
+Bacteria	Permanent Draft	2537562124	Cutibacterium acnes SK182	
+Bacteria	Permanent Draft	2537562210	Austwickia chelonae NBRC 105200	
+Bacteria	Permanent Draft	2540341033	Rhodopirellula sallentina SM41	
+Bacteria	Finished	2540341150	Corynebacterium pseudotuberculosis 31	
+Bacteria	Finished	2540341165	Arachnia propionica F0230a	
+Bacteria	Permanent Draft	2541046979	Propionimicrobium lymphophilum ACS-093-V-SCH5	
+Bacteria	Permanent Draft	2541046993	Corynebacterium sp. HFH0082	
+Bacteria	Permanent Draft	2541047000	Corynebacterium pyruviciproducens ATCC BAA-1742	
+Bacteria	Permanent Draft	2541047016	Propionibacterium sp. HGH0353	
+Bacteria	Permanent Draft	2541047021	Propionibacterium sp. oral taxon 192 F0372	
+Bacteria	Finished	2541047023	Cutibacterium avidum 44067	
+Bacteria	Permanent Draft	2541047477	Corynebacterium diphtheriae DSM 43988	
+Bacteria	Permanent Draft	2541047478	Corynebacterium diphtheriae Aberdeen	
+Bacteria	Permanent Draft	2545824790	Cutibacterium granulosum TM11	
+Bacteria	Permanent Draft	2548876921	Corynebacterium diphtheriae bv. mitis NC03529	
+Bacteria	Finished	2554235426	Corynebacterium argentoratense DSM 44202	
+Bacteria	Permanent Draft	2558860125	Propionibacteriaceae bacterium P6A17	
+Bacteria	Finished	2558860221	Corynebacterium vitaeruminis DSM 20294 Genome sequencing	
+Bacteria	Permanent Draft	2558860393	Propionimicrobium sp. BV2F7	
+Bacteria	Permanent Draft	2558860397	Propionibacterium sp. KPL1838	
+Bacteria	Permanent Draft	2558860398	Propionibacterium sp. KPL1844	
+Bacteria	Permanent Draft	2558860400	Propionibacterium sp. KPL1847	
+Bacteria	Permanent Draft	2558860401	Propionibacterium sp. KPL1849	
+Bacteria	Permanent Draft	2558860402	Propionibacterium sp. KPL1852	
+Bacteria	Permanent Draft	2558860403	Propionibacterium sp. KPL1854	
+Bacteria	Permanent Draft	2558860418	Propionibacterium sp. KPL2000	
+Bacteria	Permanent Draft	2558860419	Propionibacterium sp. KPL2003	
+Bacteria	Permanent Draft	2558860420	Propionibacterium sp. KPL2009	
+Bacteria	Permanent Draft	2558860422	Propionibacterium sp. KPL2005	
+Bacteria	Permanent Draft	2558860423	Propionibacterium sp. KPL2008	
+Bacteria	Permanent Draft	2561511135	Corynebacterium vitaeruminis Ga6A13	
+Bacteria	Finished	2561511167	Cutibacterium acnes HL096PA1	
+Bacteria	Permanent Draft	2563366735	Propionibacterium sp. MB3007	
+Bacteria	Permanent Draft	2563367147	Cutibacterium acnes HL042PA3	
+Bacteria	Permanent Draft	2563367224	Corynebacterium ulcerans NCTC 12077	
+Bacteria	Permanent Draft	2571042378	Cutibacterium acnes PA2	
+Bacteria	Permanent Draft	2571042832	Cutibacterium acnes P6	
+Bacteria	Permanent Draft	2576861738	Cutibacterium acnes JCM 18916	
+Bacteria	Permanent Draft	2582580622	Composite genome from Trout Bog Epilimnion pan-assembly TBepi.metabat.211	
+Bacteria	Permanent Draft	2582580625	Composite genome from Trout Bog Epilimnion pan-assembly TBepi.metabat.2493	
+Bacteria	Draft	2582580651	Composite genome from Trout Bog Hypolimnion pan-assembly TBhypo.metabat.111	
+Bacteria	Draft	2582580658	Composite genome from Trout Bog Hypolimnion pan-assembly TBhypo.metabat.2159	
+Bacteria	Draft	2582580659	Composite genome from Trout Bog Hypolimnion pan-assembly TBhypo.metabat.2160	
+Bacteria	Draft	2582580672	Composite genome from Trout Bog Hypolimnion pan-assembly TBhypo.metabat.3273	
+Bacteria	Draft	2582580689	Composite genome from Trout Bog Hypolimnion pan-assembly TBhypo.metabat.4645	
+Bacteria	Permanent Draft	2585427598	Tessaracoccus bendigoensis DSM 12906	
+Bacteria	Finished	2585427622	Cutibacterium acnes hdn-1	
+Bacteria	Finished	2588253761	Corynebacterium pseudotuberculosis Ft_2193/67	
+Bacteria	Finished	2588253762	Corynebacterium pseudotuberculosis CS_10	
+Bacteria	Finished	2588253763	Corynebacterium pseudotuberculosis 48252	
+Bacteria	Draft	2593339184	Composite genome from Trout Bog Hypolimnion pan-assembly TBhypo.metabat.3520.v2	
+Bacteria	Finished	2597490150	Corynebacterium sp. 6931	
+Bacteria	Permanent Draft	2602041680	Cutibacterium granulosum VPI 0507	
+Bacteria	Finished	2606217205	Corynebacterium kutscheri DSM 20755 Genome Sequencing	
+Bacteria	Permanent Draft	2609459802	Cutibacterium acnes HL201PA1	
+Bacteria	Permanent Draft	2609459851	Cutibacterium acnes HL202PA1	
+Bacteria	Finished	2615840652	Corynebacterium epidermidicanis DSM 45586 Genome Sequencing	
+Bacteria	Finished	2617270851	Corynebacterium amycolatum DSM 6922 Genome Sequencing	
+Bacteria	Permanent Draft	2617270936	Tessaracoccus oleiagri CGMCC 1.9159	
+Bacteria	Permanent Draft	2619619216	Cutibacterium acnes ATCC 6919	
+Bacteria	Permanent Draft	2619619217	Cutibacterium acnes HL411PA1	
+Bacteria	Permanent Draft	2619619253	Propionibacterium freudenreichii freudenreichii ITG P20	
+Bacteria	Draft	2623620399	Acidobacteria sp. genome_bin_1	
+Bacteria	Draft	2623620407	Plantomycetaceae sp. genome_bin_12	
+Bacteria	Finished	2623620526	Corynebacterium durum DSM 45333 Genome sequencing	
+Bacteria	Finished	2623620529	Corynebacterium aquilae S-613	
+Bacteria	Permanent Draft	2627853595	Propionicimonas paludicola DSM 15597	
+Bacteria	Permanent Draft	2627853633	Corynebacterium pseudotuberculosis CCUG 27541	
+Bacteria	Finished	2627853667	Propionibacterium freudenreichii freudenreichii DSM 20271	
+Bacteria	Finished	2627853834	Corynebacterium ulcerans 05146	
+Bacteria	Finished	2627853989	Corynebacterium ulcerans FRC11	
+Bacteria	Permanent Draft	2627854161	Corynebacterium argentoratense CNM 463/05	
+Bacteria	Finished	2627854250	Corynebacterium ulcerans 210932	
+Bacteria	Permanent Draft	2630968451	Corynebacterium kroppenstedtii ITA105	
+Bacteria	Permanent Draft	2630968481	Corynebacterium diphtheriae HC07	
+Bacteria	Permanent Draft	2630968795	Corynebacterium ulcerans LSPQ-04228	
+Bacteria	Finished	2634166441	Corynebacterium pseudotuberculosis VD57	
+Bacteria	Permanent Draft	2634166511	Corynebacterium kroppenstedtii ITA205	
+Bacteria	Permanent Draft	2636415402	Tessaracoccus massiliensis SIT6	
+Bacteria	Finished	2636415463	Corynebacterium pseudotuberculosis 29156	
+Bacteria	Permanent Draft	2636415533	Nigerium massiliense SIT7	
+Bacteria	Permanent Draft	2636415748	Corynebacterium diphtheriae bv. gravis ISS 4749	
+Bacteria	Finished	2636415853	Corynebacterium ulcerans 131002	
+Bacteria	Finished	2639762781	Corynebacterium pseudotuberculosis E19B9	
+Bacteria	Permanent Draft	2639762940	Corynebacterium diphtheriae bv. gravis ISS 4746	
+Bacteria	Permanent Draft	2639763023	Propionibacterium freudenreichii CIRM-BIA125	
+Bacteria	Permanent Draft	2639763133	Corynebacterium diphtheriae bv. gravis ISS 4060	
+Bacteria	Finished	2645727559	Corynebacterium ulcerans 131001	
+Bacteria	Finished	2645727678	Corynebacterium pseudotuberculosis 226	
+Bacteria	Finished	2645727750	Corynebacterium lactis RW2-5	
+Bacteria	Permanent Draft	2645727762	Propionibacterium freudenreichii CIRM-BIA1025	
+Bacteria	Finished	2645727783	Corynebacterium pseudotuberculosis 1002B	
+Bacteria	Finished	2645727818	Corynebacterium pseudotuberculosis 262	
+Bacteria	Finished	2645727838	Corynebacterium ulcerans 210931	
+Bacteria	Permanent Draft	2645727974	Cutibacterium acnes PMH5	
+Bacteria	Permanent Draft	2648501352	Corynebacterium ulcerans 04-7514	
+Bacteria	Permanent Draft	2648501368	Mobilicoccus massiliensis SIT2	
+Bacteria	Permanent Draft	2648501415	Corynebacterium ulcerans 04-3911	
+Bacteria	Permanent Draft	2648501440	Corynebacterium diphtheriae 17801	
+Bacteria	Permanent Draft	2648501448	Cutibacterium acnes PMH7	
+Bacteria	Permanent Draft	2648501452	Corynebacterium ulcerans LSPQ-04227	
+Bacteria	Permanent Draft	2648501457	Corynebacterium argentoratense CNM 601/08	
+Bacteria	Finished	2648501731	Corynebacterium pseudotuberculosis 12C	
+Bacteria	Permanent Draft	2651870304	Raineyella antarctica LZ-22	
+Bacteria	Permanent Draft	2654587695	Corynebacterium ulcerans 03-8664	
+Bacteria	Finished	2654587755	Cutibacterium acnes AE1	
+Bacteria	Permanent Draft	2654588184	Cutibacterium acnes NLAE-zl-G260	
+Bacteria	Finished	2657245502	Cutibacterium acnes PA_15_2_L1	
+Bacteria	Finished	2657245564	Corynebacterium pseudotuberculosis MB66	
+Bacteria	Permanent Draft	2657245654	Propionibacterium freudenreichii CIRM-BIA 527	
+Bacteria	Permanent Draft	2660237914	Propionibacterium freudenreichii CIRM-BIA 508	
+Bacteria	Finished	2660238308	Cutibacterium acnes PA_12_1_L1	
+Bacteria	Finished	2660238345	Corynebacterium diphtheriae NCTC11397	
+Bacteria	Finished	2660238400	Cutibacterium acnes PA_12_1_R1	
+Bacteria	Finished	2660238451	Corynebacterium pseudotuberculosis MB11	
+Bacteria	Permanent Draft	2663762759	Nocardioides psychrotolerans CGMCC 1.11156	
+Bacteria	Finished	2663763063	Cutibacterium acnes PA_21_1_L1	
+Bacteria	Finished	2667527512	Corynebacterium pseudotuberculosis MB30	
+Bacteria	Finished	2667527539	Cutibacterium acnes PA_30_2_L1	
+Bacteria	Finished	2667527572	Corynebacterium pseudotuberculosis MB14	
+Bacteria	Permanent Draft	2667527668	Propionibacterium freudenreichii CIRM-BIA 516	
+Bacteria	Permanent Draft	2671180088	Nocardioides szechwanensis CGMCC 1.11147	
+Bacteria	Permanent Draft	2671180235	Tessaracoccus flava RP1	
+Bacteria	Finished	2671180251	Corynebacterium pseudotuberculosis PO222/4-1	
+Bacteria	Finished	2671180803	Acidipropionibacterium acidipropionici ATCC 55737	
+Bacteria	Permanent Draft	2675903216	Propionibacterium cyclohexanicum DSM 16859	
+Bacteria	Finished	2675903328	Corynebacterium pseudotuberculosis PO269-5	
+Bacteria	Finished	2675903590	Corynebacterium pseudotuberculosis PA01	
+Bacteria	Permanent Draft	2681812969	Piscicoccus intestinalis NBRC 104926	
+Bacteria	Permanent Draft	2684622695	Propionibacterium freudenreichii CIRM-BIA 122	
+Bacteria	Finished	2684623084	Corynebacterium pseudotuberculosis N1	
+Bacteria	Finished	2684623196	Acidipropionibacterium acidipropionici CGMCC 1.2230	
+Bacteria	Finished	2687453142	Arsenicicoccus sp. F0371	
+Bacteria	Finished	2687453189	Cutibacterium acnes KCOM 1861	
+Bacteria	Finished	2687453247	Propionibacterium freudenreichii shermanii JS	
+Bacteria	Finished	2687453256	Cutibacterium acnes PA_15_1_R1	
+Bacteria	Finished	2687453257	Planctomyces sp. SH-PL62	
+Bacteria	Finished	2687453358	Corynebacterium pseudotuberculosis MEX25	
+Bacteria	Finished	2687453413	Corynebacterium pseudotuberculosis E56	
+Bacteria	Permanent Draft	2687453746	Austwickia chelonae DSM 44178	
+Bacteria	Permanent Draft	2690316020	Propionibacterium freudenreichii CIRM-BIA 513	
+Bacteria	Permanent Draft	2693429650	Propionibacterium freudenreichii CIRM-BIA 456	
+Bacteria	Permanent Draft	2695420604	Propionibacterium freudenreichii CIRM-BIA 514	
+Bacteria	Permanent Draft	2695420652	Propionibacterium freudenreichii CIRM-BIA 512	
+Bacteria	Permanent Draft	2710724142	Tessaracoccus sp. SUR-6	
+Bacteria	Permanent Draft	2711768765	Burkholderiales bacterium RIFOXYC12_FULL_60_6	
+Bacteria	Permanent Draft	2713896940	Propionibacterium freudenreichii CIRM-BIA 121	
+Bacteria	Finished	2718217732	Corynebacterium pseudotuberculosis T1	
+Bacteria	Finished	2718217733	Corynebacterium pseudotuberculosis PA02	
+Bacteria	Finished	2718217737	Corynebacterium pseudotuberculosis E55	
+Bacteria	Finished	2718217843	Corynebacterium diphtheriae sv. Mitis B-D-16-78	
+Bacteria	Finished	2718217849	Corynebacterium pseudotuberculosis 35	
+Bacteria	Finished	2718217883	Corynebacterium pseudotuberculosis MEX29	
+Bacteria	Finished	2718217930	Cutibacterium modestum 193 F0672	
+Bacteria	Finished	2718217980	Corynebacterium pseudotuberculosis I37	
+Bacteria	Finished	2718218061	Corynebacterium pseudotuberculosis 48	
+Bacteria	Finished	2718218062	Corynebacterium pseudotuberculosis MEX30	
+Bacteria	Finished	2718218074	Corynebacterium pseudotuberculosis 38	
+Bacteria	Finished	2718218183	Corynebacterium pseudotuberculosis 34	
+Bacteria	Finished	2718218188	Corynebacterium pseudotuberculosis MEX31	
+Bacteria	Finished	2718218444	Acidipropionibacterium acidipropionici F3E8	
+Bacteria	Finished	2718218465	Corynebacterium pseudotuberculosis MEX9	
+Bacteria	Finished	2718218466	Corynebacterium pseudotuberculosis Cp13	
+Bacteria	Finished	2718218467	Corynebacterium pseudotuberculosis 32	
+Bacteria	Finished	2718218477	Corynebacterium pseudotuberculosis 39	
+Bacteria	Finished	2718218479	Corynebacterium pseudotuberculosis 43	
+Bacteria	Finished	2721755690	Corynebacterium pseudotuberculosis 36	
+Bacteria	Finished	2721755729	Corynebacterium pseudotuberculosis 33	
+Bacteria	Permanent Draft	2724679288	Propionibacterium freudenreichii CIRM-BIA 118	
+Bacteria	Permanent Draft	2724679289	Propionibacterium freudenreichii ITG P18	
+Bacteria	Permanent Draft	2724679290	Propionibacterium freudenreichii ITG P23	
+Bacteria	Permanent Draft	2724679291	Propionibacterium freudenreichii CIRM-BIA 134	
+Bacteria	Permanent Draft	2724679292	Propionibacterium freudenreichii CIRM-BIA 135	
+Bacteria	Permanent Draft	2724679781	Propioniciclava tarda DSM 22130	
+Bacteria	Permanent Draft	2728368900	Propionibacterium freudenreichii CIRM-BIA 123	
+Bacteria	Permanent Draft	2728368901	Propionibacterium freudenreichii CIRM-BIA 119	
+Bacteria	Finished	2728369357	Corynebacterium pseudotuberculosis 46	
+Bacteria	Permanent Draft	2731957581	Granulicoccus phenolivorans NBRC 107789	
+Bacteria	Permanent Draft	2731957689	Arachnia propionica NBRC 14587	
+Bacteria	Permanent Draft	2737471659	Chlorobi bacterium JGI_MCM14TBH085 (contamination screened)	
+Bacteria	Permanent Draft	2739367544	Chlorobi bacterium JGI_MCM14TBH012 (contamination screened)	
+Bacteria	Permanent Draft	2739367637	Chlorobi bacterium JGI_MCM14TBH044 (contamination screened)	
+Bacteria	Finished	2739367875	Deinococcus ficus CC-FR2-10	
+Bacteria	Permanent Draft	2744054797	Cutibacterium avidum HL083PV1	
+Bacteria	Permanent Draft	2744054798	Cutibacterium avidum HL307PV1	
+Bacteria	Permanent Draft	2744054862	Cutibacterium namnetense NTS31307302	
+Bacteria	Permanent Draft	2751185416	Unclassified Acidobacteriaceae HKU-ACI2	
+Bacteria	Permanent Draft	2751185420	Unclassified Armatimonadetes HKU-ARM2	
+Bacteria	Permanent Draft	2751185570	Chlorobiales bacterium Clorobi_01	
+Bacteria	Permanent Draft	2751185590	Actinomycetales bacterium Actino_02	
+Bacteria	Permanent Draft	2751185603	Rhodospirillales bacterium Alpha_05	
+Bacteria	Finished	2751185664	Paludisphaera borealis PX4	
+Bacteria	Finished	2751185744	Tessaracoccus sp. T2.5-30	
+Bacteria	Permanent Draft	2751185773	Thauera phenolivorans ZV-1-C	
+Bacteria	Permanent Draft	2751185899	Rhodococcus sp. R04	
+Bacteria	Permanent Draft	2756170169	Corynebacterium pseudotuberculosis DSM 20689	
+Bacteria	Finished	2757320924	Vaginimicrobium propionicum Marseille-P3275	
+Bacteria	Finished	2773857907	Dermatophilus congolensis NCTC 13039	
+Bacteria	Permanent Draft	2773857945	Corynebacterium vitaeruminis 1285_CVIT	
+Bacteria	Permanent Draft	2773857949	Corynebacterium urealyticum 1055_CURE	
+Bacteria	Permanent Draft	2773857984	Corynebacterium amycolatum ICIS 53	
+Bacteria	Permanent Draft	2775506761	Myxococcales bacterium UBA1203	
+Bacteria	Permanent Draft	2775506772	Myxococcales bacterium UBA5297	
+Bacteria	Permanent Draft	2781126037	Luteococcus japonicus DSM 10546	
+Bacteria	Permanent Draft	2784132096	Corynebacterium diphtheriae bv. mitis ISS 3319	
+Bacteria	Permanent Draft	2788500111	Comamonadaceae bacterium CG2_30_59_20	
+Bacteria	Permanent Draft	2788500115	Comamonadaceae bacterium CG_4_10_14_3_um_filter_60_42	
+Bacteria	Permanent Draft	2788500118	Comamonadaceae bacterium CG_4_9_14_3_um_filter_60_33	
+Bacteria	Finished	2788500328	Micropruina glycogenica 1	
+Bacteria	Permanent Draft	2788500575	Propionibacterium sp. CG1_02_60_36	
+Bacteria	Permanent Draft	2788500598	Nocardioides sp. XL1	
+Bacteria	Permanent Draft	2791354959	Tessaracoccus lapidicaptus IPBSL-7	
+Bacteria	Permanent Draft	2799113227	Mycobacteroides abscessus abscessus 647	
+Bacteria	Permanent Draft	2808606645	Corynebacterium pyruviciproducens UMB0763	
+Bacteria	Permanent Draft	2808606759	Corynebacterium matruchotii NCTC 10254	
+Bacteria	Permanent Draft	2808606778	Dermatophilus congolensis NCTC 7915	
+Bacteria	Permanent Draft	2808606991	Alphaproteobacteria bacterium SB-MAG 27	
+Bacteria	Permanent Draft	2811994894	unclassified Myxococcales BinDm32	
+Bacteria	Permanent Draft	2811995057	Corynebacterium kroppenstedtii DNF00591	
+Bacteria	Permanent Draft	2811995216	Corynebacterium amycolatum UMB0042	
+Bacteria	Permanent Draft	2811995217	Corynebacterium amycolatum UMB0338	
+Bacteria	Permanent Draft	2811995225	Corynebacterium amycolatum NCTC 7243	
+Bacteria	Permanent Draft	2811995256	Corynebacterium kroppenstedtii UMB0869	
+Bacteria	Finished	2814123075	Cutibacterium granulosum NCTC 11865	
+Bacteria	Permanent Draft	2814123534	Propioniferax innocua DSM 8251	
+Bacteria	Finished	2816332264	Cutibacterium avidum DPC 6544	
+Bacteria	Finished	2816332297	Acidipropionibacterium acidipropionici WSH1105	
+Bacteria	Permanent Draft	2816332324	Cutibacterium avidum MJR7694	
+Bacteria	Permanent Draft	2820816657	Unclassified Actinobacteria Nt197P3bin38	
+Bacteria	Permanent Draft	2820820509	Unclassified Actinobacteria Nt197P3bin23	
+Bacteria	Permanent Draft	2820829137	Unclassified Actinobacteria Nc150P5bin2	
+Bacteria	Permanent Draft	2820834831	Unclassified Actinobacteria Lab288P4bin79	
+Bacteria	Permanent Draft	2820840446	Unclassified Actinobacteria Lab288P4bin17	
+Bacteria	Permanent Draft	2820901319	Unclassified Actinobacteria Emb289P4bin58	
+Bacteria	Permanent Draft	2820914081	Unclassified Actinobacteria Emb289P3bin87	
+Bacteria	Permanent Draft	2820944107	Unclassified Actinobacteria Cu122P5bin14	
+Bacteria	Permanent Draft	2820979626	Brooklawnia cerclae DSM 19609	
+Bacteria	Permanent Draft	2824432718	Rhodopirellula rubra CECT 8075	
+Bacteria	Finished	2833059440	Tessaracoccus timonensis Marseille-P5995	
+Bacteria	Permanent Draft	2834757897	Cutibacterium acnes 09-193	
+Bacteria	Permanent Draft	2834760380	Cutibacterium acnes P15-021	
+Bacteria	Permanent Draft	2834836693	Propionibacterium australiense NML98A072	
+Bacteria	Permanent Draft	2834841514	Propionibacterium sp. OF05-25	
+Bacteria	Finished	2834914592	Acidipropionibacterium virtanenii JS278	
+Bacteria	Permanent Draft	2835211878	Tessaracoccus sp. ZS01	
+Bacteria	Permanent Draft	2835223424	Tessaracoccus antarcticus JDX10	
+Bacteria	Finished	2836808371	Acidipropionibacterium acidipropionici WGS7	
+Bacteria	Finished	2836811818	Acidipropionibacterium jensenii FAM 19038	
+Bacteria	Finished	2836836789	Arachnia propionica F0230a	
+Bacteria	Permanent Draft	2837017481	Arachnia propionica FDAARGOS_578	
+Bacteria	Permanent Draft	2838110688	Roseospira goensis DSM 18985	
+Bacteria	Finished	2841055467	Acidipropionibacterium acidipropionici FAM 19036	
+Bacteria	Finished	2841058919	Acidipropionibacterium jensenii JS279	
+Bacteria	Finished	2841525362	Cutibacterium acnes FDAARGOS_503	
+Bacteria	Finished	2841529330	Cutibacterium acnes KCOM 1315	
+Bacteria	Finished	2841831313	Propionibacterium freudenreichii PFRJS8	
+Bacteria	Finished	2841833728	Propionibacterium freudenreichii PFRJS2	
+Bacteria	Permanent Draft	2841898008	Geobacter pelophilus Dfr2	
+Bacteria	Finished	2843625778	Acidipropionibacterium jensenii JS280	
+Bacteria	Finished	2843837395	Propionibacterium acidifaciens FDAARGOS_576	
+Bacteria	Finished	2843840127	Propionibacterium freudenreichii PFRJS18	
+Bacteria	Finished	2844399035	Corynebacterium pseudotuberculosis Cap1C	
+Bacteria	Finished	2844401253	Corynebacterium pseudotuberculosis Cap1R	
+Bacteria	Finished	2844519439	Cutibacterium acnes FDAARGOS_577	
+Bacteria	Permanent Draft	2844806747	Kineosphaera limosa DSM 14548	
+Bacteria	Finished	2847120807	Propionibacterium freudenreichii CB129slpB	
+Bacteria	Finished	2847123314	Propionibacterium freudenreichii PFRJS22	
+Bacteria	Finished	2847129792	Propionibacterium freudenreichii PFRJS12	
+Bacteria	Finished	2847208544	Propionibacterium freudenreichii ERS1366623	
+Bacteria	Finished	2847213633	Propionibacterium freudenreichii PFRJS12-1	
+Bacteria	Finished	2847216000	Propionibacterium freudenreichii ERS1366621	
+Bacteria	Finished	2848142473	Corynebacterium pseudotuberculosis 99MAT	
+Bacteria	Finished	2848144686	Corynebacterium pseudotuberculosis CAPMI05	
+Bacteria	Finished	2848146898	Corynebacterium pseudotuberculosis CAPMI03	
+Bacteria	Finished	2848149107	Corynebacterium ulcerans NCTC 8639	
+Bacteria	Finished	2848151376	Corynebacterium pseudotuberculosis phoP	
+Bacteria	Finished	2848156896	Corynebacterium pseudotuberculosis MB302	
+Bacteria	Finished	2848159128	Corynebacterium ulcerans NCTC 7910	
+Bacteria	Finished	2848915755	Propionibacterium freudenreichii PFRJS4	
+Bacteria	Finished	2848918223	Propionibacterium freudenreichii P.UF1	
+Bacteria	Finished	2848940657	Propionibacterium freudenreichii PFRJS11	
+Bacteria	Finished	2848942949	Propionibacterium freudenreichii ERS1361219	
+Bacteria	Finished	2850492634	Propionibacterium freudenreichii ERS1366604	
+Bacteria	Finished	2850497574	Propionibacterium freudenreichii ERS1364188	
+Bacteria	Finished	2850502144	Propionibacterium freudenreichii ERS1366622	
+Bacteria	Finished	2850506963	Propionibacterium freudenreichii ERS1366605	
+Bacteria	Finished	2850509456	Propionibacterium freudenreichii PFRJS25	
+Bacteria	Finished	2850511929	Propionibacterium freudenreichii ERS1364189	
+Bacteria	Finished	2850574254	Corynebacterium pseudotuberculosis OVI03	
+Bacteria	Finished	2851545357	Corynebacterium Ulcerans FRC58	
+Bacteria	Finished	2851553239	Corynebacterium pseudotuberculosis PA07	
+Bacteria	Finished	2851555451	Corynebacterium pseudotuberculosis Cap8W	
+Bacteria	Finished	2851559942	Corynebacterium pseudotuberculosis PA05	
+Bacteria	Finished	2851562408	Corynebacterium pseudotuberculosis OVI1FL	
+Bacteria	Finished	2852349861	Propionibacterium freudenreichii PFRJS14	
+Bacteria	Permanent Draft	2855103437	Propionibacterium australiense NML98A078	
+Bacteria	Permanent Draft	2855386786	Nocardioides ferulae EGI 63112	
+Bacteria	Permanent Draft	2855960665	Cutibacterium avidum T13	
+Bacteria	Permanent Draft	2855963010	Cutibacterium acnes NTS_2004_10708	
+Bacteria	Permanent Draft	2855965436	Cutibacterium acnes CA39	
+Bacteria	Permanent Draft	2855967862	Cutibacterium acnes T29350	
+Bacteria	Permanent Draft	2855970288	Cutibacterium acnes T14358	
+Bacteria	Permanent Draft	2855973848	Cutibacterium acnes T20574	
+Bacteria	Permanent Draft	2855976279	Cutibacterium namnetense T34998	
+Bacteria	Permanent Draft	2855980126	Cutibacterium acnes T29420	
+Bacteria	Permanent Draft	2855982558	Cutibacterium acnes P15-178	
+Bacteria	Permanent Draft	2855985027	Cutibacterium acnes CA17	
+Bacteria	Permanent Draft	2856490523	Corynebacterium durum DSM 45333	
+Bacteria	Permanent Draft	2858971191	Cutibacterium avidum CI855	
+Bacteria	Permanent Draft	2858973661	Cutibacterium acnes LRY_BL	
+Bacteria	Permanent Draft	2858976144	Cutibacterium avidum CI882	
+Bacteria	Permanent Draft	2858978575	Cutibacterium avidum CI878	
+Bacteria	Permanent Draft	2858981065	Cutibacterium acnes M13605	
+Bacteria	Permanent Draft	2858983548	Cutibacterium acnes T20758	
+Bacteria	Permanent Draft	2858985980	Cutibacterium acnes elongatum K124	
+Bacteria	Permanent Draft	2858988785	Cutibacterium acnes NTS_2003_1719	
+Bacteria	Permanent Draft	2858991265	Cutibacterium acnes T32516	
+Bacteria	Permanent Draft	2858993748	Cutibacterium acnes T35709	
+Bacteria	Finished	2859551338	Corynebacterium pseudotuberculosis CAPNAT1	
+Bacteria	Finished	2859556566	Corynebacterium pseudotuberculosis SigmaE	
+Bacteria	Finished	2859558775	Corynebacterium pseudotuberculosis MB295	
+Bacteria	Finished	2859567418	Corynebacterium choanae 200CH	
+Bacteria	Finished	2859572654	Corynebacterium pseudotuberculosis MEX1	
+Bacteria	Finished	2859574864	Corynebacterium pseudotuberculosis PA08/A19	
+Bacteria	Permanent Draft	2861753054	Enemella dayhoffiae NML 130396	
+Bacteria	Finished	2862033302	Corynebacterium ulcerans PO100/5	
+Bacteria	Permanent Draft	2862043880	Corynebacterium sp. 13CS0277	
+Bacteria	Finished	2862063619	Corynebacterium pseudopelargi 812CH	
+Bacteria	Permanent Draft	2862075925	Corynebacterium lactis S064	
+Bacteria	Permanent Draft	2862083008	Corynebacterium pacaense Marseille-P2417	
+Bacteria	Permanent Draft	2865304215	Corynebacterium silvaticum KL0182	
+Bacteria	Permanent Draft	2865730395	Propionibacterium sp. JV5 ERS1670027	
+Bacteria	Permanent Draft	2866179177	Brevilactibacter flavus VG341	
+Bacteria	Permanent Draft	2866944438	Propionibacterium australiense ERS1670026	
+Bacteria	Permanent Draft	2866950714	Acidipropionibacterium timonense Marseille-P4482	
+Bacteria	Permanent Draft	2866958356	[Pseudopropionibacterium] massiliense Marseille-P6184	
+Bacteria	Finished	2867036635	Propionibacterium australiense NCTC 13651	
+Bacteria	Permanent Draft	2867413033	Arachnia propionica OH2822_COT-296	
+Bacteria	Permanent Draft	2867417816	Tessaracoccus sp. OH4464_COT-324	
+Bacteria	Permanent Draft	2867425335	Arachnia propionica OH887_COT-365	
+Bacteria	Permanent Draft	2867481428	Propioniciclava sinopodophylli KCTC 33808	
+Bacteria	Permanent Draft	2867484473	Corynebacterium silvaticum KL0957	
+Bacteria	Permanent Draft	2867487146	Corynebacterium ulcerans KL1196	
+Bacteria	Permanent Draft	2869088689	Cutibacterium modestum T33958	
+Bacteria	Permanent Draft	2869091421	Cutibacterium acnes P15-159	
+Bacteria	Permanent Draft	2869093904	Cutibacterium acnes P15-207	
+Bacteria	Permanent Draft	2869096312	Cutibacterium acnes P15-165	
+Bacteria	Permanent Draft	2869098794	Cutibacterium acnes P16-206	
+Bacteria	Permanent Draft	2869101221	Cutibacterium avidum 523_PAVI	
+Bacteria	Permanent Draft	2869103718	Cutibacterium acnes P15-077	
+Bacteria	Permanent Draft	2869106127	Cutibacterium acnes T36318	
+Bacteria	Permanent Draft	2869108624	Cutibacterium acnes P15-186	
+Bacteria	Permanent Draft	2869111048	Cutibacterium acnes P15-231	
+Bacteria	Finished	2869738452	Corynebacterium gerontici W8	
+Bacteria	Finished	2869740637	Corynebacterium pelargi 136/3	
+Bacteria	Finished	2869742882	Corynebacterium ulcerans 0102 DRS000656	
+Bacteria	Finished	2869745315	Corynebacterium pseudotuberculosis MB154	
+Bacteria	Finished	2869747592	Corynebacterium pseudotuberculosis 04MAT	
+Bacteria	Finished	2869749802	Corynebacterium pseudotuberculosis PA04/A11	
+Bacteria	Finished	2869755204	Corynebacterium jeikeium FDAARGOS_574	
+Bacteria	Finished	2869757482	Corynebacterium pseudotuberculosis Cap5W	
+Bacteria	Finished	2869759688	Corynebacterium pseudotuberculosis 87MAT	
+Bacteria	Permanent Draft	2871359651	Cutibacterium acnes 09-322	
+Bacteria	Permanent Draft	2871362119	Cutibacterium acnes T35877	
+Bacteria	Permanent Draft	2871364421	Cutibacterium acnes P15-180	
+Bacteria	Permanent Draft	2871366901	Cutibacterium acnes T29362	
+Bacteria	Permanent Draft	2871369333	Cutibacterium acnes T14076	
+Bacteria	Permanent Draft	2871371811	Cutibacterium avidum CI828	
+Bacteria	Permanent Draft	2871374182	Cutibacterium acnes 09-258	
+Bacteria	Permanent Draft	2871376656	Cutibacterium acnes CA51	
+Bacteria	Permanent Draft	2871379085	Cutibacterium acnes 09-23	
+Bacteria	Permanent Draft	2871381511	Cutibacterium acnes T17001	
+Bacteria	Finished	2872045035	Corynebacterium pseudotuberculosis ATCC 19410	
+Bacteria	Finished	2872047240	Corynebacterium diphtheriae BQ11	
+Bacteria	Finished	2872053734	Corynebacterium pseudotuberculosis E7	
+Bacteria	Finished	2872055952	Corynebacterium pseudotuberculosis OVIAF1	
+Bacteria	Finished	2872058163	Corynebacterium pseudotuberculosis Cap4W	
+Bacteria	Finished	2872060370	Corynebacterium diphtheriae FDAARGOS_197	
+Bacteria	Finished	2872062798	Corynebacterium pseudotuberculosis MB20	
+Bacteria	Finished	2872065163	Corynebacterium pseudotuberculosis MIC6	
+Bacteria	Finished	2872067374	Corynebacterium pseudotuberculosis Cap1W	
+Bacteria	Finished	2872069584	Corynebacterium diphtheriae lausannense CHUV2995	
+Bacteria	Finished	2873558832	Brevilactibacter coleopterorum HDW11	
+Bacteria	Permanent Draft	2874032814	Cutibacterium acnes 09-29	
+Bacteria	Permanent Draft	2874035346	Cutibacterium avidum UCD-PD2	
+Bacteria	Permanent Draft	2874037911	Cutibacterium acnes NTS_31306190	
+Bacteria	Permanent Draft	2874040344	Cutibacterium acnes T35743	
+Bacteria	Permanent Draft	2874042820	Cutibacterium avidum CI853	
+Bacteria	Permanent Draft	2874045272	Cutibacterium acnes T17039	
+Bacteria	Permanent Draft	2874047755	Cutibacterium acnes P15-014	
+Bacteria	Permanent Draft	2874050233	Cutibacterium acnes P15-089	
+Bacteria	Permanent Draft	2874052745	Cutibacterium acnes T20816	
+Bacteria	Permanent Draft	2874055179	Cutibacterium acnes 09-9	
+Bacteria	Finished	2874814951	Corynebacterium jeikeium FDAARGOS_328	
+Bacteria	Finished	2874820625	Corynebacterium pseudotuberculosis KM01	
+Bacteria	Finished	2874822841	Corynebacterium pseudotuberculosis CAP3W	
+Bacteria	Finished	2874825049	Corynebacterium diphtheriae lausannense CMCNS703	
+Bacteria	Finished	2874828267	Corynebacterium ulcerans NCTC 7908	
+Bacteria	Finished	2874830548	Corynebacterium pseudotuberculosis OVI2C	
+Bacteria	Finished	2874832760	Corynebacterium pseudotuberculosis CAPJ4	
+Bacteria	Permanent Draft	2876292090	Cutibacterium acnes T14475	
+Bacteria	Permanent Draft	2876294580	Cutibacterium acnes UMB0211	
+Bacteria	Permanent Draft	2876297063	Cutibacterium acnes P15-206	
+Bacteria	Permanent Draft	2876299533	Cutibacterium acnes T20670	
+Bacteria	Permanent Draft	2876301957	Cutibacterium avidum T14	
+Bacteria	Permanent Draft	2876304364	Cutibacterium acnes P15-071	
+Bacteria	Permanent Draft	2876306851	Cutibacterium acnes T14441	
+Bacteria	Permanent Draft	2876309328	Cutibacterium acnes HB	
+Bacteria	Permanent Draft	2876311743	Cutibacterium acnes T20736	
+Bacteria	Permanent Draft	2876314173	Cutibacterium avidum P16-029	
+Bacteria	Finished	2877184255	Corynebacterium pseudotuberculosis 38MAT	
+Bacteria	Finished	2877186476	Corynebacterium pseudotuberculosis MB278	
+Bacteria	Finished	2877188707	Corynebacterium pseudotuberculosis PA06	
+Bacteria	Finished	2877193178	Corynebacterium pseudotuberculosis CR07	
+Bacteria	Permanent Draft	2878420039	Nocardioides sp. KS-T3	
+Bacteria	Permanent Draft	2878669964	Cutibacterium acnes T16975	
+Bacteria	Permanent Draft	2878672441	Cutibacterium acnes 119_PAVI	
+Bacteria	Permanent Draft	2878677284	Cutibacterium avidum T15	
+Bacteria	Permanent Draft	2880800201	WPS-2 bacterium DeMMO5_10	
+Bacteria	Permanent Draft	2882640820	Geomonas oryzae S43	
+Bacteria	Permanent Draft	2882762944	Chlorobaculum sp. 24CR	
+Bacteria	Finished	2883346072	Crateriforma conspicua Mal65	
+Bacteria	Finished	2883589832	Raineyella sp. CBA3103	
+Bacteria	Finished	2883648118	Gephyromycinifex aptenodytis NJES-13	
+Bacteria	Permanent Draft	2884464834	Rhodoferax sp. IMCC26218	
+Bacteria	Permanent Draft	2886538993	Tautonia sociabilis GM2012	
+Bacteria	Permanent Draft	2886822089	Tautonia rosea JC657	
+Bacteria	Permanent Draft	2887065130	Telmatospirillum siberiense 26-4b1	
+Bacteria	Permanent Draft	2887127144	Tautonia marina JC650	
+Bacteria	Permanent Draft	2887565955	Geomonas ferrireducens S62	
+Bacteria	Permanent Draft	2887588665	Geomonas edaphica Red53	
+Bacteria	Permanent Draft	2887658908	Geomonas terrae Red111	
+Bacteria	Finished	2887990687	Nocardioides sp. SB3-45	
+Bacteria	Finished	2888212034	Cutibacterium acnes NBRC 107605	
+Bacteria	Finished	2888667245	Corynebacterium diphtheriae FRC0190	
+Bacteria	Permanent Draft	2889415604	Paludisphaera sp. JC665	
+Bacteria	Permanent Draft	2889882248	Arsenicicoccus sp. MKL-02	
+Bacteria	Permanent Draft	2890934257	Tetrasphaera sp. F2B08	
+Bacteria	Permanent Draft	2894077897	Crateriforma spongiae JC647	
+Bacteria	Permanent Draft	2894636097	Thauera sp. 2A1	
+Bacteria	Permanent Draft	2895767234	Deinococcus sp. K2S05-167	
+Bacteria	Finished	2897428245	Tessaracoccus defluvii JCM 17540	
+Bacteria	Permanent Draft	2899983920	Nocardioides sp. GY 10127	
+Bacteria	Permanent Draft	2902680501	Cutibacterium porci WCA-380-WT-3A	
+Bacteria	Permanent Draft	2910849231	Tessaracoccus sp. MC1627	
+Bacteria	Permanent Draft	2910862512	Tessaracoccus sp. MC1756	
+Bacteria	Permanent Draft	2910878194	Tessaracoccus sp. MC1865	
+Bacteria	Permanent Draft	2910891455	Tessaracoccus sp. MC1679	
+Bacteria	Finished	2912292857	Corynebacterium hindlerae NML93-0612	
+Bacteria	Permanent Draft	2916404855	Corynebacterium diphtheriae bv. gravis DSM 44123	
+Bacteria	Permanent Draft	2917716410	Propionibacterium sp. Marseille-P5998	
+Bacteria	Permanent Draft	2917719114	Propionibacterium sp. NM47_B9-13	
+Bacteria	Permanent Draft	2919897874	Propioniciclava soli YIM S02567	
+Bacteria	Permanent Draft	2920107658	Aquisphaera sp. JC669	
+Bacteria	Permanent Draft	2920125314	Tautonia rosea cossartiae JC649	
+Bacteria	Permanent Draft	2920138197	Paludisphaera sp. JC670	
+Bacteria	Permanent Draft	2920153190	Tautonia rosea JC636	
+Bacteria	Permanent Draft	2920158810	Naumannella sp. ID2617S	
+Bacteria	Permanent Draft	2920200153	Propioniciclava sp. MC1683	
+Bacteria	Permanent Draft	2920213499	Propioniciclava sp. MC1595	
+Bacteria	Permanent Draft	2920312932	Geomonas silvestris Red330	
+Bacteria	Permanent Draft	2920328876	Geomonas paludis Red736	
+Bacteria	Permanent Draft	2920361562	Geomonas limicola Red745	
+Bacteria	Permanent Draft	2923453845	Corynebacterium felinum DSM 44508	
+Bacteria	Permanent Draft	2928325203	Deinococcus enclensis DSM 25127	
+Bacteria	Finished	2931430189	Tessaracoccus sp. J1M15	
+Bacteria	Finished	2931433137	Tessaracoccus flavescens SST-39 v2	
+Bacteria	Permanent Draft	2936165592	Novipirellula artificiosorum Poly41	
+Bacteria	Finished	2936345690	Tautonia plasticadhaerens ElP	
+Bacteria	Permanent Draft	2938674827	Corynebacterium belfantii bv. belfanti 631	
+Bacteria	Permanent Draft	2938677204	Corynebacterium diphtheriae rz356	
+Bacteria	Permanent Draft	2938681895	Corynebacterium diphtheriae bv. gravis 4728	
+Bacteria	Permanent Draft	2938686344	Corynebacterium ulcerans NCTC 8666	
+Bacteria	Permanent Draft	2938688769	Corynebacterium sp. 20A	
+Bacteria	Permanent Draft	2938691023	Corynebacterium diphtheriae WD105	
+Bacteria	Permanent Draft	2938693623	Corynebacterium diphtheriae TH2031	
+Bacteria	Permanent Draft	2938696265	Corynebacterium diphtheriae ST390-CPT-2015-46337	
+Bacteria	Permanent Draft	2938698525	Corynebacterium diphtheriae bv. mitis 847	
+Bacteria	Permanent Draft	2938701082	Corynebacterium diphtheriae c113	
+Bacteria	Permanent Draft	2961857765	Corynebacterium diphtheriae ST395-KZN-2015-45237	
+Bacteria	Permanent Draft	2961860100	Corynebacterium diphtheriae TH1141	
+Bacteria	Permanent Draft	2961862695	Corynebacterium pseudotuberculosis MB44	
+Bacteria	Permanent Draft	2961865205	Corynebacterium diphtheriae rz693	
+Bacteria	Permanent Draft	2961867708	Corynebacterium diphtheriae ST291-CPT-2015-46403	
+Bacteria	Permanent Draft	2961872590	Corynebacterium diphtheriae bv. gravis 4299	
+Bacteria	Permanent Draft	2961874872	Corynebacterium ulcerans 2590	
+Bacteria	Permanent Draft	2961877246	Corynebacterium diphtheriae ST378-KZN-2015-45788	
+Bacteria	Permanent Draft	2961879757	Corynebacterium diphtheriae ST378-KZN-2015-45785	
+Bacteria	Permanent Draft	2961882232	Corynebacterium diphtheriae bv. mitis 5171	
+Bacteria	Permanent Draft	2961884640	Corynebacterium diphtheriae bv. gravis 4915	
+Bacteria	Permanent Draft	2961886980	Corynebacterium diphtheriae ST395-SA-1980-6853	
+Bacteria	Permanent Draft	2961889302	Corynebacterium diphtheriae WD128	
+Bacteria	Permanent Draft	2961894366	Corynebacterium diphtheriae c325	
+Bacteria	Permanent Draft	2961896875	Corynebacterium diphtheriae bv. gravis 4601	
+Bacteria	Permanent Draft	2964026762	Crateriforma conspicua Pan14r	

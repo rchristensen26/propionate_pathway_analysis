@@ -1,0 +1,121 @@
+---
+title: "P3_hmmer_filter"
+output: html_document
+---
+
+# subset the df for only P3 genes
+```{r}
+maxHitScoreDF_P3 <- subset(maxHitScoreDF_P3, gene %in% c("fucO", "pduP", "pduC", "pduD", "pduE", "pduL", "pduW", "Roseburia-inulivorans-pduCDE"))
+# maxHitScoreDF_P3 <- rbind(maxHitScoreDF_P3, maxHitScoreDF_Roseburia_inulivorans_pduCDE)
+
+write.csv(maxHitScoreDF_P3, "maxHitScoreDF_P3.csv")
+```
+
+# determine lowest score for model P3 organisms
+```{r}
+library(dplyr)
+
+model_P3 <- c("Roseburia-inulinivorans-strain-AF28-15", 
+              "Salmonella-enterica-subsp-enterica-serovar-Typhimurium-str-LT2")
+
+for (thegene in unique(maxHitScoreDF_P3$gene)) {
+  print(slice(subset(maxHitScoreDF_P3, gene == thegene & strain %in% model_P3)), which.min(hit_score))
+}
+
+# scores for R. inulivorans are considerably lower than Salmonella. 
+```
+
+```{r}
+library(ggplot2)
+
+fucO_min_score <- 609.2 
+pduP_min_score <- 528.6
+pduC_min_score <- 1306.5
+pduD_min_score <- 492.9
+pduE_min_score <- 372.4
+pduL_min_score <- 200.9
+pduW_min_score <- 464.6
+pduCDE_min_score <- 816.2
+
+filter_factor = 0.5
+filter_factor2 = 0.75
+
+# score distributions
+ggplot(subset(maxHitScoreDF_P3, gene %in% c("fucO", "pduP", "pduW", "pduL")), aes(x = hit_score)) +
+  geom_histogram(binwidth = 10) +
+  facet_wrap(vars(gene)) +
+  
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "fucO"), aes(xintercept = fucO_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "fucO"), aes(xintercept = fucO_min_score *filter_factor2), color = "blue") +
+  
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "pduP"), aes(xintercept = pduP_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "pduP"), aes(xintercept = pduP_min_score *filter_factor2), color = "blue") +
+  
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "pduW"), aes(xintercept = pduW_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "pduW"), aes(xintercept = pduW_min_score *filter_factor2), color = "blue") +
+  
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "pduL"), aes(xintercept = pduL_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "pduL"), aes(xintercept = pduL_min_score *filter_factor2), color = "blue")
+
+# pduCDE complex
+ggplot(subset(maxHitScoreDF_P3, gene %in% c("pduC", "pduD", "pduE", "Roseburia-inulivorans-pduCDE")), aes(x = hit_score)) +
+  geom_histogram(binwidth = 10) +
+  facet_wrap(vars(gene), nrow = 2) +
+  
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "pduC"), aes(xintercept = pduC_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "pduC"), aes(xintercept = pduC_min_score *filter_factor2), color = "blue") +
+  
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "pduD"), aes(xintercept = pduD_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "pduD"), aes(xintercept = pduD_min_score *filter_factor2), color = "blue") +
+  
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "pduE"), aes(xintercept = pduE_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "pduE"), aes(xintercept = pduE_min_score *filter_factor2), color = "blue") +
+  
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "Roseburia-inulivorans-pduCDE"), aes(xintercept = pduCDE_min_score *filter_factor), color = "red") +
+  
+  geom_vline(data=filter(maxHitScoreDF_P3, gene == "Roseburia-inulivorans-pduCDE"), aes(xintercept = pduCDE_min_score *filter_factor2), color = "blue")
+
+```
+
+# next: apply score filter of 75% for all genes
+```{r}
+filter_factor = 0.75
+
+P3_score_filtered_df <- as.data.frame(maxHitScoreDF_P3) %>%
+  filter((gene == "fucO" & hit_score >= fucO_min_score * filter_factor) |
+         (gene == "pduP" & hit_score >= pduP_min_score * filter_factor) |
+         (gene == "pduW" & hit_score >= pduW_min_score * filter_factor) |
+         (gene == "pduL" & hit_score >= pduL_min_score * filter_factor) |
+         (gene == "pduC" & hit_score >= pduC_min_score * filter_factor) |
+           (gene == "pduD" & hit_score >= pduD_min_score * filter_factor) |
+           (gene == "pduE" & hit_score >= pduE_min_score * filter_factor) |
+           (gene == "Roseburia-inulivorans-pduCDE" & hit_score >= pduCDE_min_score * filter_factor))
+
+# reshape filtered_df from long to wide by pHMM (gene)
+
+P3_score_filtered_wide <- reshape(P3_score_filtered_df, timevar = "gene", direction = "wide", idvar = "strain")
+View(P3_score_filtered_wide)
+
+write.csv(P3_score_filtered_wide, "0.75scoreFilter_P3_HMMER_hits.csv")
+
+```
+
+# number of genes filter
+```{r}
+# requirements for genomes (based on R. inulivorans:
+# must have fucO, pduP, pduL, pduW. does not need pduCDE? Search R. inulinivorans for pduCDE homolog
+
+P3_score_ngenes_filtered_wide <- subset(P3_score_filtered_wide, 
+                                     !is.na(hit_score.pduW & 
+                                              hit_score.pduP &
+                                              hit_score.pduL &
+                                              hit_score.fucO &
+                                              `hit_score.Roseburia-inulivorans-pduCDE`))
+
+P3_score_ngenes_filtered_wide$pathway <- "propanediol pathway"
+View(P3_score_ngenes_filtered_wide)
+
+write.csv(P3_score_ngenes_filtered_wide, "0.75scoreFilter_nGenes_P3_HMMER_hits.csv")
+```
+
+

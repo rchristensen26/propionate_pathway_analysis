@@ -1,0 +1,2787 @@
+Domain	Status	Genome ID	Genome Name	
+Bacteria	Finished	640427130	Chlorobium phaeovibrioides DSM 265	
+Bacteria	Finished	641522655	Thermoanaerobacter pseudethanolicus 39E, ATCC 33223	
+Bacteria	Finished	641522656	Thermoanaerobacter sp. X514	
+Bacteria	Finished	642487181	Thermotoga sp. RQ2	
+Bacteria	Permanent Draft	642791610	Acetivibrio thermocellus JW20	
+Bacteria	Finished	643348527	Chloroflexus aggregans DSM 9485	
+Bacteria	Permanent Draft	642979359	Lachnoclostridium hylemonae DSM 15053	
+Bacteria	Finished	646311964	Thermotoga naphthophila RKU-10	
+Bacteria	Permanent Draft	645951866	Fusobacterium gonidiaformans 3-1-5R	
+Bacteria	Finished	650377936	Eubacterium rectale DSM 17629	
+Bacteria	Finished	650377958	Megamonas hypermegale ART12/1	
+Bacteria	Finished	650377969	Ruminococcus sp. 18P13	
+Bacteria	Permanent Draft	649990026	Treponema phagedenis F0421	
+Bacteria	Finished	650716094	Tepidanaerobacter sp. Re1	
+Bacteria	Finished	650377937	Eubacterium rectale M104/1	
+Bacteria	Finished	2510065086	Mesotoga prima MesG1AG4.2	
+Bacteria	Permanent Draft	645058833	Fusobacterium nucleatum animalis D11	
+Bacteria	Finished	2511231057	Candidatus Arthromitus sp. SFB-rat-Yit	
+Bacteria	Permanent Draft	2513237260	Lachnospiraceae bacterium bacterium oral taxon 082 F0431	
+Bacteria	Permanent Draft	2513237275	Hungatella hathewayi WAL-18680	
+Bacteria	Permanent Draft	2513237330	Fusobacterium necrophorum funduliforme 1_1_36S	
+Bacteria	Permanent Draft	2515154010	Streptococcus merionis DSM 19192	
+Bacteria	Permanent Draft	2501651209	Carnobacterium sp. AT7	
+Bacteria	Permanent Draft	2515154120	Leptotrichia wadei DSM 19758	
+Bacteria	Permanent Draft	2503538027	Thermoanaerobacter ethanolicus JW 200	
+Bacteria	Permanent Draft	2517572021	Thermotoga sp. Mc24	
+Bacteria	Permanent Draft	2517572083	Thermotoga sp. TBGT1766	
+Bacteria	Permanent Draft	2519899694	Brachyspira innocens ATCC 29796	
+Bacteria	Permanent Draft	2522125157	Salinimicrobium terrae DSM 17865	
+Bacteria	Permanent Draft	2523533606	Flavobacterium filum DSM 17961	
+Bacteria	Permanent Draft	2524614691	Butyrivibrio sp. VCD2006	
+Bacteria	Permanent Draft	2524614697	Butyrivibrio hungatei NK4A153	
+Bacteria	Permanent Draft	2524614716	Butyrivibrio sp. VCB2001	
+Bacteria	Permanent Draft	2524614717	Lachnobacterium bovis NK4B19	
+Bacteria	Permanent Draft	2524614766	Leptotrichia hofstadii DSM 21651	
+Bacteria	Permanent Draft	2524614797	Acetivibrio clariflavus 4-2a	
+Bacteria	Permanent Draft	2524614838	Lachnoclostridium indolis DSM 755	
+Bacteria	Permanent Draft	2524614855	Acidaminococcus intestini DSM 21505	
+Bacteria	Permanent Draft	2529292891	Veillonella atypica KON, ATCC 17744	
+Bacteria	Permanent Draft	2531839010	Lachnoclostridium bolteae 90B3	
+Bacteria	Permanent Draft	2531839014	Lachnoclostridium clostridioforme 90A1	
+Bacteria	Permanent Draft	2531839125	Thermosipho africanus H17ap60334	
+Bacteria	Permanent Draft	2531839273	Selenomonas sp. FOBRC9	
+Bacteria	Permanent Draft	2534682205	Lachnoclostridium clostridioforme CM201	
+Bacteria	Permanent Draft	2537562033	Candidatus Arthromitus sp. SFB-mouse-SU	
+Bacteria	Permanent Draft	2540341239	Caldicoprobacter oshimai DSM 21659	
+Bacteria	Permanent Draft	2541046969	Aminobacterium mobile DSM 12262	
+Bacteria	Permanent Draft	2541046975	Treponema medium ATCC 700293	
+Bacteria	Permanent Draft	2541047021	Propionibacterium sp. oral taxon 192 F0372	
+Bacteria	Permanent Draft	2545555826	Ruminococcus gnavus AGR2154	
+Bacteria	Permanent Draft	2546825535	Thermoanaerobacter thermocopriae ATCC 51646	
+Bacteria	Permanent Draft	2548876979	Ruminococcus sp. JC304	
+Bacteria	Permanent Draft	2548877031	Marinilabilia salmonicolor JCM 21150	
+Bacteria	Permanent Draft	2554235040	Fusobacterium nucleatum animalis ChDC F324	
+Bacteria	Finished	2554235311	Fusobacterium nucleatum animalis 4_8	
+Bacteria	Permanent Draft	2558309003	Alkaliphilus transvaalensis ATCC 700919	
+Bacteria	Permanent Draft	2558860140	Lachnospiraceae bacterium AB2028	
+Bacteria	Permanent Draft	2558860360	Mediterraneibacter lactaris CC59_002D	
+Bacteria	Permanent Draft	2558860924	Fusobacterium sp. CM21	
+Bacteria	Permanent Draft	2558860925	Fusobacterium sp. CM1	
+Bacteria	Permanent Draft	2558860926	Fusobacterium sp. CM22	
+Bacteria	Permanent Draft	2561511066	Lachnoclostridium phytofermentans KNHs212	
+Bacteria	Permanent Draft	2562617029	Lachnospiraceae bacterium P6A3	
+Bacteria	Permanent Draft	2563366722	Butyrivibrio sp. AE2005	
+Bacteria	Permanent Draft	2563367225	Butyrivibrio sp. AE3003	
+Bacteria	Permanent Draft	2565956769	Fusobacterium nucleatum CTI-7	
+Bacteria	Permanent Draft	2574179702	Propionigenium maris DSM 9537	
+Bacteria	Permanent Draft	2576861697	Fusobacterium necrophorum BL	
+Bacteria	Permanent Draft	2576861706	Fusobacterium necrophorum BFTR-2	
+Bacteria	Draft	2582580651	Composite genome from Trout Bog Hypolimnion pan-assembly TBhypo.metabat.111	
+Bacteria	Draft	2582580694	Composite genome from Trout Bog Hypolimnion pan-assembly TBhypo.metabat.5247	
+Bacteria	Permanent Draft	2585427813	Clostridiales bacterium VE202-14	
+Bacteria	Permanent Draft	2588253866	Fusobacterium necrophorum funduliforme B35	
+Bacteria	Permanent Draft	2588253902	Lachnospiraceae bacterium COE1	
+Bacteria	Permanent Draft	2593339147	Lachnoclostridium clostidiforme ATCC 25537	
+Bacteria	Permanent Draft	2593339149	Ruminococcus sp. YE71	
+Bacteria	Permanent Draft	2593339224	Butyrivibrio sp. INlla14	
+Bacteria	Permanent Draft	2596583654	Lachnoclostridium phytofermentans KNHs219	
+Bacteria	Permanent Draft	2599185173	Propionivibrio dicarboxylicus DSM 5885	
+Bacteria	Permanent Draft	2599185174	Clostridium paradoxum DSM 7308	
+Bacteria	Permanent Draft	2599185234	Acidaminobacter hydrogenoformans DSM 2784	
+Bacteria	Permanent Draft	2600254991	Leptotrichia wadei F0279	
+Bacteria	Permanent Draft	2600255103	Clostridiales Family XI. Incertae Sedis sp. S5-A11	
+Bacteria	Permanent Draft	2602041582	Peptoniphilus mikwangii ChDC B134	
+Bacteria	Permanent Draft	2606217762	Butyrivibrio sp. OB235	
+Bacteria	Permanent Draft	2617270839	Thermosipho melanesiensis 430	
+Bacteria	Permanent Draft	2617270840	Thermosipho sp. 1063	
+Bacteria	Finished	2617270855	Thermosipho affectus 1070	
+Bacteria	Permanent Draft	2617270894	Thermosipho melanesiensis 434	
+Bacteria	Permanent Draft	2617271308	Clostridium sp. NCR	
+Bacteria	Permanent Draft	2619619036	Fervidobacterium changbaicum DSM 17883	
+Bacteria	Permanent Draft	2619619282	Desulfobulbus sp. Tol-SR	
+Bacteria	Permanent Draft	2623620476	Lachnoclostridium citroniae NLAE-zl-G70	
+Bacteria	Finished	2627853919	Thermoanaerobacter kivui DSM 2030	
+Bacteria	Finished	2630968392	Treponema sp. OMZ 838	
+Bacteria	Permanent Draft	2634166349	Asaccharospora irregularis DSM 2635	
+Bacteria	Finished	2634166401	Fusobacterium nucleatum nucleatum ChDC F130	
+Bacteria	Permanent Draft	2636415582	Candidatus Dorea massiliensis AP6	
+Bacteria	Permanent Draft	2636416028	Pelosinus propionicus DSM 13327	
+Bacteria	Permanent Draft	2642422549	Halanaerobium congolense WG1	
+Bacteria	Finished	2648501675	Peptoniphilus sp. ING2-D1G	
+Bacteria	Permanent Draft	2651870364	Lachnospiraceae bacterium KHCPX20	
+Bacteria	Finished	2654588030	Clostridium carboxidivorans P7	
+Bacteria	Permanent Draft	2657244956	Paeniclostridium sordellii R32668	
+Bacteria	Permanent Draft	2657245020	Paeniclostridium sordellii UMC4401	
+Bacteria	Permanent Draft	2657245167	Thermotogales bacterium EBM-19	
+Bacteria	Permanent Draft	2657245451	Clostridiales bacterium SIT11	
+Bacteria	Permanent Draft	2660238717	Paeniclostridium sordellii E204	
+Bacteria	Permanent Draft	2671180116	Dethiosulfovibrio salsuginis USBA 82	
+Bacteria	Permanent Draft	2671180540	Ruminococcaceae bacterium GD1	
+Bacteria	Permanent Draft	2681813065	Fusobacterium nucleatum MJR7757B	
+Bacteria	Permanent Draft	2681813374	Brachyspira hyodysenteriae NSW5	
+Bacteria	Finished	2687453633	Selenomonas sp. F0592	
+Bacteria	Permanent Draft	2687453780	Lacrimispora sphenoides DSM 4024	
+Bacteria	Permanent Draft	2693429896	Lutibacter oricola DSM 24956	
+Bacteria	Permanent Draft	2695420552	Paeniclostridium sordellii UMC1	
+Bacteria	Permanent Draft	2695420803	Paeniclostridium sordellii W2922	
+Bacteria	Permanent Draft	2700989661	Marinilabilia salmonicolor MSL42	
+Bacteria	Permanent Draft	2711768559	Ignavibacteria bacterium RIFOXYA2_FULL_38_8	
+Bacteria	Finished	2718218088	Marinilactibacillus sp. 15R	
+Bacteria	Finished	2718218404	Blautia pseudococcoides YL58	
+Bacteria	Permanent Draft	2721755170	Bacteroidetes bacterium GWB2_41_8	
+Bacteria	Permanent Draft	2724678980	Formosa algae KMM 3553	
+Bacteria	Permanent Draft	2724679218	Fusobacterium necrophorum funduliforme LS_1272	
+Bacteria	Permanent Draft	2724679219	Fusobacterium necrophorum funduliforme LS_1280	
+Bacteria	Permanent Draft	2728369260	Marinifilum flexuosum DSM 21950	
+Bacteria	Permanent Draft	2728369668	Lachnoclostridium glycyrrhizinilyticum JCM 13369	
+Bacteria	Permanent Draft	2740892607	Halanaerobium saccharolyticum MSL 17.2	
+Bacteria	Permanent Draft	2744054529	Oceanivirga salmonicida AVG2115	
+Bacteria	Permanent Draft	2744054862	Cutibacterium namnetense NTS31307302	
+Bacteria	Permanent Draft	2751185620	Bacteroidales bacterium Bact_22	
+Bacteria	Permanent Draft	2751185685	Eisenbergiella tayi NML 150140-1	
+Bacteria	Finished	2751185755	Rhodovulum sp. MB263	
+Bacteria	Permanent Draft	2756170234	Aminivibrio pyruvatiphilus DSM 25964	
+Bacteria	Finished	2757320831	Acutalibacter muris KB18	
+Bacteria	Finished	2758568009	Blautia coccoides YL58	
+Bacteria	Permanent Draft	2770939459	Sunxiuqinia elliptica 114D_o	
+Bacteria	Finished	2775506819	Labilibaculum antarcticum SPP2	
+Bacteria	Finished	2775507287	Chloroflexus islandicus isl-2	
+Bacteria	Permanent Draft	2784746792	Keratinibaculum paraultunense DSM 26752	
+Bacteria	Permanent Draft	2786546536	Bacteroidetes bacterium CG18_big_fil_WC_8_21_14_2_50_41_14	
+Bacteria	Permanent Draft	2788500032	Planctomycetaceae bacterium SAT1610	
+Bacteria	Permanent Draft	2788500102	Lachnospiraceae bacterium oral taxon 096 F0428	
+Bacteria	Permanent Draft	2788500165	Confluentibacter flavum 3B	
+Bacteria	Permanent Draft	2788500232	Drancourtella sp. An210	
+Bacteria	Permanent Draft	2788500451	Faecalibacterium sp. An192	
+Bacteria	Permanent Draft	2788500604	Lachnoclostridium sp. An196	
+Bacteria	Permanent Draft	2799112325	Firmicutes bacterium RUG293	
+Bacteria	Permanent Draft	2799112332	Firmicutes bacterium RUG448	
+Bacteria	Permanent Draft	2799112356	Selenomonadales bacterium RUG024	
+Bacteria	Permanent Draft	2799112381	Clostridiales bacterium RUG009	
+Bacteria	Permanent Draft	2799112415	Clostridiales bacterium RUG670	
+Bacteria	Permanent Draft	2799112586	Clostridiales bacterium RUG154	
+Bacteria	Permanent Draft	2799112612	Clostridiales bacterium RUG646	
+Bacteria	Permanent Draft	2799112692	Prevotellaceae bacterium RUG450	
+Bacteria	Permanent Draft	2799112808	Lachnospiraceae bacterium hRUG875	
+Bacteria	Permanent Draft	2799112826	Lachnospiraceae bacterium RUG554	
+Bacteria	Permanent Draft	2799112830	Lachnospiraceae bacterium hRUG884	
+Bacteria	Permanent Draft	2802428856	Rhodovulum visakhapatnamense DSM 17937	
+Bacteria	Permanent Draft	2802429485	Alistipes onderdonkii An90	
+Bacteria	Permanent Draft	2802429566	Coprococcus comes 2789STDY5608832	
+Bacteria	Permanent Draft	2806310622	Cyclobacteriaceae bacterium SB-MAG 83	
+Bacteria	Permanent Draft	2806310891	Blautia obeum 2789STDY5608837	
+Bacteria	Permanent Draft	2806310959	Blautia torques 2789STDY5834889	
+Bacteria	Permanent Draft	2806311002	Dorea longicatena 2789STDY5608851	
+Bacteria	Permanent Draft	2808606711	Acidaminococcus timonensis Marseille-P2764	
+Bacteria	Permanent Draft	2811994981	unclassified Bacteroidales BinUASBmb31	
+Bacteria	Finished	2814123093	Fusobacterium periodonticum KCOM 2653	
+Bacteria	Finished	2814123122	Fusobacterium periodonticum KCOM 1261	
+Bacteria	Permanent Draft	2814123159	Ruminiclostridium siraeum 2789STDY5834928	
+Bacteria	Permanent Draft	2814123321	Pseudobutyrivibrio ruminis JK10	
+Bacteria	Permanent Draft	2814123330	Faecalibacterium prausnitzii 2789STDY5834970	
+Bacteria	Permanent Draft	2820770630	Unclassified Bacteroidetes Lab288P3bin130	
+Bacteria	Finished	2821860391	Pelosinus fermentans JBW45	
+Bacteria	Permanent Draft	2825454334	Acetivibrio thermocellus DSM 1313	
+Bacteria	Permanent Draft	2825604392	Acidaminococcus fermentans RUG045	
+Bacteria	Permanent Draft	2828258892	Roseimarinus sediminis DSM 28824	
+Bacteria	Permanent Draft	2829058785	Melioribacteraceae bacterium DeMMO3_6	
+Bacteria	Permanent Draft	2829188662	Ignavibacteriaceae bacterium DeMMO4_5	
+Bacteria	Permanent Draft	2829427842	Melioribacteraceae bacterium DeMMO6_28	
+Bacteria	Permanent Draft	2830045573	Butyricimonas faecihominis DSM 105721	
+Bacteria	Permanent Draft	2832567879	Marinifilum breve JC075	
+Bacteria	Permanent Draft	2833096052	Eubacterium rectale AM16-11	
+Bacteria	Permanent Draft	2833118277	Eubacterium rectale AM47-6BH	
+Bacteria	Permanent Draft	2833186175	Eubacterium rectale AF17-27	
+Bacteria	Permanent Draft	2833297080	Eubacterium rectale R22	
+Bacteria	Permanent Draft	2833300541	Clostridium bolteae WAL-14578	
+Bacteria	Permanent Draft	2833310003	Eubacterium rectale AF19-4	
+Bacteria	Permanent Draft	2833321960	Eubacterium rectale OM05-8AA	
+Bacteria	Permanent Draft	2833327744	Eubacterium rectale AM42-1	
+Bacteria	Permanent Draft	2833502300	Butyricimonas virosa AF34-33	
+Bacteria	Permanent Draft	2834136368	Sellimonas intestinalis AF37-1	
+Bacteria	Permanent Draft	2834281367	Blautia sp. AF22-5LB	
+Bacteria	Permanent Draft	2835000839	Megamonas funiformis TM04-24	
+Bacteria	Finished	2836699358	Phascolarctobacterium succinatutens YIT 12067 ERS2913222	
+Bacteria	Finished	2836766870	Erysipelothrix piscisicarius 15TAL0474	
+Bacteria	Finished	2836893620	Christensenella minuta DSM 22607	
+Bacteria	Permanent Draft	2839949375	Hungatella hathewayi OM02-1	
+Bacteria	Permanent Draft	2840393279	Roseburia sp. OM04-10AA	
+Bacteria	Permanent Draft	2840734889	Faecalibacterium prausnitzii APC923/61-1	
+Bacteria	Finished	2841224620	Mesotoga infera ERS1509220	
+Bacteria	Permanent Draft	2843512418	Eubacterium rectale AF24-9LB	
+Bacteria	Permanent Draft	2845730558	Hungatella hathewayi AM35-8	
+Bacteria	Permanent Draft	2845957151	Odoribacter splanchnicus AF36-2	
+Bacteria	Permanent Draft	2846149159	Roseburia sp. AM16-25	
+Bacteria	Permanent Draft	2846165226	Roseburia sp. AF12-17LB	
+Bacteria	Permanent Draft	2846168216	Roseburia inulinivorans AF24-4	
+Bacteria	Permanent Draft	2846341437	Faecalibacterium prausnitzii AF32-8AC	
+Bacteria	Permanent Draft	2846347783	Faecalibacterium prausnitzii ATCC 27768	
+Bacteria	Permanent Draft	2847175973	Veillonella parvula AF04-47	
+Bacteria	Permanent Draft	2847180999	Eubacterium ventriosum AM44-11BH	
+Bacteria	Permanent Draft	2847186250	Veillonella sp. AF13-2	
+Bacteria	Permanent Draft	2847188143	Veillonella sp. AF42-16	
+Bacteria	Finished	2847469173	Fusobacterium nucleatum polymorphum KCOM 1275	
+Bacteria	Permanent Draft	2850034589	Lachnospira eligens AM48-8	
+Bacteria	Permanent Draft	2850192806	Blautia sp. AF32-4BH	
+Bacteria	Permanent Draft	2854217497	Ruminococcus sp. AM45-2	
+Bacteria	Permanent Draft	2854381245	Blautia sp. AF19-13LB	
+Bacteria	Permanent Draft	2854409118	Blautia sp. OF11-22	
+Bacteria	Permanent Draft	2854413183	Blautia sp. AM29-29	
+Bacteria	Permanent Draft	2855382387	Lachnoclostridium algidixylanolyticum SPL73	
+Bacteria	Permanent Draft	2856184262	Fusobacterium periodonticum KCOM 1321	
+Bacteria	Permanent Draft	2856186541	Fusobacterium periodonticum KCOM 1259	
+Bacteria	Permanent Draft	2858542025	Lachnoclostridium asparagiforme AF04-15	
+Bacteria	Permanent Draft	2859123070	Fusobacterium necrophorum necrophorum NCTC 13726	
+Bacteria	Permanent Draft	2861187593	Anaerosolibacter carboniphilus DSM 103526	
+Bacteria	Permanent Draft	2861373631	Aureibacter tunicatorum DSM 26174	
+Bacteria	Permanent Draft	2861514905	Flammeovirga kamogawensis DSM 26273	
+Bacteria	Permanent Draft	2861593547	Negativicoccus succinicivorans DSM 21255	
+Bacteria	Permanent Draft	2868200575	Veillonella sp. VA142	
+Bacteria	Permanent Draft	2868207868	Veillonella ratti ATCC 17746	
+Bacteria	Permanent Draft	2868222558	Veillonella sp. 3627	
+Bacteria	Permanent Draft	2868584261	Ruminococcus sp. AF17-6	
+Bacteria	Permanent Draft	2868615214	Blautia obeum TF09-10AC	
+Bacteria	Permanent Draft	2870991139	Ruminococcus sp. AF43-11	
+Bacteria	Permanent Draft	2870993533	Ruminococcus sp. AM28-41	
+Bacteria	Permanent Draft	2871003000	Blautia gnavus AM27-32	
+Bacteria	Permanent Draft	2871032569	Blautia obeum AM41-5	
+Bacteria	Permanent Draft	2873733655	Ruminococcus sp. AF45-4BH	
+Bacteria	Permanent Draft	2873737359	Ruminococcus sp. AM36-5	
+Bacteria	Permanent Draft	2873740897	Blautia sp. AF26-2	
+Bacteria	Permanent Draft	2873744505	Blautia sp. AM46-3MH	
+Bacteria	Permanent Draft	2873762654	Blautia obeum AF37-6AC	
+Bacteria	Permanent Draft	2878497157	Ruminococcus bromii L2-36	
+Bacteria	Permanent Draft	2878514716	Blautia obeum AM37-4AC	
+Bacteria	Permanent Draft	2878524894	Blautia gnavus AM38-12	
+Bacteria	Permanent Draft	2881443361	Confluentibacter sediminis DSL-48	
+Bacteria	Permanent Draft	2882649382	Unclassified bacterium D16-59	
+Bacteria	Permanent Draft	2882660391	Unclassified bacterium D16-36	
+Bacteria	Permanent Draft	2882722635	Unclassified bacterium 1XD42-1	
+Bacteria	Permanent Draft	2882851124	Azospirillum sp. TSO35-2	
+Bacteria	Permanent Draft	2883561718	Fretibacterium sp. OH1220_COT-178	
+Bacteria	Finished	2883945316	Jeotgalibaca porci CCUG 69148	
+Bacteria	Permanent Draft	2884998210	Butyrivibrio sp. CB08	
+Bacteria	Permanent Draft	2887207454	Massilicoli timonensis Marseille-P3755	
+Bacteria	Permanent Draft	2889643950	Labilibaculum euxinus 44	
+Bacteria	Permanent Draft	2889825609	Lactonifactor sp. BIOML-A1	
+Bacteria	Permanent Draft	2891785506	Butyricimonas synergistica MGYG-HGUT-01552	
+Bacteria	Permanent Draft	2894299465	Odoribacter sp. Z80	
+Bacteria	Permanent Draft	2894477724	Trichococcus shcherbakoviae psychrophilus SKBG	
+Bacteria	Permanent Draft	2895725192	Faecalibacterium sp. Marseille-P9312	
+Bacteria	Permanent Draft	2896066257	Roseburia porci MUC	
+Bacteria	Permanent Draft	2899873225	Ruminococcus sp. AM23-1	
+Bacteria	Permanent Draft	2899885144	Ruminococcus sp. 1xD21-23	
+Bacteria	Permanent Draft	2899996001	Blautia sp. aa_0143	
+Bacteria	Permanent Draft	2902130329	Ruminococcus bromii AF15-36	
+Bacteria	Permanent Draft	2902143992	Ruminococcus sp. AM47-2BH	
+Bacteria	Permanent Draft	2902146782	Ruminococcus sp. AM45-9BH	
+Bacteria	Permanent Draft	2902167382	Ruminococcus sp. AF25-23LB	
+Bacteria	Permanent Draft	2905409758	Ruminococcus sp. AM07-21	
+Bacteria	Permanent Draft	2905425840	Ruminococcus sp. AM26-12LB	
+Bacteria	Permanent Draft	2908709520	Ruminococcus sp. AM28-13	
+Bacteria	Permanent Draft	2908712354	Ruminococcus sp. OF02-6	
+Bacteria	Permanent Draft	2909606714	Enterocloster clostridioformis MSK.2.78	
+Bacteria	Permanent Draft	2910139945	Lachnospiraceae bacterium NSJ-37	
+Bacteria	Permanent Draft	2910429990	Christensenella sp. NSJ-35	
+Bacteria	Permanent Draft	2910466802	Sellimonas intestinalis MSK.1.25	
+Bacteria	Permanent Draft	2910605758	Mediterraneibacter gnavus MSK.23.61	
+Bacteria	Permanent Draft	2910990897	Winogradskyella undariae Ha325	
+Bacteria	Permanent Draft	2911377974	Eubacterium rectale MSK.17.78	
+Bacteria	Permanent Draft	2911381200	Eubacterium rectale MSK.22.28	
+Bacteria	Permanent Draft	2911384857	Eubacterium rectale MSK.22.51	
+Bacteria	Permanent Draft	2911420635	Eubacterium rectale MSK.9.15	
+Bacteria	Permanent Draft	2911432606	Coprococcus comes MSK.20.24	
+Bacteria	Permanent Draft	2911439147	Coprococcus comes MSK.17.39	
+Bacteria	Permanent Draft	2914503489	Enterocloster clostridioformis MSK.2.63	
+Bacteria	Permanent Draft	2914555972	Lachnospiraceae bacterium BX3	
+Bacteria	Permanent Draft	2914608319	Ruthenibacterium lactatiformans BIOML-A12	
+Bacteria	Permanent Draft	2914650862	Ruthenibacterium lactatiformans BIOML-A6	
+Bacteria	Permanent Draft	2914698564	Ruthenibacterium lactatiformans BIOML-A13	
+Bacteria	Permanent Draft	2914738839	Phascolarctobacterium faecium BIOML-A3	
+Bacteria	Permanent Draft	2914744987	Phascolarctobacterium faecium BIOML-A18	
+Bacteria	Permanent Draft	2914956779	Mediterraneibacter gnavus MSK.22.24	
+Bacteria	Permanent Draft	2914976770	Mediterraneibacter gnavus MSK.23.92	
+Bacteria	Permanent Draft	2915334456	Faecalibacterium prausnitzii BIOML-B12	
+Bacteria	Permanent Draft	2915340832	Faecalibacterium prausnitzii BIOML-B17	
+Bacteria	Permanent Draft	2920288912	Fusicatenibacter saccharivorans MSK.14.54	
+Bacteria	Permanent Draft	2920348610	Fusicatenibacter saccharivorans MSK.22.62	
+Bacteria	Permanent Draft	2920449518	Phascolarctobacterium faecium BIOML-A9	
+Bacteria	Permanent Draft	2920471378	Odoribacter splanchnicus BIOML-A3	
+Bacteria	Permanent Draft	2920475518	Odoribacter splanchnicus BIOML-A6	
+Bacteria	Permanent Draft	2920576155	Paeniclostridium sordellii BIOML-A6	
+Bacteria	Permanent Draft	2920681655	Dorea longicatena BIOML-A4	
+Bacteria	Permanent Draft	2920687805	Dorea longicatena MSK.18.93	
+Bacteria	Permanent Draft	2920991229	Veillonella dispar BIOML-A2	
+Bacteria	Permanent Draft	2921168303	Blautia wexlerae MSK.22.83	
+Bacteria	Permanent Draft	2921192272	Blautia wexlerae MSK.14.2	
+Bacteria	Permanent Draft	2923825592	Dorea longicatena MSK.18.49	
+Bacteria	Permanent Draft	2923832007	Dorea longicatena MSK.20.75	
+Bacteria	Permanent Draft	2923834987	Dorea longicatena MSK.16.48	
+Bacteria	Permanent Draft	2923848246	Dorea longicatena MSK.16.81	
+Bacteria	Permanent Draft	2923854646	Dorea longicatena MSK.18.84	
+Bacteria	Permanent Draft	2924072824	Blautia wexlerae MSK.14.18	
+Bacteria	Permanent Draft	2924080000	Blautia massiliensis MSK.16.79	
+Bacteria	Permanent Draft	2924245173	Ruminococcus sp. NSJ-13	
+Bacteria	Permanent Draft	2924248446	Ruminococcus bromii BIOML-A2	
+Bacteria	Permanent Draft	2926467293	Streptococcus moroccensis DSM 105143	
+Bacteria	Permanent Draft	2928325203	Deinococcus enclensis DSM 25127	
+Bacteria	Permanent Draft	2929254661	Rhodovulum sulfidophilum NP	
+Bacteria	Permanent Draft	2929327430	Rhodoblastus acidophilus FL	
+Bacteria	Permanent Draft	2936932332	Blautia wexlerae MSK.22.27	
+Bacteria	Permanent Draft	2936936303	Blautia obeum MSK.14.21	
+Bacteria	Permanent Draft	2936955702	Blautia massiliensis BIOML-A2	
+Bacteria	Permanent Draft	2936963869	Blautia sp. NSJ-34	
+Bacteria	Permanent Draft	2936973599	Blautia wexlerae MSK.22.49	
+Bacteria	Permanent Draft	2940233634	Lachnoclostridium sp. PF5-10	
+Bacteria	Permanent Draft	2940264388	Lachnospiraceae bacterium PFB1-17	
+Bacteria	Permanent Draft	2940270707	Lachnoclostridium sp. PF1-13	
+Bacteria	Permanent Draft	2940292506	Lachnoclostridium sp. PH5-23	
+Bacteria	Permanent Draft	2940295490	Lachnospiraceae bacterium PH1-22	
+Bacteria	Permanent Draft	2944625312	Dysgonomonas sp. PF1-3	
+Bacteria	Permanent Draft	2960556378	Blautia faecis MSK.18.27	
+Bacteria	Permanent Draft	2957330300	Blautia sp. MSK.20.85 MSK.20.85	
+Bacteria	Permanent Draft	2960576154	Blautia wexlerae BIOML-A3	
+Bacteria	Finished	2964042299	Solibaculum mannosilyticum 12CBH8	
+Bacteria	Permanent Draft	2964543387	Blautia wexlerae MSK.22.59	
+Bacteria	Permanent Draft	2964563062	Blautia wexlerae BIOML-A12	
+Bacteria	Permanent Draft	2964597451	Blautia massiliensis MSK.19.60	
+Bacteria	Permanent Draft	2967647014	Blautia schinkii MSK.6.32	
+Bacteria	Finished	640753002	Alkaliphilus metalliredigens QYMF	
+Bacteria	Permanent Draft	640963024	Blautia obeum ATCC 29174	
+Bacteria	Permanent Draft	641380420	Faecalibacterium prausnitzii M21/2	
+Bacteria	Permanent Draft	641736205	Alistipes putredinis DSM 17216	
+Bacteria	Finished	642555146	Pelodictyon phaeoclathratiforme BU-1	
+Bacteria	Permanent Draft	642791604	Mediterraneibacter lactaris ATCC 29176	
+Bacteria	Permanent Draft	643886074	Veillonella dispar ATCC 17748	
+Bacteria	Permanent Draft	645058753	Hungateiclostridium thermocellum DSM 2360	
+Bacteria	Finished	646311965	Veillonella parvula Te3, DSM 2008	
+Bacteria	Permanent Draft	645951804	Fusobacterium gonidiaformans ATCC 25563	
+Bacteria	Permanent Draft	645951831	Faecalibacterium prausnitzii A2-165	
+Bacteria	Permanent Draft	648861011	Peptoniphilus sp. F0131	
+Bacteria	Finished	650377923	Lachnoclostridium cf. saccharolyticum K10	
+Bacteria	Permanent Draft	649989996	Selenomonas artemidis F0399	
+Bacteria	Permanent Draft	649989983	Phascolarctobacterium succinatutens YIT 12067	
+Bacteria	Permanent Draft	649989922	Lachnoclostridium symbiosum WAL-14163	
+Bacteria	Permanent Draft	651324021	Centipeda periodontii DSM 2778	
+Bacteria	Finished	650716020	Carnobacterium sp. 17-4	
+Bacteria	Permanent Draft	651324047	Lachnospiraceae bacterium 1_4_56FAA	
+Bacteria	Finished	649633080	Paludibacter propionicigenes WB4, DSM 17365	
+Bacteria	Permanent Draft	2502790015	Aminomonas paucivorans GLU-3, DSM 12260	
+Bacteria	Permanent Draft	2509887034	Acetivibrio alkalicellulosi Z-7026, DSM 17461	
+Bacteria	Finished	2511231106	Acidaminococcus intestini RyC-MR95	
+Bacteria	Permanent Draft	2513237311	Subdoligranulum sp. 4_3_54A2FAA	
+Bacteria	Permanent Draft	2511231046	Pelosinus sp. HCF1	
+Bacteria	Finished	2517093030	Melioribacter roseus P3M	
+Bacteria	Finished	2517572018	Thermotoga sp. 2812B	
+Bacteria	Permanent Draft	2519899684	Eubacterium siraeum DSM 15702	
+Bacteria	Permanent Draft	2524614692	Butyrivibrio sp. WCD3002	
+Bacteria	Permanent Draft	2524614694	Butyrivibrio sp. AC2005	
+Bacteria	Permanent Draft	2524614703	Lachnospiraceae bacterium NK4A144	
+Bacteria	Permanent Draft	2529292881	Lachnoanaerobaculum saburreum F0468	
+Bacteria	Permanent Draft	2531839191	Fusobacterium nucleatum polymorphum F0401	
+Bacteria	Permanent Draft	2531839339	Selenomonas sp. oral taxon 138 F0429	
+Bacteria	Permanent Draft	2534681890	Candidatus Arthromitus sp. SFB-1 (unscreened)	
+Bacteria	Permanent Draft	2534681904	Brachyspira hampsonii 30599	
+Bacteria	Permanent Draft	2534682104	Hungateiclostridium thermocellum YS	
+Bacteria	Permanent Draft	2534682207	Lachnoclostridium clostridioforme 90A8	
+Bacteria	Permanent Draft	2534682211	Hungatella hathewayi 12489931	
+Bacteria	Permanent Draft	2537561659	Lachnoclostridium bolteae 90A5	
+Bacteria	Permanent Draft	2537561948	Clostridiales sp. OBRC5-5	
+Bacteria	Permanent Draft	2537562180	Selenomonas noxia F0398	
+Bacteria	Permanent Draft	2541046997	Coprococcus sp. HPP0074	
+Bacteria	Permanent Draft	2541047002	Treponema vincentii F0403	
+Bacteria	Permanent Draft	2541047517	Paraclostridium bifermentans ATCC 19299	
+Bacteria	Permanent Draft	2547132194	Peptoniphilus obesi ph1	
+Bacteria	Permanent Draft	2547132519	Clostridium sp. 12(A)	
+Bacteria	Permanent Draft	2554235041	Fusobacterium nucleatum vincentii ChDC F8	
+Bacteria	Permanent Draft	2556921665	Butyrivibrio sp. MC2021	
+Bacteria	Finished	2558309118	Pseudothermotoga elfii NBRC 107921	
+Bacteria	Permanent Draft	2558860930	Veillonella sp. ICM51a	
+Bacteria	Permanent Draft	2558860944	Veillonella sp. AS16	
+Bacteria	Permanent Draft	2558860980	Pseudobutyrivibrio sp. MD2005	
+Bacteria	Permanent Draft	2561511079	Selenomonas sp. FC4001	
+Bacteria	Permanent Draft	2561511219	Lachnospiraceae bacterium AC2012	
+Bacteria	Permanent Draft	2561511230	Blautia schinkii DSM 10518	
+Bacteria	Permanent Draft	2562617004	Lachnospira multipara LB2003	
+Bacteria	Permanent Draft	2562617011	Butyrivibrio sp. AE3004	
+Bacteria	Permanent Draft	2562617014	Lachnospiraceae bacterium AC2014	
+Bacteria	Finished	2562617038	Peptoclostridium acidaminophilum al-2	
+Bacteria	Permanent Draft	2562617197	Pseudobutyrivibrio sp. LB2011	
+Bacteria	Permanent Draft	2563366504	Ruminococcus sp. NK3A76	
+Bacteria	Permanent Draft	2563366770	Fusobacterium nucleatum CTI-1	
+Bacteria	Permanent Draft	2565956824	Oribacterium sp. oral taxon 078 F0263	
+Bacteria	Permanent Draft	2565956861	Fusobacterium nucleatum ChDC F300	
+Bacteria	Finished	2576861037	Draconibacterium orientale FH5	
+Bacteria	Permanent Draft	2576861708	Fusobacterium necrophorum DAB	
+Bacteria	Finished	2585427655	Candidatus Arthromitus sp. SFB-mouse-NL	
+Bacteria	Permanent Draft	2585427664	Formosa agariphila KMM 3901	
+Bacteria	Permanent Draft	2585427809	Clostridiales bacterium VE202-07	
+Bacteria	Permanent Draft	2585427815	Clostridiales bacterium VE202-16	
+Bacteria	Permanent Draft	2585427817	Clostridiales bacterium VE202-21	
+Bacteria	Permanent Draft	2585427821	Clostridiales bacterium VE202-29	
+Bacteria	Permanent Draft	2585428065	Tepidibacter thalassicus DSM 15285	
+Bacteria	Permanent Draft	2585428069	Clostridium magnum DSM 2767	
+Bacteria	Permanent Draft	2585428091	Anaerovibrio lipolyticus DSM 3074	
+Bacteria	Permanent Draft	2585428175	Tepidibacter formicigenes DSM 15518	
+Bacteria	Permanent Draft	2590828825	Mesotoga infera VNs100	
+Bacteria	Permanent Draft	2593339137	Butyrivibrio sp. INlla16	
+Bacteria	Permanent Draft	2593339151	Ruminococcus sp. YE78	
+Bacteria	Permanent Draft	2593339164	Lachnospiraceae bacterium RM5	
+Bacteria	Draft	2593339184	Composite genome from Trout Bog Hypolimnion pan-assembly TBhypo.metabat.3520.v2	
+Bacteria	Permanent Draft	2593339216	Lachnospiraceae bacterium C10	
+Bacteria	Permanent Draft	2593339220	Lachnospiraceae bacterium G11	
+Bacteria	Permanent Draft	2593339244	Pseudobutyrivibrio sp. YE44	
+Bacteria	Permanent Draft	2595698208	Maribacter polysiphoniae DSM 23514	
+Bacteria	Permanent Draft	2595698222	Lachnoclostridium celerecrescens 18A	
+Bacteria	Permanent Draft	2596583525	Desulforhopalus singaporensis DSM 12130	
+Bacteria	Permanent Draft	2596583542	Lachnospiraceae bacterium YSD2013	
+Bacteria	Permanent Draft	2602041653	Lachnospiraceae bacterium VE202-12	
+Bacteria	Permanent Draft	2602041923	Lachnospiraceae bacterium VE202-23	
+Bacteria	Finished	2609459698	Clostridium aceticum, DSM 1496	
+Bacteria	Permanent Draft	2615840715	Tropicimonas isoalkanivorans DSM 19548	
+Bacteria	Permanent Draft	2617270846	Thermosipho sp. 1223	
+Bacteria	Permanent Draft	2619618836	Trichococcus flocculiformis DSM 2094	
+Bacteria	Permanent Draft	2619619272	Clostridium dakarense FF1	
+Bacteria	Finished	2622736406	Clostridiales sp. SM4/1	
+Bacteria	Permanent Draft	2622736598	Pseudoruegeria lutimaris DSM 25294	
+Bacteria	Permanent Draft	2623620519	Butyrivibrio proteoclasticus P18	
+Bacteria	Permanent Draft	2623620521	Lachnoclostridium lavalense NLAE-zl-G277	
+Bacteria	Permanent Draft	2627853571	Guam_bin1_Bacteroidetes	
+Bacteria	Finished	2627853791	Thermotoga sp. RQ7	
+Bacteria	Permanent Draft	2634166901	Pisciglobus halotolerans DSM 27630	
+Bacteria	Permanent Draft	2636415767	Lachnoclostridium citroniae WAL-19142	
+Bacteria	Permanent Draft	2642422541	Proteiniclasticum ruminis ML2	
+Bacteria	Permanent Draft	2642422592	Halanaerobium congolense WG5	
+Bacteria	Permanent Draft	2645728182	Hungateiclostridium thermocellum AD2 (version 2)	
+Bacteria	Permanent Draft	2648501379	Robinsoniella peoriensis WT	
+Bacteria	Draft	2648501602	Labilibaculum filiforme 59.16B	
+Bacteria	Permanent Draft	2648501603	Labilibaculum manganireducens 59.10-2M	
+Bacteria	Permanent Draft	2648501771	Flammeovirga pacifica WPAGA1	
+Bacteria	Permanent Draft	2648501785	Sellimonas intestinalis BR72	
+Bacteria	Finished	2651869710	Fusobacterium hwasookii ChDC F300 ChDC F300	
+Bacteria	Permanent Draft	2651870320	Faecalicatena contorta NLAE-zl-C134	
+Bacteria	Permanent Draft	2654588120	Butyrivibrio sp. M55	
+Bacteria	Permanent Draft	2654588177	Selenomonas ruminantium KH1T6	
+Bacteria	Permanent Draft	2657244996	Paeniclostridium sordellii JGS6961	
+Bacteria	Permanent Draft	2660238585	Paeniclostridium sordellii W2946	
+Bacteria	Permanent Draft	2660238650	Mesotoga infera PhosAc3	
+Bacteria	Permanent Draft	2663762967	Paeniclostridium sordellii SSCC18392	
+Bacteria	Permanent Draft	2663763491	Paeniclostridium sordellii W2948	
+Bacteria	Permanent Draft	2675903137	Proteiniclasticum ruminis CGMCC 1.5058	
+Bacteria	Permanent Draft	2675903367	Brachyspira hyodysenteriae Q17	
+Bacteria	Permanent Draft	2675903428	Veillonella atypica CMW7756B	
+Bacteria	Permanent Draft	2675903617	Gabonibacter massiliensis GM7	
+Bacteria	Permanent Draft	2681813238	Blautia massiliensis GD8	
+Bacteria	Finished	2684623119	Leptotrichia sp. oral taxon 847 F0260	
+Bacteria	Finished	2684623233	Leptotrichia sp. W10393	
+Bacteria	Finished	2687453455	Thermotoga maritima Tma100	
+Bacteria	Finished	2687453641	Selenomonas sp. F0591	
+Bacteria	Permanent Draft	2693429574	Paeniclostridium sordellii R26833	
+Bacteria	Permanent Draft	2693429893	Thermophagus xiamenensis DSM 19012	
+Bacteria	Permanent Draft	2693429902	Draconibacterium orientale DSM 25947	
+Bacteria	Permanent Draft	2695420929	Sediminitomix flava DSM 28229	
+Bacteria	Permanent Draft	2700988694	Tangfeifania diversioriginum DSM 27063	
+Bacteria	Permanent Draft	2703719125	unclassified Selenomonadales bin 1	
+Bacteria	Permanent Draft	2703719136	Butyrivibrio sp. bin 25	
+Bacteria	Permanent Draft	2703719150	Ruminococcus sp. bin 12	
+Bacteria	Permanent Draft	2706794923	Anoxynatronum buryatiense Su22	
+Bacteria	Permanent Draft	2708742618	Ignavibacteria bacterium GWC2_38_9	
+Bacteria	Permanent Draft	2708742681	Bacteroidetes bacterium GWF2_49_14	
+Bacteria	Permanent Draft	2711768149	Brachyspira hyodysenteriae NSW15	
+Bacteria	Permanent Draft	2711768336	Flavobacteria bacterium RIFCSPLOWO2_12_FULL_35_11	
+Bacteria	Finished	2718218444	Acidipropionibacterium acidipropionici F3E8	
+Bacteria	Permanent Draft	2721755155	Bacteroidetes bacterium GWB2_32_14	
+Bacteria	Permanent Draft	2721755223	Bacteroidetes bacterium GWD2_33_33	
+Bacteria	Permanent Draft	2721755252	Melioribacter sp. GWF2_38_21	
+Bacteria	Permanent Draft	2724679790	Gracilimonas mengyeensis DSM 21985	
+Bacteria	Permanent Draft	2728369666	Thermoclostridium stercorarium thermolacticum JCM 9324	
+Bacteria	Permanent Draft	2739367553	Bacteroides xylanolyticus DSM 3808	
+Bacteria	Permanent Draft	2740892240	Paeniclostridium sordellii R32921	
+Bacteria	Permanent Draft	2740892380	Blautia producta ER3	
+Bacteria	Permanent Draft	2740892608	Halanaerobium saccharolyticum MSL 19.2	
+Bacteria	Permanent Draft	2744054502	Ruminococcaceae bacterium 668	
+Bacteria	Permanent Draft	2751185587	Thermotogales bacterium Thermo_01	
+Bacteria	Finished	2757320858	Herbinix luporum SD1D	
+Bacteria	Finished	2758568011	Polaribacter sp. SA4-12	
+Bacteria	Permanent Draft	2770939462	Halanaerobium saccharolyticum MA284_T2	
+Bacteria	Permanent Draft	2770939568	Herbinix hemicellulosilytica DSM 29228	
+Bacteria	Finished	2772190775	Clostridium argentinense 89G	
+Bacteria	Finished	2773857866	Blautia hansenii DSM 20583	
+Bacteria	Permanent Draft	2775506815	Clostridiales bacterium mt11	
+Bacteria	Permanent Draft	2788500145	Massilioclostridium coli Marseille-P2976	
+Bacteria	Permanent Draft	2788500167	Confluentibacter citreus XJNY	
+Bacteria	Permanent Draft	2788500229	Drancourtella sp. An12	
+Bacteria	Permanent Draft	2788500516	Blautia sp. An46	
+Bacteria	Permanent Draft	2795385446	Marinisporobacter balticus DSM 102940	
+Bacteria	Permanent Draft	2795386145	Serpentinicella alkaliphila DSM 100013	
+Bacteria	Permanent Draft	2799112357	Selenomonadales bacterium RUG019	
+Bacteria	Permanent Draft	2799112362	Selenomonadales bacterium RUG556	
+Bacteria	Permanent Draft	2799112424	Clostridiales bacterium RUG799	
+Bacteria	Permanent Draft	2799112498	Clostridiales bacterium RUG402	
+Bacteria	Permanent Draft	2799112501	Clostridiales bacterium RUG158	
+Bacteria	Permanent Draft	2799112545	Clostridiales bacterium RUG611	
+Bacteria	Permanent Draft	2799112559	Clostridiales bacterium RUG147	
+Bacteria	Permanent Draft	2799112567	Clostridiales bacterium RUG764	
+Bacteria	Permanent Draft	2799112580	Clostridiales bacterium RUG460	
+Bacteria	Permanent Draft	2799112584	Clostridiales bacterium RUG458	
+Bacteria	Permanent Draft	2799112602	Clostridiales bacterium RUG735	
+Bacteria	Permanent Draft	2799112631	Veillonellaceae bacterium RUG371	
+Bacteria	Permanent Draft	2799112635	Veillonellaceae bacterium RUG043	
+Bacteria	Permanent Draft	2799112798	Lachnospiraceae bacterium RUG115	
+Bacteria	Permanent Draft	2799112800	Lachnospiraceae bacterium RUG297	
+Bacteria	Permanent Draft	2799112811	Lachnospiraceae bacterium RUG035	
+Bacteria	Permanent Draft	2799112812	Lachnospiraceae bacterium RUG308	
+Bacteria	Permanent Draft	2799112855	Lachnospiraceae bacterium RUG557	
+Bacteria	Permanent Draft	2799112861	Lachnospiraceae bacterium RUG596	
+Bacteria	Permanent Draft	2802428826	Cuneatibacter caecimuris DSM 29486	
+Bacteria	Permanent Draft	2802429519	Blautia hydrogenotrophica 2789STDY5608857	
+Bacteria	Permanent Draft	2802429541	Lachnospira pectinoschiza 2789STDY5834886	
+Bacteria	Permanent Draft	2806310623	Mesotoga sp. BinDG074mmb41	
+Bacteria	Permanent Draft	2806310704	Leptotrichia wadei KA00185	
+Bacteria	Permanent Draft	2806310926	Odoribacter splanchnicus An39	
+Bacteria	Permanent Draft	2806310962	Blautia obeum 2789STDY5834921	
+Bacteria	Permanent Draft	2806310979	Dorea longicatena 2789STDY5608866	
+Bacteria	Permanent Draft	2811995116	Blautia gnavus ATCC 29149	
+Bacteria	Finished	2811995344	Butyrivibrio hungatei MB2003	
+Bacteria	Finished	2814123088	Fusobacterium periodonticum KCOM 1262	
+Bacteria	Permanent Draft	2820746860	Unclassified Bacteroidetes Th196P3bin126	
+Bacteria	Permanent Draft	2820789850	Unclassified Bacteroidetes Cu122P3bin3	
+Bacteria	Permanent Draft	2832249651	Tissierella sp. P1	
+Bacteria	Permanent Draft	2832374818	Romboutsia weinsteinii CCRI-19649	
+Bacteria	Permanent Draft	2832534016	Eubacterium rectale OM07-13	
+Bacteria	Permanent Draft	2832721004	Cellulosilyticum sp. I15G10I2	
+Bacteria	Permanent Draft	2833105606	Anaerosacchariphilus polymeriproducens MCWD5	
+Bacteria	Permanent Draft	2833214634	Eubacterium rectale TF11-15AC	
+Bacteria	Permanent Draft	2833250148	Eubacterium rectale AM36-3AA	
+Bacteria	Permanent Draft	2833331163	Robinsoniella peoriensis 6600698	
+Bacteria	Permanent Draft	2833366239	Eubacterium rectale AM42-17AT	
+Bacteria	Permanent Draft	2833564832	Butyricimonas virosa OF02-7	
+Bacteria	Permanent Draft	2834287372	Paeniclostridium sordellii DA108	
+Bacteria	Permanent Draft	2834309025	Ruminococcus sp. Marseille-P328	
+Bacteria	Permanent Draft	2834501765	Alistipes sp. CHKCI003	
+Bacteria	Finished	2836808371	Acidipropionibacterium acidipropionici WGS7	
+Bacteria	Finished	2836814569	Butyricimonas sp. H184	
+Bacteria	Finished	2836980892	Ruthenibacterium lactatiformans ERS2913221	
+Bacteria	Finished	2837161884	Tissierella sp. JN28	
+Bacteria	Permanent Draft	2837375451	Megamonas funiformis AF12-42	
+Bacteria	Permanent Draft	2837492514	Faecalibacterium prausnitzii AM37-13AC	
+Bacteria	Permanent Draft	2838785244	Veillonella criceti NCTC 12020	
+Bacteria	Permanent Draft	2839103211	Tyzzerella nexilis OF02-4LB	
+Bacteria	Permanent Draft	2839391462	Eisenbergiella massiliensis AT11	
+Bacteria	Permanent Draft	2839429755	Hungatella hathewayi AF19-13AC	
+Bacteria	Permanent Draft	2839503536	Acidaminococcus sp. AM33-14BH	
+Bacteria	Permanent Draft	2839507965	Aureibaculum luteum SM1352	
+Bacteria	Permanent Draft	2839633823	Odoribacter splanchnicus OF03-11	
+Bacteria	Permanent Draft	2839942397	Hungatella hathewayi TF09-11AC	
+Bacteria	Permanent Draft	2840522415	Subdoligranulum sp. AM23-21AC	
+Bacteria	Finished	2841050915	Azoarcus communis TSNA42	
+Bacteria	Permanent Draft	2841314775	Veillonella atypica AF36-15BH	
+Bacteria	Finished	2841649680	Fusobacterium ulcerans ATCC 49185	
+Bacteria	Permanent Draft	2843551353	Veillonella atypica KHUD_V1	
+Bacteria	Permanent Draft	2845952748	Odoribacter sp. AM16-33	
+Bacteria	Permanent Draft	2846151676	Roseburia sp. AF20-18LB	
+Bacteria	Permanent Draft	2846329427	Coprococcus comes TM07-19	
+Bacteria	Permanent Draft	2846356691	Faecalibacterium prausnitzii APC942/18-1	
+Bacteria	Permanent Draft	2847183366	Lachnospira eligens AF06-14	
+Bacteria	Permanent Draft	2848739985	Roseburia sp. AF42-8	
+Bacteria	Permanent Draft	2849539979	Ruminococcus sp. AM34-10LB	
+Bacteria	Permanent Draft	2849741437	Roseburia inulinivorans AM42-1AC	
+Bacteria	Permanent Draft	2849749154	Roseburia sp. AM51-8	
+Bacteria	Permanent Draft	2849751984	Roseburia sp. TF10-5	
+Bacteria	Permanent Draft	2854025322	Roseburia intestinalis AF36-10AT	
+Bacteria	Permanent Draft	2854065680	Dorea sp. AM58-8	
+Bacteria	Permanent Draft	2854533769	Eubacterium ventriosum AM32-23AC	
+Bacteria	Permanent Draft	2854558644	Lachnospira eligens AM43-40	
+Bacteria	Permanent Draft	2854579448	Eubacterium ventriosum AM23-22	
+Bacteria	Permanent Draft	2854592043	Eubacterium ventriosum AF37-4	
+Bacteria	Permanent Draft	2855282144	Lachnoclostridium symbiosum OF01-1AC	
+Bacteria	Permanent Draft	2855336630	Lachnoclostridium symbiosum AM39-1BH	
+Bacteria	Permanent Draft	2856181169	Fusobacterium nucleatum polymorphum ChDC F37	
+Bacteria	Permanent Draft	2858042195	Blautia gnavus AF24-23LB	
+Bacteria	Permanent Draft	2858553787	Lachnoclostridium clostridioforme NCTC 11224	
+Bacteria	Permanent Draft	2861203348	Desulfoprunum benzoelyticum DSM 28570	
+Bacteria	Permanent Draft	2868553257	Ruminococcus bromii TM10-21	
+Bacteria	Permanent Draft	2868555427	Ruminococcus sp. AF26-25AA	
+Bacteria	Permanent Draft	2873729518	Ruminococcus sp. TM09-4	
+Bacteria	Permanent Draft	2873755103	Blautia sp. AM16-16B	
+Bacteria	Permanent Draft	2876040657	Ruminococcus sp. AF17-6LB	
+Bacteria	Permanent Draft	2876047625	Ruminococcus sp. AF21-3	
+Bacteria	Permanent Draft	2876126572	Blautia gnavus AM21-41	
+Bacteria	Permanent Draft	2876130467	Blautia gnavus AM21-18	
+Bacteria	Permanent Draft	2878489252	Ruminococcus sp. TM10-9AT	
+Bacteria	Permanent Draft	2878499410	Blautia torques AM22-16	
+Bacteria	Permanent Draft	2878502230	Blautia sp. AF13-16	
+Bacteria	Permanent Draft	2878511217	Blautia obeum AM32-10AC	
+Bacteria	Permanent Draft	2878518046	Blautia obeum AM39-5AC	
+Bacteria	Permanent Draft	2882604495	Mariniphaga sediminis SY21	
+Bacteria	Permanent Draft	2882645202	Unclassified bacterium 1XD21-70	
+Bacteria	Permanent Draft	2882654883	Unclassified bacterium D16-51	
+Bacteria	Permanent Draft	2882665139	Unclassified bacterium 1xD8-6	
+Bacteria	Permanent Draft	2882682849	Unclassified bacterium 0.1xD8-82	
+Bacteria	Permanent Draft	2882703174	Unclassified bacterium C-53	
+Bacteria	Permanent Draft	2883615594	Soehngenia longivitae 1933P	
+Bacteria	Permanent Draft	2884859028	Roseburia sp. 499	
+Bacteria	Permanent Draft	2887278357	Isachenkonia alkalipeptolytica Z-1701	
+Bacteria	Permanent Draft	2889820897	Lactonifactor sp. BIOML-A5	
+Bacteria	Permanent Draft	2890253224	Soehngenia saccharolytica BOR-Y	
+Bacteria	Permanent Draft	2890513493	Mangrovimonas sp. DI 80	
+Bacteria	Permanent Draft	2890606474	Anaerocolumna aminovalerica src1	
+Bacteria	Permanent Draft	2890901082	Flammeovirga agarivorans SR4	
+Bacteria	Permanent Draft	2892985999	Flammeovirga aprica ATCC 23126	
+Bacteria	Permanent Draft	2894286821	Thermosipho globiformans MN14	
+Bacteria	Permanent Draft	2895755343	Faecalibacterium sp. BIOML-A4	
+Bacteria	Permanent Draft	2895758547	Faecalibacterium sp. BIOML-A1	
+Bacteria	Permanent Draft	2897633065	Maribacter luteus RZ05	
+Bacteria	Permanent Draft	2898641616	Eubacterium sp. BIOML-A2	
+Bacteria	Permanent Draft	2899449502	Lachnoclostridium sp. Marseille-P6806	
+Bacteria	Permanent Draft	2899876472	Ruminococcus sp. AF17-12	
+Bacteria	Permanent Draft	2899900031	Ruminococcus sp. AM31-32	
+Bacteria	Permanent Draft	2900017489	Blautia luti Blautia_luti_SSTS_Bg7063	
+Bacteria	Permanent Draft	2901179768	Blautia faecis DSM 27629	
+Bacteria	Permanent Draft	2902158813	Ruminococcus sp. AF21-42	
+Bacteria	Permanent Draft	2909458730	Lachnospiraceae bacterium NSJ-46	
+Bacteria	Permanent Draft	2909551942	Lachnospiraceae bacterium H15	
+Bacteria	Permanent Draft	2909763028	Enterocloster aldenensis MSK.1.17	
+Bacteria	Finished	2910074371	Lachnospiraceae bacterium sunii NSJ-8	
+Bacteria	Permanent Draft	2910293881	Faecalicatena fissicatena MSK.14.20	
+Bacteria	Permanent Draft	2910313649	Faecalicatena fissicatena MSK.14.16	
+Bacteria	Permanent Draft	2910583792	Mediterraneibacter gnavus MSK.17.82	
+Bacteria	Permanent Draft	2910624926	Mediterraneibacter gnavus MSK.23.41	
+Bacteria	Permanent Draft	2910657437	Mediterraneibacter gnavus MSK.23.82	
+Bacteria	Permanent Draft	2910665422	Mediterraneibacter gnavus MSK.23.60	
+Bacteria	Permanent Draft	2910980614	Winogradskyella undariae Z3185	
+Bacteria	Permanent Draft	2911367719	Eubacterium rectale MSK.17.19	
+Bacteria	Permanent Draft	2911410870	Eubacterium rectale MSK.17.70	
+Bacteria	Permanent Draft	2911429709	Eubacterium rectale MSK.13.48	
+Bacteria	Permanent Draft	2911472677	Coprococcus comes MSK.20.88	
+Bacteria	Permanent Draft	2911764192	Paeniclostridium sp. NSJ-45	
+Bacteria	Permanent Draft	2914489681	Oscillospiraceae bacterium BX18	
+Bacteria	Permanent Draft	2914646867	Ruthenibacterium lactatiformans BIOML-A1	
+Bacteria	Permanent Draft	2914684814	Ruthenibacterium lactatiformans BIOML-A2	
+Bacteria	Permanent Draft	2914722550	Phascolarctobacterium faecium BIOML-A10	
+Bacteria	Permanent Draft	2914757198	Phascolarctobacterium faecium BIOML-A19	
+Bacteria	Permanent Draft	2914941818	Mediterraneibacter gnavus MSK.19.38	
+Bacteria	Permanent Draft	2914948808	Mediterraneibacter gnavus MSK.17.63	
+Bacteria	Permanent Draft	2914960780	Mediterraneibacter gnavus MSK.23.81	
+Bacteria	Permanent Draft	2915040445	Mediterraneibacter gnavus MSK.23.55	
+Bacteria	Permanent Draft	2915282668	Dorea longicatena MSK.11.14	
+Bacteria	Permanent Draft	2915327595	Faecalibacterium prausnitzii BIOML-B16	
+Bacteria	Permanent Draft	2915331061	Faecalibacterium prausnitzii BIOML-B5	
+Bacteria	Permanent Draft	2915337646	Faecalibacterium prausnitzii BIOML-B11	
+Bacteria	Permanent Draft	2915346982	Faecalibacterium prausnitzii BIOML-B3	
+Bacteria	Permanent Draft	2915389896	Roseburia sp. NSJ-69	
+Bacteria	Permanent Draft	2915412174	Roseburia intestinalis MSK.17.84	
+Bacteria	Permanent Draft	2915700162	Lachnoclostridium scindens MSK.1.26	
+Bacteria	Permanent Draft	2919955320	Enterocloster aldenensis MSK.1.13	
+Bacteria	Permanent Draft	2920213499	Propioniciclava sp. MC1595	
+Bacteria	Permanent Draft	2920305214	Fusicatenibacter saccharivorans MSK.22.6	
+Bacteria	Permanent Draft	2920317450	Fusicatenibacter saccharivorans MSK.22.55	
+Bacteria	Permanent Draft	2920320964	Fusicatenibacter saccharivorans MSK.22.1	
+Bacteria	Permanent Draft	2920466384	Odoribacter splanchnicus BIOML-A2	
+Bacteria	Permanent Draft	2920515179	Mediterraneibacter torques BIOML-A6	
+Bacteria	Permanent Draft	2920521176	Mediterraneibacter torques BIOML-A4	
+Bacteria	Permanent Draft	2920527694	Mediterraneibacter gnavus MSK.5.19	
+Bacteria	Permanent Draft	2920700298	Azospirillum sp. RWY-5-1	
+Bacteria	Permanent Draft	2920989241	Veillonella dispar BIOML-A1	
+Bacteria	Permanent Draft	2921180943	Blautia wexlerae MSK.18.71	
+Bacteria	Permanent Draft	2923819421	Dorea longicatena MSK.18.44	
+Bacteria	Permanent Draft	2924069403	Blautia wexlerae MSK.20.44	
+Bacteria	Permanent Draft	2924114141	Blautia wexlerae BIOML-A1	
+Bacteria	Permanent Draft	2936224828	Porcincola intestinalis Oil+RF-744-WCA-WT-11	
+Bacteria	Permanent Draft	2936245661	Oliverpabstia intestinalis BSM-380-WT-5A	
+Bacteria	Permanent Draft	2936948323	Blautia wexlerae MSK.18.3	
+Bacteria	Permanent Draft	2936952117	Blautia schinkii MSK.15.25	
+Bacteria	Permanent Draft	2936959131	Blautia massiliensis MSK.9.19	
+Bacteria	Permanent Draft	2936969608	Blautia wexlerae MSK.22.69	
+Bacteria	Permanent Draft	2940230426	Lachnospiraceae bacterium PH5-48	
+Bacteria	Permanent Draft	2940267548	Lachnospiraceae bacterium PFB1-22	
+Bacteria	Permanent Draft	2957345033	Blautia wexlerae BIOML-A16	
+Bacteria	Finished	2956932832	Maribellus comscasis WC007	
+Bacteria	Permanent Draft	2957308695	Blautia schinkii MSK.6.27	
+Bacteria	Permanent Draft	2957315726	Blautia massiliensis MSK.17.18	
+Bacteria	Permanent Draft	2960528855	Blautia wexlerae MSK.19.41	
+Bacteria	Permanent Draft	2960533041	Blautia wexlerae MSK.23.78	
+Bacteria	Permanent Draft	2960551981	Blautia wexlerae MSK.19.7	
+Bacteria	Permanent Draft	2964329828	Oscillospiraceae bacterium ASD2818	
+Bacteria	Permanent Draft	2964547375	Blautia faecis MSK.14.13	
+Bacteria	Permanent Draft	2964586542	Blautia sp. BX17	
+Bacteria	Permanent Draft	2967654116	Blautia massiliensis MSK.15.19	
+Bacteria	Finished	637000318	Thermoanaerobacter tengcongensis MB4	
+Bacteria	Finished	640753057	Thermosipho melanesiensis BI429	
+Bacteria	Finished	643348583	Thermosipho africanus TCF52B	
+Bacteria	Finished	643692015	Chloroflexus aurantiacus Y-400-fl	
+Bacteria	Permanent Draft	643886070	Shuttleworthia satelles DSM 14600	
+Bacteria	Permanent Draft	647000286	Oribacterium sp. oral taxon 078 F0262	
+Bacteria	Permanent Draft	647000331	Veillonella parvula ATCC 17745	
+Bacteria	Permanent Draft	647533168	Fusobacterium periodonticum 1_1_41FAA	
+Bacteria	Permanent Draft	647533241	Veillonella sp. 3_1_44	
+Bacteria	Permanent Draft	648276753	Veillonella atypica ACS-049-V-Sch6	
+Bacteria	Finished	649633094	Ruminococcus albus 7	
+Bacteria	Finished	650377938	Eubacterium siraeum 70/3	
+Bacteria	Permanent Draft	2506520045	Leptotrichia goodfellowii LB 57, DSM 19756	
+Bacteria	Permanent Draft	651324046	Lachnospiraceae bacterium 1_1_57FAA	
+Bacteria	Permanent Draft	651324050	Lachnospiraceae bacterium 3_1_46FAA	
+Bacteria	Finished	2504557006	Selenomonas sputigena DSM 20758	
+Bacteria	Permanent Draft	645058738	Selenomonas flueggei ATCC 43531	
+Bacteria	Finished	2511231202	Brachyspira intermedia PWS/A	
+Bacteria	Finished	2513237213	Selenomonas ruminantium lactilytica TAM6421	
+Bacteria	Permanent Draft	2513237299	Synergistes sp. 3_1_syn1	
+Bacteria	Finished	2519103103	Brachyspira pilosicoli B2904	
+Bacteria	Permanent Draft	2523231015	Veillonella magna DSM 19857	
+Bacteria	Permanent Draft	2524023136	Salinimicrobium xinjiangense DSM 19287	
+Bacteria	Permanent Draft	2524614686	Selenomonas ruminantium ATCC 12561	
+Bacteria	Permanent Draft	2524614688	Butyrivibrio sp. AE3006	
+Bacteria	Permanent Draft	2524614690	Butyrivibrio sp. AD3002	
+Bacteria	Permanent Draft	2524614715	Butyrivibrio sp. XPD2006	
+Bacteria	Permanent Draft	2524614847	Clostridium sp. ASBs410	
+Bacteria	Permanent Draft	2526164524	Butyrivibrio sp. FCS006	
+Bacteria	Permanent Draft	2526164529	Lachnoclostridium methoxybenzovorans SR3, DSM 12182	
+Bacteria	Permanent Draft	2528311094	Leptotrichia trevisanii DSM 22070	
+Bacteria	Permanent Draft	2529293281	Cutibacterium humerusii HL037PA3	
+Bacteria	Permanent Draft	2531839422	Cutibacterium humerusii HL044PA1	
+Bacteria	Permanent Draft	2531839533	Veillonella parvula ACS-068-V-Sch12	
+Bacteria	Permanent Draft	2534682206	Lachnoclostridium clostridioforme 90B1	
+Bacteria	Permanent Draft	2534682259	Pelosinus fermentans B3	
+Bacteria	Permanent Draft	2541046996	Coprococcus sp. HPP0048	
+Bacteria	Permanent Draft	2541047010	Veillonella sp. HPA0037	
+Bacteria	Permanent Draft	2541047518	Paraclostridium bifermentans ATCC 638	
+Bacteria	Permanent Draft	2554235042	Fusobacterium nucleatum nucleatum ChDC F316	
+Bacteria	Permanent Draft	2556921664	Anaerovibrio lipolyticus LB2005	
+Bacteria	Permanent Draft	2558309012	Ruminococcus sp. FC2018	
+Bacteria	Permanent Draft	2558860287	Leptotrichia sp. oral taxon 225 F0581	
+Bacteria	Permanent Draft	2561511145	Lachnospiraceae bacterium MC2017	
+Bacteria	Permanent Draft	2561511226	Butyrivibrio sp. NC2002	
+Bacteria	Permanent Draft	2562617079	Clostridium sp M62/1	
+Bacteria	Permanent Draft	2562617159	Roseburia intestinalis L1-82	
+Bacteria	Finished	2562617160	Ruminococcus sp. 5_1_39BFAA	
+Bacteria	Permanent Draft	2562617180	Fusobacterium necrophorum D12	
+Bacteria	Permanent Draft	2563367173	Eubacterium plexicaudatum ASF492	
+Bacteria	Permanent Draft	2563367179	Eubacterium sp. 14-2	
+Bacteria	Permanent Draft	2565956768	Fusobacterium nucleatum CTI-6	
+Bacteria	Permanent Draft	2571042015	Lachnospiraceae bacterium MA2020	
+Bacteria	Permanent Draft	2571042347	Soehngenia saccharolytica DSM 12858	
+Bacteria	Permanent Draft	2574179752	Carnobacterium alterfunditum pf4	
+Bacteria	Permanent Draft	2574180443	Robinsoniella sp. KNHs210	
+Bacteria	Permanent Draft	2576861819	Butyrivibrio sp. AE2032	
+Bacteria	Permanent Draft	2579778522	Carnobacterium jeotgali MS3	
+Bacteria	Permanent Draft	2582580726	Butyrivibrio hungatei DSM 14810	
+Bacteria	Permanent Draft	2585428073	Thermosipho atlanticus DSM 15807	
+Bacteria	Permanent Draft	2588253903	Lachnospiraceae bacterium A2	
+Bacteria	Permanent Draft	2593339152	Ruminococcus albus AR67	
+Bacteria	Permanent Draft	2593339165	Lachnospiraceae bacterium XBB2008	
+Bacteria	Permanent Draft	2593339219	Selenomonas ruminantium lactilytica DSM 2872	
+Bacteria	Permanent Draft	2593339240	Pseudobutyrivibrio sp. ACV-2	
+Bacteria	Permanent Draft	2595698216	Lachnospiraceae bacterium XBD2001	
+Bacteria	Permanent Draft	2595698239	Pseudobutyrivibrio ruminis ACV-9	
+Bacteria	Permanent Draft	2596583543	Pseudobutyrivibrio sp AR14	
+Bacteria	Permanent Draft	2596583697	Clostridium sp. KNHs206	
+Bacteria	Permanent Draft	2597490298	Lachnoclostridium symbiosum ATCC 14940	
+Bacteria	Permanent Draft	2597490368	Lactobacillus rogosae ATCC 27753	
+Bacteria	Permanent Draft	2597490369	Halanaerobium salsuginis ATCC 51327	
+Bacteria	Permanent Draft	2599185224	Natronincola peptidivorans DSM 18979	
+Bacteria	Permanent Draft	2606217738	Lachnospiraceae bacterium KH1P17	
+Bacteria	Permanent Draft	2606217811	Pseudobutyrivibrio sp. NOR37	
+Bacteria	Permanent Draft	2617270830	Lachnospiraceae bacterium A10 (version 2)	
+Bacteria	Permanent Draft	2619618821	Trichococcus collinsii DSM 14526	
+Bacteria	Permanent Draft	2619618885	Saprospiraceae bacterium EBPR_Bin_93	
+Bacteria	Permanent Draft	2619619000	Thermosipho affectus ikt275mar	
+Bacteria	Permanent Draft	2623620483	Pseudobutyrivibrio sp. JW11	
+Bacteria	Permanent Draft	2627853570	LKpool_bin1_Bacteroidetes	
+Bacteria	Permanent Draft	2630969008	Ignavibacterium Spring_Unknown_43.3	
+Bacteria	Permanent Draft	2639762554	Alkaliphilus serpentinus LacT	
+Bacteria	Permanent Draft	2639762975	Sunxiuqinia dokdonensis SK	
+Bacteria	Permanent Draft	2639763201	Acetivibrio thermocellus LQRI	
+Bacteria	Permanent Draft	2642422547	Halanaerobium congolense WG2	
+Bacteria	Finished	2648501184	Fusobacterium nucleatum animalis ChDC F315	
+Bacteria	Permanent Draft	2651870321	Pseudobutyrivibrio sp. 49	
+Bacteria	Permanent Draft	2654587554	Clostridia bacterium UC5.1-1F7	
+Bacteria	Permanent Draft	2654587559	Fusobacterium nucleatum animalis F0419	
+Bacteria	Permanent Draft	2654588176	Lachnospiraceae bacterium KH1T2	
+Bacteria	Permanent Draft	2657245051	Paeniclostridium sordellii R31809	
+Bacteria	Permanent Draft	2657245176	Thermotogales bacterium EBM-48	
+Bacteria	Finished	2660238162	Hungateiclostridium thermocellum AD2	
+Bacteria	Finished	2663762974	Fusobacterium nucleatum animalis 21_1A	
+Bacteria	Permanent Draft	2663763214	Paeniclostridium sordellii W3025	
+Bacteria	Permanent Draft	2667527744	Paeniclostridium sordellii W2945	
+Bacteria	Finished	2671180803	Acidipropionibacterium acidipropionici ATCC 55737	
+Bacteria	Permanent Draft	2671180879	Paeniclostridium sordellii W10	
+Bacteria	Permanent Draft	2675903701	Candidatus Thiosymbion algarvensis (OalgG1)	
+Bacteria	Permanent Draft	2684622596	Abyssisolibacter fermentans MCWD3	
+Bacteria	Permanent Draft	2684622902	Clostridium tetanomorphum DJ062	
+Bacteria	Finished	2687453193	Streptococcus pantholopis TA 26	
+Bacteria	Permanent Draft	2695420437	Paeniclostridium sordellii UMC4404	
+Bacteria	Permanent Draft	2695420966	Acetomicrobium flavidum DSM 20664	
+Bacteria	Permanent Draft	2703719100	unclassified Bacteroidales BS11_Alcium_bin 14	
+Bacteria	Permanent Draft	2708742653	Tenericutes bacterium GWE2_38_8	
+Bacteria	Permanent Draft	2711768079	Propionispora sp. Iso2/2	
+Bacteria	Permanent Draft	2711768150	Brachyspira hyodysenteriae ST195	
+Bacteria	Permanent Draft	2713896745	Mangrovimonas xylaniphaga ST2L12	
+Bacteria	Permanent Draft	2713897425	Ignavibacteria bacterium RIFOXYC2_FULL_38_25	
+Bacteria	Finished	2718217930	Cutibacterium modestum 193 F0672	
+Bacteria	Permanent Draft	2718218518	Candidatus Thiosymbion algarvensis Type A ELBA JGI 028 (contamination screened)	
+Bacteria	Permanent Draft	2721755232	Tenericutes bacterium GWD2_38_27	
+Bacteria	Permanent Draft	2724679012	Acetivibrio ethanolgignens ACET-33324	
+Bacteria	Permanent Draft	2724679214	Fusobacterium necrophorum funduliforme LS_1197	
+Bacteria	Permanent Draft	2724679228	Fusobacterium necrophorum funduliforme F1365	
+Bacteria	Permanent Draft	2724679709	Saccharicrinis carchari DSM 27040	
+Bacteria	Permanent Draft	2728369471	Aliiruegeria haliotis DSM 29328	
+Bacteria	Permanent Draft	2728369664	Marinifilum fragile JCM 15579	
+Bacteria	Permanent Draft	2734481904	Mediterraneibacter faecis JCM 15917	
+Bacteria	Permanent Draft	2739367763	Unclassified Bacteroidetes GB4	
+Bacteria	Permanent Draft	2740892325	Clostridiales bacterium CHKCI001	
+Bacteria	Permanent Draft	2754412714	Halanaerobium saccharolyticum WC1	
+Bacteria	Permanent Draft	2756170274	Murimonas intestini DSM 26524	
+Bacteria	Permanent Draft	2765235836	Halanaerobium saccharolyticum MSL 7	
+Bacteria	Finished	2767802767	Paraclostridium benzoelyticum JC272	
+Bacteria	Permanent Draft	2770939440	Sunxiuqinia elliptica 114D	
+Bacteria	Permanent Draft	2770939486	Winogradskyella arenosi CECT 7958	
+Bacteria	Finished	2773857898	Streptococcus merionis NCTC 13788	
+Bacteria	Permanent Draft	2775506834	Ruminococcaceae bacterium GD6	
+Bacteria	Permanent Draft	2775506842	Clostridiaceae bacterium mt12	
+Bacteria	Permanent Draft	2786546840	Vallitalea okinawensis S15	
+Bacteria	Permanent Draft	2786546901	Culturomica massiliensis Marseille-P2698	
+Bacteria	Permanent Draft	2788500157	Flavobacteriaceae bacterium CG_4_9_14_3_um_filter_33_16	
+Bacteria	Permanent Draft	2788500166	Confluentibacter lentus HJM-3	
+Bacteria	Permanent Draft	2788500354	Butyricimonas sp. An62	
+Bacteria	Permanent Draft	2788500369	Thalassobius sp. NP30	
+Bacteria	Permanent Draft	2788500453	Leptotrichia massiliensis Marseille-P3007	
+Bacteria	Permanent Draft	2788500541	Alistipes sp. An31A	
+Bacteria	Permanent Draft	2788500542	Alistipes sp. An66	
+Bacteria	Permanent Draft	2788500606	Lachnoclostridium sp. An14	
+Bacteria	Permanent Draft	2788500607	Lachnoclostridium sp. An76	
+Bacteria	Permanent Draft	2791354880	Defluviitalea phaphyphila Alg1	
+Bacteria	Permanent Draft	2791354970	Formosa haliotis MA1	
+Bacteria	Permanent Draft	2795385490	Pseudoclostridium thermosuccinogenes DSM 5808	
+Bacteria	Permanent Draft	2799112360	Selenomonadales bacterium RUG848	
+Bacteria	Permanent Draft	2799112488	Clostridiales bacterium RUG327	
+Bacteria	Permanent Draft	2799112555	Clostridiales bacterium RUG534	
+Bacteria	Permanent Draft	2799112570	Clostridiales bacterium RUG758	
+Bacteria	Permanent Draft	2799112844	Lachnospiraceae bacterium RUG227	
+Bacteria	Permanent Draft	2799112846	Lachnospiraceae bacterium RUG145	
+Bacteria	Permanent Draft	2799112847	Lachnospiraceae bacterium RUG588	
+Bacteria	Permanent Draft	2799112850	Lachnospiraceae bacterium RUG356	
+Bacteria	Permanent Draft	2799112862	Lachnospiraceae bacterium hRUG856	
+Bacteria	Permanent Draft	2799112864	Lachnospiraceae bacterium hRUG853	
+Bacteria	Permanent Draft	2799112927	Eubacterium sp. RUG185	
+Bacteria	Permanent Draft	2799112937	Acidaminococcus sp. RUG075	
+Bacteria	Permanent Draft	2802428835	Lachnoclostridium symbiosum LT0011 reassembly	
+Bacteria	Permanent Draft	2802429512	Lachnospira eligens 2789STDY5834875	
+Bacteria	Permanent Draft	2802429514	Alistipes finegoldii 2789STDY5834947	
+Bacteria	Permanent Draft	2806310718	Veillonella dispar DNF00926	
+Bacteria	Permanent Draft	2806310862	Blautia torques 2789STDY5608833	
+Bacteria	Permanent Draft	2806310949	Blautia torques 2789STDY5834841	
+Bacteria	Permanent Draft	2806310950	Blautia obeum 2789STDY5834861	
+Bacteria	Permanent Draft	2808606725	Blautia coccoides NCTC 11035	
+Bacteria	Permanent Draft	2808606748	Lachnoclostridium sphenoides NCTC 507	
+Bacteria	Permanent Draft	2811994930	unclassified Bacteroidales BinD78m15	
+Bacteria	Permanent Draft	2814122903	unclassified Bacteroidales BinDmb142	
+Bacteria	Finished	2814123114	Fusobacterium periodonticum KCOM 1283	
+Bacteria	Permanent Draft	2814123251	Veillonella parvula DNF00876	
+Bacteria	Permanent Draft	2829431250	Melioribacteraceae bacterium DeMMO6_29	
+Bacteria	Permanent Draft	2831246943	Sinirhodobacter hankyongi BO-81	
+Bacteria	Permanent Draft	2831283689	Fusobacterium necrophorum KG35	
+Bacteria	Permanent Draft	2832048584	Lactonifactor longoviformis DSM 17459	
+Bacteria	Permanent Draft	2832486819	Eubacterium rectale AM31-7AC	
+Bacteria	Permanent Draft	2832524388	Eubacterium rectale AM29-10	
+Bacteria	Permanent Draft	2832646971	Tyzzerella nexilis AM23-10LB	
+Bacteria	Finished	2832953387	Lachnoanaerobaculum umeaense DSM 23576	
+Bacteria	Finished	2832979616	Paraclostridium benzoelyticum JC272	
+Bacteria	Permanent Draft	2833124738	Eubacterium rectale AF24-17	
+Bacteria	Permanent Draft	2833155674	Eubacterium rectale AM54-25XD	
+Bacteria	Permanent Draft	2833189817	Eubacterium rectale OM05-6AA	
+Bacteria	Permanent Draft	2833455180	Clostridium thermoalcaliphilum DSM 7309	
+Bacteria	Permanent Draft	2833473840	Butyricimonas sp. Marseille-P2440	
+Bacteria	Finished	2833582041	Monoglobus pectinilyticus 14	
+Bacteria	Permanent Draft	2834711990	Lachnoclostridium bolteae AM35-14	
+Bacteria	Finished	2836765118	Erysipelothrix rhusiopathiae NCTC8163	
+Bacteria	Finished	2836830276	Roseburia intestinalis L1-82	
+Bacteria	Permanent Draft	2837310705	Eisenbergiella massiliensis AF26-4BH	
+Bacteria	Permanent Draft	2837417009	Roseburia sp. AF02-12	
+Bacteria	Permanent Draft	2837522078	Coprococcus sp. AM25-4LB	
+Bacteria	Permanent Draft	2839226088	Trichococcus collinsii ERS1056661	
+Bacteria	Permanent Draft	2839453126	Megamonas rupellensis AF27-12	
+Bacteria	Permanent Draft	2840340764	Megamonas rupellensis OM02-7LB	
+Bacteria	Permanent Draft	2840455468	Trichococcus palustris ERS1056664	
+Bacteria	Permanent Draft	2840519071	Sellimonas intestinalis AF14-9AC	
+Bacteria	Finished	2841657861	Fusobacterium necrophorum FDAARGOS_565	
+Bacteria	Permanent Draft	2842996180	Roseburia sp. OM04-15AA	
+Bacteria	Permanent Draft	2843113928	Odoribacter sp. AF15-53	
+Bacteria	Permanent Draft	2846157944	Roseburia sp. AF25-13LB	
+Bacteria	Permanent Draft	2846175332	Roseburia sp. AF25-15LB	
+Bacteria	Permanent Draft	2846305222	Coprococcus comes AF18-12LB	
+Bacteria	Permanent Draft	2846311291	Coprococcus sp. AM25-15LB	
+Bacteria	Permanent Draft	2846323532	Coprococcus sp. AF27-8	
+Bacteria	Permanent Draft	2846326712	Coprococcus sp. AF18-48	
+Bacteria	Permanent Draft	2846332767	Faecalibacterium prausnitzii APC923/51-1	
+Bacteria	Permanent Draft	2846344460	Faecalibacterium prausnitzii AF29-11BH	
+Bacteria	Permanent Draft	2847159969	Veillonella atypica NCTC 11830	
+Bacteria	Permanent Draft	2847177971	Lachnospira eligens AM14-19	
+Bacteria	Finished	2847461936	Fusobacterium nucleatum polymorphum KCOM 1260	
+Bacteria	Permanent Draft	2848294671	Acidaminococcus provencensis Marseille-P4266	
+Bacteria	Permanent Draft	2848311363	Eisenbergiella massiliensis TF05-5AC	
+Bacteria	Permanent Draft	2848400229	Acidaminococcus sp. AM05-11	
+Bacteria	Permanent Draft	2848938603	Veillonella sp. AM51-8BH	
+Bacteria	Finished	2849012876	Fusobacterium nucleatum nucleatum 25586	
+Bacteria	Permanent Draft	2849834068	Faecalibacterium sp. OM04-11BH	
+Bacteria	Permanent Draft	2849845975	Faecalibacterium prausnitzii APC922/41-1	
+Bacteria	Permanent Draft	2850060714	Eubacterium ventriosum AM40-7BH	
+Bacteria	Permanent Draft	2850175822	Blautia sp. AM28-10	
+Bacteria	Permanent Draft	2854006217	Roseburia intestinalis AM37-1AC	
+Bacteria	Permanent Draft	2854010375	Roseburia intestinalis AF31-21AC	
+Bacteria	Permanent Draft	2854017866	Roseburia inulinivorans AM27-11	
+Bacteria	Permanent Draft	2854059993	Dorea longicatena AM25-9	
+Bacteria	Permanent Draft	2857317121	Fusobacterium nucleatum animalis ChDC F318	
+Bacteria	Permanent Draft	2857942496	Ruminococcus sp. AM36-2AA	
+Bacteria	Permanent Draft	2857958589	Ruminococcus sp. AF31-16BH	
+Bacteria	Permanent Draft	2858004566	Blautia obeum AM28-23	
+Bacteria	Permanent Draft	2858013891	Blautia gnavus AM13-39	
+Bacteria	Permanent Draft	2858026333	Blautia sp. AM28-36	
+Bacteria	Permanent Draft	2858045440	Blautia sp. AM46-5	
+Bacteria	Permanent Draft	2858108180	Eubacterium sp. AF34-35BH	
+Bacteria	Permanent Draft	2859127015	Fusobacterium periodonticum KCOM 1265	
+Bacteria	Permanent Draft	2859135381	Fusobacterium massiliense Marseille-P2749	
+Bacteria	Permanent Draft	2866179177	Brevilactibacter flavus VG341	
+Bacteria	Permanent Draft	2868206132	Veillonella sp. VA137	
+Bacteria	Permanent Draft	2868220894	Veillonella sp. 3913	
+Bacteria	Permanent Draft	2868558209	Ruminococcus sp. TF12-2	
+Bacteria	Permanent Draft	2868569063	Ruminococcus sp. AM36-17	
+Bacteria	Permanent Draft	2868576790	Ruminococcus sp. AM29-26	
+Bacteria	Permanent Draft	2868597578	Blautia sp. BCRC 81119	
+Bacteria	Permanent Draft	2868601594	Blautia gnavus AM22-7AC	
+Bacteria	Permanent Draft	2868604984	Blautia sp. OF03-13	
+Bacteria	Permanent Draft	2871006545	Blautia sp. AF14-40	
+Bacteria	Permanent Draft	2873714522	Ruminococcus sp. TF06-23	
+Bacteria	Permanent Draft	2873766259	Blautia sp. AM28-27	
+Bacteria	Permanent Draft	2876106606	Blautia gnavus AF27-4BH	
+Bacteria	Permanent Draft	2876118799	Blautia sp. OM05-6	
+Bacteria	Permanent Draft	2878477910	Ruminococcus sp. AF42-10	
+Bacteria	Permanent Draft	2878507790	Blautia gnavus TM04-16	
+Bacteria	Permanent Draft	2878531636	Blautia obeum AM34-12	
+Bacteria	Permanent Draft	2882217550	Alistipes provencensis Marseille-P2431T	
+Bacteria	Permanent Draft	2882406111	Veillonella sp. T14073-2	
+Bacteria	Permanent Draft	2882674194	Unclassified bacterium 1xD42-87	
+Bacteria	Permanent Draft	2882697475	Unclassified bacterium D16-54	
+Bacteria	Permanent Draft	2884235173	Butyricimonas vaginalis Marseille-P4593	
+Bacteria	Finished	2884622180	Alistipes onderdonkii vulgaris 3BBH6	
+Bacteria	Finished	2884625230	Alistipes onderdonkii vulgaris 5NYCFAH2	
+Bacteria	Permanent Draft	2885188861	Ruminococcus sp. B05	
+Bacteria	Permanent Draft	2887498377	Candidatus Chloroploca sp. M50-1	
+Bacteria	Permanent Draft	2887691223	Anaerosporobacter sp. KCTC 15857	
+Bacteria	Permanent Draft	2890022185	Cloacibacillus evryensis MGYG-HGUT-01389	
+Bacteria	Permanent Draft	2890635702	Salinimicrobium nanhaiense CDJ15-81-2	
+Bacteria	Permanent Draft	2891271656	Pseudoflavonifractor sp. BSD2780061688st1 E11	
+Bacteria	Permanent Draft	2891624828	Azoarcus halotolerans HKLI-1	
+Bacteria	Permanent Draft	2894100150	Vagococcus salmoninarum NCFB 2777	
+Bacteria	Permanent Draft	2895266462	Polaribacter sp. 20A6	
+Bacteria	Permanent Draft	2895473240	Brachyspira sp. SAP_772	
+Bacteria	Permanent Draft	2898611136	Eubacterium sp. BIOML-A1	
+Bacteria	Permanent Draft	2898786852	Veillonella sp. R32	
+Bacteria	Permanent Draft	2898788943	Veillonella sp. S13053-19	
+Bacteria	Permanent Draft	2899896364	Ruminococcus sp. OM08-9BH	
+Bacteria	Permanent Draft	2900002851	Blautia obeum AF21-24	
+Bacteria	Permanent Draft	2900024691	Blautia sp. BIOML-A1	
+Bacteria	Permanent Draft	2900559953	Fusobacterium sp. FSA-380-WT-2B	
+Bacteria	Permanent Draft	2900562563	Fusobacterium gonidiaformans MGYG-HGUT-01325	
+Bacteria	Permanent Draft	2902132489	Ruminococcus sp. AM58-7XD	
+Bacteria	Permanent Draft	2902162368	Ruminococcus sp. OM07-17	
+Bacteria	Permanent Draft	2902233948	Blautia sp. TM10-2	
+Bacteria	Permanent Draft	2905433627	Ruminococcus sp. AM16-34	
+Bacteria	Permanent Draft	2905444465	Ruminococcus sp. AF14-10	
+Bacteria	Permanent Draft	2909374319	Enterocloster clostridioformis MSK.2.94	
+Bacteria	Permanent Draft	2910098611	Enterocloster clostridioformis MSK.2.90	
+Bacteria	Permanent Draft	2910157262	Ructibacterium gallinarum DSM 107454	
+Bacteria	Permanent Draft	2910628916	Mediterraneibacter gnavus MSK.11.9	
+Bacteria	Permanent Draft	2910886798	Butyricimonas sp. NSJ-56	
+Bacteria	Permanent Draft	2910984164	Winogradskyella sp. Z738	
+Bacteria	Permanent Draft	2911226912	Maribacter sp. ANRC-HE7	
+Bacteria	Permanent Draft	2911401012	Eubacterium rectale MSK.17.3	
+Bacteria	Permanent Draft	2911416979	Eubacterium rectale MSK.22.23	
+Bacteria	Permanent Draft	2911426773	Eubacterium rectale MSK.16.45	
+Bacteria	Permanent Draft	2911463833	Coprococcus comes MSK.16.50	
+Bacteria	Permanent Draft	2911476045	Coprococcus comes MSK.11.23	
+Bacteria	Permanent Draft	2911482373	Coprococcus comes MSK.17.80	
+Bacteria	Permanent Draft	2911559768	Coprococcus comes MSK.10.14	
+Bacteria	Permanent Draft	2913280528	Formosa algae DSM 15523	
+Bacteria	Permanent Draft	2913505501	Acetoanaerobium pronyense DSM 27512	
+Bacteria	Permanent Draft	2914190785	Lachnospiraceae bacterium BX10	
+Bacteria	Permanent Draft	2914594547	Ruthenibacterium lactatiformans BIOML-A7	
+Bacteria	Permanent Draft	2914627023	Ruthenibacterium lactatiformans BIOML-A3	
+Bacteria	Permanent Draft	2914711521	Phascolarctobacterium faecium BIOML-A16	
+Bacteria	Permanent Draft	2914736406	Phascolarctobacterium faecium BIOML-A15	
+Bacteria	Permanent Draft	2914938127	Mediterraneibacter gnavus MSK.15.18	
+Bacteria	Permanent Draft	2915298617	Dorea longicatena BIOML-A3	
+Bacteria	Permanent Draft	2915308434	Faecalibacterium prausnitzii BIOML-B10	
+Bacteria	Permanent Draft	2915343886	Faecalibacterium prausnitzii BIOML-B18	
+Bacteria	Permanent Draft	2915377836	Roseburia faecis BIOML-A2	
+Bacteria	Permanent Draft	2915427594	Eubacterium rectale BIOML-A10	
+Bacteria	Permanent Draft	2915430489	Eubacterium rectale BIOML-A1	
+Bacteria	Permanent Draft	2915437626	Eubacterium rectale BIOML-A4	
+Bacteria	Permanent Draft	2915440508	Eubacterium rectale BIOML-A9	
+Bacteria	Permanent Draft	2915452979	Eubacterium rectale MSK.17.57	
+Bacteria	Permanent Draft	2915456410	Eubacterium rectale MSK.17.13	
+Bacteria	Permanent Draft	2915703577	Lachnoclostridium symbiosum MSK.1.7	
+Bacteria	Permanent Draft	2919897874	Propioniciclava soli YIM S02567	
+Bacteria	Permanent Draft	2920203781	Mogibacterium sp. BX12	
+Bacteria	Permanent Draft	2920244814	Fusicatenibacter saccharivorans MSK.22.67	
+Bacteria	Permanent Draft	2920343190	Cetobacterium sp. 2A	
+Bacteria	Permanent Draft	2920489220	Odoribacter splanchnicus BIOML-A5	
+Bacteria	Permanent Draft	2920713660	Coprococcus comes MSK.16.63	
+Bacteria	Permanent Draft	2920951204	Eubacterium sp. BX4	
+Bacteria	Permanent Draft	2921184700	Blautia wexlerae MSK.20.11	
+Bacteria	Permanent Draft	2921188315	Blautia wexlerae MSK.22.61	
+Bacteria	Permanent Draft	2924087396	Blautia wexlerae MSK.20.14	
+Bacteria	Permanent Draft	2924110021	Blautia glucerasea MSK.20.42	
+Bacteria	Permanent Draft	2936977574	Blautia sp. MSK.21.1 MSK.21.1	
+Bacteria	Permanent Draft	2964567241	Blautia wexlerae MSK.23.95	
+Bacteria	Permanent Draft	2957289971	Blautia schinkii MSK.6.16	
+Bacteria	Permanent Draft	2957297813	Blautia caecimuris MSK.19.25	
+Bacteria	Permanent Draft	2957349190	Blautia glucerasea MSK.21.93	
+Bacteria	Finished	2958970374	Fusobacterium nucleatum animalis 7_1	
+Bacteria	Permanent Draft	2960544343	Blautia wexlerae MSK.18.18	
+Bacteria	Permanent Draft	2964551673	Blautia wexlerae MSK.18.96	
+Bacteria	Permanent Draft	2964593973	Blautia wexlerae MSK.20.13	
+Bacteria	Permanent Draft	2964600548	Blautia massiliensis MSK.22.56	
+Bacteria	Finished	2969396226	Streptococcus chenjunshii Z15	
+Bacteria	Finished	637000241	Rhodospirillum rubrum S1, ATCC 11170	
+Bacteria	Finished	640427150	Thermotoga petrophila RKU-1	
+Bacteria	Permanent Draft	640963046	Dorea longicatena DSM 13814	
+Bacteria	Finished	641228511	Pseudothermotoga lettingae TMO	
+Bacteria	Permanent Draft	641380427	Clostridium leptum DSM 753	
+Bacteria	Permanent Draft	643886006	Roseburia inulinivorans DSM 16841	
+Bacteria	Permanent Draft	643886193	Kingella oralis UB-38, ATCC 51147	
+Bacteria	Permanent Draft	643886199	Blautia hydrogenotrophica DSM 10507	
+Bacteria	Finished	644736367	Eubacterium rectale ATCC 33656	
+Bacteria	Permanent Draft	645058736	Clostridium carboxidivorans P7	
+Bacteria	Finished	646311901	Acidaminococcus fermentans VR4, DSM 20731	
+Bacteria	Finished	646311961	Thermanaerovibrio acidaminovorans Su883, DSM 6589	
+Bacteria	Permanent Draft	645951848	Fusobacterium periodonticum ATCC 33693	
+Bacteria	Permanent Draft	646206253	Fusobacterium nucleatum vincentii 4_1_13	
+Bacteria	Finished	646564579	Thermoanaerobacter italicus Ab9, DSM 9252	
+Bacteria	Finished	646564580	Thermoanaerobacter mathranii mathranii A3, DSM 11426	
+Bacteria	Finished	648028009	Brachyspira pilosicoli 95/1000	
+Bacteria	Finished	650377966	Ruminococcus bromii L2-63	
+Bacteria	Finished	650377968	Ruminococcus sp. SR1/5	
+Bacteria	Finished	650377989	Clostridiales sp. SS3/4	
+Bacteria	Permanent Draft	649989958	Lachnospiraceae bacterium sp. 8_1_57FAA	
+Bacteria	Finished	2507149014	Fervidobacterium pennivorans Ven 5, DSM 9078	
+Bacteria	Finished	650716036	Erysipelothrix rhusiopathiae Fujisawa	
+Bacteria	Permanent Draft	651324049	Lachnospiraceae bacterium 2_1_58FAA	
+Bacteria	Finished	2509601035	Alistipes finegoldii AHN 2437, DSM 17242	
+Bacteria	Permanent Draft	2510065052	Cloacibacillus evryensis 158, DSM 19522	
+Bacteria	Permanent Draft	2510461053	Acetivibrio cellulolyticus CD2	
+Bacteria	Finished	2511231077	Filifactor alocis ATCC 35896	
+Bacteria	Permanent Draft	2512047053	Alistipes sp. HGB5	
+Bacteria	Permanent Draft	2517487012	Acetomicrobium hydrogeniformans ATCC BAA-1850	
+Bacteria	Permanent Draft	2517572017	Thermosipho africanus Ob7, DSM 5309	
+Bacteria	Permanent Draft	2517572020	Thermotoga sp. TBGT1765	
+Bacteria	Permanent Draft	2518285597	Acidipropionibacterium acidipropionici ATCC 4875	
+Bacteria	Finished	2521172602	Acidipropionibacterium acidipropionici ATCC 4875	
+Bacteria	Finished	2521172718	Brachyspira pilosicoli P43/6/78	
+Bacteria	Permanent Draft	2524614712	Blautia wexlerae AGR2146	
+Bacteria	Permanent Draft	2524614870	Butyrivibrio sp. AE2015	
+Bacteria	Permanent Draft	2529293099	Pelosinus fermentans R7	
+Bacteria	Permanent Draft	2531839008	Lachnoclostridium clostridioforme 90A7	
+Bacteria	Permanent Draft	2531839012	Lachnoclostridium bolteae 90B8	
+Bacteria	Permanent Draft	2531839016	Lachnoclostridium clostridioforme 90A4	
+Bacteria	Permanent Draft	2534681889	Candidatus Arthromitus sp. SFB-2 (unscreened)	
+Bacteria	Permanent Draft	2534681893	Candidatus Arthromitus sp. SFB-co	
+Bacteria	Permanent Draft	2537561629	Veillonella sp. ACP1	
+Bacteria	Permanent Draft	2537561633	Selenomonas sp. CM52	
+Bacteria	Permanent Draft	2537561881	Lachnospiraceae bacterium sp. ICM7	
+Bacteria	Permanent Draft	2540341044	Fusobacterium nucleatum animalis ATCC 51191	
+Bacteria	Permanent Draft	2541048007	Paeniclostridium sordellii VPI 9048	
+Bacteria	Permanent Draft	2545555857	Eubacterium xylanophilum ATCC 35991	
+Bacteria	Permanent Draft	2545555868	Butyrivibrio sp. FCS014	
+Bacteria	Finished	2554235388	Treponema pedis T A4	
+Bacteria	Permanent Draft	2556921093	Clostridiisalibacter paucivorans DSM 22131	
+Bacteria	Finished	2558309119	Pseudothermotoga hypogea NBRC 106472	
+Bacteria	Permanent Draft	2558860139	Butyrivibrio proteoclasticus FD2007	
+Bacteria	Permanent Draft	2558860349	Clostridium ultunense DSM 10521	
+Bacteria	Permanent Draft	2562617002	Selenomonas sp. ND2010	
+Bacteria	Permanent Draft	2562617190	Lachnospiraceae bacterium 2_1_46FAA	
+Bacteria	Permanent Draft	2563366600	Selenomonas sp. AE3005	
+Bacteria	Permanent Draft	2563366721	Peptostreptococcaceae bacterium VA2	
+Bacteria	Permanent Draft	2563366758	Thermotoga sp. A7A	
+Bacteria	Permanent Draft	2563367178	Dorea sp. 41031	
+Bacteria	Permanent Draft	2565956770	Fusobacterium nucleatum CTI-5	
+Bacteria	Permanent Draft	2574179786	Kineothrix alysoides KNHs209	
+Bacteria	Permanent Draft	2576861401	Carnobacterium pleistocenium FTR1	
+Bacteria	Permanent Draft	2585427820	Clostridiales bacterium VE202-28	
+Bacteria	Permanent Draft	2585428044	Lactonifactor longoviformis DSM 17459	
+Bacteria	Permanent Draft	2585428080	Desulfofustis glycolicus DSM 9705	
+Bacteria	Permanent Draft	2585428081	Sporanaerobacter acetigenes DSM 13106	
+Bacteria	Permanent Draft	2585428153	Lutispora thermophila DSM 19022	
+Bacteria	Permanent Draft	2588253904	Lachnospiraceae bacterium 10-1	
+Bacteria	Permanent Draft	2593339159	Lachnobacterium bovis S1b	
+Bacteria	Permanent Draft	2593339166	Lachnospiraceae bacterium NK3A20	
+Bacteria	Permanent Draft	2595698227	Butyrivibrio hungatei XBD2006	
+Bacteria	Permanent Draft	2595698242	Selenomonas ruminantium GACV-9	
+Bacteria	Permanent Draft	2599185221	Lachnoclostridium populeti DSM 5832	
+Bacteria	Permanent Draft	2600255143	Lachnospiraceae bacterium M18-1	
+Bacteria	Permanent Draft	2600255148	Lachnospiraceae bacterium 3-1	
+Bacteria	Permanent Draft	2600255237	Leptotrichia sp. oral taxon 215 W9775	
+Bacteria	Permanent Draft	2602041677	Veillonella montpellierensis DNF00314	
+Bacteria	Permanent Draft	2602042044	Clostridium bolteae WAL-14578 JGI Assembly and Annotation	
+Bacteria	Permanent Draft	2606217752	Lachnospiraceae bacterium G41	
+Bacteria	Permanent Draft	2606217760	Lachnoclostridium polysaccharolyticum DSM 1801	
+Bacteria	Permanent Draft	2608642105	Sarcina sp. DSM 11001	
+Bacteria	Permanent Draft	2609460167	Synergistes jonesii 78-1	
+Bacteria	Permanent Draft	2616644903	Thermotogae bacterium SCGC AD-702-D06 (contamination screened)	
+Bacteria	Finished	2617270841	Thermosipho melanesiensis 431	
+Bacteria	Permanent Draft	2617270843	Thermosipho melanesiensis 487	
+Bacteria	Permanent Draft	2617270891	clostridium	
+Bacteria	Permanent Draft	2619618823	Trichococcus pasteurii DSM 2381	
+Bacteria	Permanent Draft	2619619279	Caloranaerobacter azorensis H53214	
+Bacteria	Permanent Draft	2622736627	Carnobacterium iners LMG 26642	
+Bacteria	Permanent Draft	2623620514	Selenomonas ruminantium Z108	
+Bacteria	Permanent Draft	2627854273	Draconibacterium sediminis JN14CK-3	
+Bacteria	Permanent Draft	2630968892	Fusobacterium necrophorum funduliforme B35	
+Bacteria	Permanent Draft	2634166307	Winogradskyella thalassocola DSM 15363	
+Bacteria	Permanent Draft	2636416158	Veillonella dispar DORA_11	
+Bacteria	Permanent Draft	2636416159	Aeromicrobium massiliense JC14	
+Bacteria	Permanent Draft	2639762535	Clostridium formicaceticum A1	
+Bacteria	Permanent Draft	2639763136	Faecalicatena fissicatena KCTC 15010	
+Bacteria	Permanent Draft	2642422524	Alkaliphilus pronyensis LacV	
+Bacteria	Permanent Draft	2642422586	Halanaerobium congolense UTICA-W4B2	
+Bacteria	Permanent Draft	2648501924	Clostridiaceae bacterium MS3	
+Bacteria	Finished	2651869768	Fusobacterium nucleatum polymorphum ChDC F319	
+Bacteria	Permanent Draft	2651870315	Lachnospira multipara D15d	
+Bacteria	Permanent Draft	2651870358	Ruminococcus albus KH2T6	
+Bacteria	Permanent Draft	2654588117	Selenomonas ruminantium WCT3	
+Bacteria	Permanent Draft	2654588118	Faecalicatena orotica NLAE-zl-C242	
+Bacteria	Permanent Draft	2654588123	Succiniclasticum ruminis DSM 9236	
+Bacteria	Permanent Draft	2657245175	Tepidanaerobacter sp. EBM-49	
+Bacteria	Permanent Draft	2657245270	Lachnospiraceae bacterium NLAE-zl-G231	
+Bacteria	Permanent Draft	2660238625	Paeniclostridium sordellii SSCC33587	
+Bacteria	Permanent Draft	2663763516	Paeniclostridium sordellii R30684	
+Bacteria	Permanent Draft	2667527697	Paeniclostridium sordellii JGS445	
+Bacteria	Finished	2684623196	Acidipropionibacterium acidipropionici CGMCC 1.2230	
+Bacteria	Finished	2687453539	Rhodovulum sulfidophilum TUT	
+Bacteria	Permanent Draft	2695420950	Clostridium sp. DSM 4029	
+Bacteria	Permanent Draft	2698536885	Bacteroidetes bacterium JGI CrystG Apr3-3-J12 (contamination screened)	
+Bacteria	Permanent Draft	2703719135	Butyrivibrio sp. bin 24	
+Bacteria	Permanent Draft	2706794656	Roseburia faecis M72	
+Bacteria	Permanent Draft	2710724186	Candidatus Thiosymbion algarvensis Type A ELBA JGI 018 (contamination screened)	
+Bacteria	Permanent Draft	2711768145	Brachyspira hyodysenteriae ATCC 27164	
+Bacteria	Permanent Draft	2711768147	Brachyspira hyodysenteriae G21	
+Bacteria	Permanent Draft	2711768522	Ignavibacteria bacterium RIFOXYA12_FULL_38_9	
+Bacteria	Permanent Draft	2711768558	Bacteroidetes bacterium RIFOXYA2_FULL_33_7	
+Bacteria	Permanent Draft	2713896746	Mangrovimonas sp. ST2L15	
+Bacteria	Permanent Draft	2713897353	Bacteroidetes bacterium RIFOXYB12_FULL_41_6	
+Bacteria	Permanent Draft	2713897381	Ignavibacteria bacterium RIFOXYB2_FULL_37_11	
+Bacteria	Permanent Draft	2721755189	Bacteroidetes bacterium GWC2_33_15	
+Bacteria	Finished	2721755796	Lachnoclostridium sp. YL32	
+Bacteria	Permanent Draft	2724679215	Fusobacterium necrophorum funduliforme LS_1260	
+Bacteria	Permanent Draft	2724679217	Fusobacterium necrophorum funduliforme LS_1266	
+Bacteria	Permanent Draft	2724679221	Fusobacterium necrophorum funduliforme F1250	
+Bacteria	Permanent Draft	2724679227	Fusobacterium necrophorum funduliforme F1353	
+Bacteria	Permanent Draft	2734482290	Rhodovulum kholense DSM 19783	
+Bacteria	Permanent Draft	2751185573	Synergistales bacterium Syner_01	
+Bacteria	Permanent Draft	2751185586	Thermotogales bacterium Thermo_02	
+Bacteria	Permanent Draft	2751185624	Bacteroidales bacterium Bact_18	
+Bacteria	Permanent Draft	2751185639	Clostridiales bacterium Firm_04	
+Bacteria	Permanent Draft	2751185650	Clostridiales bacterium Firm_18	
+Bacteria	Permanent Draft	2751185976	Clostridium sp. W14A	
+Bacteria	Permanent Draft	2756170166	Petrotoga sibirica DSM 13575	
+Bacteria	Finished	2757321040	Leptotrichia sp. oral taxon 498 F0590	
+Bacteria	Finished	2765235859	Fusobacterium sp. oral taxon 203 W7671	
+Bacteria	Finished	2773857890	Odoribacter splanchnicus NCTC 10825	
+Bacteria	Finished	2773858021	Clostridium formicaceticum DSM 92	
+Bacteria	Finished	2775506833	Acetivibrio saccincola GGR1	
+Bacteria	Permanent Draft	2775506932	Blautia sp. Marseille-P2398	
+Bacteria	Permanent Draft	2784746781	Faecalimonas umbilicata DSM 103426	
+Bacteria	Permanent Draft	2788500065	Massilimalia timonensis Marseille-P3753	
+Bacteria	Permanent Draft	2788500072	Anaerofilum sp. An201	
+Bacteria	Permanent Draft	2788500103	Fusicatenibacter saccharivorans 2789STDY5834885	
+Bacteria	Permanent Draft	2788500106	Fusicatenibacter sp. 2789STDY5834925	
+Bacteria	Finished	2788500328	Micropruina glycogenica 1	
+Bacteria	Permanent Draft	2788500449	Faecalibacterium sp. An77	
+Bacteria	Permanent Draft	2788500450	Faecalibacterium sp. An58	
+Bacteria	Permanent Draft	2788500517	Blautia sp. An81	
+Bacteria	Permanent Draft	2788500601	Lachnoclostridium sp. An181	
+Bacteria	Permanent Draft	2791354916	Caloranaerobacter ferrireducens DY22619	
+Bacteria	Permanent Draft	2791354938	Anaerovibrio sp. JC8	
+Bacteria	Finished	2791355052	Thermotoga profunda AZM34c06	
+Bacteria	Finished	2791355055	Thermotoga caldifontis AZM44c09	
+Bacteria	Permanent Draft	2799112272	Natronoflexus pectinivorans DSM 24179	
+Bacteria	Permanent Draft	2799112374	Clostridiales bacterium RUG702	
+Bacteria	Permanent Draft	2799112452	Clostridiales bacterium RUG267	
+Bacteria	Permanent Draft	2799112457	Clostridiales bacterium RUG427	
+Bacteria	Permanent Draft	2799112463	Clostridiales bacterium RUG235	
+Bacteria	Permanent Draft	2799112474	Clostridiales bacterium RUG132	
+Bacteria	Permanent Draft	2799112478	Clostridiales bacterium RUG098	
+Bacteria	Permanent Draft	2799112541	Clostridiales bacterium RUG006	
+Bacteria	Permanent Draft	2799112548	Clostridiales bacterium RUG223	
+Bacteria	Permanent Draft	2799112621	Clostridiales bacterium RUG475	
+Bacteria	Permanent Draft	2799112726	Prevotellaceae bacterium RUG476	
+Bacteria	Permanent Draft	2799112762	Prevotellaceae bacterium RUG657	
+Bacteria	Permanent Draft	2799112803	Lachnospiraceae bacterium RUG214	
+Bacteria	Permanent Draft	2799112814	Lachnospiraceae bacterium hRUG861	
+Bacteria	Permanent Draft	2799112817	Lachnospiraceae bacterium hRUG869	
+Bacteria	Permanent Draft	2799112832	Lachnospiraceae bacterium RUG389	
+Bacteria	Permanent Draft	2799112838	Lachnospiraceae bacterium RUG305	
+Bacteria	Permanent Draft	2799112859	Lachnospiraceae bacterium RUG433	
+Bacteria	Permanent Draft	2802429446	Coprococcus comes 2789STDY5834913	
+Bacteria	Permanent Draft	2802429472	Coprococcus comes 2789STDY5834866	
+Bacteria	Permanent Draft	2806310860	Blautia torques 2789STDY5834918	
+Bacteria	Finished	2806310888	Fusobacterium gonidiaformans ATCC 25563	
+Bacteria	Permanent Draft	2811995145	Megamonas hypermegale An288	
+Bacteria	Finished	2814123085	Fusobacterium periodonticum KCOM 1277	
+Bacteria	Permanent Draft	2814123127	Gemmatimonadetes bacterium RS822	
+Bacteria	Permanent Draft	2814123184	Odoribacter splanchnicus NCTC 10826	
+Bacteria	Finished	2814123238	Faecalibacterium prausnitzii A2165	
+Bacteria	Permanent Draft	2819999932	Unclassified Synergistetes Th196P4bin51	
+Bacteria	Permanent Draft	2820767225	Unclassified Bacteroidetes Lab288P3bin34	
+Bacteria	Permanent Draft	2829469616	Melioribacteraceae bacterium DeMMO6_86	
+Bacteria	Permanent Draft	2831281560	Fusobacterium necrophorum KG34	
+Bacteria	Permanent Draft	2831611165	Neobittarella massiliensis Marseille-P4047	
+Bacteria	Permanent Draft	2831971958	Acetatifactor muris GP69	
+Bacteria	Permanent Draft	2832262383	Christensenella minuta DSM 22607	
+Bacteria	Permanent Draft	2832482636	Marinilabilia rubra WTE16	
+Bacteria	Permanent Draft	2832520998	Eubacterium rectale AM30-13AC	
+Bacteria	Permanent Draft	2832538108	Eubacterium rectale AM26-2LB	
+Bacteria	Permanent Draft	2833073084	Eubacterium rectale AF19-3AC	
+Bacteria	Permanent Draft	2833114920	Eubacterium rectale AF06-19	
+Bacteria	Permanent Draft	2833193261	Eubacterium rectale AM22-4	
+Bacteria	Permanent Draft	2833316708	Eubacterium rectale TM10-3	
+Bacteria	Permanent Draft	2833350782	Eubacterium rectale AM44-2AT	
+Bacteria	Permanent Draft	2833534973	Butyricimonas virosa AF14-49	
+Bacteria	Permanent Draft	2833539487	Paraclostridium bifermentans SU1074NT	
+Bacteria	Permanent Draft	2833556347	Cohaesibacter haloalkalitolerans JC131	
+Bacteria	Permanent Draft	2834331368	Faecalibacterium sp. OF04-11AC	
+Bacteria	Permanent Draft	2834426614	Rhodovulum viride JA756	
+Bacteria	Permanent Draft	2835245213	Dorea longicatena AM23-13	
+Bacteria	Finished	2836899790	Flammeovirga pectinis L12M1	
+Bacteria	Finished	2837169743	Anoxybacter fermentans DY22613	
+Bacteria	Permanent Draft	2837355779	Megamonas funiformis AM23-11	
+Bacteria	Permanent Draft	2837442332	Lutibacter oceani JCM 30924	
+Bacteria	Permanent Draft	2837571783	Rhodovulum sulfidophilum AB30	
+Bacteria	Permanent Draft	2838794330	Brachyspira hyodysenteriae JR1	
+Bacteria	Permanent Draft	2839252607	Lachnoclostridium clostridioforme 2789STDY5834865	
+Bacteria	Permanent Draft	2839499322	Lutibacter citreus 1KV19	
+Bacteria	Permanent Draft	2839645069	Odoribacter splanchnicus AM43-5	
+Bacteria	Permanent Draft	2839932449	Odoribacter splanchnicus AM30-21	
+Bacteria	Permanent Draft	2840353847	Megamonas rupellensis AF29-2	
+Bacteria	Permanent Draft	2840389379	Roseburia intestinalis AM22-21LB	
+Bacteria	Permanent Draft	2840461909	Trichococcus shcherbakoviae ART11	
+Bacteria	Permanent Draft	2840755556	Rhodovulum sulfidophilum AB14	
+Bacteria	Finished	2841179417	Alistipes megaguti Marseille-P5997	
+Bacteria	Finished	2841778323	Paeniclostridium sordellii AM370	
+Bacteria	Permanent Draft	2843017088	Dorea longicatena AM22-22	
+Bacteria	Permanent Draft	2843061431	Mediterraneibacter butyricigenes KCTC 15684	
+Bacteria	Permanent Draft	2843118239	Odoribacter sp. OF09-27XD	
+Bacteria	Permanent Draft	2843288022	Faecalibacterium prausnitzii AF36-11AT	
+Bacteria	Permanent Draft	2843320670	Alistipes sp. AM16-43	
+Bacteria	Finished	2843924433	Fusobacterium nucleatum vincentii KCOM 2931	
+Bacteria	Permanent Draft	2846335787	Faecalibacterium prausnitzii APC942/8-14-2	
+Bacteria	Permanent Draft	2846338414	Faecalibacterium prausnitzii APC942/32-1	
+Bacteria	Finished	2847455967	Fusobacterium necrophorum funduliforme F1260	
+Bacteria	Finished	2849014993	Fusobacterium necrophorum funduliforme 1_1_36S	
+Bacteria	Permanent Draft	2849737758	Roseburia inulinivorans AM23-23AC	
+Bacteria	Permanent Draft	2849825524	Coprococcus sp. OM04-5BH	
+Bacteria	Permanent Draft	2850183435	Blautia gnavus AF34-4BH	
+Bacteria	Permanent Draft	2854014430	Roseburia sp. AF25-25LB	
+Bacteria	Permanent Draft	2854036093	Roseburia sp. OF03-24	
+Bacteria	Permanent Draft	2854039914	Roseburia hominis AF22-12AC	
+Bacteria	Permanent Draft	2854057090	Dorea longicatena AF17-8AC	
+Bacteria	Permanent Draft	2854222423	Ruminococcus sp. AF19-29	
+Bacteria	Permanent Draft	2854233066	Ruminococcus sp. AF21-11	
+Bacteria	Permanent Draft	2854254860	Ruminococcus sp. AF16-50	
+Bacteria	Permanent Draft	2854405560	Blautia sp. AM22-22LB	
+Bacteria	Permanent Draft	2854418831	Blautia obeum APC942/31-1	
+Bacteria	Permanent Draft	2854543090	Eubacterium sp. AF15-50	
+Bacteria	Finished	2857089846	Streptomyces tirandamycinicus HNM0039	
+Bacteria	Permanent Draft	2857954691	Ruminococcus sp. AM34-9LB	
+Bacteria	Permanent Draft	2857964638	Ruminococcus sp. OF03-6AA	
+Bacteria	Permanent Draft	2857971645	Ruminococcus sp. AF18-29	
+Bacteria	Permanent Draft	2857989793	Blautia sp. AM47-4	
+Bacteria	Permanent Draft	2858000928	Blautia gnavus AM51-4BH	
+Bacteria	Permanent Draft	2858017238	Blautia sp. AM23-13AC	
+Bacteria	Permanent Draft	2858096503	Eubacterium ventriosum AM42-30	
+Bacteria	Permanent Draft	2858122899	Lachnospira eligens AF18-47	
+Bacteria	Permanent Draft	2859137120	Fusobacterium nucleatum polymorphum KCOM 1248 (=ChDC F113)	
+Bacteria	Permanent Draft	2861712243	Roseospira marina DSM 15113	
+Bacteria	Permanent Draft	2868238732	Clostridium tagluense FP2	
+Bacteria	Permanent Draft	2868561362	Ruminococcus sp. AF13-28	
+Bacteria	Permanent Draft	2869088689	Cutibacterium modestum T33958	
+Bacteria	Permanent Draft	2869308291	Fusobacterium nucleatum UMB0249	
+Bacteria	Permanent Draft	2870997632	Ruminococcus bromii AM32-13AC	
+Bacteria	Permanent Draft	2871025452	Blautia obeum AF14-52	
+Bacteria	Permanent Draft	2873751905	Blautia sp. AM42-2	
+Bacteria	Permanent Draft	2873758527	Blautia sp. OM07-19	
+Bacteria	Permanent Draft	2876002861	Mediterraneibacter lactaris AM25-1LB	
+Bacteria	Permanent Draft	2876060181	Ruminococcus sp. AF31-8BH	
+Bacteria	Permanent Draft	2876102353	Blautia obeum AM27-32LB	
+Bacteria	Permanent Draft	2876134433	Blautia sp. OF09-25XD	
+Bacteria	Permanent Draft	2878480445	Ruminococcus sp. AM42-11	
+Bacteria	Permanent Draft	2878492970	Ruminococcus sp. AF25-28AC	
+Bacteria	Permanent Draft	2878528002	Blautia obeum AF39-4	
+Bacteria	Permanent Draft	2880955472	Aureibaculum marinum BH-SD17	
+Bacteria	Permanent Draft	2880991743	Xylanivirga thermophila SYSU GA17129	
+Bacteria	Permanent Draft	2881251750	Fervidobacterium thailandense FC2004	
+Bacteria	Permanent Draft	2881276960	Christensenella intestinihominis AF73-05CM02	
+Bacteria	Permanent Draft	2881711220	Ancylomarina longa T3-2 S1-C	
+Bacteria	Permanent Draft	2882124210	Pyramidobacter sp. CG50-2	
+Bacteria	Permanent Draft	2882156893	Anaerophilus nitritogenes MJB2	
+Bacteria	Permanent Draft	2882404203	Veillonella sp. T11011-6	
+Bacteria	Permanent Draft	2882691784	Unclassified bacterium D16-56	
+Bacteria	Permanent Draft	2883210270	Sedimentibacter sp. SX930	
+Bacteria	Finished	2883816592	Anaerocolumna sedimenticola CBA3638	
+Bacteria	Finished	2884131627	Algibacter sp. L1A34	
+Bacteria	Permanent Draft	2884239568	Lutibacter sp. HS1-25	
+Bacteria	Finished	2884619277	Alistipes onderdonkii vulgaris 5CPYCFAH4	
+Bacteria	Finished	2884630763	Polaribacter sp. L3A8	
+Bacteria	Permanent Draft	2885218630	Blautia faecicola KGMB01111	
+Bacteria	Permanent Draft	2886817950	Bariatricus massiliensis AT12	
+Bacteria	Permanent Draft	2887112524	Galacturonibacter soehngenii galUA	
+Bacteria	Permanent Draft	2887205122	Pseudoruminoccoccus massiliensis Marseille-P3876	
+Bacteria	Permanent Draft	2887616557	Rhodobium orientis DSM 11290	
+Bacteria	Permanent Draft	2889621796	Ancylomarina sp. 16SWW S1-10-2	
+Bacteria	Permanent Draft	2889796288	Lactonifactor sp. BIOML-A4	
+Bacteria	Permanent Draft	2890427577	Sunxiuqinia indica RC1_OXG_1F	
+Bacteria	Permanent Draft	2890645508	Acetomicrobium hydrogeniformans MGYG-HGUT-01339	
+Bacteria	Permanent Draft	2891030849	Romboutsia ilealis D2-15	
+Bacteria	Permanent Draft	2891045655	Candidatus Chlorobium masyuteum BLA1	
+Bacteria	Permanent Draft	2891145386	Paraclostridium dentum SKVG24	
+Bacteria	Permanent Draft	2891772567	Butyricimonas faecihominis 30A1	
+Bacteria	Permanent Draft	2894787282	Rhodoferax fermentans JCM 7819	
+Bacteria	Permanent Draft	2895407921	Selenomonas sp. mPRGC5	
+Bacteria	Permanent Draft	2895439585	Brachyspira hampsonii P280/1	
+Bacteria	Permanent Draft	2895761542	Faecalibacterium sp. BIOML-A2	
+Bacteria	Permanent Draft	2895764444	Faecalibacterium prausnitzii CNCM I 4541	
+Bacteria	Permanent Draft	2898775653	Veillonella sp. T34266-5	
+Bacteria	Permanent Draft	2899882752	Ruminococcus bromii CF01-14	
+Bacteria	Permanent Draft	2899893684	Ruminococcus sp. AF17-1AC	
+Bacteria	Permanent Draft	2899999490	Blautia sp. AF19-1	
+Bacteria	Permanent Draft	2900021453	Blautia sp. Marseille-P3087	
+Bacteria	Permanent Draft	2901126171	Alkaliphilus halophilus DSM 24577	
+Bacteria	Permanent Draft	2902123393	Ruminococcus sp. AF46-10NS	
+Bacteria	Permanent Draft	2902165166	Ruminococcus bromii TM09-5AC	
+Bacteria	Permanent Draft	2905405171	Ruminococcus sp. OM08-7	
+Bacteria	Permanent Draft	2905413768	Ruminococcus sp. AF42-9BH	
+Bacteria	Permanent Draft	2905429242	Ruminococcus sp. AF13-37	
+Bacteria	Permanent Draft	2905440162	Ruminococcus sp. AM54-14NS	
+Bacteria	Permanent Draft	2905452657	Ruminococcus sp. AM44-9AT	
+Bacteria	Permanent Draft	2905456962	Ruminococcus sp. AM27-11LB	
+Bacteria	Permanent Draft	2909379847	Enterocloster clostridioformis MSK.2.73	
+Bacteria	Permanent Draft	2909424180	Enterocloster clostridioformis MSK.2.26	
+Bacteria	Permanent Draft	2910609737	Mediterraneibacter gnavus MSK.15.77	
+Bacteria	Permanent Draft	2910632222	Mediterraneibacter gnavus MSK.7.28	
+Bacteria	Permanent Draft	2910649936	Mediterraneibacter sp. NSJ-55	
+Bacteria	Permanent Draft	2910674586	Mediterraneibacter gnavus MSK.15.9	
+Bacteria	Permanent Draft	2910994549	Winogradskyella sp. HL634	
+Bacteria	Permanent Draft	2911397704	Eubacterium rectale MSK.17.42	
+Bacteria	Permanent Draft	2911446104	Coprococcus comes MSK.18.76	
+Bacteria	Permanent Draft	2911568187	Coprococcus comes MSK.16.59	
+Bacteria	Permanent Draft	2914631097	Ruthenibacterium lactatiformans BIOML-A10	
+Bacteria	Permanent Draft	2914749883	Phascolarctobacterium faecium BIOML-A13	
+Bacteria	Permanent Draft	2915054571	Mediterraneibacter torques BIOML-A3	
+Bacteria	Permanent Draft	2915151730	Alistipes shahii BIOML-A2	
+Bacteria	Permanent Draft	2915311810	Faecalibacterium prausnitzii BIOML-B6	
+Bacteria	Permanent Draft	2915381490	Roseburia sp. BX0805	
+Bacteria	Permanent Draft	2917719114	Propionibacterium sp. NM47_B9-13	
+Bacteria	Permanent Draft	2920270416	Fusicatenibacter saccharivorans MSK.22.13	
+Bacteria	Permanent Draft	2920345946	Tyzzerella nexilis MSK.23.22	
+Bacteria	Permanent Draft	2920531078	Mediterraneibacter gnavus MSK.15.59	
+Bacteria	Permanent Draft	2920672910	Dorea longicatena MSK.21.9	
+Bacteria	Permanent Draft	2920739140	Coprococcus comes MSK.17.59	
+Bacteria	Permanent Draft	2920993176	Veillonella dispar BIOML-A3	
+Bacteria	Permanent Draft	2921458406	Ruminococcus sp. AF20-12LB	
+Bacteria	Permanent Draft	2921554756	Fusobacterium sp. FSA-380-WT-3A	
+Bacteria	Permanent Draft	2923841852	Dorea longicatena MSK.18.46	
+Bacteria	Permanent Draft	2924076754	Blautia massiliensis MSK.16.77	
+Bacteria	Permanent Draft	2924083256	Blautia wexlerae BIOML-A19	
+Bacteria	Permanent Draft	2928400839	Paeniclostridium ghonii DSM 15049	
+Bacteria	Permanent Draft	2928543200	Blautia caecimuris DSM 29492	
+Bacteria	Permanent Draft	2936248790	Bilifractor porci Oil+RF-744-WCA-WT-13	
+Bacteria	Permanent Draft	2936256136	Velocimicrobium porci WCA-693-APC-MOT-I	
+Bacteria	Permanent Draft	2936918026	Blautia faecis MSK.18.51	
+Bacteria	Permanent Draft	2936928306	Blautia wexlerae MSK.23.33	
+Bacteria	Permanent Draft	2936940387	Blautia wexlerae BIOML-A7	
+Bacteria	Permanent Draft	2936989405	Blautia massiliensis BIOML-A4	
+Bacteria	Permanent Draft	2940277027	Lachnospiraceae bacterium PF1-21	
+Bacteria	Permanent Draft	2957322353	Blautia obeum MSK.20.66	
+Bacteria	Permanent Draft	2957353111	Blautia wexlerae BIOML-A15	
+Bacteria	Permanent Draft	2960517699	Blautia producta MSK.4.13	
+Bacteria	Permanent Draft	2964571725	Blautia wexlerae BIOML-A11	
+Bacteria	Permanent Draft	2965434730	Clostridioides difficile VL_0181	
+Bacteria	Permanent Draft	2967633425	Blautia massiliensis MSK.13.24	
+Bacteria	Finished	637000205	Pelodictyon luteolum DSM 273	
+Bacteria	Finished	640069309	Acetivibrio thermocellus ATCC 27405	
+Bacteria	Finished	641228500	Petrotoga mobilis SJ95	
+Bacteria	Permanent Draft	641736197	Lachnoclostridium scindens ATCC 35704	
+Bacteria	Finished	642555121	Chlorobium limicola DSM 245	
+Bacteria	Permanent Draft	642979337	Bacteroides pectinophilus ATCC 43243	
+Bacteria	Permanent Draft	645058764	Thermoanaerobacter ethanolicus CCSD1	
+Bacteria	Permanent Draft	645951808	Selenomonas noxia ATCC 43541	
+Bacteria	Permanent Draft	645951835	Hungatella hathewayi DSM 13479	
+Bacteria	Permanent Draft	646206262	Fusobacterium periodonticum 2_1_31	
+Bacteria	Finished	646564503	Aminobacterium colombiense ALA-1, DSM 12261	
+Bacteria	Finished	646564527	Denitrovibrio acetiphilus N2460, DSM 12809	
+Bacteria	Finished	648028018	Lachnoclostridium saccharolyticum WM1, DSM 2544	
+Bacteria	Finished	648028061	Thermosediminibacter oceani JW/IW-1228P, DSM 16646	
+Bacteria	Finished	649633056	Ilyobacter polytropus CuHBu1, DSM 2926	
+Bacteria	Permanent Draft	650377904	Alistipes shahii WAL 8301	
+Bacteria	Finished	650377919	Butyrivibrio fibrisolvens 16/4	
+Bacteria	Finished	650377924	Hungateiclostridium thermocellum LQ8, DSM 1313	
+Bacteria	Finished	650377941	Faecalibacterium prausnitzii L2-6	
+Bacteria	Finished	650377967	Blautia obeum A2-162	
+Bacteria	Finished	650377983	Fretibacterium fastidiosum SGP1	
+Bacteria	Permanent Draft	649989950	Lachnoanaerobaculum saburreum DSM 3986	
+Bacteria	Permanent Draft	2501533205	Dethiosulfovibrio peptidovorans SEBR 4207, DSM 11002	
+Bacteria	Finished	2509601011	Acetomicrobium mobile DSM 13181	
+Bacteria	Permanent Draft	2513237399	Megamonas funiformis YIT 11815	
+Bacteria	Permanent Draft	2515154051	Anaerophaga thermohalophila Fru22, DSM 12881	
+Bacteria	Permanent Draft	2516143070	Candidatus Arthromitus sp. SFB-mouse-NYU	
+Bacteria	Permanent Draft	2515154176	Blautia producta ATCC 27340	
+Bacteria	Permanent Draft	2515154145	Flexithrix dorotheae DSM 6795	
+Bacteria	Permanent Draft	2515154071	Leptotrichia shahii DSM 19757	
+Bacteria	Permanent Draft	2517287027	Thermoanaerobacter indiensis BSB-33	
+Bacteria	Permanent Draft	2516653064	Lachnospiraceae sp. Maddingley MBC34	
+Bacteria	Permanent Draft	2517093043	Succinispira mobilis DSM 6222	
+Bacteria	Permanent Draft	2516653053	Deinococcus ficus KS 0460	
+Bacteria	Finished	2517572015	Thermotoga sp. Cell2	
+Bacteria	Permanent Draft	2517572224	Thermoanaerobacter thermohydrosulfuricus WC1	
+Bacteria	Permanent Draft	2518645620	Selenomonas bovis DSM 23594	
+Bacteria	Finished	2519899531	Thermotoga maritima MSB8, DSM 3109	
+Bacteria	Permanent Draft	2523533610	Megamonas hypermegale DSM 1672	
+Bacteria	Permanent Draft	2524614685	Pseudobutyrivibrio ruminis AD2017	
+Bacteria	Permanent Draft	2524614693	Butyrivibrio sp. LC3010	
+Bacteria	Permanent Draft	2524614863	Maledivibacter halophilus ATCC 49637	
+Bacteria	Permanent Draft	2524614881	Butyrivibrio sp. FC2001	
+Bacteria	Permanent Draft	2526164510	Veillonella montpellierensis DSM 17217	
+Bacteria	Permanent Draft	2526164727	Carnobacterium sp. ZWU0011	
+Bacteria	Permanent Draft	2528768167	Blautia wexlerae DSM 19850	
+Bacteria	Permanent Draft	2531839274	Selenomonas sp. FOBRC6	
+Bacteria	Permanent Draft	2531839572	Cutibacterium acnes SK182B-JCVI	
+Bacteria	Permanent Draft	2531839610	Thermotoga sp. EMP	
+Bacteria	Permanent Draft	2534681797	Cutibacterium humerusii HL037PA2	
+Bacteria	Permanent Draft	2537561856	Brachyspira hampsonii 30446	
+Bacteria	Permanent Draft	2537561939	Fusobacterium nucleatum animalis F0419	
+Bacteria	Permanent Draft	2547132153	Alistipes obesi ph8	
+Bacteria	Permanent Draft	2556921657	Prolixibacter bellariivorans ATCC BAA-1284	
+Bacteria	Permanent Draft	2558860123	Lachnobacterium bovis C6A12	
+Bacteria	Permanent Draft	2558860131	Lachnoclostridium aerotolerans DSM 5434	
+Bacteria	Permanent Draft	2558860359	Blautia gnavus CC55_001C	
+Bacteria	Permanent Draft	2558860923	Lachnospiraceae bacterium MSX33	
+Bacteria	Permanent Draft	2558860932	Shuttleworthia sp. MSX8B	
+Bacteria	Permanent Draft	2558860977	Selenomonas ruminantium AC2024	
+Bacteria	Permanent Draft	2558860989	Fusobacterium necrophorum HUN048	
+Bacteria	Permanent Draft	2561511221	Pseudobutyrivibrio ruminis HUN009	
+Bacteria	Permanent Draft	2561511232	Lachnospiraceae bacterium ND2006	
+Bacteria	Permanent Draft	2562617195	Lachnospiraceae bacterium FE2018	
+Bacteria	Permanent Draft	2562617199	Lachnospiraceae bacterium FD2005	
+Bacteria	Permanent Draft	2565956526	Pseudothermotoga hypogea DSM 11164	
+Bacteria	Permanent Draft	2565956823	Mitsuokella sp. oral taxon 131 W9106	
+Bacteria	Permanent Draft	2565956858	Fusobacterium nucleatum ChDC F145	
+Bacteria	Permanent Draft	2571042362	Lachnoclostridium phytofermentans KNHs2132	
+Bacteria	Permanent Draft	2571042820	Paraclostridium bifermentans WYM	
+Bacteria	Permanent Draft	2574179770	Lachnoclostridium phytofermentans KNHs2131	
+Bacteria	Permanent Draft	2576861692	Fusobacterium necrophorum DJ-1	
+Bacteria	Permanent Draft	2576861704	Fusobacterium necrophorum DJ-2	
+Bacteria	Permanent Draft	2576861727	Ruminococcus albus SY3	
+Bacteria	Permanent Draft	2576861811	Thermoanaerobacter kivui DSM 2030	
+Bacteria	Permanent Draft	2582580625	Composite genome from Trout Bog Epilimnion pan-assembly TBepi.metabat.2493	
+Bacteria	Permanent Draft	2582580949	Treponema phagedenis 4A	
+Bacteria	Permanent Draft	2582581276	Thermoanaerobacter uzonensis DSM 18761	
+Bacteria	Permanent Draft	2585427598	Tessaracoccus bendigoensis DSM 12906	
+Bacteria	Permanent Draft	2585427807	Hungatella hathewayi VE202-04	
+Bacteria	Permanent Draft	2585427911	Prolixibacter bellariivorans JCM 13498	
+Bacteria	Permanent Draft	2593339154	Lachnospiraceae bacterium XPB1003	
+Bacteria	Permanent Draft	2593339257	Blautia sp. SF-50	
+Bacteria	Permanent Draft	2593339270	Selenomonas ruminantium C3	
+Bacteria	Permanent Draft	2595698211	Alkalitalea saponilacus DSM 24412	
+Bacteria	Permanent Draft	2596583597	Ruminococcaceae bacterium FB2012	
+Bacteria	Permanent Draft	2597490366	Fusobacterium necrophorum ATCC 25286	
+Bacteria	Permanent Draft	2599185108	Veillonella parvula HSIVP1	
+Bacteria	Permanent Draft	2599185225	Natronincola ferrireducens DSM 18346	
+Bacteria	Permanent Draft	2600255042	Clostridium sp. KLE 1755	
+Bacteria	Permanent Draft	2600255140	Lachnospiraceae bacterium 3-2	
+Bacteria	Permanent Draft	2602041641	Treponema pedis isoM1224	
+Bacteria	Permanent Draft	2602041656	Treponema pedis isoM1220	
+Bacteria	Permanent Draft	2606217763	Pseudobutyrivibrio sp. OR37	
+Bacteria	Permanent Draft	2617270893	Thermosipho melanesiensis 433	
+Bacteria	Permanent Draft	2617271274	Anaerosalibacter massiliensis ND1	
+Bacteria	Permanent Draft	2619618822	Trichococcus palustris DSM 9172	
+Bacteria	Permanent Draft	2619619240	Lachnoclostridium celerecrescens 152B	
+Bacteria	Permanent Draft	2630968883	Anaerovibrio lipolyticus 5S	
+Bacteria	Permanent Draft	2634166280	Carnobacterium viridans MPL-11, DSM 14451	
+Bacteria	Permanent Draft	2639762929	Clostridium argentinense CDC 2741	
+Bacteria	Permanent Draft	2645727545	Clostridia bacterium UC5.1-2D9	
+Bacteria	Permanent Draft	2645727687	Sanguibacteroides justesenii OUH 334697	
+Bacteria	Finished	2648501800	Defluviitoga tunisiensis L3	
+Bacteria	Finished	2651869741	Fusobacterium hwasookii ChDC F174	
+Bacteria	Permanent Draft	2654588115	Selenomonas ruminantium L14	
+Bacteria	Permanent Draft	2654588144	Lachnoclostridium clostridioforme NLAE-zl-G208	
+Bacteria	Permanent Draft	2654588173	Acidaminococcus fermentens WCC6	
+Bacteria	Finished	2657245671	Fusobacterium nucleatum polymorphum NCTC10562	
+Bacteria	Permanent Draft	2660238160	Paeniclostridium sordellii R28058	
+Bacteria	Permanent Draft	2667527583	Paeniclostridium sordellii UMC164	
+Bacteria	Permanent Draft	2667527664	Paeniclostridium sordellii SSCC42239	
+Bacteria	Permanent Draft	2667528161	Caenispirillum bisanense USBA 140	
+Bacteria	Permanent Draft	2675903648	Jeotgalibaca dankookensis CL-AS1	
+Bacteria	Permanent Draft	2681813000	Enterococcus canis NBRC 100695	
+Bacteria	Permanent Draft	2681813039	Lachnoanaerobaculum saburreum DNF00896	
+Bacteria	Permanent Draft	2681813453	Fusobacterium necrophorum funduliforme LS_1291	
+Bacteria	Finished	2687453419	Thermotoga maritima Tma200	
+Bacteria	Finished	2687453592	Rhodovulum sulfidophilum DSM 1374	
+Bacteria	Finished	2687453609	Thermotoga maritima MSB8	
+Bacteria	Permanent Draft	2690316315	Paeniclostridium sordellii SSCC18838	
+Bacteria	Permanent Draft	2698536600	Eubacterium rectale T1-815	
+Bacteria	Permanent Draft	2698536812	Carnobacterium alterfunditum 313	
+Bacteria	Permanent Draft	2703719088	unclassified Bacteroidales bin 18	
+Bacteria	Permanent Draft	2703719134	Butyrivibrio sp. bin 22	
+Bacteria	Permanent Draft	2703719145	Butyrivibrio sp. bin 23	
+Bacteria	Permanent Draft	2706794911	Anaerovirgula multivorans SCA	
+Bacteria	Permanent Draft	2708742673	Bacteroidetes bacterium GWF2_33_16	
+Bacteria	Permanent Draft	2711768143	Brachyspira hyodysenteriae B204	
+Bacteria	Permanent Draft	2711768151	Brachyspira hyodysenteriae ST210	
+Bacteria	Permanent Draft	2711768152	Brachyspira hyodysenteriae ST265	
+Bacteria	Permanent Draft	2711768768	Ignavibacteria bacterium RIFOXYC12_FULL_38_8	
+Bacteria	Permanent Draft	2713896744	Mangrovimonas sp. TPBH4	
+Bacteria	Permanent Draft	2713896957	Brachyspira suanatina AN4859/03	
+Bacteria	Finished	2718218090	Rhodobacter sp. LPB0142	
+Bacteria	Finished	2718218420	Selenomonas sp. oral taxon 920 W5150	
+Bacteria	Permanent Draft	2724679222	Fusobacterium necrophorum funduliforme F1285	
+Bacteria	Permanent Draft	2724679224	Fusobacterium necrophorum funduliforme F1314	
+Bacteria	Permanent Draft	2724679225	Fusobacterium necrophorum funduliforme F1330	
+Bacteria	Permanent Draft	2724679432	Clostridium sp. C105KSO15	
+Bacteria	Permanent Draft	2728368996	Pseudoruegeria marinistellae SF-16	
+Bacteria	Permanent Draft	2731639223	Prolixibacter denitrificans DSM 27267	
+Bacteria	Permanent Draft	2751185689	Eisenbergiella tayi NML 140904	
+Bacteria	Permanent Draft	2754412494	Halanaerobium congolense WG5_pb	
+Bacteria	Permanent Draft	2756170237	Phascolarctobacterium faecium DSM 14760	
+Bacteria	Permanent Draft	2757320361	Petrotoga olearia DSM 13574	
+Bacteria	Permanent Draft	2757320499	Unclassified Firmicutes bin161	
+Bacteria	Permanent Draft	2757320500	Unclassified Firmicutes bin112	
+Bacteria	Finished	2757320862	Negativicoccus massiliensis AT7	
+Bacteria	Finished	2757321003	Rhodovulum sp. P5	
+Bacteria	Permanent Draft	2770939452	Marinilabilia salmonicolor 160A	
+Bacteria	Permanent Draft	2770939556	Hungatella effluvii DSM 24995	
+Bacteria	Permanent Draft	2770939573	Winogradskyella eximia CECT 7946	
+Bacteria	Finished	2773857854	Salinivirga cyanobacteriivorans L21-Spi-D4	
+Bacteria	Permanent Draft	2775506825	Massilibacillus massiliensis Marseille-P2411	
+Bacteria	Permanent Draft	2778260943	Herbinix hemicellulosilytica LL1355	
+Bacteria	Permanent Draft	2778261489	Ignavibacteriae bacterium NAT134	
+Bacteria	Permanent Draft	2784746622	unclassified Bacteroidales BinDmb48	
+Bacteria	Permanent Draft	2784746802	Natranaerovirga pectinivora DSM 24629	
+Bacteria	Permanent Draft	2785510715	Clostridium tetanomorphum DJ061	
+Bacteria	Permanent Draft	2786546533	Bacteroidetes bacterium CG2_30_32_10	
+Bacteria	Permanent Draft	2786546944	Labilibacter aurantiacus HQYD1	
+Bacteria	Permanent Draft	2788500039	Porphyromonadaceae bacterium CG2_30_38_12	
+Bacteria	Permanent Draft	2788500064	Pygmaiobacter massiliensis Marseille-P3336	
+Bacteria	Permanent Draft	2791354989	Trichococcus ilyis R210	
+Bacteria	Permanent Draft	2791355038	Mesotoga sp. B105.6.4	
+Bacteria	Permanent Draft	2791355096	Lachnoclostridium edouardi Marseille-P3397	
+Bacteria	Finished	2795385489	Acetivibrio thermocellus LQRI	
+Bacteria	Finished	2795385491	Pseudoclostridium thermosuccinogenes DSM 5807	
+Bacteria	Permanent Draft	2799112274	Blautia coccoides DSM 935	
+Bacteria	Permanent Draft	2799112294	Lachnospiraceae bacterium RUG819	
+Bacteria	Permanent Draft	2799112355	Selenomonadales bacterium hRUG863	
+Bacteria	Permanent Draft	2799112416	Clostridiales bacterium RUG669	
+Bacteria	Permanent Draft	2799112554	Clostridiales bacterium RUG531	
+Bacteria	Permanent Draft	2799112603	Clostridiales bacterium RUG409	
+Bacteria	Permanent Draft	2799112633	Veillonellaceae bacterium RUG628	
+Bacteria	Permanent Draft	2799112804	Lachnospiraceae bacterium hRUG877	
+Bacteria	Permanent Draft	2799112810	Lachnospiraceae bacterium RUG096	
+Bacteria	Permanent Draft	2799112813	Lachnospiraceae bacterium RUG231	
+Bacteria	Permanent Draft	2799112818	Lachnospiraceae bacterium RUG211	
+Bacteria	Permanent Draft	2799112835	Lachnospiraceae bacterium RUG709	
+Bacteria	Permanent Draft	2799112837	Lachnospiraceae bacterium RUG306	
+Bacteria	Permanent Draft	2799112841	Lachnospiraceae bacterium RUG617	
+Bacteria	Permanent Draft	2799112853	Lachnospiraceae bacterium RUG336	
+Bacteria	Permanent Draft	2802429431	Roseburia inulinivorans 2789STDY5608835	
+Bacteria	Permanent Draft	2802429511	Lachnospira pectinoschiza 2789STDY5834836	
+Bacteria	Permanent Draft	2802429517	Roseburia faecis 2789STDY5608863	
+Bacteria	Permanent Draft	2802429520	Coprococcus comes 2789STDY5834962	
+Bacteria	Permanent Draft	2806310857	Blautia obeum 2789STDY5834957	
+Bacteria	Permanent Draft	2806310927	Dorea longicatena 2789STDY5834867	
+Bacteria	Permanent Draft	2806310948	Blautia wexlerae 2789STDY5834863	
+Bacteria	Permanent Draft	2806310963	Dorea longicatena 2789STDY5834914	
+Bacteria	Permanent Draft	2808606924	Synergistes jonesii ATCC 49833	
+Bacteria	Permanent Draft	2808606991	Alphaproteobacteria bacterium SB-MAG 27	
+Bacteria	Permanent Draft	2811995156	Lachnoclostridium saccharolyticum An168	
+Bacteria	Permanent Draft	2811995274	Megamonas hypermegale NCTC 10571	
+Bacteria	Permanent Draft	2811995351	Synergistes jonesii 113-4	
+Bacteria	Finished	2814123095	Fusobacterium periodonticum KCOM 2305	
+Bacteria	Finished	2814123096	Fusobacterium periodonticum KCOM 1263	
+Bacteria	Finished	2814123215	Veillonella atypica OK5	
+Bacteria	Finished	2814123218	Veillonella rodentium NCTC 12018	
+Bacteria	Permanent Draft	2814123351	Faecalibacterium prausnitzii 2789STDY5608869	
+Bacteria	Permanent Draft	2820321184	Unclassified Firmicutes Nt197P3bin86	
+Bacteria	Permanent Draft	2820750388	Unclassified Bacteroidetes Nt197P3bin50	
+Bacteria	Permanent Draft	2820781750	Unclassified Bacteroidetes Emb289P3bin89	
+Bacteria	Permanent Draft	2823229367	Veillonellaceae bacterium RUG114	
+Bacteria	Permanent Draft	2826144243	Acidaminococcus massiliensis Marseille-P2828	
+Bacteria	Finished	2826986812	Anaerobutyricum hallii L2-7	
+Bacteria	Permanent Draft	2831339265	Pyramidobacter sp. C12-8	
+Bacteria	Permanent Draft	2831514688	Caminicella sporogenes AM 1114	
+Bacteria	Permanent Draft	2832053327	Faecalimonas umbilicata EGH7	
+Bacteria	Permanent Draft	2832112221	Sellimonas intestinalis AF07-16	
+Bacteria	Permanent Draft	2832194798	Subdoligranulum sp. AF14-43	
+Bacteria	Finished	2833026118	Erysipelothrix rhusiopathiae ML101	
+Bacteria	Permanent Draft	2833506095	Cohaesibacter intestini YE-B6	
+Bacteria	Permanent Draft	2833571378	Paraclostridium bifermentans MHMC-14	
+Bacteria	Permanent Draft	2834095656	Veillonella parvula KHUD_VP2	
+Bacteria	Permanent Draft	2834145289	Sellimonas intestinalis AF37-2AT	
+Bacteria	Permanent Draft	2834277561	Blautia obeum AM22-9LB	
+Bacteria	Permanent Draft	2834504417	Alistipes sp. AF14-19	
+Bacteria	Finished	2836274772	Pseudobutyrivibrio xylanivorans MA3014 v2	
+Bacteria	Permanent Draft	2837033391	Subdoligranulum sp. TF05-17AC	
+Bacteria	Permanent Draft	2837317116	Eisenbergiella tayi DSM 26961	
+Bacteria	Finished	2840719578	Brachyspira hyodysenteriae BH718	
+Bacteria	Permanent Draft	2840731596	Faecalibacterium prausnitzii CNCM 4573	
+Bacteria	Finished	2841055467	Acidipropionibacterium acidipropionici FAM 19036	
+Bacteria	Permanent Draft	2843291059	Faecalibacterium sp. AF28-13AC	
+Bacteria	Permanent Draft	2844275920	Lachnoclostridium bolteae TF09-4AC	
+Bacteria	Permanent Draft	2845723621	Hungatella hathewayi AF33-11	
+Bacteria	Permanent Draft	2845742285	Hungatella hathewayi AM39-16AC	
+Bacteria	Permanent Draft	2845752767	Hungatella hathewayi TM09-12	
+Bacteria	Permanent Draft	2846154780	Roseburia sp. AF25-18LB	
+Bacteria	Permanent Draft	2846316904	Coprococcus comes AM23-3	
+Bacteria	Permanent Draft	2847165122	Lachnospira eligens AF41-18	
+Bacteria	Permanent Draft	2847197059	Veillonella parvula AM48-14BH	
+Bacteria	Finished	2847464576	Fusobacterium nucleatum vincentii 3_1_27	
+Bacteria	Finished	2848342349	Fervidobacterium changbaicum CBS-1	
+Bacteria	Permanent Draft	2849542135	Ruminococcus sp. AM18-44	
+Bacteria	Permanent Draft	2849795519	Dorea sp. OM02-2LB	
+Bacteria	Permanent Draft	2849819278	Coprococcus sp. AF21-14LB	
+Bacteria	Permanent Draft	2849836940	Faecalibacterium sp. AM43-5AT	
+Bacteria	Permanent Draft	2849851707	Faecalibacterium prausnitzii AM33-14AC	
+Bacteria	Permanent Draft	2850179386	Blautia obeum AF25-21	
+Bacteria	Permanent Draft	2850202591	Blautia sp. OF01-4LB	
+Bacteria	Permanent Draft	2850218751	Blautia sp. AF19-34	
+Bacteria	Permanent Draft	2852254035	Blautia producta DSM 3507	
+Bacteria	Permanent Draft	2852902837	Clostridium tetanomorphum DJ062 (Re-Annotation)	
+Bacteria	Permanent Draft	2854029462	Roseburia sp. AF22-2LB	
+Bacteria	Permanent Draft	2854032424	Roseburia inulinivorans AF28-15	
+Bacteria	Permanent Draft	2854078061	Faecalibacterium prausnitzii CNCM 4574	
+Bacteria	Permanent Draft	2854377831	Blautia gnavus AF13-14A	
+Bacteria	Permanent Draft	2854389045	Blautia sp. AF19-10LB	
+Bacteria	Permanent Draft	2855330742	Lachnoclostridium clostridioforme AM07-19	
+Bacteria	Permanent Draft	2855340947	Lachnoclostridium bolteae AF27-9	
+Bacteria	Permanent Draft	2855366388	Lachnoclostridium bolteae AF14-18	
+Bacteria	Permanent Draft	2858086945	Eubacterium sp. AF17-7	
+Bacteria	Permanent Draft	2859132747	Fusobacterium mortiferum OM06-15BH	
+Bacteria	Permanent Draft	2861266387	Pectinatus brassicae DSM 24661	
+Bacteria	Permanent Draft	2861591105	Oribacterium sinus DSM 17245	
+Bacteria	Permanent Draft	2868215698	Veillonella sp. CHU594	
+Bacteria	Permanent Draft	2868224162	Veillonella sp. CNR 79/14	
+Bacteria	Permanent Draft	2868586988	Blautia sp. AF34-10	
+Bacteria	Permanent Draft	2868634513	Blautia obeum AF24-10LB	
+Bacteria	Permanent Draft	2868637949	Blautia gnavus ERS1034241	
+Bacteria	Permanent Draft	2869326763	Fusobacterium mortiferum AM25-1	
+Bacteria	Finished	2873558832	Brevilactibacter coleopterorum HDW11	
+Bacteria	Finished	2873620646	Leucobacter coleopterorum HDW9A	
+Bacteria	Permanent Draft	2873722665	Ruminococcus sp. AF24-32LB	
+Bacteria	Permanent Draft	2875999960	Mediterraneibacter lactaris AM09-9	
+Bacteria	Permanent Draft	2876038466	Ruminococcus sp. AM36-18	
+Bacteria	Permanent Draft	2876064651	Ruminococcus bromii TM09-18AC	
+Bacteria	Permanent Draft	2876114868	Blautia gnavus AM32-6	
+Bacteria	Permanent Draft	2878485348	Ruminococcus sp. AF37-6AT	
+Bacteria	Permanent Draft	2881139545	Clostridiales bacterium Marseille-P5551	
+Bacteria	Permanent Draft	2881935412	Chloroploca sp. Khr17	
+Bacteria	Permanent Draft	2882687645	Unclassified bacterium 0.1xD8-71	
+Bacteria	Permanent Draft	2882847703	Mediterraneibacter sp. gm002	
+Bacteria	Finished	2883367716	Crassaminicella thermophila SY095	
+Bacteria	Finished	2883536940	Aminipila terrae CBA3637	
+Bacteria	Permanent Draft	2883768972	Tropicimonas sp. IMCC6043	
+Bacteria	Finished	2883875780	Romboutsia sp. CE17	
+Bacteria	Permanent Draft	2886505838	Maribellus sediminis GM1-28	
+Bacteria	Permanent Draft	2886844279	Maribellus sp. Y2-1-60	
+Bacteria	Permanent Draft	2889551689	Sporanaerobacter acetigenes F-12	
+Bacteria	Permanent Draft	2889768202	Lactonifactor sp. BIOML-A6	
+Bacteria	Permanent Draft	2890213068	Prolixibacter sp. NT017	
+Bacteria	Permanent Draft	2890571420	Tissierella pigra DSM 105185	
+Bacteria	Permanent Draft	2891122474	Mediterraneibacter faecis BIOML-A1	
+Bacteria	Permanent Draft	2891407665	Anaerotruncus sp. 1XD22-93	
+Bacteria	Permanent Draft	2894590789	Rhodovulum robiginosum DSM 12329	
+Bacteria	Permanent Draft	2895256602	Polaribacter butkevichii KCTC 12100	
+Bacteria	Permanent Draft	2895405293	Selenomonas montiformis WCA-380-WT-3B	
+Bacteria	Permanent Draft	2895410785	Brachyspira catarrhinii Z12	
+Bacteria	Permanent Draft	2895743253	Faecalibacterium sp. BIOML-A3	
+Bacteria	Permanent Draft	2896025482	Dorea sp. BIOML-A1	
+Bacteria	Permanent Draft	2898777610	Veillonella sp. S13054-11	
+Bacteria	Permanent Draft	2899870384	Ruminococcus sp. AF19-15	
+Bacteria	Permanent Draft	2899880096	Ruminococcus sp. AF17-24	
+Bacteria	Permanent Draft	2900006566	Blautia sp. Marseille-P3201	
+Bacteria	Permanent Draft	2901163782	Alkaliphilus hydrothermalis DSM 25890	
+Bacteria	Permanent Draft	2905418788	Ruminococcus sp. TF11-2AC	
+Bacteria	Permanent Draft	2905447512	Ruminococcus sp. KGMB03662	
+Bacteria	Permanent Draft	2910432983	Sellimonas intestinalis MSK.1.24	
+Bacteria	Permanent Draft	2910463299	Sellimonas intestinalis MSK.1.19	
+Bacteria	Permanent Draft	2910612945	Mediterraneibacter gnavus MSK.23.93	
+Bacteria	Permanent Draft	2910639152	Mediterraneibacter gnavus MSK.7.31	
+Bacteria	Permanent Draft	2910935482	Hungatella sp. L36	
+Bacteria	Permanent Draft	2910966200	Lachnospira sp. NSJ-43	
+Bacteria	Permanent Draft	2911371034	Eubacterium rectale MSK.17.52	
+Bacteria	Permanent Draft	2911374368	Eubacterium rectale MSK.22.39	
+Bacteria	Permanent Draft	2911388486	Eubacterium rectale MSK.13.47	
+Bacteria	Permanent Draft	2911407962	Eubacterium rectale MSK.16.22	
+Bacteria	Permanent Draft	2911488697	Coprococcus comes MSK.16.14	
+Bacteria	Permanent Draft	2913380516	Treponema pedis DSM 18691	
+Bacteria	Permanent Draft	2914509019	Enterocloster clostridioformis MSK.2.59	
+Bacteria	Permanent Draft	2914524772	Enterocloster clostridioformis MSK.2.98	
+Bacteria	Permanent Draft	2914688799	Ruthenibacterium lactatiformans BIOML-A14	
+Bacteria	Permanent Draft	2914752312	Phascolarctobacterium faecium BIOML-A12	
+Bacteria	Permanent Draft	2914945303	Mediterraneibacter gnavus MSK.19.33	
+Bacteria	Permanent Draft	2915047626	Mediterraneibacter torques BIOML-A5	
+Bacteria	Permanent Draft	2915050589	Mediterraneibacter gnavus MSK.23.71	
+Bacteria	Permanent Draft	2915386697	Roseburia sp. NSJ-67	
+Bacteria	Permanent Draft	2915449350	Eubacterium rectale MSK.22.19	
+Bacteria	Permanent Draft	2917530833	Carboxylicivirga sp. M1479	
+Bacteria	Permanent Draft	2920118575	Lacrimispora celerecrescens MSK.15.50	
+Bacteria	Permanent Draft	2920251457	Fusicatenibacter saccharivorans MSK.15.44	
+Bacteria	Permanent Draft	2920339688	Fusicatenibacter saccharivorans MSK.22.74	
+Bacteria	Permanent Draft	2920512454	Mediterraneibacter torques BIOML-A1	
+Bacteria	Permanent Draft	2920571820	Paeniclostridium sordellii BIOML-A2	
+Bacteria	Permanent Draft	2920735642	Coprococcus comes MSK.17.45	
+Bacteria	Permanent Draft	2920995960	Veillonella parvula BIOML-A1	
+Bacteria	Permanent Draft	2921176663	Blautia wexlerae MSK.19.90	
+Bacteria	Permanent Draft	2921196575	Blautia wexlerae BIOML-A8	
+Bacteria	Permanent Draft	2921469007	Ruminococcus bromii BIOML-A3	
+Bacteria	Permanent Draft	2921473944	Ruminococcus sp. AF12-5	
+Bacteria	Permanent Draft	2924090950	Blautia hansenii MSK.15.26	
+Bacteria	Permanent Draft	2924105468	Blautia wexlerae BIOML-A6	
+Bacteria	Permanent Draft	2924252848	Ruminococcus sp. OM05-7	
+Bacteria	Permanent Draft	2926563151	Thermoanaerobacter pentosaceus DSM 25963	
+Bacteria	Permanent Draft	2928404274	Clostridium citroniae DSM 19261	
+Bacteria	Permanent Draft	2928587524	Clostridium oroticum DSM 1287	
+Bacteria	Permanent Draft	2929249989	Rhodobium gokarnense DSM 17935	
+Bacteria	Permanent Draft	2929322674	Rhodoblastus acidophilus MO	
+Bacteria	Permanent Draft	2936924733	Blautia obeum MSK.18.40	
+Bacteria	Permanent Draft	2936981068	Blautia wexlerae MSK.15.6	
+Bacteria	Permanent Draft	2936984999	Blautia faecis MSK.17.74	
+Bacteria	Permanent Draft	2940283334	Lachnospiraceae bacterium PF1-4	
+Bacteria	Permanent Draft	2940286528	Lachnospiraceae bacterium PFB1-21	
+Bacteria	Permanent Draft	2940289514	Lachnospiraceae bacterium PM6-15	
+Bacteria	Permanent Draft	2967629817	Blautia obeum MSK.17.81	
+Bacteria	Permanent Draft	2957293568	Blautia wexlerae BIOML-A17	
+Bacteria	Permanent Draft	2957312154	Blautia sp. M29	
+Bacteria	Permanent Draft	2957318817	Blautia massiliensis BIOML-A1	
+Bacteria	Permanent Draft	2960548025	Blautia wexlerae MSK.15.30	
+Bacteria	Permanent Draft	2960580794	Blautia massiliensis MSK.6.6	
+Bacteria	Permanent Draft	2964558885	Blautia wexlerae MSK.19.37	
+Bacteria	Permanent Draft	2964575765	Blautia massiliensis MSK.13.38	
+Bacteria	Permanent Draft	2967639736	Blautia wexlerae MSK.21.6	
+Bacteria	Permanent Draft	2967660781	Blautia wexlerae MSK.18.16	
+Bacteria	Finished	637000117	Fusobacterium nucleatum nucleatum ATCC 25586	
+Bacteria	Permanent Draft	638341060	Chlorobium ferrooxidans DSM 13031	
+Bacteria	Permanent Draft	638341097	Fusobacterium nucleatum vincentii ATCC 49256	
+Bacteria	Finished	640753026	Fervidobacterium nodosum Rt17-B1	
+Bacteria	Finished	641228475	Alkaliphilus oremlandii OhILAs	
+Bacteria	Finished	641228486	Lachnoclostridium phytofermentans ISDg	
+Bacteria	Finished	642555123	Chloroherpeton thalassium ATCC 35110	
+Bacteria	Finished	643692010	Brachyspira hyodysenteriae sv. B WA1	
+Bacteria	Permanent Draft	643886104	Oribacterium sinus F0268	
+Bacteria	Permanent Draft	643886112	Lachnoclostridium asparagiforme DSM 15981	
+Bacteria	Finished	644736366	Eubacterium eligens ATCC 27750	
+Bacteria	Finished	644736379	Kosmotoga olearia TBF 19.5.1	
+Bacteria	Permanent Draft	645951802	Selenomonas sputigena ATCC 35185	
+Bacteria	Permanent Draft	645951860	Leptotrichia hofstadii F0254	
+Bacteria	Permanent Draft	646206275	Fusobacterium varium ATCC 27725	
+Bacteria	Permanent Draft	647000302	Pyramidobacter piscolens W5455	
+Bacteria	Finished	648028027	Maribacter sp. HTCC2170	
+Bacteria	Finished	648028059	Thermoanaerobacter sp. X513	
+Bacteria	Permanent Draft	648276723	Selenomonas sp. oral taxon 149 67H29BP	
+Bacteria	Finished	650377925	Coprococcus catus GD/7	
+Bacteria	Finished	650377965	Roseburia intestinalis XB6B4	
+Bacteria	Permanent Draft	649989997	Selenomonas sp. oral taxon 137 F0430	
+Bacteria	Finished	650716026	Cellulosilyticum lentocellum RHM5, DSM 5427	
+Bacteria	Finished	2507262051	Hungateiclostridium clariflavum EBR 45, DSM 19732	
+Bacteria	Permanent Draft	2506520040	Chloroflexus sp. Y-396-1	
+Bacteria	Permanent Draft	651324052	Lachnospiraceae bacterium 6_1_37FAA	
+Bacteria	Permanent Draft	651324056	Lachnospiraceae sp. Oral Taxon 107 F0167	
+Bacteria	Permanent Draft	651285002	Clostridium sp. D5	
+Bacteria	Permanent Draft	2509276025	Thermoanaerobacter siderophilus SR4	
+Bacteria	Finished	2503508009	Mahella australiensis 50-1 BON, DSM 15567	
+Bacteria	Finished	2505119043	Thermovirga lienii Cas60314, DSM 17291	
+Bacteria	Finished	2511231162	Rhodospirillum rubrum F11	
+Bacteria	Finished	2511231076	Candidatus Arthromitus sp. SFB-mouse-Japan	
+Bacteria	Permanent Draft	2513237117	Acidipropionibacterium acidipropionici DSM 4900	
+Bacteria	Permanent Draft	2513237280	Odoribacter laneus YIT 12061	
+Bacteria	Permanent Draft	2515154026	Butyricimonas synergistica DSM 23225	
+Bacteria	Permanent Draft	2515154052	Thermophagus xiamenensis HS1	
+Bacteria	Permanent Draft	2515154211	Erysipelothrix tonsillarum DSM 14972	
+Bacteria	Permanent Draft	2519899634	Fusobacterium russii ATCC 25533	
+Bacteria	Finished	2522125167	Thermoclostridium stercorarium stercorarium DSM 8532	
+Bacteria	Permanent Draft	2524614802	Lachnospira multipara ATCC 19207	
+Bacteria	Permanent Draft	2531839009	Lachnoclostridium bolteae 90A9	
+Bacteria	Permanent Draft	2531839338	Selenomonas sp. F0473	
+Bacteria	Permanent Draft	2531839544	Fusobacterium necrophorum Fnf1007	
+Bacteria	Permanent Draft	2534681824	Veillonella ratti ACS-216-V-Col6b	
+Bacteria	Permanent Draft	2534681891	Candidatus Arthromitus sp. SFB-4 (unscreened)	
+Bacteria	Permanent Draft	2534681892	Candidatus Arthromitus sp. SFB-3 (unscreened)	
+Bacteria	Permanent Draft	2537562210	Austwickia chelonae NBRC 105200	
+Bacteria	Permanent Draft	2541046957	Aminiphilus circumscriptus DSM 16581	
+Bacteria	Permanent Draft	2545555860	Brachyspira alvinipulli ATCC 51933	
+Bacteria	Permanent Draft	2545824667	Enterococcus pallens ATCC BAA-351	
+Bacteria	Permanent Draft	2547132133	Alistipes timonensis JC136	
+Bacteria	Finished	2554235387	Thermotoga maritima MSB8	
+Bacteria	Finished	2554235746	Fusobacterium nucleatum vincentii 3_1_36A2	
+Bacteria	Permanent Draft	2558309103	Pseudothermotoga elfii DSM 9442	
+Bacteria	Permanent Draft	2558860134	Lachnospira multipara MC2003	
+Bacteria	Permanent Draft	2558860247	Fusobacterium nucleatum 13_3C	
+Bacteria	Permanent Draft	2558860385	Acidaminococcus sp. BV3L6	
+Bacteria	Permanent Draft	2558860914	Enterococcus pallens ATCC BAA-351	
+Bacteria	Permanent Draft	2558860927	Fusobacterium sp. OBRC1	
+Bacteria	Permanent Draft	2558860969	Lachnobacterium bovis AE2004	
+Bacteria	Permanent Draft	2558860988	Lachnospiraceae bacterium MD2004	
+Bacteria	Permanent Draft	2561511225	Lachnospiraceae bacterium AC2028	
+Bacteria	Permanent Draft	2562617013	Selenomonas ruminantium AB3002	
+Bacteria	Permanent Draft	2562617153	Fusobacterium nucleatum animalis 3_1_33	
+Bacteria	Permanent Draft	2562617188	Lachnospiraceae bacterium 3_1_57FAA_CT1	
+Bacteria	Permanent Draft	2563366771	Fusobacterium nucleatum CTI-2	
+Bacteria	Permanent Draft	2563367177	Paeniclostridium sordellii ATCC 9714	
+Bacteria	Permanent Draft	2574180213	Clostridium cellulosi CS-4-4	
+Bacteria	Permanent Draft	2576861702	Fusobacterium necrophorum BFTR-1	
+Bacteria	Permanent Draft	2582580731	Fervidobacterium gondwanense DSM 13020	
+Bacteria	Finished	2585427614	Ruminococcus bicirculans 80/3	
+Bacteria	Permanent Draft	2585428066	Anaerosphaera aminiphila DSM 21120	
+Bacteria	Permanent Draft	2585428087	Pseudobutyrivibrio xylanivorans DSM 14809	
+Bacteria	Permanent Draft	2585428148	Cetobacterium ceti ATCC 700028	
+Bacteria	Permanent Draft	2585428170	Geosporobacter subterraneus DSM 17957	
+Bacteria	Permanent Draft	2588253509	Anaerosporobacter mobilis DSM 15930	
+Bacteria	Permanent Draft	2588253727	Acetoanaerobium noterae ATCC 35199	
+Bacteria	Permanent Draft	2593339211	Acidaminococcus fermentans pGA-4	
+Bacteria	Permanent Draft	2593339268	Pseudobutyrivibrio sp. C4	
+Bacteria	Permanent Draft	2599185146	Acetomicrobium thermoterrenum DSM 13490	
+Bacteria	Permanent Draft	2600254992	Clostridium sp. VPI C48-50	
+Bacteria	Permanent Draft	2600255044	Leptotrichia sp. oral taxon 879 F0557	
+Bacteria	Permanent Draft	2600255121	Thermotoga neapolitana LA10	
+Bacteria	Permanent Draft	2600255156	Lachnospiraceae bacterium 28-4	
+Bacteria	Permanent Draft	2600255239	Selenomonas sp. oral taxon 892 F0426	
+Bacteria	Permanent Draft	2602041624	Treponema pedis T M1	
+Bacteria	Permanent Draft	2603880195	Clostridium sp. FS41	
+Bacteria	Permanent Draft	2603880218	Hungateiclostridium thermocellum AD2	
+Bacteria	Permanent Draft	2606217737	Pseudobutyrivibrio sp. UC1225	
+Bacteria	Permanent Draft	2608642107	Lachnospiraceae bacterium C7	
+Bacteria	Permanent Draft	2617270845	Thermosipho sp. 1074	
+Bacteria	Permanent Draft	2617270874	Cohaesibacter marisflavi CGMCC 1.9157	
+Bacteria	Permanent Draft	2617271230	Alistipes sp. AL-1	
+Bacteria	Permanent Draft	2619618824	Trichococcus ilyis DSM 22150	
+Bacteria	Permanent Draft	2619618835	Trichococcus flocculiformis DSM 23957	
+Bacteria	Permanent Draft	2622736582	Carnobacterium iners DSM 28070	
+Bacteria	Permanent Draft	2622736611	Lutibacter maritimus DSM 24450	
+Bacteria	Permanent Draft	2627853772	Candidatus Competibacter denitrificans Run_A_D11	
+Bacteria	Permanent Draft	2627854205	Polaribacter sp. Hel_I_85	
+Bacteria	Permanent Draft	2634166351	Anaerocolumna aminovalerica DSM 1283	
+Bacteria	Permanent Draft	2636415408	Tetrasphaera australiensis Ben110	
+Bacteria	Permanent Draft	2642422558	Halanaerobium congolense UTICA-W4B3	
+Bacteria	Permanent Draft	2645727882	Veillonella tobetsuensis ATCC BAA-2400	
+Bacteria	Permanent Draft	2645728094	Hungateiclostridium thermocellum BC1	
+Bacteria	Permanent Draft	2648501192	Clostridia bacterium UC5.1-1A9	
+Bacteria	Permanent Draft	2648501893	Lachnoclostridium clostridioforme WAL-7855	
+Bacteria	Finished	2651869763	Paeniclostridium sordellii ATCC 9714	
+Bacteria	Permanent Draft	2651870363	Megamonas sp. Calf98-2	
+Bacteria	Finished	2654587580	Carnobacterium sp. CP1	
+Bacteria	Finished	2654587998	Paeniclostridium sordellii JGS6382	
+Bacteria	Permanent Draft	2660238633	Paeniclostridium sordellii W3026	
+Bacteria	Permanent Draft	2667527435	Polaribacter sp. KT25b	
+Bacteria	Finished	2667527571	Rhodovulum sulfidophilum DSM 1374	
+Bacteria	Permanent Draft	2667527745	Clostridium tetanomorphum DSM 665	
+Bacteria	Permanent Draft	2667527889	Ruminococcaceae bacterium cv2	
+Bacteria	Permanent Draft	2671180235	Tessaracoccus flava RP1	
+Bacteria	Permanent Draft	2671180409	Brachyspira hyodysenteriae WA100	
+Bacteria	Permanent Draft	2675902961	Lachnoclostridium sphenoides ATCC 19403	
+Bacteria	Permanent Draft	2675903020	Rhodospira trueperi ATCC 700224	
+Bacteria	Permanent Draft	2675903555	Fusobacterium nucleatum nucleatum ChDC F311	
+Bacteria	Permanent Draft	2681813452	Fusobacterium necrophorum funduliforme LS_1264	
+Bacteria	Permanent Draft	2681813518	Tropicimonas sediminicola DSM 29339	
+Bacteria	Permanent Draft	2684622539	Eubacterium sp. SB2	
+Bacteria	Permanent Draft	2687453746	Austwickia chelonae DSM 44178	
+Bacteria	Permanent Draft	2690316186	Paeniclostridium sordellii SSCC37615	
+Bacteria	Permanent Draft	2693429854	Alistipes timonensis DSM 25383	
+Bacteria	Permanent Draft	2693429866	Nocardia asteroides DSM 43373	
+Bacteria	Permanent Draft	2695420316	Paenirhodobacter sp. MME-103	
+Bacteria	Permanent Draft	2695420662	Paeniclostridium sordellii R29426	
+Bacteria	Permanent Draft	2698536546	Brachyspira hyodysenteriae ST190	
+Bacteria	Permanent Draft	2703719087	unclassified Paludibacteraceae bin 19	
+Bacteria	Permanent Draft	2703719090	unclassified Lachnospiraceae bin 19	
+Bacteria	Permanent Draft	2703719133	unclassified Lachnospiraceae bin 21	
+Bacteria	Permanent Draft	2703719137	Butyrivibrio sp. bin 26	
+Bacteria	Permanent Draft	2703719149	Ruminoclostridium sp. bin 10	
+Bacteria	Permanent Draft	2703719268	unclassified Chlorobi bacterium bin2	
+Bacteria	Permanent Draft	2708742583	Bacteroidetes bacterium GWA2_33_15	
+Bacteria	Permanent Draft	2710264748	Lutibacter oceani 325-5	
+Bacteria	Permanent Draft	2711768142	Brachyspira hyodysenteriae NX	
+Bacteria	Permanent Draft	2711768146	Brachyspira hyodysenteriae B8044	
+Bacteria	Permanent Draft	2711768148	Brachyspira hyodysenteriae G44	
+Bacteria	Permanent Draft	2711768657	Clostridium thermoalcaliphilum JW/YL23-2	
+Bacteria	Finished	2718217834	Cloacibacillus porcorum CL-84	
+Bacteria	Finished	2718217923	Clostridium formicaceticum ATCC 27076	
+Bacteria	Finished	2721755613	Ruminiclostridium sp. KB18	
+Bacteria	Permanent Draft	2724679226	Fusobacterium necrophorum funduliforme F1351	
+Bacteria	Permanent Draft	2724679726	Anaerolinea sp. Bin 2	
+Bacteria	Permanent Draft	2728369339	Christensenella minuta DSM 22607	
+Bacteria	Permanent Draft	2739367637	Chlorobi bacterium JGI_MCM14TBH044 (contamination screened)	
+Bacteria	Finished	2739367875	Deinococcus ficus CC-FR2-10	
+Bacteria	Permanent Draft	2740892501	Ruminococcus sp. DSM 100440	
+Bacteria	Permanent Draft	2740892605	Halanaerobium congolense DSM 11287	
+Bacteria	Permanent Draft	2751185644	Clostridiales bacterium Firm_12	
+Bacteria	Permanent Draft	2751185645	Clostridiales bacterium Firm_11	
+Bacteria	Permanent Draft	2751185678	Porphyromonadaceae bacterium H1	
+Bacteria	Permanent Draft	2751185686	Eisenbergiella tayi NML 110678	
+Bacteria	Permanent Draft	2751185688	Eisenbergiella tayi NML 120146	
+Bacteria	Permanent Draft	2751185690	Eisenbergiella tayi NML 110608	
+Bacteria	Permanent Draft	2751185701	Fusibacter sp. 3D3	
+Bacteria	Permanent Draft	2754412935	Lachnoanaerobaculum umeaense DSM 23576	
+Bacteria	Permanent Draft	2756170264	Lachnotalea glycerini DSM 28816	
+Bacteria	Permanent Draft	2756170310	Balneicella halophila DSM 28579	
+Bacteria	Permanent Draft	2757320519	Bacteroides galacturonicus DSM 3978	
+Bacteria	Permanent Draft	2770939610	unclassified Ignavibacteriales BinDG074mb26	
+Bacteria	Permanent Draft	2775506967	Mediterraneibacter massiliensis AT10	
+Bacteria	Permanent Draft	2775507066	Clostridium sp. AT4	
+Bacteria	Permanent Draft	2778261582	Pseudoclostridium thermosuccinogenes DSM 5806	
+Bacteria	Permanent Draft	2778261583	Pseudoclostridium thermosuccinogenes DSM 5809	
+Bacteria	Permanent Draft	2786546531	Bacteroidetes bacterium CG_4_10_14_3_um_filter_42_6	
+Bacteria	Permanent Draft	2786546943	Labilibacter marinus Y11	
+Bacteria	Permanent Draft	2788500104	Agathobacter ruminis JK623	
+Bacteria	Permanent Draft	2788500105	Fusicatenibacter saccharivorans 2789STDY5834923	
+Bacteria	Permanent Draft	2788500107	Fusicatenibacter saccharivorans 2789STDY5608849	
+Bacteria	Permanent Draft	2788500164	Flavobacteriaceae bacterium CG_4_10_14_3_um_filter_33_47	
+Bacteria	Permanent Draft	2788500244	Anaeromassilibacillus sp. An200	
+Bacteria	Permanent Draft	2788500446	Faecalibacterium sp. An122	
+Bacteria	Permanent Draft	2788500543	Alistipes sp. An54	
+Bacteria	Permanent Draft	2788500600	Lachnoclostridium sp. An138	
+Bacteria	Permanent Draft	2791354919	Romboutsia timonensis Marseille-P326	
+Bacteria	Permanent Draft	2799112275	Mariniflexile fucanivorans DSM 18792	
+Bacteria	Permanent Draft	2799112380	Clostridiales bacterium RUG008	
+Bacteria	Permanent Draft	2799112387	Clostridiales bacterium RUG300	
+Bacteria	Permanent Draft	2799112391	Clostridiales bacterium RUG117	
+Bacteria	Permanent Draft	2799112392	Clostridiales bacterium RUG364	
+Bacteria	Permanent Draft	2799112468	Clostridiales bacterium RUG213	
+Bacteria	Permanent Draft	2799112526	Clostridiales bacterium RUG381	
+Bacteria	Permanent Draft	2799112539	Clostridiales bacterium RUG633	
+Bacteria	Permanent Draft	2799112540	Clostridiales bacterium RUG635	
+Bacteria	Permanent Draft	2799112557	Clostridiales bacterium RUG340	
+Bacteria	Permanent Draft	2799112632	Veillonellaceae bacterium RUG102	
+Bacteria	Permanent Draft	2799112634	Veillonellaceae bacterium RUG276	
+Bacteria	Permanent Draft	2799112650	Erysipelotrichaceae bacterium RUG388	
+Bacteria	Permanent Draft	2799112801	Lachnospiraceae bacterium RUG151	
+Bacteria	Permanent Draft	2799112805	Lachnospiraceae bacterium hRUG872	
+Bacteria	Permanent Draft	2799112815	Lachnospiraceae bacterium hRUG868	
+Bacteria	Permanent Draft	2799112825	Lachnospiraceae bacterium RUG170	
+Bacteria	Permanent Draft	2799112827	Lachnospiraceae bacterium RUG285	
+Bacteria	Permanent Draft	2799112828	Lachnospiraceae bacterium RUG283	
+Bacteria	Permanent Draft	2799112842	Lachnospiraceae bacterium RUG613	
+Bacteria	Permanent Draft	2799112845	Lachnospiraceae bacterium RUG477	
+Bacteria	Permanent Draft	2799112852	Lachnospiraceae bacterium RUG274	
+Bacteria	Permanent Draft	2799112858	Lachnospiraceae bacterium RUG830	
+Bacteria	Permanent Draft	2799112860	Lachnospiraceae bacterium RUG595	
+Bacteria	Permanent Draft	2802429513	Lachnospira eligens 2789STDY5834878	
+Bacteria	Finished	2802429552	Clostridium ultunense Esp	
+Bacteria	Permanent Draft	2802429558	Alistipes finegoldii 2789STDY5608890	
+Bacteria	Permanent Draft	2806310872	Blautia wexlerae 2789STDY5834911	
+Bacteria	Permanent Draft	2806310958	Blautia torques 2789STDY5608867	
+Bacteria	Permanent Draft	2806310968	Dorea longicatena 2789STDY5834961	
+Bacteria	Permanent Draft	2808606684	Peptoniphilus harei NCTC 13076	
+Bacteria	Finished	2808606942	Erysipelothrix rhusiopathiae WH13013	
+Bacteria	Permanent Draft	2808606998	Phycisphaeraceae bacterium SB-MAG 66	
+Bacteria	Permanent Draft	2811995349	Synergistes jonesii 100-6	
+Bacteria	Permanent Draft	2814123322	Pseudobutyrivibrio ruminis JK626	
+Bacteria	Permanent Draft	2820560510	Unclassified Firmicutes Emb289P3bin72	
+Bacteria	Permanent Draft	2820772500	Unclassified Bacteroidetes Lab288P1bin72	
+Bacteria	Permanent Draft	2820979626	Brooklawnia cerclae DSM 19609	
+Bacteria	Finished	2825546180	Candidatus Arthromitus sp. SFB-mouse-Yit	
+Bacteria	Permanent Draft	2827971030	Flammeovirga yaeyamensis DSM 25626	
+Bacteria	Permanent Draft	2829179110	Bacteroidales bacterium DeMMO4_2	
+Bacteria	Permanent Draft	2829342635	Melioribacteraceae bacterium DeMMO6_3	
+Bacteria	Permanent Draft	2829370336	Melioribacteraceae bacterium DeMMO6_10	
+Bacteria	Permanent Draft	2830049664	Butyricimonas paravirosa DSM 105722	
+Bacteria	Permanent Draft	2831455154	Thermohalobacter berrensis CTT3	
+Bacteria	Permanent Draft	2832379076	Eubacterium rectale OM05-3AA	
+Bacteria	Permanent Draft	2832413433	Mitsuokella sp. AF33-22	
+Bacteria	Permanent Draft	2833313268	Eubacterium rectale AF18-16LB	
+Bacteria	Permanent Draft	2833412858	Butyricimonas virosa AM16-14	
+Bacteria	Permanent Draft	2834167860	Subdoligranulum sp. AM16-9	
+Bacteria	Permanent Draft	2834175792	Subdoligranulum sp. OF01-18	
+Bacteria	Permanent Draft	2834293421	Paeniclostridium sordellii CBA7122	
+Bacteria	Permanent Draft	2834301664	Selenomonas felix Marseille-P3560	
+Bacteria	Permanent Draft	2835324385	Faecalibacterium sp. OF03-6AC	
+Bacteria	Finished	2836650006	Faecalibacterium prausnitzii 942/30-2	
+Bacteria	Finished	2836804099	Azoarcus communis TSPY31	
+Bacteria	Finished	2836968376	Caproiciproducens sp. NJN-50	
+Bacteria	Permanent Draft	2837489595	Faecalibacterium prausnitzii CNCM 4644	
+Bacteria	Permanent Draft	2837506649	Trichococcus pasteurii ERS1059947	
+Bacteria	Permanent Draft	2837605134	Alistipes senegalensis ERS2913215	
+Bacteria	Permanent Draft	2838081316	Rhodoblastus acidophilus DSM 145	
+Bacteria	Permanent Draft	2838114448	Roseospira marina DSM 15113	
+Bacteria	Permanent Draft	2838791401	Brachyspira sp. G79	
+Bacteria	Permanent Draft	2839222454	Desulfotomaculum sp. OF05-3	
+Bacteria	Permanent Draft	2839436592	Hungatella hathewayi TF05-11AC	
+Bacteria	Permanent Draft	2839783923	Erysipelothrix rhusiopathiae NCTC 7999	
+Bacteria	Permanent Draft	2839797430	Formosa algae KMM 8021	
+Bacteria	Permanent Draft	2840468577	Coprococcus phoceensis Marseille-P3062	
+Bacteria	Permanent Draft	2840540285	Odoribacter sp. AF21-41	
+Bacteria	Finished	2840562631	Peptoniphilus harei NCTC13077	
+Bacteria	Finished	2841155221	Thermoanaerobacter ethanolicus JW 200	
+Bacteria	Permanent Draft	2842954795	Hungatella hathewayi AM58-2	
+Bacteria	Permanent Draft	2842967777	Megamonas funiformis Marseille-P3344	
+Bacteria	Permanent Draft	2843003488	Roseburia sp. AF15-21	
+Bacteria	Permanent Draft	2844121543	Blautia sp. SG-772	
+Bacteria	Permanent Draft	2845961267	Odoribacter splanchnicus AF14-6AC	
+Bacteria	Permanent Draft	2846171839	Roseburia sp. AM59-24XD	
+Bacteria	Permanent Draft	2848748168	Faecalibacterium prausnitzii AM39-7BH	
+Bacteria	Finished	2848865092	Azospirillum thermophilum CFH 70021	
+Bacteria	Permanent Draft	2848933389	Eubacterium sp. AF36-5BH	
+Bacteria	Permanent Draft	2849511984	Ruminococcus sp. AF41-9	
+Bacteria	Permanent Draft	2849516448	Ruminococcus sp. AF25-3LB	
+Bacteria	Permanent Draft	2849758459	Roseburia intestinalis AM43-11	
+Bacteria	Permanent Draft	2849769817	Roseburia sp. OM03-18	
+Bacteria	Permanent Draft	2849789194	Dorea longicatena OM02-16	
+Bacteria	Permanent Draft	2849827911	Faecalibacterium prausnitzii APC924/119	
+Bacteria	Permanent Draft	2849839919	Faecalibacterium sp. AF27-11BH	
+Bacteria	Permanent Draft	2849842703	Faecalibacterium prausnitzii AF31-14AC	
+Bacteria	Permanent Draft	2850031991	Eubacterium sp. AF19-12LB	
+Bacteria	Permanent Draft	2854021759	Roseburia inulinivorans AM32-8LB	
+Bacteria	Permanent Draft	2854242391	Ruminococcus bromii 5AMG	
+Bacteria	Permanent Draft	2854370667	Blautia obeum AM18-2AC	
+Bacteria	Permanent Draft	2854385207	Blautia obeum AF14-23	
+Bacteria	Permanent Draft	2855258187	Enterocloster aldenensis AF19-9LB	
+Bacteria	Permanent Draft	2855308460	Enterocloster aldenensis AM40-2AC	
+Bacteria	Permanent Draft	2856188983	Fusobacterium nucleatum polymorphum KCOM 1257 (=ChDC F186)	
+Bacteria	Permanent Draft	2857266821	Lachnoclostridium clostridioforme YL32	
+Bacteria	Permanent Draft	2857946066	Ruminococcus sp. AF25-17	
+Bacteria	Permanent Draft	2858125923	Lachnospira eligens AM37-3BH	
+Bacteria	Permanent Draft	2858547677	Lachnoclostridium citroniae AF29-4	
+Bacteria	Permanent Draft	2859117974	Fusobacterium nucleatum polymorphum KCOM 1002 (=ChDC F175)	
+Bacteria	Permanent Draft	2859120581	Fusobacterium nucleatum polymorphum KCOM 1001	
+Bacteria	Permanent Draft	2861627031	Anaerocolumna cellulosilytica DSM 100423	
+Bacteria	Permanent Draft	2861672352	Brassicibacter mesophilus DSM 24659	
+Bacteria	Permanent Draft	2868225808	Veillonella sp. 3960	
+Bacteria	Permanent Draft	2868244394	Clostridium estertheticum FP3	
+Bacteria	Permanent Draft	2868580816	Ruminococcus sp. AF17-22AC	
+Bacteria	Permanent Draft	2868611705	Blautia sp. TF12-12AT	
+Bacteria	Permanent Draft	2870981443	Ruminococcus sp. AF25-19	
+Bacteria	Permanent Draft	2871014814	Blautia sp. TF11-31AT	
+Bacteria	Permanent Draft	2871021855	Blautia gnavus AF19-16AC	
+Bacteria	Permanent Draft	2871035726	Blautia obeum AM54-7NE	
+Bacteria	Permanent Draft	2873748450	Blautia obeum AF29-2BH	
+Bacteria	Permanent Draft	2876058045	Ruminococcus sp. AF16-40	
+Bacteria	Permanent Draft	2876122781	Blautia obeum AM29-25AC	
+Bacteria	Permanent Draft	2881892145	Lachnoanaerobaculum gingivalis KCOM 2030	
+Bacteria	Finished	2883813829	Caloranaerobacter azorensis T3-1	
+Bacteria	Permanent Draft	2883881386	Romboutsia sp. Marseille-P6047	
+Bacteria	Finished	2884082892	Formosa sediminum PS13	
+Bacteria	Finished	2884100806	Formosa sp. L2A11	
+Bacteria	Permanent Draft	2884262208	Anaerostipes sp. 992a	
+Bacteria	Permanent Draft	2884313820	Leptotrichia sp. OH3620_COT-345	
+Bacteria	Permanent Draft	2885131123	Clostridium fessum SNUG30386	
+Bacteria	Permanent Draft	2885627969	Clostridium sp. chh4-2	
+Bacteria	Permanent Draft	2886714250	Proteiniborus sp. DW1	
+Bacteria	Permanent Draft	2887138616	Maribellus luteus XSD2	
+Bacteria	Permanent Draft	2887353858	Defluviitalea raffinosedens 249c-K6	
+Bacteria	Permanent Draft	2887388934	Vallitalea guaymasensis L81	
+Bacteria	Permanent Draft	2887675433	Fulvivirga sp. M361	
+Bacteria	Permanent Draft	2887752426	Pararhodospirillum oryzae NBRC 107573	
+Bacteria	Finished	2888042986	Ruminococcus bovis JE7A12	
+Bacteria	Permanent Draft	2889554616	Sporanaerobacter sp. PP17-6a	
+Bacteria	Permanent Draft	2889810733	Mariniflexile maritimum M5A1M	
+Bacteria	Permanent Draft	2890025288	Prolixibacter sp. SD074	
+Bacteria	Permanent Draft	2890177224	Draconibacterium mangrovi GM2-18	
+Bacteria	Permanent Draft	2890187157	Pyramidobacter porci SM-530-WT-4B	
+Bacteria	Permanent Draft	2890411560	Desulfopila sp. IMCC35006	
+Bacteria	Permanent Draft	2890659659	Puteibacter caeruleilacunae JC036	
+Bacteria	Permanent Draft	2890868986	Cohaesibacter celericrescens H1304	
+Bacteria	Finished	2893925626	Thermoanaerobacterales bacterium SK-G1	
+Bacteria	Permanent Draft	2894003662	Ancylomarina euxinus M3P	
+Bacteria	Finished	2894492305	Erysipelothrix inopinata DSM 15511	
+Bacteria	Permanent Draft	2895224419	Peptoniphilus obesi MGYG-HGUT-01414	
+Bacteria	Permanent Draft	2895274309	Alistipes sp. Z76	
+Bacteria	Permanent Draft	2895402339	Selenomonas sp. mPRGC8	
+Bacteria	Permanent Draft	2898469121	Butyrivibrio sp. XB500-5	
+Bacteria	Permanent Draft	2900557729	Fusobacterium canifelinum OH4460_COT-188	
+Bacteria	Permanent Draft	2901118534	Fusibacter tunisiensis DSM 24436	
+Bacteria	Permanent Draft	2902127350	Ruminococcus sp. AM27-27	
+Bacteria	Permanent Draft	2902151629	Ruminococcus sp. AM41-10BH	
+Bacteria	Permanent Draft	2905398987	Ruminococcus bromii L2-63	
+Bacteria	Finished	2909973496	Tenericutes bacterium zrk29	
+Bacteria	Permanent Draft	2910296936	Faecalicatena fissicatena MSK.9.3	
+Bacteria	Permanent Draft	2910693379	Mediterraneibacter gnavus MSK.15.58	
+Bacteria	Permanent Draft	2910998294	Winogradskyella sp. HL116	
+Bacteria	Permanent Draft	2911423748	Eubacterium rectale MSK.9.13	
+Bacteria	Finished	2911608356	Selenomonas timonae Marseille-Q3039	
+Bacteria	Permanent Draft	2913338184	Clostridium tetanomorphum DSM 4474	
+Bacteria	Permanent Draft	2913508488	Peptoniphilus stercorisuis DSM 27563	
+Bacteria	Permanent Draft	2913867916	Bittarella massiliensis BIOML-A2	
+Bacteria	Permanent Draft	2914620301	Ruthenibacterium lactatiformans BIOML-A4	
+Bacteria	Permanent Draft	2914717666	Phascolarctobacterium faecium BIOML-A6	
+Bacteria	Permanent Draft	2914720101	Phascolarctobacterium faecium BIOML-A5	
+Bacteria	Finished	2914873612	Leptotrichia hofstadii JCM16775	
+Bacteria	Permanent Draft	2914969348	Mediterraneibacter torques BIOML-A7	
+Bacteria	Permanent Draft	2914980781	Mediterraneibacter gnavus MSK.23.91	
+Bacteria	Permanent Draft	2915291993	Dorea longicatena MSK.16.91	
+Bacteria	Permanent Draft	2915315223	Faecalibacterium prausnitzii BIOML-A1	
+Bacteria	Permanent Draft	2915394034	Roseburia sp. BX1005	
+Bacteria	Permanent Draft	2915401650	Roseburia faecis BIOML-A1	
+Bacteria	Permanent Draft	2915421834	Eubacterium rectale BIOML-A8	
+Bacteria	Permanent Draft	2915424716	Eubacterium rectale BIOML-A12	
+Bacteria	Permanent Draft	2915446445	Eubacterium rectale BIOML-A5	
+Bacteria	Permanent Draft	2915708116	Lachnoclostridium symbiosum MSK.1.9	
+Bacteria	Permanent Draft	2917705773	Azospirillum sp. ROY-1-1-2	
+Bacteria	Permanent Draft	2920093619	Anaerosacchariphilus sp. NSJ-68	
+Bacteria	Permanent Draft	2920168565	Paludibacter sp. 221	
+Bacteria	Permanent Draft	2920248158	Fusicatenibacter saccharivorans MSK.20.48	
+Bacteria	Permanent Draft	2920255135	Fusicatenibacter saccharivorans MSK.22.33	
+Bacteria	Permanent Draft	2920273967	Fusicatenibacter saccharivorans MSK.22.31	
+Bacteria	Permanent Draft	2920336205	Fusicatenibacter saccharivorans MSK.19.10	
+Bacteria	Permanent Draft	2920451953	Phascolarctobacterium faecium BIOML-A11	
+Bacteria	Permanent Draft	2920524009	Mediterraneibacter gnavus MSK.15.54	
+Bacteria	Permanent Draft	2920675771	Dorea longicatena BIOML-A6	
+Bacteria	Permanent Draft	2920723441	Coprococcus comes MSK.16.11	
+Bacteria	Permanent Draft	2921164026	Blautia wexlerae MSK.15.27	
+Bacteria	Permanent Draft	2921434309	Ruminococcus sp. OM05-10BH	
+Bacteria	Permanent Draft	2923816408	Dorea longicatena MSK.10.16	
+Bacteria	Permanent Draft	2923845044	Dorea longicatena MSK.18.60	
+Bacteria	Permanent Draft	2924094146	Blautia schinkii MSK.14.32	
+Bacteria	Permanent Draft	2924097705	Blautia wexlerae MSK.22.10	
+Bacteria	Permanent Draft	2924250660	Ruminococcus bromii AF25-7LB	
+Bacteria	Permanent Draft	2940273867	Lachnoclostridium sp. PH1-16	
+Bacteria	Permanent Draft	2957300953	Blautia wexlerae BIOML-A9	
+Bacteria	Permanent Draft	2957325845	Blautia wexlerae BIOML-A14	
+Bacteria	Permanent Draft	2960521503	Blautia luti MSK.16.34	
+Bacteria	Permanent Draft	2960525383	Blautia wexlerae MSK.20.76	
+Bacteria	Permanent Draft	2960537034	Blautia obeum BIOML-A1	
+Bacteria	Permanent Draft	2960561125	Blautia wexlerae MSK.18.42	
+Bacteria	Permanent Draft	2960564814	Blautia wexlerae MSK.20.46	
+Bacteria	Permanent Draft	2960572437	Blautia luti MSK.13.40	
+Bacteria	Permanent Draft	2964578842	Blautia glucerasea MSK.14.58	
+Bacteria	Permanent Draft	2964590280	Blautia obeum MSK.13.37	
+Bacteria	Permanent Draft	640963022	Eubacterium ventriosum ATCC 27560	
+Bacteria	Permanent Draft	640963025	Blautia torques ATCC 27756	
+Bacteria	Finished	641228485	Chloroflexus aurantiacus J-10-fl	
+Bacteria	Finished	641522643	Opitutus terrae PB90-1	
+Bacteria	Permanent Draft	641736256	Fusobacterium nucleatum polymorphum ATCC 10953	
+Bacteria	Permanent Draft	642979369	Tyzzerella nexilis DSM 1787	
+Bacteria	Finished	643886056	Acidaminococcus intestini D21	
+Bacteria	Permanent Draft	647000254	Fusobacterium nucleatum nucleatum ATCC 23726	
+Bacteria	Permanent Draft	647533242	Veillonella sp. 6_1_27	
+Bacteria	Permanent Draft	648276754	Veillonella atypica ACS-134-V-Col7a	
+Bacteria	Finished	649633052	Halanaerobium hydrogenoformans	
+Bacteria	Finished	649633078	Odoribacter splanchnicus 1651/6, DSM 20712	
+Bacteria	Finished	649633102	Thermoanaerobacter brockii finnii Ako-1, DSM 3389	
+Bacteria	Finished	650377964	Roseburia intestinalis M50/1	
+Bacteria	Permanent Draft	649989923	Lachnoclostridium symbiosum WAL-14673	
+Bacteria	Permanent Draft	2508501068	Thermanaerovibrio velox DSM 12556	
+Bacteria	Finished	2503508007	Pseudothermotoga thermarum DSM 5069	
+Bacteria	Permanent Draft	2509601038	Saccharicrinis fermentans DSM 9555	
+Bacteria	Finished	2508501120	Marinitoga piezophila KA3	
+Bacteria	Finished	2504756058	Thermoanaerobacter wiegelii Rt8.B1	
+Bacteria	Finished	2511231128	Roseburia hominis A2-183, DSM 16839	
+Bacteria	Permanent Draft	2513237316	Selenomonas infelix ATCC 43532	
+Bacteria	Permanent Draft	2513237336	Fusobacterium sp. oral taxon 370 F0437	
+Bacteria	Permanent Draft	2513237360	Lachnoclostridium citroniae WAL-17108	
+Bacteria	Permanent Draft	2513237367	Clostridium sp. 7_3_54FAA	
+Bacteria	Permanent Draft	2515154050	Anaerophaga thermohalophila Valhall	
+Bacteria	Permanent Draft	2517572213	Alistipes onderdonkii WAL 8169, DSM 19147	
+Bacteria	Permanent Draft	2519899693	Brachyspira hyodysenteriae ATCC 27164	
+Bacteria	Permanent Draft	2519899747	Fusobacterium nucleatum vincentii ATCC 51190	
+Bacteria	Permanent Draft	2522572158	Azospirillum halopraeferens DSM 3675	
+Bacteria	Permanent Draft	2524614687	Butyrivibrio sp. MB2005	
+Bacteria	Permanent Draft	2524614689	Butyrivibrio sp. XBB1001	
+Bacteria	Permanent Draft	2524614695	Butyrivibrio sp. XPD2002	
+Bacteria	Permanent Draft	2524614701	Dorea longicatena AGR2136	
+Bacteria	Permanent Draft	2524614718	Butyrivibrio sp. VCB2006	
+Bacteria	Permanent Draft	2524614719	Butyrivibrio sp. WCD2001	
+Bacteria	Permanent Draft	2526164716	Brachyspira pilosicoli WesB	
+Bacteria	Permanent Draft	2529293097	Pelosinus fermentans A11	
+Bacteria	Permanent Draft	2529293098	Pelosinus fermentans A12	
+Bacteria	Permanent Draft	2531839015	Lachnoclostridium clostridioforme 90A3	
+Bacteria	Permanent Draft	2537561517	Pelosinus fermentans B4	
+Bacteria	Permanent Draft	2540341206	Ruminococcus albus AD2013	
+Bacteria	Permanent Draft	2541047504	Blautia sp. KLE 1732	
+Bacteria	Permanent Draft	2558860127	Butyrivibrio proteoclasticus P6B7	
+Bacteria	Permanent Draft	2558860166	Lachnospiraceae bacterium NC2008	
+Bacteria	Permanent Draft	2561511080	Proteiniclasticum ruminis DSM 24773	
+Bacteria	Permanent Draft	2561511091	Butyrivibrio sp. WCE2006	
+Bacteria	Permanent Draft	2562617090	Marvinbryantia formatexigens I-52	
+Bacteria	Permanent Draft	2562617096	Blautia hansenii VPI C7-24, DSM 20583	
+Bacteria	Permanent Draft	2562617137	Ruminococcus albus 8	
+Bacteria	Permanent Draft	2563366772	Fusobacterium nucleatum CTI-3	
+Bacteria	Permanent Draft	2563367075	Nocardia asteroides NBRC 15531	
+Bacteria	Permanent Draft	2563367176	Caldanaerobacter subterraneus yonseiensis KB-1	
+Bacteria	Finished	2565956546	Eubacterium siraeum V10Sc8a	
+Bacteria	Permanent Draft	2565956805	Fusobacterium nucleatum CC53	
+Bacteria	Permanent Draft	2565956808	Fusobacterium nucleatum ChDC F128	
+Bacteria	Permanent Draft	2565956860	Fusobacterium nucleatum ChDC F206	
+Bacteria	Permanent Draft	2571042013	Fusobacterium perfoetens ATCC 29250	
+Bacteria	Permanent Draft	2576861787	Saccharicrinis fermentans JCM 21142	
+Bacteria	Permanent Draft	2582580592	Composite genome from Lake Mendota Epilimnion pan-assembly MEint.metabat.6180	
+Bacteria	Permanent Draft	2582580916	Fusobacterium nucleatum W1481	
+Bacteria	Permanent Draft	2582581261	Schwartzia succinivorans DSM 10502	
+Bacteria	Permanent Draft	2585427814	Clostridiales bacterium VE202-15	
+Bacteria	Permanent Draft	2585427883	Marinilabilia salmonicolor JCM 21150	
+Bacteria	Permanent Draft	2585428077	Caloranaerobacter azorensis DSM 13643	
+Bacteria	Permanent Draft	2585428150	Dethiosulfatibacter aminovorans DSM 17477	
+Bacteria	Permanent Draft	2588253975	Clostridiaceae bacterium L21-TH-D2	
+Bacteria	Permanent Draft	2593339158	Lachnobacterium bovis DSM 14045	
+Bacteria	Permanent Draft	2593339243	Butyrivibrio sp. INlla21	
+Bacteria	Permanent Draft	2595698238	Butyrivibrio sp. Su6	
+Bacteria	Permanent Draft	2596583532	Pseudobutyrivibrio ruminis DSM 9787	
+Bacteria	Permanent Draft	2597490336	Thermoanaerobacter thermohydrosulfuricus DSM 7021	
+Bacteria	Permanent Draft	2599185223	Alkaliphilus peptidifermentans DSM 18978	
+Bacteria	Permanent Draft	2599185228	Marvinbryantia formatexigens I-52	
+Bacteria	Permanent Draft	2600255242	Halanaerobium saccharolyticum saccharolyticum DSM 6643	
+Bacteria	Permanent Draft	2602041631	Treponema pedis B 683	
+Bacteria	Permanent Draft	2602041633	Clostridium sp. VE202-10	
+Bacteria	Permanent Draft	2615840601	Cohaesibacter sp. ES.047	
+Bacteria	Permanent Draft	2623620478	Succiniclasticum ruminis DSM11005	
+Bacteria	Permanent Draft	2623620517	Selenomonas ruminatium S137	
+Bacteria	Permanent Draft	2627853579	Rhodospirillales bin7 BLZ4	
+Bacteria	Permanent Draft	2634166323	Isobaculum melis DSM 13760	
+Bacteria	Permanent Draft	2634166902	Romboutsia lituseburensis DSM 797	
+Bacteria	Finished	2636415890	Fusobacterium nucleatum animalis ChDC ChDC F324	
+Bacteria	Permanent Draft	2639762517	Clostridium magnum WoBdP1, DSM 2767	
+Bacteria	Finished	2639762969	Siansivirga zeaxanthinifaciens CC-SAMT-1	
+Bacteria	Finished	2639763071	Fusobacterium nucleatum nucleatum ChDC F316	
+Bacteria	Permanent Draft	2642422525	Pelosinus fermentans R7 (v2)	
+Bacteria	Permanent Draft	2642422538	Acetivibrio thermocellus LQRI (v2)	
+Bacteria	Finished	2645727976	Kosmotoga pacifica SLHLJ1	
+Bacteria	Permanent Draft	2645728015	Caloranaerobacter sp. TR13	
+Bacteria	Permanent Draft	2651869858	Clostridia bacterium UC5.1-2E3	
+Bacteria	Finished	2654587788	Fusobacterium nucleatum vincentii ChDC F8	
+Bacteria	Finished	2654587972	Fusobacterium hwasookii ChDC F206	
+Bacteria	Permanent Draft	2654588145	Lachnoclostridium clostridioforme NLAE-zl-C196	
+Bacteria	Permanent Draft	2654588174	Selenomonas ruminantium HD4	
+Bacteria	Permanent Draft	2657245164	Tepidanaerobacter sp. EBM-38	
+Bacteria	Permanent Draft	2660238185	Paeniclostridium sordellii R15892	
+Bacteria	Permanent Draft	2663763508	Paeniclostridium sordellii R27882	
+Bacteria	Finished	2667527550	Intestinimonas butyriciproducens AF211	
+Bacteria	Permanent Draft	2667528068	Paeniclostridium sordellii SSCC32135	
+Bacteria	Finished	2671180815	Erysipelothrix rhusiopathiae GXBY-1	
+Bacteria	Permanent Draft	2675903484	Brachyspira hyodysenteriae Vic2	
+Bacteria	Permanent Draft	2690315875	Clostridium sp. Marseille-P299	
+Bacteria	Permanent Draft	2693429901	Caldicoprobacter faecalis DSM 20678	
+Bacteria	Permanent Draft	2695420392	Paeniclostridium sordellii W2967	
+Bacteria	Permanent Draft	2695420758	Paeniclostridium sordellii R32977	
+Bacteria	Permanent Draft	2695420943	Mariniphaga anaerophila DSM 26910	
+Bacteria	Permanent Draft	2698536884	Bacteroidetes bacterium JGI CrystG Apr3-3-J12 (unscreened)	
+Bacteria	Permanent Draft	2703719156	Selenomonas sp. bin 2	
+Bacteria	Permanent Draft	2711768144	Brachyspira hyodysenteriae B6933	
+Bacteria	Permanent Draft	2713896879	Butyribacter intestini TF01-11	
+Bacteria	Finished	2718217879	Selenomonas sp. oral taxon 126 W7667	
+Bacteria	Permanent Draft	2721755172	Ignavibacteria bacterium GWB2_35_6b	
+Bacteria	Permanent Draft	2721755247	Bacteroidetes bacterium GWE2_32_14	
+Bacteria	Finished	2721755565	Brachyspira hyodysenteriae B-78	
+Bacteria	Permanent Draft	2721755925	Salinimicrobium sediminis CGMCC 1.12641	
+Bacteria	Permanent Draft	2724679216	Fusobacterium necrophorum funduliforme LS_1195	
+Bacteria	Permanent Draft	2724679779	Lutibacter agarilyticus DSM 29150	
+Bacteria	Permanent Draft	2728368987	Chlorobium limicola Frasassi	
+Bacteria	Permanent Draft	2728369114	Flammeovirga sp. SJP92	
+Bacteria	Finished	2728369408	Fervidobacterium islandicum AW-1	
+Bacteria	Permanent Draft	2728369722	Lachnoclostridium sphenoides JCM 1415	
+Bacteria	Permanent Draft	2728369723	Clostridium sp. JCM 10519	
+Bacteria	Permanent Draft	2734481902	Veillonella denticariosi JCM 15641	
+Bacteria	Permanent Draft	2734481903	Veillonella rogosae JCM 15642	
+Bacteria	Permanent Draft	2744054950	Clostridium sp. C105KSO14	
+Bacteria	Permanent Draft	2751185605	Bacteroidales bacterium Bact_05	
+Bacteria	Permanent Draft	2751185682	Pilimelia anulata NRRL B-3741	
+Bacteria	Permanent Draft	2751185687	Eisenbergiella tayi NML 120147	
+Bacteria	Permanent Draft	2751185691	Eisenbergiella tayi NML 120489	
+Bacteria	Permanent Draft	2754412424	Halanaerobium saccharolyticum MSL9.2	
+Bacteria	Permanent Draft	2757320504	Unclassified Desulfobacterales bin47	
+Bacteria	Finished	2775506791	Tenericutes bacterium MZ-XQ	
+Bacteria	Permanent Draft	2786546170	Natranaerovirga hydrolytica DSM 24176	
+Bacteria	Permanent Draft	2786546535	Bacteroidetes bacterium CG_4_9_14_3_um_filter_41_19	
+Bacteria	Permanent Draft	2786546575	Ignavibacteria bacterium CG2_30_36_16	
+Bacteria	Permanent Draft	2786546577	Ignavibacteria bacterium CG_4_9_14_3_um_filter_36_18	
+Bacteria	Permanent Draft	2788499853	Kineothrix alysoides DSM 100556	
+Bacteria	Permanent Draft	2788500228	Tyzzerella sp. An114	
+Bacteria	Permanent Draft	2788500242	Anaeromassilibacillus sp. An172	
+Bacteria	Permanent Draft	2788500243	Drancourtella sp. An177	
+Bacteria	Permanent Draft	2788500599	Lachnoclostridium sp. An118	
+Bacteria	Permanent Draft	2788500602	Lachnoclostridium sp. An169	
+Bacteria	Finished	2795385487	Flammeovirga sp. MY04	
+Bacteria	Permanent Draft	2799112363	Selenomonadales bacterium RUG237	
+Bacteria	Permanent Draft	2799112379	Clostridiales bacterium RUG015	
+Bacteria	Permanent Draft	2799112439	Clostridiales bacterium RUG842	
+Bacteria	Permanent Draft	2799112492	Clostridiales bacterium RUG743	
+Bacteria	Permanent Draft	2799112517	Clostridiales bacterium RUG252	
+Bacteria	Permanent Draft	2799112521	Clostridiales bacterium RUG060	
+Bacteria	Permanent Draft	2799112574	Clostridiales bacterium RUG683	
+Bacteria	Permanent Draft	2799112799	Lachnospiraceae bacterium RUG561	
+Bacteria	Permanent Draft	2799112822	Lachnospiraceae bacterium hRUG892	
+Bacteria	Permanent Draft	2799112829	Lachnospiraceae bacterium RUG822	
+Bacteria	Permanent Draft	2799112851	Lachnospiraceae bacterium RUG811	
+Bacteria	Permanent Draft	2799112857	Lachnospiraceae bacterium RUG512	
+Bacteria	Permanent Draft	2802429508	Roseburia inulinivorans 2789STDY5608887	
+Bacteria	Permanent Draft	2802429685	Negativicutes bacterium hRUG854	
+Bacteria	Permanent Draft	2806310865	Blautia obeum 2789STDY5608838	
+Bacteria	Permanent Draft	2806310951	Faecalicatena contorta 2789STDY5834876	
+Bacteria	Finished	2808606819	Fervidobacterium pennivorans DYC	
+Bacteria	Permanent Draft	2811994933	unclassified Ignavibacteriales BinDmb87	
+Bacteria	Permanent Draft	2811995159	Roseburia intestinalis 2789STDY5834960	
+Bacteria	Permanent Draft	2814122902	unclassified Bacteroidales BinDmb81	
+Bacteria	Finished	2814123063	Tepidanaerobacter syntrophicus JL	
+Bacteria	Finished	2814123151	Fusobacterium periodonticum 2_1_31	
+Bacteria	Permanent Draft	2814123326	Hungatella hathewayi 2789STDY5834916	
+Bacteria	Permanent Draft	2814123333	Hungatella hathewayi 2789STDY5608850	
+Bacteria	Permanent Draft	2814123396	Lachnoclostridium symbiosum NCTC 13233	
+Bacteria	Permanent Draft	2820785563	Unclassified Bacteroidetes Emb289P1bin74	
+Bacteria	Permanent Draft	2825966336	Lachnoclostridium bolteae ATCC BAA-613	
+Bacteria	Permanent Draft	2829367404	Bacteroidales bacterium DeMMO6_9	
+Bacteria	Permanent Draft	2831404242	Petroclostridium xylanilyticum SK-Y3	
+Bacteria	Permanent Draft	2832828470	Lachnotalea glycerini CCRI-19302	
+Bacteria	Finished	2832977419	Dialister massiliensis Marseille-P5638	
+Bacteria	Permanent Draft	2833076353	Eubacterium rectale AF25-15	
+Bacteria	Permanent Draft	2833253696	Eubacterium rectale AF39-14AC	
+Bacteria	Permanent Draft	2834336621	Trichococcus flocculiformis ERS1056662	
+Bacteria	Permanent Draft	2834453396	Rhodovulum sp. BSW8	
+Bacteria	Permanent Draft	2835179929	Roseburia sp. AF22-8AC	
+Bacteria	Finished	2836647120	Faecalibacterium prausnitzii APC918/95b	
+Bacteria	Finished	2836677622	Soehngenia sp. W6	
+Bacteria	Permanent Draft	2837513742	Trichococcus pasteurii ERS1056665	
+Bacteria	Permanent Draft	2837711093	Sinirhodobacter huangdaonensis CGMCC 1.12963	
+Bacteria	Permanent Draft	2839919173	Senegalia massiliensis SIT17	
+Bacteria	Permanent Draft	2840324701	Eisenbergiella sp. OF01-20	
+Bacteria	Permanent Draft	2840347681	Hungatella hathewayi AF31-1	
+Bacteria	Finished	2841766970	Blautia argi KCTC 15426	
+Bacteria	Permanent Draft	2843318459	Alistipes sp. Marseille-P5061	
+Bacteria	Permanent Draft	2843572330	Lachnospira eligens AF35-21	
+Bacteria	Finished	2843803859	Blautia sp. SC05B48	
+Bacteria	Permanent Draft	2844084712	Ruminococcus sp. AM12-48	
+Bacteria	Permanent Draft	2844124749	Paeniclostridium sordellii AF05-25	
+Bacteria	Permanent Draft	2845948750	Odoribacter splanchnicus AF16-14	
+Bacteria	Permanent Draft	2846350753	Faecalibacterium prausnitzii CNCM 4575	
+Bacteria	Permanent Draft	2846353730	Faecalibacterium prausnitzii ATCC 27766	
+Bacteria	Permanent Draft	2846391800	Alistipes sp. AL-1	
+Bacteria	Finished	2847451640	Fusobacterium nucleatum nucleatum ATCC 23726	
+Bacteria	Finished	2847458331	Fusobacterium varium NCTC10560	
+Bacteria	Finished	2847466697	Fusobacterium necrophorum ATCC 25286	
+Bacteria	Permanent Draft	2849755435	Roseburia sp. OM03-7AC	
+Bacteria	Permanent Draft	2849830981	Faecalibacterium prausnitzii AF10-13	
+Bacteria	Permanent Draft	2849848790	Faecalibacterium sp. AF10-46	
+Bacteria	Permanent Draft	2850057430	Lachnospira eligens AF36-7BH	
+Bacteria	Permanent Draft	2850063200	Eubacterium ventriosum AM43-2	
+Bacteria	Permanent Draft	2850238646	Blautia obeum TM09-13AC	
+Bacteria	Permanent Draft	2854208954	Ruminococcus bromii AM46-2BH	
+Bacteria	Permanent Draft	2854214156	Ruminococcus sp. AM54-1NS	
+Bacteria	Permanent Draft	2854395284	Blautia sp. AF17-9LB	
+Bacteria	Permanent Draft	2854555202	Lachnospira eligens AF42-3BH	
+Bacteria	Permanent Draft	2855372448	Lachnoclostridium bolteae AF24-13	
+Bacteria	Permanent Draft	2856178507	Fusobacterium nucleatum 12230 MIT 2016	
+Bacteria	Permanent Draft	2856191474	Fusobacterium nucleatum vincentii NCTC 11326	
+Bacteria	Permanent Draft	2856197097	Fusobacterium nucleatum vincentii KCOM 2880	
+Bacteria	Permanent Draft	2858035524	Blautia obeum OM06-11AA	
+Bacteria	Permanent Draft	2858116946	Lachnospira eligens AM32-2AC	
+Bacteria	Permanent Draft	2859139685	Fusobacterium varium TM07-10	
+Bacteria	Permanent Draft	2867481428	Propioniciclava sinopodophylli KCTC 33808	
+Bacteria	Permanent Draft	2868204123	Veillonella sp. VA139	
+Bacteria	Permanent Draft	2868211830	Veillonella seminalis ADV4313-2	
+Bacteria	Permanent Draft	2868219145	Veillonella sp. 3891	
+Bacteria	Permanent Draft	2868227546	Veillonella sp. 3310	
+Bacteria	Permanent Draft	2868594201	Blautia gnavus AM17-51	
+Bacteria	Permanent Draft	2868608597	Blautia sp. TF10-30	
+Bacteria	Permanent Draft	2871010323	Blautia gnavus TF01-20-2	
+Bacteria	Permanent Draft	2871018103	Blautia obeum OM03-6	
+Bacteria	Permanent Draft	2873710093	Ruminococcus sp. AM40-10AC	
+Bacteria	Permanent Draft	2873718734	Ruminococcus sp. AM23-1LB	
+Bacteria	Permanent Draft	2873726518	Ruminococcus sp. AM43-6	
+Bacteria	Permanent Draft	2873769844	Blautia obeum AF35-14AC	
+Bacteria	Permanent Draft	2873773483	Blautia gnavus AM12-54	
+Bacteria	Permanent Draft	2876051806	Ruminococcus sp. AM31-15AC	
+Bacteria	Permanent Draft	2876110513	Blautia gnavus AF33-12	
+Bacteria	Permanent Draft	2878467020	Ruminococcus bromii AF21-10LB	
+Bacteria	Permanent Draft	2878475661	Ruminococcus sp. AF37-3AC	
+Bacteria	Permanent Draft	2880951795	Acetivibrio mesophilus N2K1	
+Bacteria	Permanent Draft	2882121104	Butyrivibrio sp. X503	
+Bacteria	Permanent Draft	2882227791	Anaerosalibacter sp. Marseille-P3206	
+Bacteria	Permanent Draft	2882371534	Blautia marasmi Marseille-P2377	
+Bacteria	Permanent Draft	2882408160	Veillonella infantium T11011-4	
+Bacteria	Permanent Draft	2882707223	Unclassified bacterium 1XD8-76	
+Bacteria	Permanent Draft	2882822351	Roseburia sp. 831b	
+Bacteria	Permanent Draft	2883586328	Ancylomarina salipaludis SHSM-M15	
+Bacteria	Permanent Draft	2883777802	Tropicimonas sp. IMCC34043	
+Bacteria	Permanent Draft	2886688933	Bythopirellula sp. AG-410-K11	
+Bacteria	Permanent Draft	2887056043	Yeosuana marina JLT21	
+Bacteria	Permanent Draft	2887599246	Desulforhopalus sp. IMCC35007	
+Bacteria	Permanent Draft	2889582158	Lactonifactor sp. BIOML-A2	
+Bacteria	Permanent Draft	2890922792	Cohaesibacter sp. CAU 1516	
+Bacteria	Permanent Draft	2891498166	Algibacter pacificus H164	
+Bacteria	Permanent Draft	2895279364	Alistipes timonensis MGYG-HGUT-01562	
+Bacteria	Permanent Draft	2896054739	Roseburia sp. 1XD42-69	
+Bacteria	Permanent Draft	2900009503	Blautia sp. AF25-12LB	
+Bacteria	Permanent Draft	2900013633	Blautia luti NZ_Blautia_luti_RSSSTS7063_SV_a2_mod	
+Bacteria	Permanent Draft	2900028168	Blautia marasmi MGYG-HGUT-02437	
+Bacteria	Permanent Draft	2901129015	Caldicoprobacter guelmensis DSM 24605	
+Bacteria	Permanent Draft	2901198348	Defluviitalea raffinosedens DSM 28090	
+Bacteria	Permanent Draft	2902120641	Ruminococcus sp. AF37-20	
+Bacteria	Permanent Draft	2902137000	Ruminococcus sp. AM32-17LB	
+Bacteria	Permanent Draft	2902154985	Ruminococcus sp. AM30-15AC	
+Bacteria	Permanent Draft	2905401210	Ruminococcus sp. AM29-12LB	
+Bacteria	Permanent Draft	2905459952	Ruminococcus sp. OM02-16LB	
+Bacteria	Finished	2910027884	Lachnospiraceae bacterium NSJ-29	
+Bacteria	Permanent Draft	2910290703	Faecalicatena fissicatena MSK.14.47	
+Bacteria	Permanent Draft	2910593132	Mediterraneibacter gnavus MSK.15.10	
+Bacteria	Permanent Draft	2910620903	Mediterraneibacter gnavus MSK.23.43	
+Bacteria	Permanent Draft	2910635465	Mediterraneibacter gnavus MSK.15.56	
+Bacteria	Permanent Draft	2910646376	Mediterraneibacter gnavus MSK.22.53	
+Bacteria	Finished	2911005044	Winogradskyella sp. Z215	
+Bacteria	Permanent Draft	2911391394	Eubacterium rectale MSK.13.50	
+Bacteria	Permanent Draft	2911404350	Eubacterium rectale MSK.22.12	
+Bacteria	Permanent Draft	2911414079	Eubacterium rectale MSK.13.59	
+Bacteria	Permanent Draft	2911435980	Coprococcus comes MSK.16.12	
+Bacteria	Permanent Draft	2911454464	Coprococcus comes MSK.11.50	
+Bacteria	Permanent Draft	2913957459	Lentimicrobium sp. S6	
+Bacteria	Permanent Draft	2914090820	Bittarella massiliensis BIOML-A1	
+Bacteria	Permanent Draft	2914674820	Ruthenibacterium lactatiformans BIOML-A15	
+Bacteria	Permanent Draft	2914989346	Mediterraneibacter torques BIOML-A2	
+Bacteria	Permanent Draft	2915032954	Mediterraneibacter gnavus MSK.15.32	
+Bacteria	Permanent Draft	2915279407	Dorea longicatena MSK.13.55	
+Bacteria	Permanent Draft	2915288873	Dorea longicatena MSK.20.78	
+Bacteria	Permanent Draft	2915318101	Faecalibacterium prausnitzii BIOML-B14	
+Bacteria	Permanent Draft	2915321476	Faecalibacterium sp. 4P15	
+Bacteria	Permanent Draft	2915324501	Faecalibacterium prausnitzii BIOML-B2	
+Bacteria	Permanent Draft	2915695283	Lachnoclostridium symbiosum MSK.7.21	
+Bacteria	Permanent Draft	2920077550	Anaerofilum sp. BX8	
+Bacteria	Permanent Draft	2920200153	Propioniciclava sp. MC1683	
+Bacteria	Permanent Draft	2920258663	Fusicatenibacter saccharivorans MSK.10.29	
+Bacteria	Permanent Draft	2920266173	Labilibaculum euxinus 44	
+Bacteria	Permanent Draft	2920352130	Fusicatenibacter saccharivorans MSK.22.50	
+Bacteria	Permanent Draft	2920424550	Sellimonas intestinalis BIOML-A1	
+Bacteria	Permanent Draft	2920462091	Odoribacter splanchnicus BIOML-A1	
+Bacteria	Permanent Draft	2920534770	Mediterraneibacter gnavus MSK.23.62	
+Bacteria	Permanent Draft	2920684767	Dorea longicatena MSK.10.4	
+Bacteria	Permanent Draft	2920717048	Coprococcus comes MSK.17.27	
+Bacteria	Permanent Draft	2920997994	Veillonella parvula BIOML-A2	
+Bacteria	Permanent Draft	2921160733	Blautia schinkii MSK.6.26	
+Bacteria	Permanent Draft	2921445819	Ruminococcus bromii BIOML-A1	
+Bacteria	Permanent Draft	2921453992	Ruminococcus sp. AM50-15BH	
+Bacteria	Permanent Draft	2924256906	Ruminococcus sp. AM42-10AC	
+Bacteria	Permanent Draft	2924263452	Ruminococcus sp. AM27-16	
+Bacteria	Permanent Draft	2926654377	Formosa algae DSM 16476	
+Bacteria	Permanent Draft	2927245718	Thermoanaerobacter tengcongensis MB4	
+Bacteria	Permanent Draft	2929332358	Rhodoblastus acidophilus CBP1	
+Bacteria	Permanent Draft	2936227777	Waltera intestinalis WCA3-601-WT-6H	
+Bacteria	Permanent Draft	2936944974	Blautia obeum MSK.20.89	
+Bacteria	Permanent Draft	2940280053	Lachnospiraceae bacterium PF1-22	
+Bacteria	Permanent Draft	2957305602	Blautia massiliensis MSK.17.60	
+Bacteria	Permanent Draft	2957340977	Blautia wexlerae MSK.15.15	
+Bacteria	Permanent Draft	2964555486	Blautia massiliensis BIOML-A3	
+Bacteria	Permanent Draft	2964583096	Blautia intestinalis 2744	
+Bacteria	Permanent Draft	2967622767	Blautia obeum MSK.20.67	
+Bacteria	Permanent Draft	2967626201	Blautia wexlerae MSK.17.7	
+Bacteria	Permanent Draft	2967636432	Blautia schinkii MSK.6.25	
+Bacteria	Permanent Draft	2967643267	Blautia wexlerae MSK.18.55	
+Bacteria	Permanent Draft	2967650311	Blautia producta MSK.4.17	
+Bacteria	Permanent Draft	2967657368	Blautia obeum MSK.18.90	
+Bacteria	Permanent Draft	640963057	Blautia gnavus ATCC 29149	
+Bacteria	Permanent Draft	641380428	Lachnoclostridium bolteae ATCC BAA-613	
+Bacteria	Permanent Draft	641736184	Eubacterium siraeum DSM 15702	
+Bacteria	Finished	642555142	Natranaerobius thermophilus JW/NM-WN-LF	
+Bacteria	Finished	643348584	Thermotoga neapolitana DSM 4359	
+Bacteria	Permanent Draft	643886007	Clostridiales sp. 1_7_47FAA	
+Bacteria	Permanent Draft	643886116	Coprococcus comes ATCC 27758	
+Bacteria	Permanent Draft	645058760	Thermoanaerobacter sp. X561	
+Bacteria	Finished	646564514	Brachyspira murdochii 56-150, DSM 12563	
+Bacteria	Permanent Draft	647000209	Acetomicrobium hydrogeniformans ATCC BAA-1850	
+Bacteria	Finished	648028012	Butyrivibrio proteoclasticus B316	
+Bacteria	Finished	649633005	Anaerolinea thermophila UNI-1	
+Bacteria	Finished	649633033	Acetoanaerobium sticklandii DSM 519	
+Bacteria	Finished	650377940	Faecalibacterium prausnitzii SL3/3	
+Bacteria	Permanent Draft	649989951	Faecalibacterium cf. prausnitzii KLE1255	
+Bacteria	Permanent Draft	651324055	Lachnospiraceae bacterium 9_1_43BFAA	
+Bacteria	Permanent Draft	651324054	Lachnospiraceae bacterium 6_1_63FAA	
+Bacteria	Permanent Draft	651324032	Fusobacterium nucleatum animalis 11_3_2	
+Bacteria	Finished	2513237204	Pararhodospirillum photometricum DSM 122	
+Bacteria	Finished	2513237218	Ignavibacterium album Mat9-16, JCM 16511	
+Bacteria	Permanent Draft	2513237315	Lachnoclostridium clostridioforme 2_1_49FAA	
+Bacteria	Permanent Draft	2505119009	Clostridium sp. C03-6	
+Bacteria	Permanent Draft	2505313024	Thermoanaerobacter sp.	
+Bacteria	Permanent Draft	2519899571	Caenispirillum salinarum AK4	
+Bacteria	Permanent Draft	2524023161	Blautia producta DSM 2950	
+Bacteria	Permanent Draft	2524023243	Ruminococcus gauvreauii DSM 19829	
+Bacteria	Permanent Draft	2524614696	Butyrivibrio sp. NC2007	
+Bacteria	Permanent Draft	2524614699	Clostridium clostridioforme AGR2157	
+Bacteria	Permanent Draft	2524614704	Lachnospiraceae bacterium NK4A179	
+Bacteria	Permanent Draft	2524614837	Pseudobutyrivibrio ruminis CF1b	
+Bacteria	Permanent Draft	2524614857	Deinococcus ficus DSM 19119	
+Bacteria	Permanent Draft	2526164511	Butyrivibrio sp. AE3009	
+Bacteria	Permanent Draft	2526164534	Selenomonas artemidis DSM 19719	
+Bacteria	Permanent Draft	2531839007	Lachnoclostridium clostridioforme 90A6	
+Bacteria	Permanent Draft	2531839011	Lachnoclostridium bolteae 90B7	
+Bacteria	Permanent Draft	2531839621	Cutibacterium humerusii P08	
+Bacteria	Permanent Draft	2534681820	Fusobacterium periodonticum D10	
+Bacteria	Permanent Draft	2537561963	Fusobacterium necrophorum funduliforme ATCC 51357	
+Bacteria	Finished	2540341047	Thermoclostridium stercorarium stercorarium DSM 8532	
+Bacteria	Permanent Draft	2540341191	Butyricimonas virosa DSM 23226	
+Bacteria	Permanent Draft	2541047012	Acidaminococcus sp. HPA0509	
+Bacteria	Permanent Draft	2547132124	Alistipes senegalensis JC50	
+Bacteria	Permanent Draft	2556793017	Petrotoga halophila DSM 16923	
+Bacteria	Permanent Draft	2556921619	Butyrivibrio sp. LB2008	
+Bacteria	Permanent Draft	2558860135	Anaerovibrio sp. RM50	
+Bacteria	Permanent Draft	2558860137	Lachnospiraceae bacterium AC3007	
+Bacteria	Permanent Draft	2558860976	Ruminococcus albus DSM 20455	
+Bacteria	Permanent Draft	2561511229	Selenomonas bovis 8-14-1	
+Bacteria	Permanent Draft	2562617150	Erysipelothrix rhusiopathiae ATCC 19414	
+Bacteria	Permanent Draft	2563367166	Clostridium sp. ASF502	
+Bacteria	Permanent Draft	2565956859	Fusobacterium nucleatum ChDC F174	
+Bacteria	Permanent Draft	2574179745	Clostridiales bacterium DRI-13	
+Bacteria	Permanent Draft	2574179782	Carnobacterium funditum pf3, DSM 5970	
+Bacteria	Permanent Draft	2576861400	Carnobacterium mobile MT37L, DSM 4848	
+Bacteria	Permanent Draft	2579778523	Carnobacterium sp. WN1374	
+Bacteria	Permanent Draft	2582580622	Composite genome from Trout Bog Epilimnion pan-assembly TBepi.metabat.211	
+Bacteria	Permanent Draft	2585427808	Clostridiales bacterium VE202-06	
+Bacteria	Permanent Draft	2585427819	Clostridiales bacterium VE202-27	
+Bacteria	Permanent Draft	2585428171	Hespellia stercorisuis DSM 15480	
+Bacteria	Permanent Draft	2585428176	Paramaledivibacter caminithermalis DSM 15212	
+Bacteria	Permanent Draft	2585428193	Caminicella sporogenes DSM 14501	
+Bacteria	Permanent Draft	2593339222	Pseudobutyrivibrio xylanivorans DSM 10317	
+Bacteria	Permanent Draft	2593339254	Butyrivibrio sp. INlla18	
+Bacteria	Permanent Draft	2595698243	Butyrivibrio sp. YAB3001	
+Bacteria	Permanent Draft	2596583699	Acetivibrio clariflavus 4-2A	
+Bacteria	Permanent Draft	2597490338	Thermoanaerobacter thermohydrosulfuricus DSM 569	
+Bacteria	Permanent Draft	2599185206	Proteiniborus ethanoligenes DSM 21650	
+Bacteria	Permanent Draft	2600255157	Lachnospiraceae bacterium A4	
+Bacteria	Permanent Draft	2602041652	Treponema pedis isoM1111	
+Bacteria	Permanent Draft	2602041672	Treponema pedis isoE1186	
+Bacteria	Permanent Draft	2619619290	Treponema phagedenis V1	
+Bacteria	Permanent Draft	2622736608	Lutibacter flavus DSM 27993	
+Bacteria	Permanent Draft	2627853676	Sanguibacteroides justesenii OUH 308042	
+Bacteria	Permanent Draft	2630968326	Clostridium aceticum DSM 1496	
+Bacteria	Permanent Draft	2630968832	Ruthenibacterium lactatiformans 585-1	
+Bacteria	Permanent Draft	2630968848	Flammeovirga sp. OC4	
+Bacteria	Permanent Draft	2636415438	Paeniclostridium sordellii 8483	
+Bacteria	Permanent Draft	2636415533	Nigerium massiliense SIT7	
+Bacteria	Permanent Draft	2639762831	Ruminococcaceae bacterium AP7	
+Bacteria	Finished	2654587648	Algibacter alginicilyticus HZ22	
+Bacteria	Permanent Draft	2654587776	Fusobacterium nucleatum animalis 7_1	
+Bacteria	Permanent Draft	2654587921	Sporomusa sphaeroides E	
+Bacteria	Finished	2654587973	Fusobacterium nucleatum polymorphum ChDC F306	
+Bacteria	Permanent Draft	2657245269	Lachnospira pectinoschiza M83	
+Bacteria	Permanent Draft	2663762640	Paeniclostridium sordellii JGS6956	
+Bacteria	Permanent Draft	2663762719	Sunxiuqinia elliptica CGMCC 1.9156	
+Bacteria	Permanent Draft	2663762752	Pustulibacterium marinum CGMCC 1.12333	
+Bacteria	Permanent Draft	2663763396	Paeniclostridium sordellii SSCC26591	
+Bacteria	Permanent Draft	2667527603	Paeniclostridium sordellii SSCC33589	
+Bacteria	Permanent Draft	2667527635	Paeniclostridium sordellii SSCC35109	
+Bacteria	Permanent Draft	2675903017	Roseospirillum parvum 930I	
+Bacteria	Permanent Draft	2675903166	Lachnoclostridium fimetarium DSM 9179	
+Bacteria	Permanent Draft	2675903432	Fusobacterium necrophorum funduliforme F1267	
+Bacteria	Permanent Draft	2675903670	Brachyspira hyodysenteriae FM88.90	
+Bacteria	Permanent Draft	2681813064	Fusobacterium equinum CMW8396	
+Bacteria	Permanent Draft	2681813213	Paeniclostridium sordellii W2975	
+Bacteria	Finished	2687453351	Rhodovulum sulfidophilum DSM 2351	
+Bacteria	Permanent Draft	2690315891	Clostridium paradoxum JW-YL-7	
+Bacteria	Permanent Draft	2698536364	Paeniclostridium sordellii R32462	
+Bacteria	Permanent Draft	2698536409	Paeniclostridium sordellii JGS444	
+Bacteria	Permanent Draft	2703719132	unclassified Paludibacteraceae bin 20	
+Bacteria	Permanent Draft	2706794954	Clostridiales bacterium JGI 000170CP_C03 (contamination screened)	
+Bacteria	Permanent Draft	2708742633	Clostridiales bacterium GWC2_40_7	
+Bacteria	Permanent Draft	2708742667	Bacteroidetes bacterium GWF2_41_31	
+Bacteria	Permanent Draft	2708742672	Bacteroidetes bacterium GWF2_33_38	
+Bacteria	Permanent Draft	2710724172	Candidatus Thiosymbion algarvensis Type A ELBA JGI 014 (contamination screened)	
+Bacteria	Permanent Draft	2711768140	Brachyspira hyodysenteriae 865	
+Bacteria	Permanent Draft	2711768141	Brachyspira hyodysenteriae FMV89.3323	
+Bacteria	Permanent Draft	2711768508	Bacteroidetes bacterium RIFOXYA12_FULL_33_9	
+Bacteria	Permanent Draft	2718217692	Flavobacterium lacus CGMCC 1.12504	
+Bacteria	Permanent Draft	2721755164	Desulfobacterales bacterium GWB2_56_26	
+Bacteria	Permanent Draft	2724679220	Fusobacterium necrophorum funduliforme F1248	
+Bacteria	Permanent Draft	2724679223	Fusobacterium necrophorum funduliforme F1309	
+Bacteria	Permanent Draft	2724679720	Unclassified Rhodospirillales Bin 1	
+Bacteria	Permanent Draft	2728369071	Aliiruegeria sabulilitoris GJMS-35	
+Bacteria	Permanent Draft	2728369665	Thermoanaerobacter thermocopriae JCM 7501	
+Bacteria	Permanent Draft	2734481917	Ruminococcus champanellensis JCM 17042	
+Bacteria	Permanent Draft	2734482311	Firmicutes bacterium bin5_M5	
+Bacteria	Permanent Draft	2734482389	Trichococcus sp. B5	
+Bacteria	Permanent Draft	2737471659	Chlorobi bacterium JGI_MCM14TBH085 (contamination screened)	
+Bacteria	Permanent Draft	2744054812	Polaribacter atrinae KACC 17473	
+Bacteria	Permanent Draft	2744054832	Clostridium magnum DSM 2767	
+Bacteria	Permanent Draft	2751185571	Synergistales bacterium Syner_03	
+Bacteria	Permanent Draft	2751185583	Anaerolineales bacterium Chloro_04	
+Bacteria	Permanent Draft	2751185629	Rhodobacterales bacterium Alpha_01	
+Bacteria	Permanent Draft	2751185677	Porphyromonadaceae bacterium H2	
+Bacteria	Permanent Draft	2770939445	Rhodobacter sp. 140A	
+Bacteria	Permanent Draft	2772190653	Acetivibrio thermocellus JCM 21531	
+Bacteria	Finished	2773858049	Megamonas hypermegale NCTC 10570	
+Bacteria	Finished	2775506792	Tenericutes bacterium MO-XQ	
+Bacteria	Permanent Draft	2775506840	Niameybacter massiliensis mt14	
+Bacteria	Permanent Draft	2775506946	Veillonella sp. DNF00869	
+Bacteria	Permanent Draft	2778260950	Thermotoga petrophila TFO	
+Bacteria	Permanent Draft	2781126037	Luteococcus japonicus DSM 10546	
+Bacteria	Permanent Draft	2786546716	Ignavibacteriales bacterium CG18_big_fil_WC_8_21_14_2_50_31_20	
+Bacteria	Permanent Draft	2788499849	Mobilisporobacter senegalensis DSM 26537	
+Bacteria	Permanent Draft	2788500066	Marasmitruncus massiliensis Marseille-P3646	
+Bacteria	Permanent Draft	2788500154	Flavobacteriaceae bacterium CG17_big_fil_post_rev_8_21_14_2_50_33_15	
+Bacteria	Permanent Draft	2788500236	Drancourtella sp. An57	
+Bacteria	Permanent Draft	2788500300	Cloacibacillus sp. An23	
+Bacteria	Permanent Draft	2788500347	Gemmiger sp. An120	
+Bacteria	Permanent Draft	2788500445	Faecalibacterium sp. An121	
+Bacteria	Permanent Draft	2788500514	Blautia sp. An249	
+Bacteria	Permanent Draft	2788500540	Alistipes sp. An116	
+Bacteria	Permanent Draft	2791354897	Geofilum rhodophaeum HF401	
+Bacteria	Permanent Draft	2791354986	Trichococcus alkaliphilus B5	
+Bacteria	Permanent Draft	2791355328	Clostridium luticellarii DSM 29923	
+Bacteria	Permanent Draft	2795386138	Ancylomarina subtilis DSM 28825	
+Bacteria	Permanent Draft	2799112351	Selenomonadales bacterium RUG113	
+Bacteria	Permanent Draft	2799112358	Selenomonadales bacterium hRUG894	
+Bacteria	Permanent Draft	2799112397	Clostridiales bacterium RUG565	
+Bacteria	Permanent Draft	2799112459	Clostridiales bacterium RUG604	
+Bacteria	Permanent Draft	2799112482	Clostridiales bacterium RUG026	
+Bacteria	Permanent Draft	2799112508	Clostridiales bacterium RUG607	
+Bacteria	Permanent Draft	2799112597	Clostridiales bacterium RUG268	
+Bacteria	Permanent Draft	2799112683	Prevotellaceae bacterium RUG207	
+Bacteria	Permanent Draft	2799112831	Lachnospiraceae bacterium RUG584	
+Bacteria	Permanent Draft	2799112833	Lachnospiraceae bacterium RUG191	
+Bacteria	Permanent Draft	2799112849	Lachnospiraceae bacterium RUG681	
+Bacteria	Permanent Draft	2799112856	Lachnospiraceae bacterium RUG638	
+Bacteria	Permanent Draft	2802428857	Caldanaerobacter subterraneus DSM 13054	
+Bacteria	Permanent Draft	2802429531	Roseburia hominis 2789STDY5608834	
+Bacteria	Permanent Draft	2806310602	Cytophagales bacterium SB-MAG 45	
+Bacteria	Permanent Draft	2806310931	Odoribacter splanchnicus An45	
+Bacteria	Permanent Draft	2806310967	Blautia torques 2789STDY5834965	
+Bacteria	Permanent Draft	2811995141	Blautia gnavus 2789STDY5608852	
+Bacteria	Finished	2811995142	Fusobacterium varium ATCC 27725	
+Bacteria	Permanent Draft	2811995350	Synergistes jonesii 147-1	
+Bacteria	Finished	2814123080	Fusobacterium periodonticum KCOM 1282	
+Bacteria	Finished	2814123100	Fusobacterium periodonticum KCOM 2555	
+Bacteria	Finished	2814123211	Veillonella parvula UTDB1-3	
+Bacteria	Finished	2814123216	Veillonella parvula NCTC 11810	
+Bacteria	Finished	2814123239	Faecalibacterium prausnitzii Indica	
+Bacteria	Permanent Draft	2814123340	Lachnoclostridium symbiosum 2789STDY5834864	
+Bacteria	Permanent Draft	2814123383	Veillonella parvula UMB0371	
+Bacteria	Finished	2816332297	Acidipropionibacterium acidipropionici WSH1105	
+Bacteria	Finished	2821865472	Thermosipho melanesiensis 432	
+Bacteria	Finished	2825694722	Lachnoclostridium bolteae ATCC BAA-613	
+Bacteria	Permanent Draft	2829265538	Ignavibacterium sp. DeMMO5_6	
+Bacteria	Permanent Draft	2832076680	Lachnotalea sp. AF33-28	
+Bacteria	Permanent Draft	2832234917	Romboutsia maritimum CCRI-22766	
+Bacteria	Permanent Draft	2832446082	Eubacterium rectale AF18-18LB	
+Bacteria	Finished	2832999429	Erysipelothrix rhusiopathiae KC-Sb-R1	
+Bacteria	Permanent Draft	2833199824	Eubacterium rectale AM44-1AT	
+Bacteria	Permanent Draft	2833208017	Eubacterium rectale AF38-24	
+Bacteria	Permanent Draft	2833257090	Eubacterium rectale AF36-2BH	
+Bacteria	Permanent Draft	2833264192	Eubacterium rectale AF12-8	
+Bacteria	Permanent Draft	2833387549	Eubacterium rectale AM48-7	
+Bacteria	Permanent Draft	2833402560	Eubacterium rectale OM08-12AT	
+Bacteria	Permanent Draft	2833436851	Butyricimonas sp. Marseille-P3923	
+Bacteria	Permanent Draft	2833528458	Butyricimonas virosa TF05-17	
+Bacteria	Permanent Draft	2834304018	Selenomonas massiliensis Marseille-P4036	
+Bacteria	Permanent Draft	2835065648	Clostridium leptum DSM 753	
+Bacteria	Permanent Draft	2835185141	Roseburia sp. AF34-16	
+Bacteria	Finished	2836929268	Jeotgalibaca ciconiae H21T32	
+Bacteria	Permanent Draft	2837026988	Sellimonas intestinalis AM14-42	
+Bacteria	Permanent Draft	2837030148	Sellimonas intestinalis AM38-2BH	
+Bacteria	Permanent Draft	2838101865	Rhodobium orientis DSM 11290	
+Bacteria	Permanent Draft	2838110688	Roseospira goensis DSM 18985	
+Bacteria	Finished	2839891887	Cellulosilyticum sp. WCF-2	
+Bacteria	Permanent Draft	2839928577	Odoribacter splanchnicus AF15-47	
+Bacteria	Permanent Draft	2840342994	Hungatella hathewayi AF19-21	
+Bacteria	Permanent Draft	2840399886	Dorea sp. AF36-15AT	
+Bacteria	Permanent Draft	2840465043	Coprococcus comes AM22-12LB	
+Bacteria	Permanent Draft	2840544817	Odoribacter splanchnicus AM42-31	
+Bacteria	Finished	2841244012	Veillonella dispar NCTC11831	
+Bacteria	Permanent Draft	2841316678	Brachyspira hyodysenteriae JR3	
+Bacteria	Finished	2841770359	Blautia producta PMF1	
+Bacteria	Finished	2842667859	Thermoanaerosceptrum fracticalcis DRI-13	
+Bacteria	Permanent Draft	2843284603	Coprococcus comes AF16-31	
+Bacteria	Permanent Draft	2843549362	Veillonella sp. AF36-20BH	
+Bacteria	Finished	2843922153	Fusobacterium nucleatum animalis ChDC F332	
+Bacteria	Permanent Draft	2844082649	Ruminococcus sp. TF12-19AC	
+Bacteria	Permanent Draft	2845942736	Sinirhodobacter ferrireducens CCTCC AB2012026	
+Bacteria	Permanent Draft	2846161197	Roseburia sp. AM23-20	
+Bacteria	Permanent Draft	2847168711	Lachnospira eligens AF45-13BH	
+Bacteria	Finished	2847453853	Fusobacterium necrophorum funduliforme F1291	
+Bacteria	Permanent Draft	2848935860	Eubacterium sp. AF16-48	
+Bacteria	Permanent Draft	2849519894	Ruminococcus sp. AM18-15	
+Bacteria	Permanent Draft	2849745458	Roseburia inulinivorans L1-83	
+Bacteria	Permanent Draft	2849762677	Roseburia inulinivorans AF21-31	
+Bacteria	Permanent Draft	2849766710	Roseburia sp. OM04-10BH	
+Bacteria	Permanent Draft	2849809791	Coprococcus sp. AM27-12LB	
+Bacteria	Permanent Draft	2849854390	Faecalibacterium prausnitzii AM36-18BH	
+Bacteria	Permanent Draft	2850168954	Blautia sp. TF12-31AT	
+Bacteria	Permanent Draft	2852287015	Blautia obeum OF03-14	
+Bacteria	Permanent Draft	2853791936	Clostridium tetanomorphum DJ061 (Re-Annotation)	
+Bacteria	Permanent Draft	2854081209	Faecalibacterium prausnitzii AM42-11AC	
+Bacteria	Permanent Draft	2855976279	Cutibacterium namnetense T34998	
+Bacteria	Permanent Draft	2857949459	Ruminococcus sp. AM46-18	
+Bacteria	Permanent Draft	2857962555	Ruminococcus bromii ATCC 27255	
+Bacteria	Permanent Draft	2858039269	Blautia gnavus AM25-19	
+Bacteria	Permanent Draft	2859129597	Fusobacterium varium AM22-17	
+Bacteria	Permanent Draft	2861242185	Thermosipho japonicus DSM 13481	
+Bacteria	Permanent Draft	2861335840	Catenibacillus scindens DSM 106146	
+Bacteria	Permanent Draft	2861347227	Anaerotaenia torta DSM 100431	
+Bacteria	Permanent Draft	2868202450	Veillonella sp. VA141	
+Bacteria	Permanent Draft	2868217387	Veillonella sp. CHU732	
+Bacteria	Permanent Draft	2869310681	Fusobacterium nucleatum AB1	
+Bacteria	Permanent Draft	2871029247	Blautia sp. OM06-15AC	
+Bacteria	Permanent Draft	2873703447	Ruminococcus sp. AF34-12	
+Bacteria	Permanent Draft	2873706248	Ruminococcus sp. AM22-13	
+Bacteria	Permanent Draft	2876005813	Mediterraneibacter lactaris TF11-7	
+Bacteria	Permanent Draft	2876043366	Ruminococcus sp. AF14-5	
+Bacteria	Permanent Draft	2876098736	Blautia obeum AM43-41	
+Bacteria	Permanent Draft	2878521392	Blautia sp. OF03-15BH	
+Bacteria	Permanent Draft	2882059851	Gramella jeungdoensis KCTC 23123	
+Bacteria	Finished	2883940520	Dialister hominis 5BBH33	
+Bacteria	Finished	2884616749	Alistipes dispar 5CPEGH6	
+Bacteria	Permanent Draft	2886878113	Caproicibacter fermentans EA1	
+Bacteria	Permanent Draft	2886952448	Lacrimispora amygdalina src4	
+Bacteria	Finished	2888060440	Treponema vincentii OMZ 804	
+Bacteria	Permanent Draft	2889557958	Lactonifactor sp. BIOML-A7	
+Bacteria	Permanent Draft	2889681909	Ancylomarina euxinus M1P	
+Bacteria	Permanent Draft	2889691465	Lactonifactor longoviformis MGYG-HGUT-02475	
+Bacteria	Permanent Draft	2889741119	Lactonifactor sp. BIOML-A3	
+Bacteria	Permanent Draft	2889782386	Labilibacter sediminis CG51	
+Bacteria	Permanent Draft	2890297093	Prolixibacter bellariivorans JCM 13498	
+Bacteria	Permanent Draft	2890603200	Mangrovimonas sp. CR14	
+Bacteria	Permanent Draft	2891767491	Erysipelothrix sp. 165301687	
+Bacteria	Permanent Draft	2895260113	Polaribacter sp. 11A2H	
+Bacteria	Permanent Draft	2897454828	Winogradskyella endarachnes HL2-2	
+Bacteria	Permanent Draft	2898606423	Eubacterium sp. am_0171	
+Bacteria	Permanent Draft	2900564547	Fusobacterium sp. IOR10	
+Bacteria	Permanent Draft	2905436516	Ruminococcus sp. AF33-11BH	
+Bacteria	Permanent Draft	2905450092	Ruminococcus sp. Marseille-P6503	
+Bacteria	Permanent Draft	2909817656	Enterocloster clostridioformis MSK.2.80	
+Bacteria	Permanent Draft	2910308400	Faecalicatena fissicatena MSK.14.46	
+Bacteria	Permanent Draft	2910336609	Salinimicrobium oceani CDJ15-91	
+Bacteria	Permanent Draft	2910405813	Sellimonas intestinalis MSK.1.20	
+Bacteria	Permanent Draft	2910473732	Sellimonas intestinalis MSK.1.21	
+Bacteria	Permanent Draft	2910550165	Flammeovirga sp. EKP202	
+Bacteria	Permanent Draft	2910616928	Mediterraneibacter gnavus MSK.23.56	
+Bacteria	Permanent Draft	2910642390	Mediterraneibacter gnavus MSK.23.63	
+Bacteria	Permanent Draft	2910653452	Mediterraneibacter gnavus MSK.23.46	
+Bacteria	Permanent Draft	2910976591	Winogradskyella sp. Z963	
+Bacteria	Finished	2911001832	Winogradskyella sp. PAMC22761	
+Bacteria	Permanent Draft	2911231145	Maribacter arenosus CAU 1321	
+Bacteria	Permanent Draft	2911394389	Eubacterium rectale MSK.17.79	
+Bacteria	Permanent Draft	2911442633	Coprococcus comes MSK.17.85	
+Bacteria	Permanent Draft	2911449444	Coprococcus comes MSK.18.12	
+Bacteria	Permanent Draft	2911469492	Coprococcus comes MSK.11.53	
+Bacteria	Permanent Draft	2911479196	Coprococcus comes MSK.16.8	
+Bacteria	Permanent Draft	2914152809	Variimorphobacter saccharofermentans MD1	
+Bacteria	Permanent Draft	2914230638	Oscillospiraceae bacterium NSJ-54	
+Bacteria	Permanent Draft	2914580057	Ruthenibacterium lactatiformans BIOML-A5	
+Bacteria	Permanent Draft	2914702566	Phascolarctobacterium faecium BIOML-A17	
+Bacteria	Permanent Draft	2914704995	Phascolarctobacterium faecium BIOML-A4	
+Bacteria	Permanent Draft	2914733973	Phascolarctobacterium faecium BIOML-A8	
+Bacteria	Permanent Draft	2914747425	Phascolarctobacterium faecium BIOML-A7	
+Bacteria	Permanent Draft	2914754747	Phascolarctobacterium faecium BIOML-A14	
+Bacteria	Permanent Draft	2914775990	Marinifilum sp. JC070	
+Bacteria	Permanent Draft	2914876199	Lachnospira eligens BIOML-A1	
+Bacteria	Permanent Draft	2915162840	Alistipes finegoldii BIOML-A1	
+Bacteria	Permanent Draft	2915171790	Alistipes shahii BIOML-A1	
+Bacteria	Permanent Draft	2915295284	Dorea longicatena BIOML-A1	
+Bacteria	Permanent Draft	2915301983	Dorea longicatena BIOML-A2	
+Bacteria	Permanent Draft	2915305322	Dorea longicatena BIOML-A5	
+Bacteria	Permanent Draft	2915384243	Roseburia sp. NSJ-9	
+Bacteria	Permanent Draft	2915397437	Roseburia intestinalis BIOML-A1	
+Bacteria	Permanent Draft	2915443474	Eubacterium rectale BIOML-A2	
+Bacteria	Finished	2917681515	Winogradskyella sp. Z354	
+Bacteria	Permanent Draft	2920277478	Fusicatenibacter saccharivorans MSK.13.41	
+Bacteria	Permanent Draft	2920298691	Fusicatenibacter saccharivorans MSK.18.88	
+Bacteria	Permanent Draft	2920302558	Tyzzerella nexilis MSK.23.83	
+Bacteria	Permanent Draft	2920308720	Marinifilum sp. N1E240	
+Bacteria	Permanent Draft	2920355655	Fusicatenibacter saccharivorans MSK.22.18	
+Bacteria	Permanent Draft	2920374471	Faecalicatena fissicatena MSK.20.55	
+Bacteria	Permanent Draft	2920484974	Odoribacter splanchnicus BIOML-A7	
+Bacteria	Permanent Draft	2920517992	Mediterraneibacter gnavus MSK.5.17	
+Bacteria	Permanent Draft	2920678880	Dorea longicatena MSK.11.4	
+Bacteria	Permanent Draft	2920696848	Coprococcus comes MSK.17.21	
+Bacteria	Permanent Draft	2921172276	Blautia wexlerae MSK.15.46	
+Bacteria	Permanent Draft	2921443376	Ruminococcus sp. AM28-29LB	
+Bacteria	Permanent Draft	2923741611	Perlabentimonas gracilis M08MB	
+Bacteria	Permanent Draft	2923822619	Dorea longicatena BIOML-A7	
+Bacteria	Permanent Draft	2924101686	Blautia producta MSK.4.14	
+Bacteria	Permanent Draft	2936390555	Anaerovibrio slackiae DSM 108025	
+Bacteria	Permanent Draft	2936992788	Blautia faecis MSK.11.45	
+Bacteria	Permanent Draft	2957282265	Blautia wexlerae MSK.23.75	
+Bacteria	Permanent Draft	2957286274	Blautia massiliensis MSK.18.38	
+Bacteria	Permanent Draft	2957333863	Blautia wexlerae MSK.21.50	
+Bacteria	Permanent Draft	2957337309	Blautia wexlerae MSK.21.40	
+Bacteria	Permanent Draft	2960540339	Blautia wexlerae MSK.22.17	
+Bacteria	Permanent Draft	2960568271	Blautia wexlerae BIOML-A13	
+Bacteria	Permanent Draft	2964603949	Blautia wexlerae BIOML-A10	
+Bacteria	Permanent Draft	2967502695	Sporofaciens musculi WCA-9-b2	

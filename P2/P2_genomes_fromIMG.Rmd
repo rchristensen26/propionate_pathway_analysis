@@ -1,0 +1,93 @@
+---
+title: "P2_genomes_fromIMG"
+output: html_document
+---
+
+```{r}
+library(dplyr)
+
+# # create df
+P2_df <- data.frame(matrix(ncol = 8, nrow = ((nrow(genomeIDs_acrC)) + 
+                                               (nrow(genomeIDs_lcdC)) + 
+                                               (nrow(genomeIDs_lcdB)) + 
+                                               (nrow(genomeIDs_lcdA)) +
+                                               (nrow(genomeIDs_pct)))))
+colnames(P2_df) <- c("IMG_genome_ID", "genome_name", "lcdA", "lcdB", "lcdC", "pct", "acrC", "n_genes_present")
+
+P2_df$IMG_genome_ID <- c(genomeIDs_acrC$`Genome ID`, 
+                         genomeIDs_lcdC$`Genome ID`, 
+                         genomeIDs_lcdB$`Genome ID`, 
+                         genomeIDs_lcdA$`Genome ID`, 
+                         genomeIDs_pct$`Genome ID`)
+
+P2_df$genome_name <- c(genomeIDs_acrC$`Genome Name`, 
+                         genomeIDs_lcdC$`Genome Name`, 
+                         genomeIDs_lcdB$`Genome Name`, 
+                         genomeIDs_lcdA$`Genome Name`, 
+                         genomeIDs_pct$`Genome Name`)
+
+P2_df[,c("lcdA", "lcdB", "lcdC", "pct", "acrC")] <- 0
+
+P2_df <- P2_df %>% distinct()
+
+P2_df$acrC[P2_df$IMG_genome_ID %in% genomeIDs_acrC$`Genome ID`] <- 1
+nrow(subset(P2_df, acrC == 1))
+length(unique(genomeIDs_acrC$`Genome ID`))
+
+P2_df$lcdA[P2_df$IMG_genome_ID %in% genomeIDs_lcdA$`Genome ID`] <- 1
+nrow(subset(P2_df, lcdA == 1))
+length(unique(genomeIDs_lcdA$`Genome ID`))
+
+P2_df$lcdB[P2_df$IMG_genome_ID %in% genomeIDs_lcdB$`Genome ID`] <- 1
+nrow(subset(P2_df, lcdB == 1))
+length(unique(genomeIDs_lcdB$`Genome ID`))
+
+P2_df$lcdC[P2_df$IMG_genome_ID %in% genomeIDs_lcdC$`Genome ID`] <- 1
+nrow(subset(P2_df, lcdC == 1))
+length(unique(genomeIDs_lcdC$`Genome ID`))
+
+P2_df$pct[P2_df$IMG_genome_ID %in% genomeIDs_pct$`Genome ID`] <- 1
+nrow(subset(P2_df, pct == 1))
+length(unique(genomeIDs_pct$`Genome ID`))
+
+P2_df$n_genes_present <- rowSums(P2_df[,c("lcdA", "lcdB", "lcdC", "pct", "acrC")])
+
+View(P2_df)
+
+```
+
+# P2 IMG genome results from EC/KO search
+```{r}
+table(P2_df$n_genes_present)
+
+paste("genomes with ALL genes: ",
+      nrow(subset(P2_df, n_genes_present == 5)))
+
+xtabs(~lcdA+lcdB+lcdC+pct+acrC, data=P2_df)
+
+# conclusion: acrC is not a viable check of for propiogenic genomes b/c it's not really.... around .....
+```
+
+# model P2 strains
+```{r}
+model_p2 <- c("Anaerotignum propionicum", 
+              "Megasphaera elsdenii")
+
+View(subset(P2_df, grepl(model_p2[1], genome_name) | grepl(model_p2[2], genome_name) == TRUE))
+
+# number of gene requirements based on model strains: must have all genes except acrC
+```
+
+# P2 genome ID filter for genomeAndGenes files / gene for searching genes from IMG
+```{r}
+library(readr)
+
+df <- genomeAndGeneIDs_pct
+output_file <- "geneIDs/filteredGeneIDs_forpHMM_pct.txt"
+ 
+P2_genome_IDs <- as.vector(subset(P2_df$IMG_genome_ID, P2_df$n_genes_present > 3))
+
+genes <- as.vector(subset(df$gene_id, df$genome_id %in% P2_genome_IDs))
+write_lines(genes, output_file)
+
+```

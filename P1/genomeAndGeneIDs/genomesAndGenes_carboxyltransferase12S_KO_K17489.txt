@@ -1,0 +1,1488 @@
+job	filter	gene_id	description	genome_id
+ko_K17489	KO:K17489	2968635835	methylmalonyl-CoA carboxyltransferase large subunit	2968633430	
+ko_K17489	KO:K17489	2511589278	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231084	
+ko_K17489	KO:K17489	2523856971	methylmalonyl-CoA carboxyltransferase 12S subunit	2523533584	
+ko_K17489	KO:K17489	2513795295	methylmalonyl-CoA carboxyltransferase 12S subunit	2513237117	
+ko_K17489	KO:K17489	2859559383	methylmalonyl-CoA carboxyltransferase large subunit	2859558775	
+ko_K17489	KO:K17489	2859559384	methylmalonyl-CoA carboxyltransferase large subunit	2859558775	
+ko_K17489	KO:K17489	2867486818	methylmalonyl-CoA carboxyltransferase large subunit	2867484473	
+ko_K17489	KO:K17489	2848161101	methylmalonyl-CoA carboxyltransferase large subunit	2848159128	
+ko_K17489	KO:K17489	2511675521	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231111	
+ko_K17489	KO:K17489	2866180212	methylmalonyl-CoA carboxyltransferase large subunit	2866179177	
+ko_K17489	KO:K17489	2851546051	methylmalonyl-CoA carboxyltransferase large subunit	2851545357	
+ko_K17489	KO:K17489	2531832025	methylmalonyl-CoA carboxyltransferase 12S subunit	2529293281	
+ko_K17489	KO:K17489	2688453884	methylmalonyl-CoA carboxyltransferase 12S subunit	2687453358	
+ko_K17489	KO:K17489	2662247599	 methylmalonyl-CoA carboxyltransferase 12S subunit	2660238400	
+ko_K17489	KO:K17489	2633275947	methylmalonyl-CoA carboxyltransferase 12S subunit	2630968795	
+ko_K17489	KO:K17489	2920130319	methylmalonyl-CoA carboxyltransferase large subunit	2920125314	
+ko_K17489	KO:K17489	2877193778	methylmalonyl-CoA carboxyltransferase large subunit	2877193178	
+ko_K17489	KO:K17489	2559734960	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860403	
+ko_K17489	KO:K17489	2511722816	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231126	
+ko_K17489	KO:K17489	2511722817	hypothetical protein	2511231126	
+ko_K17489	KO:K17489	2512790595	methylmalonyl-CoA carboxyltransferase 12S subunit	2512564058	
+ko_K17489	KO:K17489	2869742284	methylmalonyl-CoA carboxyltransferase large subunit	2869740637	
+ko_K17489	KO:K17489	2847121339	methylmalonyl-CoA carboxyltransferase large subunit	2847120807	
+ko_K17489	KO:K17489	2902682429	methylmalonyl-CoA carboxyltransferase large subunit	2902680501	
+ko_K17489	KO:K17489	2511645426	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231099	
+ko_K17489	KO:K17489	2661861415	methylmalonyl-CoA carboxyltransferase 12S subunit	2660238308	
+ko_K17489	KO:K17489	2858982649	methylmalonyl-CoA carboxyltransferase large subunit	2858981065	
+ko_K17489	KO:K17489	2546819625	methylmalonyl-CoA carboxyltransferase 12S subunit	2545824790	
+ko_K17489	KO:K17489	2511586966	hypothetical protein	2511231083	
+ko_K17489	KO:K17489	2968653086	methylmalonyl-CoA carboxyltransferase large subunit	2968652349	
+ko_K17489	KO:K17489	2844399635	methylmalonyl-CoA carboxyltransferase large subunit	2844399035	
+ko_K17489	KO:K17489	2813501948	methylmalonyl-CoA carboxyltransferase large subunit	2811995216	
+ko_K17489	KO:K17489	2635685282	hypothetical protein	2634166441	
+ko_K17489	KO:K17489	2533046449	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839313	
+ko_K17489	KO:K17489	2869748191	methylmalonyl-CoA carboxyltransferase large subunit	2869747592	
+ko_K17489	KO:K17489	2869745935	methylmalonyl-CoA carboxyltransferase large subunit	2869745315	
+ko_K17489	KO:K17489	2813622957	methylmalonyl-CoA carboxyltransferase large subunit	2811995256	
+ko_K17489	KO:K17489	2859551935	methylmalonyl-CoA carboxyltransferase large subunit	2859551338	
+ko_K17489	KO:K17489	2923455409	methylmalonyl-CoA carboxyltransferase large subunit	2923453845	
+ko_K17489	KO:K17489	2887566663	methylmalonyl-CoA carboxyltransferase large subunit	2887565955	
+ko_K17489	KO:K17489	2887069783	methylmalonyl-CoA carboxyltransferase large subunit	2887065130	
+ko_K17489	KO:K17489	2820820682	methylmalonyl-CoA carboxyltransferase large subunit	2820820509	
+ko_K17489	KO:K17489	2874041840	methylmalonyl-CoA carboxyltransferase large subunit	2874040344	
+ko_K17489	KO:K17489	2719037257	methylmalonyl-CoA carboxyltransferase 12S subunit	2718217849	
+ko_K17489	KO:K17489	2721576971	methylmalonyl-CoA carboxyltransferase 12S subunit	2718218466	
+ko_K17489	KO:K17489	2869743632	methylmalonyl-CoA carboxyltransferase large subunit	2869742882	
+ko_K17489	KO:K17489	2538210077	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561675	
+ko_K17489	KO:K17489	2968677172	methylmalonyl-CoA carboxyltransferase large subunit	2968675283	
+ko_K17489	KO:K17489	2842968423	methylmalonyl-CoA carboxyltransferase large subunit	2842967777	
+ko_K17489	KO:K17489	2784407123	methylmalonyl-CoA carboxyltransferase large subunit	2784132096	
+ko_K17489	KO:K17489	2533470355	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839425	
+ko_K17489	KO:K17489	2887566662	methylmalonyl-CoA carboxyltransferase large subunit	2887565955	
+ko_K17489	KO:K17489	2732288816	methylmalonyl-CoA carboxyltransferase 12S subunit	2731957581	
+ko_K17489	KO:K17489	2850507390	methylmalonyl-CoA carboxyltransferase large subunit	2850506963	
+ko_K17489	KO:K17489	2884466556	methylmalonyl-CoA carboxyltransferase large subunit	2884464834	
+ko_K17489	KO:K17489	2588633521	methylmalonyl-CoA carboxyltransferase 12S subunit	2588253761	
+ko_K17489	KO:K17489	647362377	conserved hypothetical protein	647000296	
+ko_K17489	KO:K17489	2774952840	methylmalonyl-CoA carboxyltransferase large subunit	2773857945	
+ko_K17489	KO:K17489	2540441433	methylmalonyl-CoA carboxyltransferase 12S subunit	2540341033	
+ko_K17489	KO:K17489	2511814196	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231153	
+ko_K17489	KO:K17489	2511816394	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231154	
+ko_K17489	KO:K17489	2518584883	methylmalonyl-CoA carboxyltransferase 12S subunit	2518285594	
+ko_K17489	KO:K17489	2820836951	methylmalonyl-CoA carboxyltransferase large subunit	2820834831	
+ko_K17489	KO:K17489	651624319	methylmalonyl-CoA carboxyltransferase 12S subunit (EC 2.1.3.1)	651324092	
+ko_K17489	KO:K17489	2872054334	methylmalonyl-CoA carboxyltransferase large subunit	2872053734	
+ko_K17489	KO:K17489	2752604665	methylmalonyl-CoA carboxyltransferase large subunit	2751185590	
+ko_K17489	KO:K17489	2894638193	methylmalonyl-CoA carboxyltransferase large subunit	2894636097	
+ko_K17489	KO:K17489	2878423306	methylmalonyl-CoA carboxyltransferase large subunit	2878420039	
+ko_K17489	KO:K17489	2647191927	methylmalonyl-CoA carboxyltransferase 12S subunit	2645727838	
+ko_K17489	KO:K17489	2719399500	 methylmalonyl-CoA carboxyltransferase 12S subunit	2718217930	
+ko_K17489	KO:K17489	2817572536	methylmalonyl-CoA carboxyltransferase 12S subunit 	2816332324	
+ko_K17489	KO:K17489	2817572537	methylmalonyl-CoA carboxyltransferase large subunit	2816332324	
+ko_K17489	KO:K17489	2655681958	methylmalonyl-CoA carboxyltransferase 12S subunit	2654587755	
+ko_K17489	KO:K17489	2655681959	 methylmalonyl-CoA carboxyltransferase 12S subunit	2654587755	
+ko_K17489	KO:K17489	2841059648	methylmalonyl-CoA carboxyltransferase large subunit	2841058919	
+ko_K17489	KO:K17489	2671942020	methylmalonyl-CoA carboxyltransferase 12S subunit	2671180235	
+ko_K17489	KO:K17489	2814725956	methylmalonyl-CoA carboxyltransferase 12S subunit 	2814123075	
+ko_K17489	KO:K17489	2618102761	hypothetical protein	2617270936	
+ko_K17489	KO:K17489	2848157510	methylmalonyl-CoA carboxyltransferase large subunit	2848156896	
+ko_K17489	KO:K17489	2721614471	hypothetical protein	2718218477	
+ko_K17489	KO:K17489	2649983087	methylmalonyl-CoA carboxyltransferase 12S subunit	2648501457	
+ko_K17489	KO:K17489	2533070107	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839323	
+ko_K17489	KO:K17489	2615856224	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840503	
+ko_K17489	KO:K17489	2843217030	propionyl-CoA carboxylase beta chain	2843215260	
+ko_K17489	KO:K17489	2823621100	methylmalonyl-CoA carboxyltransferase large subunit	2823618977	
+ko_K17489	KO:K17489	2820836734	methylmalonyl-CoA carboxyltransferase large subunit	2820834831	
+ko_K17489	KO:K17489	2850504008	methylmalonyl-CoA carboxyltransferase large subunit	2850502144	
+ko_K17489	KO:K17489	2501895793	methylmalonyl-CoA carboxyltransferase 12S subunit	2501846309	
+ko_K17489	KO:K17489	2855972482	methylmalonyl-CoA carboxyltransferase large subunit	2855970288	
+ko_K17489	KO:K17489	2668432206	methylmalonyl-CoA carboxyltransferase 12S subunit	2667527512	
+ko_K17489	KO:K17489	2649824326	methylmalonyl-CoA carboxyltransferase 12S subunit	2648501415	
+ko_K17489	KO:K17489	2820901512	methylmalonyl-CoA carboxyltransferase large subunit	2820901319	
+ko_K17489	KO:K17489	2874051935	methylmalonyl-CoA carboxyltransferase large subunit	2874050233	
+ko_K17489	KO:K17489	2871362753	methylmalonyl-CoA carboxyltransferase large subunit	2871362119	
+ko_K17489	KO:K17489	2720444718	hypothetical protein	2718218188	
+ko_K17489	KO:K17489	2858971894	methylmalonyl-CoA carboxyltransferase large subunit	2858971191	
+ko_K17489	KO:K17489	2665494512	methylmalonyl-CoA carboxyltransferase 12S subunit	2663763063	
+ko_K17489	KO:K17489	2659487712	hypothetical protein	2657245564	
+ko_K17489	KO:K17489	2719185677	methylmalonyl-CoA carboxyltransferase 12S subunit	2718217883	
+ko_K17489	KO:K17489	2640688113	methylmalonyl-CoA carboxyltransferase 12S subunit	2639762781	
+ko_K17489	KO:K17489	2721574794	methylmalonyl-CoA carboxyltransferase 12S subunit	2718218465	
+ko_K17489	KO:K17489	2721574795	hypothetical protein	2718218465	
+ko_K17489	KO:K17489	2726251091	methylmalonyl-CoA carboxyltransferase 12S subunit	2724679289	
+ko_K17489	KO:K17489	2533482106	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839430	
+ko_K17489	KO:K17489	2533482107	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839430	
+ko_K17489	KO:K17489	2533474753	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839427	
+ko_K17489	KO:K17489	2704217731	Acetyl-CoA carboxylase, carboxyltransferase component	2703718746	
+ko_K17489	KO:K17489	2615860712	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840504	
+ko_K17489	KO:K17489	2815786909	acetyl-CoA carboxylase carboxyltransferase component	2814123372	
+ko_K17489	KO:K17489	2905675145	acetyl-CoA carboxylase carboxyltransferase component	2905672216	
+ko_K17489	KO:K17489	2850514864	methylmalonyl-CoA carboxyltransferase large subunit	2850511929	
+ko_K17489	KO:K17489	2841531253	methylmalonyl-CoA carboxyltransferase large subunit	2841529330	
+ko_K17489	KO:K17489	2533458356	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839421	
+ko_K17489	KO:K17489	2559719956	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860397	
+ko_K17489	KO:K17489	2862085300	methylmalonyl-CoA carboxyltransferase large subunit	2862083008	
+ko_K17489	KO:K17489	2573867614	methylmalonyl-CoA carboxyltransferase 12S subunit	2571042832	
+ko_K17489	KO:K17489	2516938617	methylmalonyl-CoA carboxyltransferase 12S subunit	2516653053	
+ko_K17489	KO:K17489	2537866677	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561584	
+ko_K17489	KO:K17489	2512459667	methylmalonyl-CoA carboxyltransferase 12S subunit	2512047068	
+ko_K17489	KO:K17489	2621133379	methylmalonyl-CoA carboxyltransferase 12S subunit	2619619253	
+ko_K17489	KO:K17489	2851560808	methylmalonyl-CoA carboxyltransferase large subunit	2851559942	
+ko_K17489	KO:K17489	2847219000	methylmalonyl-CoA carboxyltransferase large subunit	2847216000	
+ko_K17489	KO:K17489	2848917665	methylmalonyl-CoA carboxyltransferase large subunit	2848915755	
+ko_K17489	KO:K17489	2910891951	hypothetical protein	2910891455	
+ko_K17489	KO:K17489	2752801499	methylmalonyl-CoA carboxyltransferase large subunit	2751185664	
+ko_K17489	KO:K17489	2629155417	methylmalonyl-CoA carboxyltransferase 12S subunit	2627853834	
+ko_K17489	KO:K17489	2874829537	methylmalonyl-CoA carboxyltransferase large subunit	2874828267	
+ko_K17489	KO:K17489	2789553837	methylmalonyl-CoA carboxyltransferase large subunit	2788500111	
+ko_K17489	KO:K17489	2789553838	methylmalonyl-CoA carboxyltransferase large subunit	2788500111	
+ko_K17489	KO:K17489	2855961601	methylmalonyl-CoA carboxyltransferase large subunit	2855960665	
+ko_K17489	KO:K17489	2512013533	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231212	
+ko_K17489	KO:K17489	2850495442	methylmalonyl-CoA carboxyltransferase large subunit	2850492634	
+ko_K17489	KO:K17489	2851553836	methylmalonyl-CoA carboxyltransferase large subunit	2851553239	
+ko_K17489	KO:K17489	2874821224	methylmalonyl-CoA carboxyltransferase large subunit	2874820625	
+ko_K17489	KO:K17489	639757140	carboxyl transferase	639633050	
+ko_K17489	KO:K17489	2874823439	methylmalonyl-CoA carboxyltransferase large subunit	2874822841	
+ko_K17489	KO:K17489	2563387844	Acetyl-CoA carboxylase, carboxyltransferase component	2563366507	
+ko_K17489	KO:K17489	2615867296	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840506	
+ko_K17489	KO:K17489	2579845829	Acetyl-CoA carboxylase, carboxyltransferase component	2579778519	
+ko_K17489	KO:K17489	2516186563	methylmalonyl-CoA carboxyltransferase 12S subunit	2516143011	
+ko_K17489	KO:K17489	2872070542	methylmalonyl-CoA carboxyltransferase large subunit	2872069584	
+ko_K17489	KO:K17489	2850500316	methylmalonyl-CoA carboxyltransferase large subunit	2850497574	
+ko_K17489	KO:K17489	2862077921	methylmalonyl-CoA carboxyltransferase large subunit	2862075925	
+ko_K17489	KO:K17489	2812405001	methylmalonyl-CoA carboxyltransferase large subunit	2811994894	
+ko_K17489	KO:K17489	2524825696	methylmalonyl-CoA carboxyltransferase 12S subunit	2524614535	
+ko_K17489	KO:K17489	2732732451	hypothetical protein	2731957689	
+ko_K17489	KO:K17489	2668513622	methylmalonyl-CoA carboxyltransferase 12S subunit	2667527539	
+ko_K17489	KO:K17489	2850574846	methylmalonyl-CoA carboxyltransferase large subunit	2850574254	
+ko_K17489	KO:K17489	2877187085	methylmalonyl-CoA carboxyltransferase large subunit	2877186476	
+ko_K17489	KO:K17489	2834838925	methylmalonyl-CoA carboxyltransferase large subunit	2834836693	
+ko_K17489	KO:K17489	2602610087	methylmalonyl-CoA carboxyltransferase 12S subunit	2602041680	
+ko_K17489	KO:K17489	2917716792	methylmalonyl-CoA carboxyltransferase large subunit	2917716410	
+ko_K17489	KO:K17489	2718668968	hypothetical protein	2718217737	
+ko_K17489	KO:K17489	2565593758	methylmalonyl-CoA carboxyltransferase 12S subunit	2563367147	
+ko_K17489	KO:K17489	2541467994	methylmalonyl-CoA carboxyltransferase 12S subunit	2541047021	
+ko_K17489	KO:K17489	2656255090	methylmalonyl-CoA carboxyltransferase 12S subunit	2654587914	
+ko_K17489	KO:K17489	2583007358	methylmalonyl-CoA carboxyltransferase 12S subunit	2582580689	
+ko_K17489	KO:K17489	2659836593	methylmalonyl-CoA carboxyltransferase 12S subunit	2657245654	
+ko_K17489	KO:K17489	2538217638	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561678	
+ko_K17489	KO:K17489	2530650385	methylmalonyl-CoA carboxyltransferase 12S subunit	2529292952	
+ko_K17489	KO:K17489	2855974806	methylmalonyl-CoA carboxyltransferase large subunit	2855973848	
+ko_K17489	KO:K17489	2938687062	methylmalonyl-CoA carboxyltransferase large subunit	2938686344	
+ko_K17489	KO:K17489	2931430647	methylmalonyl-CoA carboxyltransferase large subunit	2931430189	
+ko_K17489	KO:K17489	2938688814	methylmalonyl-CoA carboxyltransferase large subunit	2938688769	
+ko_K17489	KO:K17489	2938695269	methylmalonyl-CoA carboxyltransferase large subunit	2938693623	
+ko_K17489	KO:K17489	2961887840	methylmalonyl-CoA carboxyltransferase large subunit	2961886980	
+ko_K17489	KO:K17489	2902884610	acetyl-CoA carboxylase carboxyltransferase component	2902881433	
+ko_K17489	KO:K17489	2687870160	Acetyl-CoA carboxylase, carboxyltransferase component	2687453205	
+ko_K17489	KO:K17489	2938682928	methylmalonyl-CoA carboxyltransferase large subunit	2938681895	
+ko_K17489	KO:K17489	2968665516	methylmalonyl-CoA carboxyltransferase large subunit	2968664717	
+ko_K17489	KO:K17489	2859557162	methylmalonyl-CoA carboxyltransferase large subunit	2859556566	
+ko_K17489	KO:K17489	2888668011	methylmalonyl-CoA carboxyltransferase large subunit	2888667245	
+ko_K17489	KO:K17489	2511589279	hypothetical protein	2511231084	
+ko_K17489	KO:K17489	2878676748	methylmalonyl-CoA carboxyltransferase large subunit	2878672441	
+ko_K17489	KO:K17489	2878676749	methylmalonyl-CoA carboxyltransferase large subunit	2878672441	
+ko_K17489	KO:K17489	2534026130	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839572	
+ko_K17489	KO:K17489	2848941119	methylmalonyl-CoA carboxyltransferase large subunit	2848940657	
+ko_K17489	KO:K17489	2869103003	methylmalonyl-CoA carboxyltransferase large subunit	2869101221	
+ko_K17489	KO:K17489	2874054877	methylmalonyl-CoA carboxyltransferase large subunit	2874052745	
+ko_K17489	KO:K17489	2874054878	methylmalonyl-CoA carboxyltransferase large subunit	2874052745	
+ko_K17489	KO:K17489	2721579219	methylmalonyl-CoA carboxyltransferase 12S subunit	2718218467	
+ko_K17489	KO:K17489	2523162124	methylmalonyl-CoA carboxyltransferase 12S subunit	2522572173	
+ko_K17489	KO:K17489	2872045631	methylmalonyl-CoA carboxyltransferase large subunit	2872045035	
+ko_K17489	KO:K17489	2872045632	methylmalonyl-CoA carboxyltransferase large subunit	2872045035	
+ko_K17489	KO:K17489	2588639201	hypothetical protein	2588253763	
+ko_K17489	KO:K17489	2848918650	methylmalonyl-CoA carboxyltransferase large subunit	2848918223	
+ko_K17489	KO:K17489	2539868836	methylmalonyl-CoA carboxyltransferase 12S subunit	2537562124	
+ko_K17489	KO:K17489	2810681065	methylmalonyl-CoA carboxyltransferase large subunit	2808606778	
+ko_K17489	KO:K17489	2721619309	hypothetical protein	2718218479	
+ko_K17489	KO:K17489	2691921679	 methylmalonyl-CoA carboxyltransferase 12S subunit	2690316020	
+ko_K17489	KO:K17489	646743776	methylmalonyl-CoA carboxyltransferase 12S subunit (EC 2.1.3.1)	646564561	
+ko_K17489	KO:K17489	2858995079	methylmalonyl-CoA carboxyltransferase large subunit	2858993748	
+ko_K17489	KO:K17489	2895770266	methylmalonyl-CoA carboxyltransferase large subunit	2895767234	
+ko_K17489	KO:K17489	2668998340	 methylmalonyl-CoA carboxyltransferase 12S subunit	2667527668	
+ko_K17489	KO:K17489	2752552702	methylmalonyl-CoA carboxyltransferase large subunit	2751185570	
+ko_K17489	KO:K17489	2559734961	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860403	
+ko_K17489	KO:K17489	2533053755	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839316	
+ko_K17489	KO:K17489	2646948966	methylmalonyl-CoA carboxyltransferase 12S subunit	2645727783	
+ko_K17489	KO:K17489	2512790596	hypothetical protein	2512564058	
+ko_K17489	KO:K17489	2968657440	methylmalonyl-CoA carboxyltransferase large subunit	2968657020	
+ko_K17489	KO:K17489	2532703443	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839225	
+ko_K17489	KO:K17489	2876300709	methylmalonyl-CoA carboxyltransferase large subunit	2876299533	
+ko_K17489	KO:K17489	2512720916	methylmalonyl-CoA carboxyltransferase 12S subunit	2512564036	
+ko_K17489	KO:K17489	639766173	methylmalonyl-CoA carboxyltransferase 12S subunit	639633020	
+ko_K17489	KO:K17489	2641684409	methylmalonyl-CoA carboxyltransferase 12S subunit	2639763023	
+ko_K17489	KO:K17489	2867415035	uncharacterized coiled-coil protein SlyX	2867413033	
+ko_K17489	KO:K17489	2910878536	hypothetical protein	2910878194	
+ko_K17489	KO:K17489	2869095456	methylmalonyl-CoA carboxyltransferase large subunit	2869093904	
+ko_K17489	KO:K17489	2869756659	methylmalonyl-CoA carboxyltransferase large subunit	2869755204	
+ko_K17489	KO:K17489	646743775	methylmalonyl-CoA carboxyltransferase 12S subunit	646564561	
+ko_K17489	KO:K17489	2543163895	hypothetical protein	2541047477	
+ko_K17489	KO:K17489	650944497	methylmalonyl-CoA carboxyltransferase 12S subunit	650716030	
+ko_K17489	KO:K17489	2511586965	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231083	
+ko_K17489	KO:K17489	2636955165	methylmalonyl-CoA carboxyltransferase 12S subunit	2636415533	
+ko_K17489	KO:K17489	2538208349	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561674	
+ko_K17489	KO:K17489	2533472547	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839426	
+ko_K17489	KO:K17489	2895407467	methylmalonyl-CoA carboxyltransferase large subunit	2895405293	
+ko_K17489	KO:K17489	2887591961	methylmalonyl-CoA carboxyltransferase large subunit	2887588665	
+ko_K17489	KO:K17489	2631976385	methylmalonyl-CoA carboxyltransferase 12S subunit	2630968481	
+ko_K17489	KO:K17489	2871381229	methylmalonyl-CoA carboxyltransferase large subunit	2871379085	
+ko_K17489	KO:K17489	2790291876	methylmalonyl-CoA carboxyltransferase large subunit	2788500328	
+ko_K17489	KO:K17489	2869748190	methylmalonyl-CoA carboxyltransferase large subunit	2869747592	
+ko_K17489	KO:K17489	2848145283	methylmalonyl-CoA carboxyltransferase large subunit	2848144686	
+ko_K17489	KO:K17489	2813527065	methylmalonyl-CoA carboxyltransferase large subunit	2811995225	
+ko_K17489	KO:K17489	2888214104	methylmalonyl-CoA carboxyltransferase large subunit	2888212034	
+ko_K17489	KO:K17489	2888214105	methylmalonyl-CoA carboxyltransferase large subunit	2888212034	
+ko_K17489	KO:K17489	2859573247	methylmalonyl-CoA carboxyltransferase large subunit	2859572654	
+ko_K17489	KO:K17489	2874047029	methylmalonyl-CoA carboxyltransferase large subunit	2874045272	
+ko_K17489	KO:K17489	2555942729	methylmalonyl-CoA carboxyltransferase 12S subunit	2554235426	
+ko_K17489	KO:K17489	2620989159	methylmalonyl-CoA carboxyltransferase 12S subunit	2619619217	
+ko_K17489	KO:K17489	2638280258	methylmalonyl-CoA carboxyltransferase 12S subunit	2636415853	
+ko_K17489	KO:K17489	2869750404	methylmalonyl-CoA carboxyltransferase large subunit	2869749802	
+ko_K17489	KO:K17489	2867427102	methylmalonyl-CoA carboxyltransferase large subunit	2867425335	
+ko_K17489	KO:K17489	2606595373	methylmalonyl-CoA carboxyltransferase 12S subunit	2606217205	
+ko_K17489	KO:K17489	2688684604	methylmalonyl-CoA carboxyltransferase 12S subunit	2687453413	
+ko_K17489	KO:K17489	2968645192	methylmalonyl-CoA carboxyltransferase large subunit	2968643666	
+ko_K17489	KO:K17489	2968645193	methylmalonyl-CoA carboxyltransferase large subunit	2968643666	
+ko_K17489	KO:K17489	2840341764	methylmalonyl-CoA carboxyltransferase large subunit	2840340764	
+ko_K17489	KO:K17489	2871381228	methylmalonyl-CoA carboxyltransferase large subunit	2871379085	
+ko_K17489	KO:K17489	2792124364	hypothetical protein	2791354959	
+ko_K17489	KO:K17489	2533470354	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839425	
+ko_K17489	KO:K17489	2869100082	methylmalonyl-CoA carboxyltransferase large subunit	2869098794	
+ko_K17489	KO:K17489	2869100083	methylmalonyl-CoA carboxyltransferase large subunit	2869098794	
+ko_K17489	KO:K17489	2585861279	methylmalonyl-CoA carboxyltransferase 12S subunit	2585427598	
+ko_K17489	KO:K17489	2876303662	methylmalonyl-CoA carboxyltransferase large subunit	2876301957	
+ko_K17489	KO:K17489	2874057280	methylmalonyl-CoA carboxyltransferase large subunit	2874055179	
+ko_K17489	KO:K17489	2649920793	methylmalonyl-CoA carboxyltransferase 12S subunit	2648501440	
+ko_K17489	KO:K17489	2529395696	methylmalonyl-CoA carboxyltransferase 12S subunit	2529292557	
+ko_K17489	KO:K17489	647362378	methylmalonyl-CoA carboxyltransferase 12S subunit (EC 2.1.3.1)	647000296	
+ko_K17489	KO:K17489	2810590604	methylmalonyl-CoA carboxyltransferase large subunit	2808606759	
+ko_K17489	KO:K17489	2518584884	methylmalonyl-CoA carboxyltransferase 12S subunit	2518285594	
+ko_K17489	KO:K17489	2850506418	methylmalonyl-CoA carboxyltransferase large subunit	2850502144	
+ko_K17489	KO:K17489	2872067973	methylmalonyl-CoA carboxyltransferase large subunit	2872067374	
+ko_K17489	KO:K17489	2538213483	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561676	
+ko_K17489	KO:K17489	2538213484	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561676	
+ko_K17489	KO:K17489	2647100352	hypothetical protein	2645727818	
+ko_K17489	KO:K17489	2538200850	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561671	
+ko_K17489	KO:K17489	2894077999	methylmalonyl-CoA carboxyltransferase large subunit	2894077897	
+ko_K17489	KO:K17489	2537905959	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561594	
+ko_K17489	KO:K17489	2855390832	methylmalonyl-CoA carboxyltransferase large subunit	2855386786	
+ko_K17489	KO:K17489	2869758079	methylmalonyl-CoA carboxyltransferase large subunit	2869757482	
+ko_K17489	KO:K17489	2889416416	methylmalonyl-CoA carboxyltransferase large subunit	2889415604	
+ko_K17489	KO:K17489	2539269530	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561950	
+ko_K17489	KO:K17489	2646858143	 methylmalonyl-CoA carboxyltransferase 12S subunit	2645727762	
+ko_K17489	KO:K17489	2582927322	methylmalonyl-CoA carboxyltransferase 12S subunit	2582580659	
+ko_K17489	KO:K17489	2855105630	methylmalonyl-CoA carboxyltransferase large subunit	2855103437	
+ko_K17489	KO:K17489	2699351495	Acetyl-CoA carboxylase, carboxyltransferase component	2698536499	
+ko_K17489	KO:K17489	2869205786	acetyl-CoA carboxylase carboxyltransferase component	2869202438	
+ko_K17489	KO:K17489	2815897953	acetyl-CoA carboxylase carboxyltransferase component	2814123400	
+ko_K17489	KO:K17489	2699181198	Acetyl-CoA carboxylase, carboxyltransferase component	2698536456	
+ko_K17489	KO:K17489	2579440191	methylmalonyl-CoA carboxyltransferase 12S subunit	2576861741	
+ko_K17489	KO:K17489	2739142873	acetyl-CoA carboxylase carboxyltransferase component	2738541356	
+ko_K17489	KO:K17489	2656241470	methylmalonyl-CoA carboxyltransferase 12S subunit	2654587911	
+ko_K17489	KO:K17489	2657152727	methylmalonyl-CoA carboxyltransferase 12S subunit	2654588174	
+ko_K17489	KO:K17489	2631856699	methylmalonyl-CoA carboxyltransferase 12S subunit	2630968451	
+ko_K17489	KO:K17489	2871373666	methylmalonyl-CoA carboxyltransferase large subunit	2871371811	
+ko_K17489	KO:K17489	2537855062	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561580	
+ko_K17489	KO:K17489	2535522927	methylmalonyl-CoA carboxyltransferase 12S subunit	2534681797	
+ko_K17489	KO:K17489	2559205286	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860221	
+ko_K17489	KO:K17489	2920329488	methylmalonyl-CoA carboxyltransferase large subunit	2920328876	
+ko_K17489	KO:K17489	2887991250	methylmalonyl-CoA carboxyltransferase large subunit	2887990687	
+ko_K17489	KO:K17489	2567262979	methylmalonyl-CoA carboxyltransferase 12S subunit	2565956823	
+ko_K17489	KO:K17489	648239297	Hypothetical protein	648231703	
+ko_K17489	KO:K17489	639686456	methylmalonyl-CoA carboxyltransferase 12S subunit	639633060	
+ko_K17489	KO:K17489	2850514863	methylmalonyl-CoA carboxyltransferase large subunit	2850511929	
+ko_K17489	KO:K17489	2696930256	 methylmalonyl-CoA carboxyltransferase 12S subunit	2695420652	
+ko_K17489	KO:K17489	2872063437	methylmalonyl-CoA carboxyltransferase large subunit	2872062798	
+ko_K17489	KO:K17489	2538216041	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561677	
+ko_K17489	KO:K17489	2629787617	methylmalonyl-CoA carboxyltransferase 12S subunit	2627853989	
+ko_K17489	KO:K17489	2874051934	methylmalonyl-CoA carboxyltransferase large subunit	2874050233	
+ko_K17489	KO:K17489	2582857987	methylmalonyl-CoA carboxyltransferase 12S subunit	2582580625	
+ko_K17489	KO:K17489	2665494513	 methylmalonyl-CoA carboxyltransferase 12S subunit	2663763063	
+ko_K17489	KO:K17489	2841831800	methylmalonyl-CoA carboxyltransferase large subunit	2841831313	
+ko_K17489	KO:K17489	649641593	methylmalonyl-CoA carboxyltransferase 12S subunit	649633084	
+ko_K17489	KO:K17489	2538226756	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561682	
+ko_K17489	KO:K17489	2538762418	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561820	
+ko_K17489	KO:K17489	2719185678	hypothetical protein	2718217883	
+ko_K17489	KO:K17489	2678540232	methylmalonyl-CoA carboxyltransferase 12S subunit	2675903590	
+ko_K17489	KO:K17489	2726251092	 methylmalonyl-CoA carboxyltransferase 12S subunit	2724679289	
+ko_K17489	KO:K17489	2905697403	acetyl-CoA carboxylase carboxyltransferase component	2905696560	
+ko_K17489	KO:K17489	2905691773	acetyl-CoA carboxylase carboxyltransferase component	2905690490	
+ko_K17489	KO:K17489	2800226617	methylmalonyl-CoA carboxyltransferase large subunit	2799112632	
+ko_K17489	KO:K17489	2813262759	methylmalonyl-CoA carboxyltransferase large subunit	2811995145	
+ko_K17489	KO:K17489	642766305	methylmalonyl-CoA carboxyltransferase 12S subunit	642555129	
+ko_K17489	KO:K17489	2867482283	methylmalonyl-CoA carboxyltransferase large subunit	2867481428	
+ko_K17489	KO:K17489	2841531254	methylmalonyl-CoA carboxyltransferase large subunit	2841529330	
+ko_K17489	KO:K17489	2523479237	methylmalonyl-CoA carboxyltransferase 12S subunit	2523231070	
+ko_K17489	KO:K17489	2869107076	methylmalonyl-CoA carboxyltransferase large subunit	2869106127	
+ko_K17489	KO:K17489	2537908537	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561595	
+ko_K17489	KO:K17489	2624294395	methylmalonyl-CoA carboxyltransferase 12S subunit	2623620399	
+ko_K17489	KO:K17489	2516938616	methylmalonyl-CoA carboxyltransferase 12S subunit	2516653053	
+ko_K17489	KO:K17489	2834917158	methylmalonyl-CoA carboxyltransferase large subunit	2834914592	
+ko_K17489	KO:K17489	2862065311	methylmalonyl-CoA carboxyltransferase large subunit	2862063619	
+ko_K17489	KO:K17489	2538751082	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561816	
+ko_K17489	KO:K17489	2866947039	methylmalonyl-CoA carboxyltransferase large subunit	2866944438	
+ko_K17489	KO:K17489	2866947040	methylmalonyl-CoA carboxyltransferase large subunit	2866944438	
+ko_K17489	KO:K17489	2869760286	methylmalonyl-CoA carboxyltransferase large subunit	2869759688	
+ko_K17489	KO:K17489	2871361848	methylmalonyl-CoA carboxyltransferase large subunit	2871359651	
+ko_K17489	KO:K17489	2629155416	methylmalonyl-CoA carboxyltransferase 12S subunit	2627853834	
+ko_K17489	KO:K17489	2848151968	methylmalonyl-CoA carboxyltransferase large subunit	2848151376	
+ko_K17489	KO:K17489	2541322522	methylmalonyl-CoA carboxyltransferase 12S subunit	2541046979	
+ko_K17489	KO:K17489	2718653745	methylmalonyl-CoA carboxyltransferase 12S subunit	2718217732	
+ko_K17489	KO:K17489	2869098261	methylmalonyl-CoA carboxyltransferase large subunit	2869096312	
+ko_K17489	KO:K17489	2841834206	methylmalonyl-CoA carboxyltransferase large subunit	2841833728	
+ko_K17489	KO:K17489	2869112488	methylmalonyl-CoA carboxyltransferase large subunit	2869111048	
+ko_K17489	KO:K17489	2871376705	methylmalonyl-CoA carboxyltransferase large subunit	2871376656	
+ko_K17489	KO:K17489	2533479374	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839428	
+ko_K17489	KO:K17489	2841900780	methylmalonyl-CoA carboxyltransferase large subunit	2841898008	
+ko_K17489	KO:K17489	2851553835	methylmalonyl-CoA carboxyltransferase large subunit	2851553239	
+ko_K17489	KO:K17489	2866960687	methylmalonyl-CoA carboxyltransferase large subunit	2866958356	
+ko_K17489	KO:K17489	2565951567	methylmalonyl-CoA carboxyltransferase 12S subunit	2563367224	
+ko_K17489	KO:K17489	2565951568	methylmalonyl-CoA carboxyltransferase 12S subunit	2563367224	
+ko_K17489	KO:K17489	2874823438	methylmalonyl-CoA carboxyltransferase large subunit	2874822841	
+ko_K17489	KO:K17489	2649078627	Acetyl-CoA carboxylase, carboxyltransferase component	2648501232	
+ko_K17489	KO:K17489	2609870629	methylmalonyl-CoA carboxyltransferase 12S subunit	2609459750	
+ko_K17489	KO:K17489	2615882157	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840509	
+ko_K17489	KO:K17489	2876316115	methylmalonyl-CoA carboxyltransferase large subunit	2876314173	
+ko_K17489	KO:K17489	2910850194	methylmalonyl-CoA carboxyltransferase large subunit	2910849231	
+ko_K17489	KO:K17489	2624785494	methylmalonyl-CoA carboxyltransferase 12S subunit	2623620526	
+ko_K17489	KO:K17489	2871361847	methylmalonyl-CoA carboxyltransferase large subunit	2871359651	
+ko_K17489	KO:K17489	2582968585	methylmalonyl-CoA carboxyltransferase 12S subunit	2582580672	
+ko_K17489	KO:K17489	2876305526	methylmalonyl-CoA carboxyltransferase large subunit	2876304364	
+ko_K17489	KO:K17489	2883350536	methylmalonyl-CoA carboxyltransferase large subunit	2883346072	
+ko_K17489	KO:K17489	2858977465	methylmalonyl-CoA carboxyltransferase large subunit	2858976144	
+ko_K17489	KO:K17489	2511520573	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231059	
+ko_K17489	KO:K17489	2561448845	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860977	
+ko_K17489	KO:K17489	2538035153	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561633	
+ko_K17489	KO:K17489	2537868449	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561585	
+ko_K17489	KO:K17489	2869090494	methylmalonyl-CoA carboxyltransferase large subunit	2869088689	
+ko_K17489	KO:K17489	2835212085	methylmalonyl-CoA carboxyltransferase large subunit	2835211878	
+ko_K17489	KO:K17489	2559730233	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860401	
+ko_K17489	KO:K17489	2559730234	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860401	
+ko_K17489	KO:K17489	647415274	methylmalonyl-CoA carboxyltransferase 12S subunit (EC 2.1.3.1)	647000297	
+ko_K17489	KO:K17489	2685407119	methylmalonyl-CoA carboxyltransferase 12S subunit	2684622695	
+ko_K17489	KO:K17489	2789568107	methylmalonyl-CoA carboxyltransferase large subunit	2788500115	
+ko_K17489	KO:K17489	2834843051	methylmalonyl-CoA carboxyltransferase large subunit	2834841514	
+ko_K17489	KO:K17489	2521588447	methylmalonyl-CoA carboxyltransferase 12S subunit	2521172602	
+ko_K17489	KO:K17489	2565593759	methylmalonyl-CoA carboxyltransferase 12S subunit	2563367147	
+ko_K17489	KO:K17489	2961875980	methylmalonyl-CoA carboxyltransferase large subunit	2961874872	
+ko_K17489	KO:K17489	639681810	carboxyl transferase	639633060	
+ko_K17489	KO:K17489	2857061594	acetyl-CoA carboxylase carboxyltransferase component	2857056716	
+ko_K17489	KO:K17489	2675591343	Acetyl-CoA carboxylase, carboxyltransferase component	2671181121	
+ko_K17489	KO:K17489	2638084161	Acetyl-CoA carboxylase, carboxyltransferase component	2636415805	
+ko_K17489	KO:K17489	2847211601	methylmalonyl-CoA carboxyltransferase large subunit	2847208544	
+ko_K17489	KO:K17489	2841527217	methylmalonyl-CoA carboxyltransferase large subunit	2841525362	
+ko_K17489	KO:K17489	2816328909	methylmalonyl-CoA carboxyltransferase large subunit	2814123534	
+ko_K17489	KO:K17489	2816328910	methylmalonyl-CoA carboxyltransferase large subunit	2814123534	
+ko_K17489	KO:K17489	2533057329	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839317	
+ko_K17489	KO:K17489	2961863480	methylmalonyl-CoA carboxyltransferase large subunit	2961862695	
+ko_K17489	KO:K17489	2964029732	methylmalonyl-CoA carboxyltransferase large subunit	2964026762	
+ko_K17489	KO:K17489	2938676498	methylmalonyl-CoA carboxyltransferase large subunit	2938674827	
+ko_K17489	KO:K17489	2961866386	methylmalonyl-CoA carboxyltransferase large subunit	2961865205	
+ko_K17489	KO:K17489	2704213000	Acetyl-CoA carboxylase, carboxyltransferase component	2703718745	
+ko_K17489	KO:K17489	2602388809	methylmalonyl-CoA carboxyltransferase 12S subunit	2602041614	
+ko_K17489	KO:K17489	2800224113	methylmalonyl-CoA carboxyltransferase large subunit	2799112631	
+ko_K17489	KO:K17489	2525373118	methylmalonyl-CoA carboxyltransferase 12S subunit	2524614676	
+ko_K17489	KO:K17489	2523935735	methylmalonyl-CoA carboxyltransferase 12S subunit	2523533610	
+ko_K17489	KO:K17489	2938692210	methylmalonyl-CoA carboxyltransferase large subunit	2938691023	
+ko_K17489	KO:K17489	2961891320	methylmalonyl-CoA carboxyltransferase large subunit	2961889302	
+ko_K17489	KO:K17489	2968536336	methylmalonyl-CoA carboxyltransferase large subunit	2968536325	
+ko_K17489	KO:K17489	2859557163	methylmalonyl-CoA carboxyltransferase large subunit	2859556566	
+ko_K17489	KO:K17489	2752191703	methylmalonyl-CoA carboxyltransferase large subunit	2751185416	
+ko_K17489	KO:K17489	2920216669	methylmalonyl-CoA carboxyltransferase large subunit	2920213499	
+ko_K17489	KO:K17489	2728370388	 methylmalonyl-CoA carboxyltransferase 12S subunit	2728368900	
+ko_K17489	KO:K17489	2719602613	hypothetical protein	2718217980	
+ko_K17489	KO:K17489	2867486817	methylmalonyl-CoA carboxyltransferase large subunit	2867484473	
+ko_K17489	KO:K17489	2559775359	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860420	
+ko_K17489	KO:K17489	2539868835	methylmalonyl-CoA carboxyltransferase 12S subunit	2537562124	
+ko_K17489	KO:K17489	2872065761	methylmalonyl-CoA carboxyltransferase large subunit	2872065163	
+ko_K17489	KO:K17489	2844810611	methylmalonyl-CoA carboxyltransferase large subunit	2844806747	
+ko_K17489	KO:K17489	2719979697	methylmalonyl-CoA carboxyltransferase 12S subunit	2718218074	
+ko_K17489	KO:K17489	2719979698	hypothetical protein	2718218074	
+ko_K17489	KO:K17489	2726253810	methylmalonyl-CoA carboxyltransferase 12S subunit	2724679290	
+ko_K17489	KO:K17489	2858995080	methylmalonyl-CoA carboxyltransferase large subunit	2858993748	
+ko_K17489	KO:K17489	2895770267	methylmalonyl-CoA carboxyltransferase large subunit	2895767234	
+ko_K17489	KO:K17489	2711596817	methylmalonyl-CoA carboxyltransferase 12S subunit	2710724142	
+ko_K17489	KO:K17489	2872048026	methylmalonyl-CoA carboxyltransferase large subunit	2872047240	
+ko_K17489	KO:K17489	2719932672	hypothetical protein	2718218061	
+ko_K17489	KO:K17489	2582906505	methylmalonyl-CoA carboxyltransferase 12S subunit	2582580651	
+ko_K17489	KO:K17489	2538766454	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561822	
+ko_K17489	KO:K17489	2847214091	methylmalonyl-CoA carboxyltransferase large subunit	2847213633	
+ko_K17489	KO:K17489	2525875074	methylmalonyl-CoA carboxyltransferase 12S subunit	2524614803	
+ko_K17489	KO:K17489	2525875075	methylmalonyl-CoA carboxyltransferase 12S subunit (EC 2.1.3.1)	2524614803	
+ko_K17489	KO:K17489	2525159776	methylmalonyl-CoA carboxyltransferase 12S subunit	2524614613	
+ko_K17489	KO:K17489	2882644956	methylmalonyl-CoA carboxyltransferase large subunit	2882640820	
+ko_K17489	KO:K17489	2511645427	hypothetical protein	2511231099	
+ko_K17489	KO:K17489	2559772996	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860419	
+ko_K17489	KO:K17489	2533480368	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839429	
+ko_K17489	KO:K17489	2848150012	methylmalonyl-CoA carboxyltransferase large subunit	2848149107	
+ko_K17489	KO:K17489	2802220423	methylmalonyl-CoA carboxyltransferase large subunit	2799113227	
+ko_K17489	KO:K17489	2817327656	methylmalonyl-CoA carboxyltransferase large subunit	2816332264	
+ko_K17489	KO:K17489	2874036688	methylmalonyl-CoA carboxyltransferase large subunit	2874035346	
+ko_K17489	KO:K17489	2800228963	methylmalonyl-CoA carboxyltransferase large subunit	2799112633	
+ko_K17489	KO:K17489	2867489365	methylmalonyl-CoA carboxyltransferase large subunit	2867487146	
+ko_K17489	KO:K17489	2543166001	methylmalonyl-CoA carboxyltransferase 12S subunit	2541047478	
+ko_K17489	KO:K17489	2820982742	methylmalonyl-CoA carboxyltransferase large subunit	2820979626	
+ko_K17489	KO:K17489	2844401852	methylmalonyl-CoA carboxyltransferase large subunit	2844401253	
+ko_K17489	KO:K17489	2537911156	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561596	
+ko_K17489	KO:K17489	2813527066	methylmalonyl-CoA carboxyltransferase large subunit	2811995225	
+ko_K17489	KO:K17489	2843627915	methylmalonyl-CoA carboxyltransferase large subunit	2843625778	
+ko_K17489	KO:K17489	2660293029	 methylmalonyl-CoA carboxyltransferase 12S subunit	2660237914	
+ko_K17489	KO:K17489	2624793200	methylmalonyl-CoA carboxyltransferase 12S subunit	2623620529	
+ko_K17489	KO:K17489	2662443620	methylmalonyl-CoA carboxyltransferase 12S subunit	2660238451	
+ko_K17489	KO:K17489	2662443621	hypothetical protein	2660238451	
+ko_K17489	KO:K17489	2638280259	methylmalonyl-CoA carboxyltransferase 12S subunit	2636415853	
+ko_K17489	KO:K17489	2723764716	methylmalonyl-CoA carboxyltransferase 12S subunit	2721755729	
+ko_K17489	KO:K17489	2538758586	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561819	
+ko_K17489	KO:K17489	2817487086	methylmalonyl-CoA carboxyltransferase large subunit	2816332297	
+ko_K17489	KO:K17489	2850507389	methylmalonyl-CoA carboxyltransferase large subunit	2850506963	
+ko_K17489	KO:K17489	2877184856	methylmalonyl-CoA carboxyltransferase large subunit	2877184255	
+ko_K17489	KO:K17489	2533466500	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839424	
+ko_K17489	KO:K17489	2641347200	methylmalonyl-CoA carboxyltransferase 12S subunit	2639762940	
+ko_K17489	KO:K17489	2847123826	methylmalonyl-CoA carboxyltransferase large subunit	2847123314	
+ko_K17489	KO:K17489	2559722469	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860398	
+ko_K17489	KO:K17489	2668622244	hypothetical protein	2667527572	
+ko_K17489	KO:K17489	2655431365	methylmalonyl-CoA carboxyltransferase 12S subunit	2654587695	
+ko_K17489	KO:K17489	2538210076	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561675	
+ko_K17489	KO:K17489	2968639665	methylmalonyl-CoA carboxyltransferase large subunit	2968638708	
+ko_K17489	KO:K17489	2837356097	methylmalonyl-CoA carboxyltransferase large subunit	2837355779	
+ko_K17489	KO:K17489	2887591962	methylmalonyl-CoA carboxyltransferase large subunit	2887588665	
+ko_K17489	KO:K17489	2635986406	methylmalonyl-CoA carboxyltransferase 12S subunit	2634166511	
+ko_K17489	KO:K17489	2883648966	methylmalonyl-CoA carboxyltransferase large subunit	2883648118	
+ko_K17489	KO:K17489	2739543595	methylmalonyl-CoA carboxyltransferase large subunit	2739367637	
+ko_K17489	KO:K17489	2518595000	methylmalonyl-CoA carboxyltransferase 12S subunit	2518285598	
+ko_K17489	KO:K17489	2884466557	methylmalonyl-CoA carboxyltransferase large subunit	2884464834	
+ko_K17489	KO:K17489	2533464902	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839423	
+ko_K17489	KO:K17489	2674240287	 methylmalonyl-CoA carboxyltransferase 12S subunit	2671180803	
+ko_K17489	KO:K17489	2841057861	methylmalonyl-CoA carboxyltransferase large subunit	2841055467	
+ko_K17489	KO:K17489	2595569366	methylmalonyl-CoA carboxyltransferase 12S subunit	2593339270	
+ko_K17489	KO:K17489	2858992877	methylmalonyl-CoA carboxyltransferase large subunit	2858991265	
+ko_K17489	KO:K17489	2559727893	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860400	
+ko_K17489	KO:K17489	648092618	methylmalonyl-CoA decarboxylase subunit alpha	648028019	
+ko_K17489	KO:K17489	2647100351	methylmalonyl-CoA carboxyltransferase 12S subunit	2645727818	
+ko_K17489	KO:K17489	2538202207	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561672	
+ko_K17489	KO:K17489	2533577476	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839451	
+ko_K17489	KO:K17489	2533577477	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839451	
+ko_K17489	KO:K17489	2871370927	methylmalonyl-CoA carboxyltransferase large subunit	2871369333	
+ko_K17489	KO:K17489	637117953	methylmalonyl-CoA decarboxylase, alpha-subunit	637000082	
+ko_K17489	KO:K17489	2855390831	methylmalonyl-CoA carboxyltransferase large subunit	2855386786	
+ko_K17489	KO:K17489	2618102760	methylmalonyl-CoA carboxyltransferase 12S subunit	2617270936	
+ko_K17489	KO:K17489	2758517251	methylmalonyl-CoA carboxyltransferase large subunit	2757320924	
+ko_K17489	KO:K17489	2572342928	methylmalonyl-CoA carboxyltransferase 12S subunit	2571042378	
+ko_K17489	KO:K17489	2550334321	hypothetical protein	2548876921	
+ko_K17489	KO:K17489	2646858142	methylmalonyl-CoA carboxyltransferase 12S subunit	2645727762	
+ko_K17489	KO:K17489	2582927323	methylmalonyl-CoA carboxyltransferase 12S subunit	2582580659	
+ko_K17489	KO:K17489	2624751755	methylmalonyl-CoA carboxyltransferase 12S subunit	2623620517	
+ko_K17489	KO:K17489	2615892921	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840512	
+ko_K17489	KO:K17489	2869229674	acetyl-CoA carboxylase carboxyltransferase component	2869227690	
+ko_K17489	KO:K17489	2834612933	propionyl-CoA carboxylase beta chain	2834611595	
+ko_K17489	KO:K17489	2514746450	methylmalonyl-CoA carboxyltransferase 12S subunit	2513237399	
+ko_K17489	KO:K17489	2858992876	methylmalonyl-CoA carboxyltransferase large subunit	2858991265	
+ko_K17489	KO:K17489	650562856	methylmalonyl-CoA carboxyltransferase 12S subunit	650377958	
+ko_K17489	KO:K17489	2533066461	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839320	
+ko_K17489	KO:K17489	2518588261	methylmalonyl-CoA carboxyltransferase 12S subunit	2518285595	
+ko_K17489	KO:K17489	2696714705	methylmalonyl-CoA carboxyltransferase 12S subunit	2695420604	
+ko_K17489	KO:K17489	2887659361	methylmalonyl-CoA carboxyltransferase large subunit	2887658908	
+ko_K17489	KO:K17489	2811959092	methylmalonyl-CoA carboxyltransferase large subunit	2808607010	
+ko_K17489	KO:K17489	2533060449	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839318	
+ko_K17489	KO:K17489	2696930255	methylmalonyl-CoA carboxyltransferase 12S subunit	2695420652	
+ko_K17489	KO:K17489	2713804947	methylmalonyl-CoA carboxyltransferase 12S subunit	2711768765	
+ko_K17489	KO:K17489	2518852611	hypothetical protein	2518645565	
+ko_K17489	KO:K17489	2859575457	methylmalonyl-CoA carboxyltransferase large subunit	2859574864	
+ko_K17489	KO:K17489	2841831801	methylmalonyl-CoA carboxyltransferase large subunit	2841831313	
+ko_K17489	KO:K17489	2872056551	methylmalonyl-CoA carboxyltransferase large subunit	2872055952	
+ko_K17489	KO:K17489	2687802594	 methylmalonyl-CoA carboxyltransferase 12S subunit	2687453189	
+ko_K17489	KO:K17489	2719934890	methylmalonyl-CoA carboxyltransferase 12S subunit	2718218062	
+ko_K17489	KO:K17489	2848143071	methylmalonyl-CoA carboxyltransferase large subunit	2848142473	
+ko_K17489	KO:K17489	2756369267	methylmalonyl-CoA carboxyltransferase large subunit	2756170155	
+ko_K17489	KO:K17489	2555494379	Acetyl-CoA carboxylase, carboxyltransferase component	2554235288	
+ko_K17489	KO:K17489	2804502141	acetyl-CoA carboxylase carboxyltransferase component	2802429206	
+ko_K17489	KO:K17489	2753772999	methylmalonyl-CoA carboxyltransferase large subunit	2751185899	
+ko_K17489	KO:K17489	2850512437	methylmalonyl-CoA carboxyltransferase large subunit	2850511929	
+ko_K17489	KO:K17489	2916405255	methylmalonyl-CoA carboxyltransferase large subunit	2916404855	
+ko_K17489	KO:K17489	2874043448	methylmalonyl-CoA carboxyltransferase large subunit	2874042820	
+ko_K17489	KO:K17489	2775100238	methylmalonyl-CoA carboxyltransferase large subunit	2773857984	
+ko_K17489	KO:K17489	2728047722	methylmalonyl-CoA carboxyltransferase 12S subunit	2724679781	
+ko_K17489	KO:K17489	2559710940	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860393	
+ko_K17489	KO:K17489	2518591254	methylmalonyl-CoA carboxyltransferase 12S subunit	2518285596	
+ko_K17489	KO:K17489	2782276392	methylmalonyl-CoA carboxyltransferase large subunit	2781126037	
+ko_K17489	KO:K17489	2671499381	methylmalonyl-CoA carboxyltransferase 12S subunit	2671180088	
+ko_K17489	KO:K17489	2671499382	methylmalonyl-CoA carboxyltransferase 12S subunit	2671180088	
+ko_K17489	KO:K17489	2537866676	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561584	
+ko_K17489	KO:K17489	2899986304	methylmalonyl-CoA carboxyltransferase large subunit	2899983920	
+ko_K17489	KO:K17489	2847216514	methylmalonyl-CoA carboxyltransferase large subunit	2847216000	
+ko_K17489	KO:K17489	2646492576	methylmalonyl-CoA carboxyltransferase 12S subunit	2645727678	
+ko_K17489	KO:K17489	2850500315	methylmalonyl-CoA carboxyltransferase large subunit	2850497574	
+ko_K17489	KO:K17489	2726258548	 methylmalonyl-CoA carboxyltransferase 12S subunit	2724679292	
+ko_K17489	KO:K17489	2530218136	methylmalonyl-CoA carboxyltransferase 12S subunit	2529292847	
+ko_K17489	KO:K17489	637985044	carboxyl transferase	637000001	
+ko_K17489	KO:K17489	2511634487	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231095	
+ko_K17489	KO:K17489	2523475051	methylmalonyl-CoA carboxyltransferase 12S subunit	2523231069	
+ko_K17489	KO:K17489	2872060463	methylmalonyl-CoA carboxyltransferase large subunit	2872060370	
+ko_K17489	KO:K17489	2582968586	methylmalonyl-CoA carboxyltransferase 12S subunit	2582580672	
+ko_K17489	KO:K17489	2841834207	methylmalonyl-CoA carboxyltransferase large subunit	2841833728	
+ko_K17489	KO:K17489	2869112489	methylmalonyl-CoA carboxyltransferase large subunit	2869111048	
+ko_K17489	KO:K17489	2850492975	methylmalonyl-CoA carboxyltransferase large subunit	2850492634	
+ko_K17489	KO:K17489	2651038883	methylmalonyl-CoA carboxyltransferase 12S subunit	2648501731	
+ko_K17489	KO:K17489	2876313880	methylmalonyl-CoA carboxyltransferase large subunit	2876311743	
+ko_K17489	KO:K17489	2876313881	methylmalonyl-CoA carboxyltransferase large subunit	2876311743	
+ko_K17489	KO:K17489	2684858871	Acetyl-CoA carboxylase, carboxyltransferase component	2684622559	
+ko_K17489	KO:K17489	2654548742	methylmalonyl-CoA carboxyltransferase 12S subunit	2651870355	
+ko_K17489	KO:K17489	2647775485	 methylmalonyl-CoA carboxyltransferase 12S subunit	2645727974	
+ko_K17489	KO:K17489	2850498037	methylmalonyl-CoA carboxyltransferase large subunit	2850497574	
+ko_K17489	KO:K17489	2630463526	methylmalonyl-CoA carboxyltransferase 12S subunit	2627854161	
+ko_K17489	KO:K17489	2654344537	methylmalonyl-CoA carboxyltransferase 12S subunit	2651870304	
+ko_K17489	KO:K17489	2538764046	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561821	
+ko_K17489	KO:K17489	2541377784	methylmalonyl-CoA carboxyltransferase 12S subunit	2541046993	
+ko_K17489	KO:K17489	2533479373	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839428	
+ko_K17489	KO:K17489	2841900779	methylmalonyl-CoA carboxyltransferase large subunit	2841898008	
+ko_K17489	KO:K17489	2855965456	methylmalonyl-CoA carboxyltransferase large subunit	2855965436	
+ko_K17489	KO:K17489	2687144835	methylmalonyl-CoA carboxyltransferase 12S subunit	2684623196	
+ko_K17489	KO:K17489	2654575959	methylmalonyl-CoA carboxyltransferase 12S subunit	2651870363	
+ko_K17489	KO:K17489	2858978992	methylmalonyl-CoA carboxyltransferase large subunit	2858978575	
+ko_K17489	KO:K17489	2537868448	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561585	
+ko_K17489	KO:K17489	2511721763	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231125	
+ko_K17489	KO:K17489	2533051257	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839315	
+ko_K17489	KO:K17489	2720430433	hypothetical protein	2718218183	
+ko_K17489	KO:K17489	2961875981	methylmalonyl-CoA carboxyltransferase large subunit	2961874872	
+ko_K17489	KO:K17489	2852595876	acetyl-CoA carboxylase carboxyltransferase component	2852593896	
+ko_K17489	KO:K17489	2704201306	Acetyl-CoA carboxylase, carboxyltransferase component	2703718743	
+ko_K17489	KO:K17489	2844036725	acetyl-CoA carboxylase carboxyltransferase component	2844030156	
+ko_K17489	KO:K17489	2867625917	acetyl-CoA carboxylase carboxyltransferase component	2867622733	
+ko_K17489	KO:K17489	2707827510	Acetyl-CoA carboxylase, carboxyltransferase component	2706794657	
+ko_K17489	KO:K17489	2562625827	methylmalonyl-CoA carboxyltransferase 12S subunit	2562617002	
+ko_K17489	KO:K17489	2656985187	methylmalonyl-CoA carboxyltransferase 12S subunit	2654588117	
+ko_K17489	KO:K17489	2511495642	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231051	
+ko_K17489	KO:K17489	2677093766	methylmalonyl-CoA carboxyltransferase 12S subunit	2675903216	
+ko_K17489	KO:K17489	2961863481	methylmalonyl-CoA carboxyltransferase large subunit	2961862695	
+ko_K17489	KO:K17489	2938679612	methylmalonyl-CoA carboxyltransferase large subunit	2938677204	
+ko_K17489	KO:K17489	2938696944	methylmalonyl-CoA carboxyltransferase large subunit	2938696265	
+ko_K17489	KO:K17489	2961866387	methylmalonyl-CoA carboxyltransferase large subunit	2961865205	
+ko_K17489	KO:K17489	2961883118	methylmalonyl-CoA carboxyltransferase large subunit	2961882232	
+ko_K17489	KO:K17489	2961883119	methylmalonyl-CoA carboxyltransferase large subunit	2961882232	
+ko_K17489	KO:K17489	2657162019	methylmalonyl-CoA carboxyltransferase 12S subunit	2654588177	
+ko_K17489	KO:K17489	2602388808	methylmalonyl-CoA carboxyltransferase 12S subunit	2602041614	
+ko_K17489	KO:K17489	2674209804	Acetyl-CoA carboxylase, carboxyltransferase component	2671180794	
+ko_K17489	KO:K17489	2938676497	methylmalonyl-CoA carboxyltransferase large subunit	2938674827	
+ko_K17489	KO:K17489	2961878473	methylmalonyl-CoA carboxyltransferase large subunit	2961877246	
+ko_K17489	KO:K17489	2961885704	methylmalonyl-CoA carboxyltransferase large subunit	2961884640	
+ko_K17489	KO:K17489	2856232392	acetyl-CoA carboxylase carboxyltransferase component	2856228341	
+ko_K17489	KO:K17489	2617749399	methylmalonyl-CoA carboxyltransferase 12S subunit	2617270851	
+ko_K17489	KO:K17489	2728370389	methylmalonyl-CoA carboxyltransferase 12S subunit	2728368900	
+ko_K17489	KO:K17489	2876296172	methylmalonyl-CoA carboxyltransferase large subunit	2876294580	
+ko_K17489	KO:K17489	2723591169	hypothetical protein	2721755690	
+ko_K17489	KO:K17489	639766174	carboxyl transferase	639633020	
+ko_K17489	KO:K17489	2745922762	 methylmalonyl-CoA carboxyltransferase 12S subunit	2744054862	
+ko_K17489	KO:K17489	2834762043	methylmalonyl-CoA carboxyltransferase large subunit	2834760380	
+ko_K17489	KO:K17489	2866180211	methylmalonyl-CoA carboxyltransferase large subunit	2866179177	
+ko_K17489	KO:K17489	2858974672	methylmalonyl-CoA carboxyltransferase large subunit	2858973661	
+ko_K17489	KO:K17489	2855985065	methylmalonyl-CoA carboxyltransferase large subunit	2855985027	
+ko_K17489	KO:K17489	2588639200	methylmalonyl-CoA carboxyltransferase 12S subunit	2588253763	
+ko_K17489	KO:K17489	2688068966	methylmalonyl-CoA carboxyltransferase 12S subunit	2687453257	
+ko_K17489	KO:K17489	2810681066	methylmalonyl-CoA carboxyltransferase large subunit	2808606778	
+ko_K17489	KO:K17489	2645983516	methylmalonyl-CoA carboxyltransferase 12S subunit	2645727559	
+ko_K17489	KO:K17489	2721619308	methylmalonyl-CoA carboxyltransferase 12S subunit	2718218479	
+ko_K17489	KO:K17489	2920130320	methylmalonyl-CoA carboxyltransferase large subunit	2920125314	
+ko_K17489	KO:K17489	2523902069	methylmalonyl-CoA carboxyltransferase 12S subunit	2523533600	
+ko_K17489	KO:K17489	2537856897	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561581	
+ko_K17489	KO:K17489	2756407239	hypothetical protein	2756170169	
+ko_K17489	KO:K17489	2538208350	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561674	
+ko_K17489	KO:K17489	2659238217	methylmalonyl-CoA carboxyltransferase 12S subunit	2657245502	
+ko_K17489	KO:K17489	2582906504	methylmalonyl-CoA carboxyltransferase 12S subunit	2582580651	
+ko_K17489	KO:K17489	2889884255	methylmalonyl-CoA carboxyltransferase large subunit	2889882248	
+ko_K17489	KO:K17489	2534026129	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839572	
+ko_K17489	KO:K17489	2538753765	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561817	
+ko_K17489	KO:K17489	2512720917	hypothetical protein	2512564036	
+ko_K17489	KO:K17489	2536297650	methylmalonyl-CoA carboxyltransferase 12S subunit	2534682005	
+ko_K17489	KO:K17489	2538756100	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561818	
+ko_K17489	KO:K17489	2721500635	methylmalonyl-CoA carboxyltransferase 12S subunit	2718218444	
+ko_K17489	KO:K17489	2517221654	methylmalonyl-CoA carboxyltransferase 12S subunit	2517093035	
+ko_K17489	KO:K17489	2559778815	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860422	
+ko_K17489	KO:K17489	2897430802	methylmalonyl-CoA carboxyltransferase large subunit	2897428245	
+ko_K17489	KO:K17489	2534777581	methylmalonyl-CoA carboxyltransferase 12S subunit	2534681625	
+ko_K17489	KO:K17489	2649951023	 methylmalonyl-CoA carboxyltransferase 12S subunit	2648501448	
+ko_K17489	KO:K17489	2928325535	methylmalonyl-CoA carboxyltransferase large subunit	2928325203	
+ko_K17489	KO:K17489	2928325536	methylmalonyl-CoA carboxyltransferase large subunit	2928325203	
+ko_K17489	KO:K17489	2844810610	methylmalonyl-CoA carboxyltransferase large subunit	2844806747	
+ko_K17489	KO:K17489	2636955166	methylmalonyl-CoA carboxyltransferase 12S subunit	2636415533	
+ko_K17489	KO:K17489	2533472546	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839426	
+ko_K17489	KO:K17489	2662001932	methylmalonyl-CoA carboxyltransferase 12S subunit	2660238345	
+ko_K17489	KO:K17489	2968662984	methylmalonyl-CoA carboxyltransferase large subunit	2968662335	
+ko_K17489	KO:K17489	2867489366	methylmalonyl-CoA carboxyltransferase large subunit	2867487146	
+ko_K17489	KO:K17489	2690004285	methylmalonyl-CoA carboxyltransferase 12S subunit	2687453746	
+ko_K17489	KO:K17489	2859567980	methylmalonyl-CoA carboxyltransferase large subunit	2859567418	
+ko_K17489	KO:K17489	2836811385	methylmalonyl-CoA carboxyltransferase large subunit	2836808371	
+ko_K17489	KO:K17489	2848145284	methylmalonyl-CoA carboxyltransferase large subunit	2848144686	
+ko_K17489	KO:K17489	2635986407	methylmalonyl-CoA carboxyltransferase 12S subunit	2634166511	
+ko_K17489	KO:K17489	2923455410	methylmalonyl-CoA carboxyltransferase large subunit	2923453845	
+ko_K17489	KO:K17489	2595254144	methylmalonyl-CoA carboxyltransferase 12S subunit	2593339184	
+ko_K17489	KO:K17489	2740063093	methylmalonyl-CoA carboxyltransferase large subunit	2739367875	
+ko_K17489	KO:K17489	2538758585	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561819	
+ko_K17489	KO:K17489	2817487087	methylmalonyl-CoA carboxyltransferase 12S subunit 	2816332297	
+ko_K17489	KO:K17489	2530196668	methylmalonyl-CoA carboxyltransferase 12S subunit	2529292840	
+ko_K17489	KO:K17489	2874041839	methylmalonyl-CoA carboxyltransferase large subunit	2874040344	
+ko_K17489	KO:K17489	2920203528	methylmalonyl-CoA carboxyltransferase large subunit	2920200153	
+ko_K17489	KO:K17489	2867420174	methylmalonyl-CoA carboxyltransferase large subunit	2867417816	
+ko_K17489	KO:K17489	2511774741	hypothetical protein	2511231142	
+ko_K17489	KO:K17489	2874815726	methylmalonyl-CoA carboxyltransferase large subunit	2874814951	
+ko_K17489	KO:K17489	2791257421	methylmalonyl-CoA carboxyltransferase large subunit	2788500598	
+ko_K17489	KO:K17489	2869109793	methylmalonyl-CoA carboxyltransferase large subunit	2869108624	
+ko_K17489	KO:K17489	2582925612	methylmalonyl-CoA carboxyltransferase 12S subunit	2582580658	
+ko_K17489	KO:K17489	2833060885	chromosome segregation ATPase	2833059440	
+ko_K17489	KO:K17489	2533466499	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839424	
+ko_K17489	KO:K17489	2774952839	methylmalonyl-CoA carboxyltransferase large subunit	2773857945	
+ko_K17489	KO:K17489	2810590603	methylmalonyl-CoA carboxyltransferase large subunit	2808606759	
+ko_K17489	KO:K17489	2850504009	methylmalonyl-CoA carboxyltransferase large subunit	2850502144	
+ko_K17489	KO:K17489	2872054335	methylmalonyl-CoA carboxyltransferase large subunit	2872053734	
+ko_K17489	KO:K17489	2872067974	methylmalonyl-CoA carboxyltransferase large subunit	2872067374	
+ko_K17489	KO:K17489	2647191926	methylmalonyl-CoA carboxyltransferase 12S subunit	2645727838	
+ko_K17489	KO:K17489	2848943431	methylmalonyl-CoA carboxyltransferase large subunit	2848942949	
+ko_K17489	KO:K17489	2537855063	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561580	
+ko_K17489	KO:K17489	2671942021	hypothetical protein	2671180235	
+ko_K17489	KO:K17489	2562209148	methylmalonyl-CoA carboxyltransferase 12S subunit	2561511135	
+ko_K17489	KO:K17489	2856493143	methylmalonyl-CoA carboxyltransferase large subunit	2856490523	
+ko_K17489	KO:K17489	2540185415	methylmalonyl-CoA carboxyltransferase 12S subunit	2537562210	
+ko_K17489	KO:K17489	2848157509	methylmalonyl-CoA carboxyltransferase large subunit	2848156896	
+ko_K17489	KO:K17489	2533070106	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839323	
+ko_K17489	KO:K17489	2858990579	methylmalonyl-CoA carboxyltransferase large subunit	2858988785	
+ko_K17489	KO:K17489	2556825928	methylmalonyl-CoA carboxyltransferase 12S subunit	2556793010	
+ko_K17489	KO:K17489	2511816395	hypothetical protein	2511231154	
+ko_K17489	KO:K17489	2836812250	methylmalonyl-CoA carboxyltransferase large subunit	2836811818	
+ko_K17489	KO:K17489	2533073650	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839324	
+ko_K17489	KO:K17489	2515222701	methylmalonyl-CoA carboxyltransferase 12S subunit	2515154014	
+ko_K17489	KO:K17489	2910864146	hypothetical protein	2910862512	
+ko_K17489	KO:K17489	651622558	methylmalonyl-CoA carboxyltransferase 12S subunit	651324091	
+ko_K17489	KO:K17489	2646808295	methylmalonyl-CoA carboxyltransferase 12S subunit	2645727750	
+ko_K17489	KO:K17489	2562209149	methylmalonyl-CoA carboxyltransferase 12S subunit	2561511135	
+ko_K17489	KO:K17489	2514714022	methylmalonyl-CoA carboxyltransferase 12S subunit	2513237389	
+ko_K17489	KO:K17489	2791165250	methylmalonyl-CoA carboxyltransferase large subunit	2788500575	
+ko_K17489	KO:K17489	2855972483	methylmalonyl-CoA carboxyltransferase large subunit	2855970288	
+ko_K17489	KO:K17489	2668432207	hypothetical protein	2667527512	
+ko_K17489	KO:K17489	2867482284	methylmalonyl-CoA carboxyltransferase large subunit	2867481428	
+ko_K17489	KO:K17489	2538216040	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561677	
+ko_K17489	KO:K17489	2629787618	methylmalonyl-CoA carboxyltransferase 12S subunit	2627853989	
+ko_K17489	KO:K17489	2820901513	methylmalonyl-CoA carboxyltransferase large subunit	2820901319	
+ko_K17489	KO:K17489	2730128259	methylmalonyl-CoA carboxyltransferase 12S subunit	2728369357	
+ko_K17489	KO:K17489	2855969474	methylmalonyl-CoA carboxyltransferase large subunit	2855967862	
+ko_K17489	KO:K17489	2855969475	methylmalonyl-CoA carboxyltransferase large subunit	2855967862	
+ko_K17489	KO:K17489	2789577161	methylmalonyl-CoA carboxyltransferase large subunit	2788500118	
+ko_K17489	KO:K17489	2871366025	methylmalonyl-CoA carboxyltransferase large subunit	2871364421	
+ko_K17489	KO:K17489	649641594	methylmalonyl-CoA carboxyltransferase 12S subunit (EC 2.1.3.1)	649633084	
+ko_K17489	KO:K17489	2912293669	methylmalonyl-CoA carboxyltransferase large subunit	2912292857	
+ko_K17489	KO:K17489	2844520089	methylmalonyl-CoA carboxyltransferase large subunit	2844519439	
+ko_K17489	KO:K17489	2848143070	methylmalonyl-CoA carboxyltransferase large subunit	2848142473	
+ko_K17489	KO:K17489	2615916588	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840518	
+ko_K17489	KO:K17489	2902881044	acetyl-CoA carboxylase carboxyltransferase component	2902875198	
+ko_K17489	KO:K17489	2820915953	hypothetical protein	2820914081	
+ko_K17489	KO:K17489	2861268196	methylmalonyl-CoA carboxyltransferase large subunit	2861266387	
+ko_K17489	KO:K17489	2533060448	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839318	
+ko_K17489	KO:K17489	2745709931	 methylmalonyl-CoA carboxyltransferase 12S subunit	2744054798	
+ko_K17489	KO:K17489	2843840619	methylmalonyl-CoA carboxyltransferase large subunit	2843840127	
+ko_K17489	KO:K17489	2628161625	methylmalonyl-CoA carboxyltransferase large subunit	2627853595	
+ko_K17489	KO:K17489	2850509822	methylmalonyl-CoA carboxyltransferase large subunit	2850509456	
+ko_K17489	KO:K17489	2687636629	methylmalonyl-CoA carboxyltransferase 12S subunit	2687453142	
+ko_K17489	KO:K17489	2563837305	methylmalonyl-CoA carboxyltransferase 12S subunit	2563366735	
+ko_K17489	KO:K17489	2878678308	methylmalonyl-CoA carboxyltransferase large subunit	2878677284	
+ko_K17489	KO:K17489	2511542903	hypothetical protein	2511231067	
+ko_K17489	KO:K17489	2540764656	methylmalonyl-CoA carboxyltransferase 12S subunit	2540341150	
+ko_K17489	KO:K17489	2869760285	methylmalonyl-CoA carboxyltransferase large subunit	2869759688	
+ko_K17489	KO:K17489	2910891952	methylmalonyl-CoA carboxyltransferase large subunit	2910891455	
+ko_K17489	KO:K17489	2876293710	methylmalonyl-CoA carboxyltransferase large subunit	2876292090	
+ko_K17489	KO:K17489	637985043	methylmalonyl-CoA carboxyltransferase 12S subunit	637000001	
+ko_K17489	KO:K17489	2752801500	methylmalonyl-CoA carboxyltransferase large subunit	2751185664	
+ko_K17489	KO:K17489	2886827092	methylmalonyl-CoA carboxyltransferase large subunit	2886822089	
+ko_K17489	KO:K17489	2920158194	methylmalonyl-CoA carboxyltransferase large subunit	2920153190	
+ko_K17489	KO:K17489	2541451995	methylmalonyl-CoA carboxyltransferase 12S subunit	2541047016	
+ko_K17489	KO:K17489	2920162394	methylmalonyl-CoA carboxyltransferase large subunit	2920158810	
+ko_K17489	KO:K17489	2871382382	methylmalonyl-CoA carboxyltransferase large subunit	2871381511	
+ko_K17489	KO:K17489	2855982190	methylmalonyl-CoA carboxyltransferase large subunit	2855980126	
+ko_K17489	KO:K17489	2598509943	methylmalonyl-CoA carboxyltransferase 12S subunit	2597490150	
+ko_K17489	KO:K17489	2523754351	methylmalonyl-CoA carboxyltransferase 12S subunit	2523533551	
+ko_K17489	KO:K17489	2902839844	acetyl-CoA carboxylase carboxyltransferase component	2902837492	
+ko_K17489	KO:K17489	2671943610	hypothetical protein	2671180235	
+ko_K17489	KO:K17489	2521703414	Acetyl-CoA carboxylase, carboxyltransferase component	2521172630	
+ko_K17489	KO:K17489	2656262503	methylmalonyl-CoA carboxyltransferase 12S subunit	2654587916	
+ko_K17489	KO:K17489	2820842265	methylmalonyl-CoA carboxyltransferase large subunit	2820840446	
+ko_K17489	KO:K17489	2876298924	methylmalonyl-CoA carboxyltransferase large subunit	2876297063	
+ko_K17489	KO:K17489	2588636176	methylmalonyl-CoA carboxyltransferase 12S subunit	2588253762	
+ko_K17489	KO:K17489	2848917664	methylmalonyl-CoA carboxyltransferase large subunit	2848915755	
+ko_K17489	KO:K17489	2838111088	methylmalonyl-CoA carboxyltransferase large subunit	2838110688	
+ko_K17489	KO:K17489	2858986431	methylmalonyl-CoA carboxyltransferase large subunit	2858985980	
+ko_K17489	KO:K17489	2858977464	methylmalonyl-CoA carboxyltransferase large subunit	2858976144	
+ko_K17489	KO:K17489	2775344414	methylmalonyl-CoA carboxyltransferase large subunit	2773858049	
+ko_K17489	KO:K17489	2628295857	hypothetical protein	2627853633	
+ko_K17489	KO:K17489	2834838924	methylmalonyl-CoA carboxyltransferase large subunit	2834836693	
+ko_K17489	KO:K17489	2602610086	methylmalonyl-CoA carboxyltransferase 12S subunit	2602041680	
+ko_K17489	KO:K17489	2789568108	methylmalonyl-CoA carboxyltransferase large subunit	2788500115	
+ko_K17489	KO:K17489	2852350320	methylmalonyl-CoA carboxyltransferase large subunit	2852349861	
+ko_K17489	KO:K17489	2902795080	acetyl-CoA carboxylase carboxyltransferase component	2902792274	
+ko_K17489	KO:K17489	2841527218	methylmalonyl-CoA carboxyltransferase large subunit	2841525362	
+ko_K17489	KO:K17489	2871376377	methylmalonyl-CoA carboxyltransferase large subunit	2871374182	
+ko_K17489	KO:K17489	2964029731	methylmalonyl-CoA carboxyltransferase large subunit	2964026762	
+ko_K17489	KO:K17489	2931430648	methylmalonyl-CoA carboxyltransferase large subunit	2931430189	
+ko_K17489	KO:K17489	2961881244	methylmalonyl-CoA carboxyltransferase large subunit	2961879757	
+ko_K17489	KO:K17489	2726224392	Acetyl-CoA carboxylase, carboxyltransferase component	2724679284	
+ko_K17489	KO:K17489	2716747042	methylmalonyl-CoA carboxyltransferase 12S subunit	2713897431	
+ko_K17489	KO:K17489	2615863881	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840505	
+ko_K17489	KO:K17489	2848165996	methylmalonyl-CoA carboxyltransferase large subunit	2848163885	
+ko_K17489	KO:K17489	2848165997	methylmalonyl-CoA carboxyltransferase large subunit	2848163885	
+ko_K17489	KO:K17489	2905658816	acetyl-CoA carboxylase carboxyltransferase component	2905654295	
+ko_K17489	KO:K17489	2938696945	methylmalonyl-CoA carboxyltransferase large subunit	2938696265	
+ko_K17489	KO:K17489	2961858436	methylmalonyl-CoA carboxyltransferase large subunit	2961857765	
+ko_K17489	KO:K17489	2961878472	methylmalonyl-CoA carboxyltransferase large subunit	2961877246	
+ko_K17489	KO:K17489	2961895275	methylmalonyl-CoA carboxyltransferase large subunit	2961894366	
+ko_K17489	KO:K17489	2968654994	methylmalonyl-CoA carboxyltransferase large subunit	2968654791	
+ko_K17489	KO:K17489	2525159777	methylmalonyl-CoA carboxyltransferase 12S subunit	2524614613	
+ko_K17489	KO:K17489	2847121338	methylmalonyl-CoA carboxyltransferase large subunit	2847120807	
+ko_K17489	KO:K17489	2721579220	hypothetical protein	2718218467	
+ko_K17489	KO:K17489	2851546050	methylmalonyl-CoA carboxyltransferase large subunit	2851545357	
+ko_K17489	KO:K17489	2559775358	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860420	
+ko_K17489	KO:K17489	2531832026	methylmalonyl-CoA carboxyltransferase 12S subunit	2529293281	
+ko_K17489	KO:K17489	2562315844	methylmalonyl-CoA carboxyltransferase 12S subunit	2561511167	
+ko_K17489	KO:K17489	2562315845	methylmalonyl-CoA carboxyltransferase 12S subunit	2561511167	
+ko_K17489	KO:K17489	2533480369	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839429	
+ko_K17489	KO:K17489	648237175	Hypothetical protein	648231702	
+ko_K17489	KO:K17489	2726248420	methylmalonyl-CoA carboxyltransferase 12S subunit	2724679288	
+ko_K17489	KO:K17489	2824434326	methylmalonyl-CoA carboxyltransferase large subunit	2824432718	
+ko_K17489	KO:K17489	2871368976	methylmalonyl-CoA carboxyltransferase large subunit	2871366901	
+ko_K17489	KO:K17489	2871368977	methylmalonyl-CoA carboxyltransferase large subunit	2871366901	
+ko_K17489	KO:K17489	2745706871	 methylmalonyl-CoA carboxyltransferase 12S subunit	2744054797	
+ko_K17489	KO:K17489	2877193777	methylmalonyl-CoA carboxyltransferase large subunit	2877193178	
+ko_K17489	KO:K17489	2511689189	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231115	
+ko_K17489	KO:K17489	2537856896	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561581	
+ko_K17489	KO:K17489	2756407238	methylmalonyl-CoA carboxyltransferase large subunit	2756170169	
+ko_K17489	KO:K17489	2719932671	methylmalonyl-CoA carboxyltransferase 12S subunit	2718218061	
+ko_K17489	KO:K17489	2968654995	methylmalonyl-CoA carboxyltransferase large subunit	2968654791	
+ko_K17489	KO:K17489	2920139609	methylmalonyl-CoA carboxyltransferase large subunit	2920138197	
+ko_K17489	KO:K17489	647418040	methylmalonyl-CoA carboxyltransferase 12S subunit (EC 2.1.3.1)	647000298	
+ko_K17489	KO:K17489	2882644957	methylmalonyl-CoA carboxyltransferase large subunit	2882640820	
+ko_K17489	KO:K17489	2721500634	 methylmalonyl-CoA carboxyltransferase 12S subunit	2718218444	
+ko_K17489	KO:K17489	2657184872	 methylmalonyl-CoA carboxyltransferase 12S subunit	2654588184	
+ko_K17489	KO:K17489	2517221655	methylmalonyl-CoA carboxyltransferase 12S subunit	2517093035	
+ko_K17489	KO:K17489	2649951024	methylmalonyl-CoA carboxyltransferase 12S subunit	2648501448	
+ko_K17489	KO:K17489	2802220422	methylmalonyl-CoA carboxyltransferase 12S subunit 	2799113227	
+ko_K17489	KO:K17489	2579428584	methylmalonyl-CoA carboxyltransferase 12S subunit	2576861738	
+ko_K17489	KO:K17489	2752552701	methylmalonyl-CoA carboxyltransferase large subunit	2751185570	
+ko_K17489	KO:K17489	2637862699	hypothetical protein	2636415748	
+ko_K17489	KO:K17489	2532705735	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839226	
+ko_K17489	KO:K17489	2968642901	methylmalonyl-CoA carboxyltransferase large subunit	2968641191	
+ko_K17489	KO:K17489	2774809044	methylmalonyl-CoA carboxyltransferase large subunit	2773857907	
+ko_K17489	KO:K17489	2844399636	methylmalonyl-CoA carboxyltransferase large subunit	2844399035	
+ko_K17489	KO:K17489	2533046448	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839313	
+ko_K17489	KO:K17489	2836811384	methylmalonyl-CoA carboxyltransferase large subunit	2836808371	
+ko_K17489	KO:K17489	2844401853	methylmalonyl-CoA carboxyltransferase large subunit	2844401253	
+ko_K17489	KO:K17489	2861753730	methylmalonyl-CoA carboxyltransferase large subunit	2861753054	
+ko_K17489	KO:K17489	2861753731	methylmalonyl-CoA carboxyltransferase large subunit	2861753054	
+ko_K17489	KO:K17489	2672000228	hypothetical protein	2671180251	
+ko_K17489	KO:K17489	2843627914	methylmalonyl-CoA carboxyltransferase large subunit	2843625778	
+ko_K17489	KO:K17489	2620986557	methylmalonyl-CoA carboxyltransferase 12S subunit	2619619216	
+ko_K17489	KO:K17489	644203617	Acetyl-CoA carboxylase, carboxyltransferase component (subunits alpha and beta)	643886207	
+ko_K17489	KO:K17489	2869750403	methylmalonyl-CoA carboxyltransferase large subunit	2869749802	
+ko_K17489	KO:K17489	2920203527	methylmalonyl-CoA carboxyltransferase large subunit	2920200153	
+ko_K17489	KO:K17489	2610059492	methylmalonyl-CoA carboxyltransferase 12S subunit	2609459802	
+ko_K17489	KO:K17489	2726254519	methylmalonyl-CoA carboxyltransferase 12S subunit	2724679291	
+ko_K17489	KO:K17489	2630801690	methylmalonyl-CoA carboxyltransferase 12S subunit	2627854250	
+ko_K17489	KO:K17489	637522749	C-terminal fragment of methylmalonyl-CoA carboxyltransferase	637000215	
+ko_K17489	KO:K17489	2541405971	methylmalonyl-CoA carboxyltransferase 12S subunit	2541047000	
+ko_K17489	KO:K17489	2811912837	methylmalonyl-CoA carboxyltransferase large subunit	2808606998	
+ko_K17489	KO:K17489	2673367814	Acetyl-CoA carboxylase, carboxyltransferase component	2671180585	
+ko_K17489	KO:K17489	2649569179	methylmalonyl-CoA carboxyltransferase 12S subunit	2648501352	
+ko_K17489	KO:K17489	2869109792	methylmalonyl-CoA carboxyltransferase large subunit	2869108624	
+ko_K17489	KO:K17489	2660293030	methylmalonyl-CoA carboxyltransferase 12S subunit	2660237914	
+ko_K17489	KO:K17489	2533061869	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839319	
+ko_K17489	KO:K17489	644737195	putative acyl-CoA carboxylase beta subunit	644736345	
+ko_K17489	KO:K17489	2649920794	hypothetical protein	2648501440	
+ko_K17489	KO:K17489	2867039122	methylmalonyl-CoA carboxyltransferase large subunit	2867036635	
+ko_K17489	KO:K17489	2836812251	methylmalonyl-CoA carboxyltransferase large subunit	2836811818	
+ko_K17489	KO:K17489	2631856700	methylmalonyl-CoA carboxyltransferase 12S subunit	2630968451	
+ko_K17489	KO:K17489	2848945943	methylmalonyl-CoA carboxyltransferase large subunit	2848942949	
+ko_K17489	KO:K17489	2862034032	methylmalonyl-CoA carboxyltransferase large subunit	2862033302	
+ko_K17489	KO:K17489	2883592022	methylmalonyl-CoA carboxyltransferase large subunit	2883589832	
+ko_K17489	KO:K17489	2540185414	methylmalonyl-CoA carboxyltransferase 12S subunit	2537562210	
+ko_K17489	KO:K17489	2889416415	methylmalonyl-CoA carboxyltransferase large subunit	2889415604	
+ko_K17489	KO:K17489	644867934	carboxyl transferase	644736371	
+ko_K17489	KO:K17489	2920110232	methylmalonyl-CoA carboxyltransferase large subunit	2920107658	
+ko_K17489	KO:K17489	2610257128	methylmalonyl-CoA carboxyltransferase 12S subunit	2609459851	
+ko_K17489	KO:K17489	2533048530	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839314	
+ko_K17489	KO:K17489	2815790544	acetyl-CoA carboxylase carboxyltransferase component	2814123373	
+ko_K17489	KO:K17489	2559730950	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860402	
+ko_K17489	KO:K17489	2518588260	methylmalonyl-CoA carboxyltransferase 12S subunit	2518285595	
+ko_K17489	KO:K17489	2501895794	methylmalonyl-CoA carboxyltransferase 12S subunit	2501846309	
+ko_K17489	KO:K17489	2514260773	methylmalonyl-CoA carboxyltransferase 12S subunit	2513237258	
+ko_K17489	KO:K17489	2646808296	methylmalonyl-CoA carboxyltransferase 12S subunit	2645727750	
+ko_K17489	KO:K17489	2814725957	methylmalonyl-CoA carboxyltransferase large subunit	2814123075	
+ko_K17489	KO:K17489	2920329487	methylmalonyl-CoA carboxyltransferase large subunit	2920328876	
+ko_K17489	KO:K17489	2558946690	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860125	
+ko_K17489	KO:K17489	2839454041	methylmalonyl-CoA carboxyltransferase large subunit	2839453126	
+ko_K17489	KO:K17489	2832461166	methylmalonyl-CoA carboxyltransferase large subunit	2832461067	
+ko_K17489	KO:K17489	639686457	carboxyl transferase	639633060	
+ko_K17489	KO:K17489	2534209933	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839621	
+ko_K17489	KO:K17489	2872063436	methylmalonyl-CoA carboxyltransferase large subunit	2872062798	
+ko_K17489	KO:K17489	2526060363	methylmalonyl-CoA carboxyltransferase 12S subunit	2524614857	
+ko_K17489	KO:K17489	2876308166	methylmalonyl-CoA carboxyltransferase large subunit	2876306851	
+ko_K17489	KO:K17489	2737668737	methylmalonyl-CoA carboxyltransferase 12S subunit	2737471659	
+ko_K17489	KO:K17489	2871362752	methylmalonyl-CoA carboxyltransferase large subunit	2871362119	
+ko_K17489	KO:K17489	2518852610	methylmalonyl-CoA carboxyltransferase 12S subunit	2518645565	
+ko_K17489	KO:K17489	2664270632	methylmalonyl-CoA carboxyltransferase 12S subunit	2663762759	
+ko_K17489	KO:K17489	2789577160	methylmalonyl-CoA carboxyltransferase large subunit	2788500118	
+ko_K17489	KO:K17489	2871366024	methylmalonyl-CoA carboxyltransferase large subunit	2871364421	
+ko_K17489	KO:K17489	2862085301	methylmalonyl-CoA carboxyltransferase large subunit	2862083008	
+ko_K17489	KO:K17489	2640688114	hypothetical protein	2639762781	
+ko_K17489	KO:K17489	2912293668	methylmalonyl-CoA carboxyltransferase large subunit	2912292857	
+ko_K17489	KO:K17489	2511608892	hypothetical protein	2511231089	
+ko_K17489	KO:K17489	2874049543	methylmalonyl-CoA carboxyltransferase large subunit	2874047755	
+ko_K17489	KO:K17489	2636675104	hypothetical protein	2636415463	
+ko_K17489	KO:K17489	2563837306	methylmalonyl-CoA carboxyltransferase 12S subunit	2563366735	
+ko_K17489	KO:K17489	2902862668	acetyl-CoA carboxylase carboxyltransferase component	2902856828	
+ko_K17489	KO:K17489	2727707967	methylmalonyl-CoA carboxyltransferase 12S subunit	2724679649	
+ko_K17489	KO:K17489	2810613601	acetyl-CoA carboxylase carboxyltransferase component	2808606764	
+ko_K17489	KO:K17489	646081303	methylmalonyl-CoA carboxytransferase	645951802	
+ko_K17489	KO:K17489	2534446749	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839679	
+ko_K17489	KO:K17489	2533458357	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839421	
+ko_K17489	KO:K17489	2512397854	methylmalonyl-CoA carboxyltransferase 12S subunit	2512047045	
+ko_K17489	KO:K17489	2559719955	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860397	
+ko_K17489	KO:K17489	2532695623	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839223	
+ko_K17489	KO:K17489	2874049542	methylmalonyl-CoA carboxyltransferase large subunit	2874047755	
+ko_K17489	KO:K17489	2514711060	methylmalonyl-CoA carboxyltransferase 12S subunit	2513237388	
+ko_K17489	KO:K17489	2519065368	methylmalonyl-CoA carboxyltransferase 12S subunit	2518645620	
+ko_K17489	KO:K17489	2520629125	methylmalonyl-CoA carboxyltransferase 12S subunit	2519899689	
+ko_K17489	KO:K17489	2876311060	methylmalonyl-CoA carboxyltransferase large subunit	2876309328	
+ko_K17489	KO:K17489	2869739051	methylmalonyl-CoA carboxyltransferase large subunit	2869738452	
+ko_K17489	KO:K17489	2585955458	methylmalonyl-CoA carboxyltransferase 12S subunit	2585427622	
+ko_K17489	KO:K17489	2646492577	hypothetical protein	2645727678	
+ko_K17489	KO:K17489	2886827091	methylmalonyl-CoA carboxyltransferase large subunit	2886822089	
+ko_K17489	KO:K17489	2920315907	methylmalonyl-CoA carboxyltransferase large subunit	2920312932	
+ko_K17489	KO:K17489	2920315908	methylmalonyl-CoA carboxyltransferase large subunit	2920312932	
+ko_K17489	KO:K17489	2917719527	methylmalonyl-CoA carboxyltransferase large subunit	2917719114	
+ko_K17489	KO:K17489	2682317637	methylmalonyl-CoA carboxyltransferase 12S subunit	2681812969	
+ko_K17489	KO:K17489	2694058872	 methylmalonyl-CoA carboxyltransferase 12S subunit	2693429650	
+ko_K17489	KO:K17489	2855982191	methylmalonyl-CoA carboxyltransferase large subunit	2855980126	
+ko_K17489	KO:K17489	2668513623	 methylmalonyl-CoA carboxyltransferase 12S subunit	2667527539	
+ko_K17489	KO:K17489	2871376706	methylmalonyl-CoA carboxyltransferase large subunit	2871376656	
+ko_K17489	KO:K17489	2850495441	methylmalonyl-CoA carboxyltransferase large subunit	2850492634	
+ko_K17489	KO:K17489	2624326717	methylmalonyl-CoA carboxyltransferase 12S subunit	2623620407	
+ko_K17489	KO:K17489	2718655909	methylmalonyl-CoA carboxyltransferase 12S subunit	2718217733	
+ko_K17489	KO:K17489	2538748962	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561815	
+ko_K17489	KO:K17489	2858978991	methylmalonyl-CoA carboxyltransferase large subunit	2858978575	
+ko_K17489	KO:K17489	2738663738	acetyl-CoA carboxylase carboxyltransferase component	2738541264	
+ko_K17489	KO:K17489	2656273649	methylmalonyl-CoA carboxyltransferase 12S subunit	2654587919	
+ko_K17489	KO:K17489	2562671362	methylmalonyl-CoA carboxyltransferase 12S subunit	2562617013	
+ko_K17489	KO:K17489	2876298925	methylmalonyl-CoA carboxyltransferase large subunit	2876297063	
+ko_K17489	KO:K17489	2869739052	methylmalonyl-CoA carboxyltransferase large subunit	2869738452	
+ko_K17489	KO:K17489	2862077920	methylmalonyl-CoA carboxyltransferase large subunit	2862075925	
+ko_K17489	KO:K17489	2719020976	hypothetical protein	2718217843	
+ko_K17489	KO:K17489	2726258549	methylmalonyl-CoA carboxyltransferase 12S subunit	2724679292	
+ko_K17489	KO:K17489	2538764045	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561821	
+ko_K17489	KO:K17489	2511665720	hypothetical protein	2511231107	
+ko_K17489	KO:K17489	646101517	methylmalonyl-CoA carboxytransferase	645951842	
+ko_K17489	KO:K17489	2694058871	methylmalonyl-CoA carboxyltransferase 12S subunit	2693429650	
+ko_K17489	KO:K17489	2883350537	methylmalonyl-CoA carboxyltransferase large subunit	2883346072	
+ko_K17489	KO:K17489	2847209057	methylmalonyl-CoA carboxyltransferase large subunit	2847208544	
+ko_K17489	KO:K17489	2511520574	hypothetical protein	2511231059	
+ko_K17489	KO:K17489	2659836592	 methylmalonyl-CoA carboxyltransferase 12S subunit	2657245654	
+ko_K17489	KO:K17489	2537850459	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561578	
+ko_K17489	KO:K17489	2537850460	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561578	
+ko_K17489	KO:K17489	2538223952	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561681	
+ko_K17489	KO:K17489	2720430432	methylmalonyl-CoA carboxyltransferase 12S subunit	2718218183	
+ko_K17489	KO:K17489	2874831147	methylmalonyl-CoA carboxyltransferase large subunit	2874830548	
+ko_K17489	KO:K17489	2931435416	methylmalonyl-CoA carboxyltransferase large subunit	2931433137	
+ko_K17489	KO:K17489	2936349784	methylmalonyl-CoA carboxyltransferase large subunit	2936345690	
+ko_K17489	KO:K17489	2514205205	methylmalonyl-CoA carboxyltransferase 12S subunit	2513237213	
+ko_K17489	KO:K17489	2615908328	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840516	
+ko_K17489	KO:K17489	2583007359	methylmalonyl-CoA carboxyltransferase 12S subunit	2582580689	
+ko_K17489	KO:K17489	2869090493	methylmalonyl-CoA carboxyltransferase large subunit	2869088689	
+ko_K17489	KO:K17489	2538217639	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561678	
+ko_K17489	KO:K17489	2628454394	methylmalonyl-CoA carboxyltransferase 12S subunit	2627853667	
+ko_K17489	KO:K17489	2628454395	methylmalonyl-CoA carboxyltransferase 12S subunit	2627853667	
+ko_K17489	KO:K17489	2561999178	methylmalonyl-CoA carboxyltransferase 12S subunit	2561511079	
+ko_K17489	KO:K17489	2936134477	methylmalonyl-CoA carboxyltransferase large subunit	2936130024	
+ko_K17489	KO:K17489	2938699264	methylmalonyl-CoA carboxyltransferase large subunit	2938698525	
+ko_K17489	KO:K17489	2961887839	methylmalonyl-CoA carboxyltransferase large subunit	2961886980	
+ko_K17489	KO:K17489	2905661319	acetyl-CoA carboxylase carboxyltransferase component	2905660195	
+ko_K17489	KO:K17489	2578185189	methylmalonyl-CoA carboxyltransferase 12S subunit	2576861376	
+ko_K17489	KO:K17489	2656251259	methylmalonyl-CoA carboxyltransferase 12S subunit	2654587913	
+ko_K17489	KO:K17489	2656269997	methylmalonyl-CoA carboxyltransferase 12S subunit	2654587918	
+ko_K17489	KO:K17489	2938682927	methylmalonyl-CoA carboxyltransferase large subunit	2938681895	
+ko_K17489	KO:K17489	2961891319	methylmalonyl-CoA carboxyltransferase large subunit	2961889302	
+ko_K17489	KO:K17489	2961895274	methylmalonyl-CoA carboxyltransferase large subunit	2961894366	
+ko_K17489	KO:K17489	2654585778	methylmalonyl-CoA carboxyltransferase 12S subunit	2651870366	
+ko_K17489	KO:K17489	2752191704	methylmalonyl-CoA carboxyltransferase large subunit	2751185416	
+ko_K17489	KO:K17489	2920216668	methylmalonyl-CoA carboxyltransferase large subunit	2920213499	
+ko_K17489	KO:K17489	2866950920	methylmalonyl-CoA carboxyltransferase large subunit	2866950714	
+ko_K17489	KO:K17489	2723591168	methylmalonyl-CoA carboxyltransferase 12S subunit	2721755690	
+ko_K17489	KO:K17489	2719602612	methylmalonyl-CoA carboxyltransferase 12S subunit	2718217980	
+ko_K17489	KO:K17489	2514208343	methylmalonyl-CoA carboxyltransferase 12S subunit	2513237214	
+ko_K17489	KO:K17489	2514208344	hypothetical protein	2513237214	
+ko_K17489	KO:K17489	2538463518	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561736	
+ko_K17489	KO:K17489	2538463519	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561736	
+ko_K17489	KO:K17489	2511675522	hypothetical protein	2511231111	
+ko_K17489	KO:K17489	2686729165	hypothetical protein	2684623084	
+ko_K17489	KO:K17489	2855985066	methylmalonyl-CoA carboxyltransferase large subunit	2855985027	
+ko_K17489	KO:K17489	2910878537	methylmalonyl-CoA carboxyltransferase large subunit	2910878194	
+ko_K17489	KO:K17489	2537915840	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561597	
+ko_K17489	KO:K17489	2688453885	hypothetical protein	2687453358	
+ko_K17489	KO:K17489	2872065760	methylmalonyl-CoA carboxyltransferase large subunit	2872065163	
+ko_K17489	KO:K17489	2645983517	methylmalonyl-CoA carboxyltransferase 12S subunit	2645727559	
+ko_K17489	KO:K17489	2874036689	methylmalonyl-CoA carboxyltransferase large subunit	2874035346	
+ko_K17489	KO:K17489	2855964249	methylmalonyl-CoA carboxyltransferase large subunit	2855963010	
+ko_K17489	KO:K17489	2878672188	methylmalonyl-CoA carboxyltransferase large subunit	2878669964	
+ko_K17489	KO:K17489	2523902070	methylmalonyl-CoA carboxyltransferase 12S subunit	2523533600	
+ko_K17489	KO:K17489	2511689190	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231115	
+ko_K17489	KO:K17489	2714942257	methylmalonyl-CoA carboxyltransferase 12S subunit	2713896940	
+ko_K17489	KO:K17489	2968665515	methylmalonyl-CoA carboxyltransferase large subunit	2968664717	
+ko_K17489	KO:K17489	2617749398	methylmalonyl-CoA carboxyltransferase 12S subunit	2617270851	
+ko_K17489	KO:K17489	2889884254	methylmalonyl-CoA carboxyltransferase large subunit	2889882248	
+ko_K17489	KO:K17489	2538766453	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561822	
+ko_K17489	KO:K17489	2559768953	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860418	
+ko_K17489	KO:K17489	647418039	conserved hypothetical protein	647000298	
+ko_K17489	KO:K17489	2812988655	methylmalonyl-CoA carboxyltransferase large subunit	2811995057	
+ko_K17489	KO:K17489	2874034835	methylmalonyl-CoA carboxyltransferase large subunit	2874032814	
+ko_K17489	KO:K17489	2745922761	methylmalonyl-CoA carboxyltransferase large subunit	2744054862	
+ko_K17489	KO:K17489	2511530745	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231063	
+ko_K17489	KO:K17489	2848150011	methylmalonyl-CoA carboxyltransferase large subunit	2848149107	
+ko_K17489	KO:K17489	2869756658	methylmalonyl-CoA carboxyltransferase large subunit	2869755204	
+ko_K17489	KO:K17489	2817327657	methylmalonyl-CoA carboxyltransferase 12S subunit 	2816332264	
+ko_K17489	KO:K17489	2662247598	methylmalonyl-CoA carboxyltransferase 12S subunit	2660238400	
+ko_K17489	KO:K17489	2579428586	methylmalonyl-CoA carboxyltransferase 12S subunit	2576861738	
+ko_K17489	KO:K17489	2711596816	hypothetical protein	2710724142	
+ko_K17489	KO:K17489	2637862698	methylmalonyl-CoA carboxyltransferase 12S subunit	2636415748	
+ko_K17489	KO:K17489	2968642900	methylmalonyl-CoA carboxyltransferase large subunit	2968641191	
+ko_K17489	KO:K17489	2873559864	methylmalonyl-CoA carboxyltransferase large subunit	2873558832	
+ko_K17489	KO:K17489	649909912	carboxyl transferase	649633058	
+ko_K17489	KO:K17489	2902682428	methylmalonyl-CoA carboxyltransferase large subunit	2902680501	
+ko_K17489	KO:K17489	2659238218	 methylmalonyl-CoA carboxyltransferase 12S subunit	2657245502	
+ko_K17489	KO:K17489	644131565	methylmalonyl-CoA decarboxylase, alpha-subunit	643886147	
+ko_K17489	KO:K17489	2690004286	methylmalonyl-CoA carboxyltransferase 12S subunit	2687453746	
+ko_K17489	KO:K17489	2813501947	methylmalonyl-CoA carboxyltransferase large subunit	2811995216	
+ko_K17489	KO:K17489	2672000227	methylmalonyl-CoA carboxyltransferase 12S subunit	2671180251	
+ko_K17489	KO:K17489	2535525523	methylmalonyl-CoA carboxyltransferase 12S subunit	2534681798	
+ko_K17489	KO:K17489	2869745936	methylmalonyl-CoA carboxyltransferase large subunit	2869745315	
+ko_K17489	KO:K17489	2677514943	hypothetical protein	2675903328	
+ko_K17489	KO:K17489	2855984208	methylmalonyl-CoA carboxyltransferase large subunit	2855982558	
+ko_K17489	KO:K17489	2874047028	methylmalonyl-CoA carboxyltransferase large subunit	2874045272	
+ko_K17489	KO:K17489	644203618	methylmalonyl-CoA carboxyltransferase 12S subunit	643886207	
+ko_K17489	KO:K17489	650436860	methylmalonyl-CoA decarboxylase, alpha-subunit	650377927	
+ko_K17489	KO:K17489	2723764717	hypothetical protein	2721755729	
+ko_K17489	KO:K17489	2610059493	methylmalonyl-CoA carboxyltransferase 12S subunit	2609459802	
+ko_K17489	KO:K17489	2668622243	methylmalonyl-CoA carboxyltransferase 12S subunit	2667527572	
+ko_K17489	KO:K17489	2721576972	hypothetical protein	2718218466	
+ko_K17489	KO:K17489	2655431366	methylmalonyl-CoA carboxyltransferase 12S subunit	2654587695	
+ko_K17489	KO:K17489	2813504724	methylmalonyl-CoA carboxyltransferase large subunit	2811995217	
+ko_K17489	KO:K17489	637522750	methylmalonyl-CoA carboxyltransferase 12S subunit (EC 2.1.3.1)	637000215	
+ko_K17489	KO:K17489	2887129314	methylmalonyl-CoA carboxyltransferase large subunit	2887127144	
+ko_K17489	KO:K17489	2968639666	methylmalonyl-CoA carboxyltransferase large subunit	2968638708	
+ko_K17489	KO:K17489	2837376358	methylmalonyl-CoA carboxyltransferase large subunit	2837375451	
+ko_K17489	KO:K17489	2654553398	methylmalonyl-CoA carboxyltransferase 12S subunit	2651870356	
+ko_K17489	KO:K17489	644131564	possible methylmalonyl-CoA carboxyltransferase	643886147	
+ko_K17489	KO:K17489	2834760169	methylmalonyl-CoA carboxyltransferase large subunit	2834757897	
+ko_K17489	KO:K17489	2631976384	hypothetical protein	2630968481	
+ko_K17489	KO:K17489	2784407124	hypothetical protein	2784132096	
+ko_K17489	KO:K17489	2585861278	hypothetical protein	2585427598	
+ko_K17489	KO:K17489	2511614583	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231091	
+ko_K17489	KO:K17489	2511614584	hypothetical protein	2511231091	
+ko_K17489	KO:K17489	2529395697	methylmalonyl-CoA carboxyltransferase 12S subunit	2529292557	
+ko_K17489	KO:K17489	2530196667	methylmalonyl-CoA carboxyltransferase 12S subunit	2529292840	
+ko_K17489	KO:K17489	2688033282	 methylmalonyl-CoA carboxyltransferase 12S subunit	2687453247	
+ko_K17489	KO:K17489	2518595001	methylmalonyl-CoA carboxyltransferase 12S subunit	2518285598	
+ko_K17489	KO:K17489	2512026783	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231219	
+ko_K17489	KO:K17489	2512026784	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231219	
+ko_K17489	KO:K17489	2588633520	hypothetical protein	2588253761	
+ko_K17489	KO:K17489	2533464901	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839423	
+ko_K17489	KO:K17489	2867039121	methylmalonyl-CoA carboxyltransferase large subunit	2867036635	
+ko_K17489	KO:K17489	2538481582	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561743	
+ko_K17489	KO:K17489	2538481583	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561743	
+ko_K17489	KO:K17489	639775842	carboxyl transferase	639633046	
+ko_K17489	KO:K17489	2841057860	methylmalonyl-CoA carboxyltransferase large subunit	2841055467	
+ko_K17489	KO:K17489	2656980678	methylmalonyl-CoA carboxyltransferase 12S subunit	2654588115	
+ko_K17489	KO:K17489	2596388072	methylmalonyl-CoA carboxyltransferase 12S subunit	2595698242	
+ko_K17489	KO:K17489	2895403428	methylmalonyl-CoA carboxyltransferase large subunit	2895402339	
+ko_K17489	KO:K17489	644341604	methylmalonyl-CoA carboxyltransferase	643886137	
+ko_K17489	KO:K17489	2752604666	methylmalonyl-CoA carboxyltransferase large subunit	2751185590	
+ko_K17489	KO:K17489	2696714704	 methylmalonyl-CoA carboxyltransferase 12S subunit	2695420604	
+ko_K17489	KO:K17489	2878423305	methylmalonyl-CoA carboxyltransferase large subunit	2878420039	
+ko_K17489	KO:K17489	2538202208	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561672	
+ko_K17489	KO:K17489	2871370926	methylmalonyl-CoA carboxyltransferase large subunit	2871369333	
+ko_K17489	KO:K17489	2538200851	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561671	
+ko_K17489	KO:K17489	2855977394	methylmalonyl-CoA carboxyltransferase large subunit	2855976279	
+ko_K17489	KO:K17489	2855977395	methylmalonyl-CoA carboxyltransferase large subunit	2855976279	
+ko_K17489	KO:K17489	2856493142	methylmalonyl-CoA carboxyltransferase large subunit	2856490523	
+ko_K17489	KO:K17489	2847130249	methylmalonyl-CoA carboxyltransferase large subunit	2847129792	
+ko_K17489	KO:K17489	644867935	methylmalonyl-CoA carboxyltransferase 12S subunit	644736371	
+ko_K17489	KO:K17489	2539269529	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561950	
+ko_K17489	KO:K17489	2704205314	Acetyl-CoA carboxylase, carboxyltransferase component	2703718744	
+ko_K17489	KO:K17489	2579473798	methylmalonyl-CoA carboxyltransferase 12S subunit	2576861751	
+ko_K17489	KO:K17489	2615891027	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840511	
+ko_K17489	KO:K17489	2533048531	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839314	
+ko_K17489	KO:K17489	2835002585	methylmalonyl-CoA carboxyltransferase large subunit	2835000839	
+ko_K17489	KO:K17489	2559730949	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860402	
+ko_K17489	KO:K17489	651624318	methylmalonyl-CoA carboxyltransferase 12S subunit	651324092	
+ko_K17489	KO:K17489	2515222702	methylmalonyl-CoA carboxyltransferase 12S subunit	2515154014	
+ko_K17489	KO:K17489	2871373667	methylmalonyl-CoA carboxyltransferase large subunit	2871371811	
+ko_K17489	KO:K17489	2890938373	methylmalonyl-CoA carboxyltransferase large subunit	2890934257	
+ko_K17489	KO:K17489	2890938374	methylmalonyl-CoA carboxyltransferase large subunit	2890934257	
+ko_K17489	KO:K17489	2559205285	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860221	
+ko_K17489	KO:K17489	2847130250	methylmalonyl-CoA carboxyltransferase large subunit	2847129792	
+ko_K17489	KO:K17489	2603584903	methylmalonyl-CoA carboxyltransferase 12S subunit	2602042026	
+ko_K17489	KO:K17489	2850512436	methylmalonyl-CoA carboxyltransferase large subunit	2850511929	
+ko_K17489	KO:K17489	2537908538	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561595	
+ko_K17489	KO:K17489	2649966775	methylmalonyl-CoA carboxyltransferase 12S subunit	2648501452	
+ko_K17489	KO:K17489	2649824327	methylmalonyl-CoA carboxyltransferase 12S subunit	2648501415	
+ko_K17489	KO:K17489	2859575456	methylmalonyl-CoA carboxyltransferase large subunit	2859574864	
+ko_K17489	KO:K17489	2533462164	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839422	
+ko_K17489	KO:K17489	2851563008	methylmalonyl-CoA carboxyltransferase large subunit	2851562408	
+ko_K17489	KO:K17489	2538762419	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561820	
+ko_K17489	KO:K17489	2782276391	methylmalonyl-CoA carboxyltransferase large subunit	2781126037	
+ko_K17489	KO:K17489	2659487711	methylmalonyl-CoA carboxyltransferase 12S subunit	2657245564	
+ko_K17489	KO:K17489	2844520088	methylmalonyl-CoA carboxyltransferase large subunit	2844519439	
+ko_K17489	KO:K17489	2850509821	methylmalonyl-CoA carboxyltransferase large subunit	2850509456	
+ko_K17489	KO:K17489	2877189439	methylmalonyl-CoA carboxyltransferase large subunit	2877188707	
+ko_K17489	KO:K17489	2524447394	methylmalonyl-CoA carboxyltransferase 12S subunit	2524023206	
+ko_K17489	KO:K17489	2516139840	methylmalonyl-CoA carboxyltransferase 12S subunit	2515154214	
+ko_K17489	KO:K17489	2719934891	hypothetical protein	2718218062	
+ko_K17489	KO:K17489	2704190437	Acetyl-CoA carboxylase, carboxyltransferase component	2703718741	
+ko_K17489	KO:K17489	2654544175	methylmalonyl-CoA carboxyltransferase 12S subunit	2651870354	
+ko_K17489	KO:K17489	2654582476	methylmalonyl-CoA carboxyltransferase 12S subunit	2651870365	
+ko_K17489	KO:K17489	2523479238	methylmalonyl-CoA carboxyltransferase 12S subunit	2523231070	
+ko_K17489	KO:K17489	2874043449	methylmalonyl-CoA carboxyltransferase large subunit	2874042820	
+ko_K17489	KO:K17489	2869107075	methylmalonyl-CoA carboxyltransferase large subunit	2869106127	
+ko_K17489	KO:K17489	2745709930	methylmalonyl-CoA carboxyltransferase large subunit	2744054798	
+ko_K17489	KO:K17489	2534446750	hypothetical protein	2531839679	
+ko_K17489	KO:K17489	2728047721	methylmalonyl-CoA carboxyltransferase 12S subunit	2724679781	
+ko_K17489	KO:K17489	2512397853	methylmalonyl-CoA carboxyltransferase 12S subunit	2512047045	
+ko_K17489	KO:K17489	2518591253	methylmalonyl-CoA carboxyltransferase 12S subunit	2518285596	
+ko_K17489	KO:K17489	2516139839	methylmalonyl-CoA carboxyltransferase 12S subunit	2515154214	
+ko_K17489	KO:K17489	2519067699	methylmalonyl-CoA carboxyltransferase 12S subunit	2518645621	
+ko_K17489	KO:K17489	2563718880	methylmalonyl-CoA carboxyltransferase 12S subunit	2563366600	
+ko_K17489	KO:K17489	2688065027	methylmalonyl-CoA carboxyltransferase 12S subunit	2687453256	
+ko_K17489	KO:K17489	2876311061	methylmalonyl-CoA carboxyltransferase large subunit	2876309328	
+ko_K17489	KO:K17489	2899986305	methylmalonyl-CoA carboxyltransferase large subunit	2899983920	
+ko_K17489	KO:K17489	2621133380	methylmalonyl-CoA carboxyltransferase 12S subunit	2619619253	
+ko_K17489	KO:K17489	2538751081	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561816	
+ko_K17489	KO:K17489	2511542902	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231067	
+ko_K17489	KO:K17489	2585955457	methylmalonyl-CoA carboxyltransferase 12S subunit	2585427622	
+ko_K17489	KO:K17489	2847216515	methylmalonyl-CoA carboxyltransferase large subunit	2847216000	
+ko_K17489	KO:K17489	2851556049	methylmalonyl-CoA carboxyltransferase large subunit	2851555451	
+ko_K17489	KO:K17489	2728372204	 methylmalonyl-CoA carboxyltransferase 12S subunit	2728368901	
+ko_K17489	KO:K17489	2810164657	methylmalonyl-CoA carboxyltransferase large subunit	2808606645	
+ko_K17489	KO:K17489	2920158195	methylmalonyl-CoA carboxyltransferase large subunit	2920153190	
+ko_K17489	KO:K17489	2848151967	methylmalonyl-CoA carboxyltransferase large subunit	2848151376	
+ko_K17489	KO:K17489	2511634486	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231095	
+ko_K17489	KO:K17489	2753116695	hypothetical protein	2751185744	
+ko_K17489	KO:K17489	2874833356	methylmalonyl-CoA carboxyltransferase large subunit	2874832760	
+ko_K17489	KO:K17489	2524339791	methylmalonyl-CoA carboxyltransferase 12S subunit	2524023180	
+ko_K17489	KO:K17489	2874829536	methylmalonyl-CoA carboxyltransferase large subunit	2874828267	
+ko_K17489	KO:K17489	2628295858	methylmalonyl-CoA carboxyltransferase 12S subunit	2627853633	
+ko_K17489	KO:K17489	2523475050	methylmalonyl-CoA carboxyltransferase 12S subunit (EC 2.1.3.1)	2523231069	
+ko_K17489	KO:K17489	2518850422	hypothetical protein	2518645564	
+ko_K17489	KO:K17489	2682317638	methylmalonyl-CoA carboxyltransferase 12S subunit	2681812969	
+ko_K17489	KO:K17489	2537862717	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561583	
+ko_K17489	KO:K17489	2537862718	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561583	
+ko_K17489	KO:K17489	2512013534	hypothetical protein	2511231212	
+ko_K17489	KO:K17489	2871382381	methylmalonyl-CoA carboxyltransferase large subunit	2871381511	
+ko_K17489	KO:K17489	2732732452	methylmalonyl-CoA carboxyltransferase 12S subunit	2731957689	
+ko_K17489	KO:K17489	2718655910	hypothetical protein	2718217733	
+ko_K17489	KO:K17489	2874821225	methylmalonyl-CoA carboxyltransferase large subunit	2874820625	
+ko_K17489	KO:K17489	2856204011	acetyl-CoA carboxylase carboxyltransferase component	2856201601	
+ko_K17489	KO:K17489	2838264480	acetyl-CoA carboxylase carboxyltransferase component	2838259578	
+ko_K17489	KO:K17489	2876316114	methylmalonyl-CoA carboxyltransferase large subunit	2876314173	
+ko_K17489	KO:K17489	2872070543	methylmalonyl-CoA carboxyltransferase large subunit	2872069584	
+ko_K17489	KO:K17489	2647775486	methylmalonyl-CoA carboxyltransferase 12S subunit	2645727974	
+ko_K17489	KO:K17489	2687144836	 methylmalonyl-CoA carboxyltransferase 12S subunit	2684623196	
+ko_K17489	KO:K17489	2541451994	methylmalonyl-CoA carboxyltransferase 12S subunit	2541047016	
+ko_K17489	KO:K17489	2858986430	methylmalonyl-CoA carboxyltransferase large subunit	2858985980	
+ko_K17489	KO:K17489	2630463525	methylmalonyl-CoA carboxyltransferase 12S subunit	2627854161	
+ko_K17489	KO:K17489	2642123058	hypothetical protein	2639763133	
+ko_K17489	KO:K17489	2876305525	methylmalonyl-CoA carboxyltransferase large subunit	2876304364	
+ko_K17489	KO:K17489	2541377783	methylmalonyl-CoA carboxyltransferase 12S subunit	2541046993	
+ko_K17489	KO:K17489	2866960686	cupin superfamily acireductone dioxygenase involved in methionine salvage	2866958356	
+ko_K17489	KO:K17489	2877187084	methylmalonyl-CoA carboxyltransferase large subunit	2877186476	
+ko_K17489	KO:K17489	2511721764	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231125	
+ko_K17489	KO:K17489	2718668967	methylmalonyl-CoA carboxyltransferase 12S subunit	2718217737	
+ko_K17489	KO:K17489	2677093765	methylmalonyl-CoA carboxyltransferase 12S subunit	2675903216	
+ko_K17489	KO:K17489	2902818442	acetyl-CoA carboxylase carboxyltransferase component	2902817153	
+ko_K17489	KO:K17489	2615904560	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840515	
+ko_K17489	KO:K17489	2615871749	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840507	
+ko_K17489	KO:K17489	2556997440	methylmalonyl-CoA carboxyltransferase 12S subunit	2556921018	
+ko_K17489	KO:K17489	2874828259	methylmalonyl-CoA carboxyltransferase large subunit	2874825049	
+ko_K17489	KO:K17489	2533051256	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839315	
+ko_K17489	KO:K17489	2871376378	methylmalonyl-CoA carboxyltransferase large subunit	2871374182	
+ko_K17489	KO:K17489	2931435417	methylmalonyl-CoA carboxyltransferase large subunit	2931433137	
+ko_K17489	KO:K17489	2938688813	methylmalonyl-CoA carboxyltransferase large subunit	2938688769	
+ko_K17489	KO:K17489	2938699265	methylmalonyl-CoA carboxyltransferase large subunit	2938698525	
+ko_K17489	KO:K17489	2926547613	methylmalonyl-CoA carboxyltransferase large subunit	2926546190	
+ko_K17489	KO:K17489	2938702430	methylmalonyl-CoA carboxyltransferase large subunit	2938701082	
+ko_K17489	KO:K17489	2961860730	methylmalonyl-CoA carboxyltransferase large subunit	2961860100	
+ko_K17489	KO:K17489	2961860731	methylmalonyl-CoA carboxyltransferase large subunit	2961860100	
+ko_K17489	KO:K17489	2932025541	methylmalonyl-CoA carboxyltransferase large subunit	2932023604	
+ko_K17489	KO:K17489	2656257779	methylmalonyl-CoA carboxyltransferase 12S subunit	2654587915	
+ko_K17489	KO:K17489	2968536337	methylmalonyl-CoA carboxyltransferase large subunit	2968536325	
+ko_K17489	KO:K17489	2968635834	methylmalonyl-CoA carboxyltransferase large subunit	2968633430	
+ko_K17489	KO:K17489	2968657439	methylmalonyl-CoA carboxyltransferase large subunit	2968657020	
+ko_K17489	KO:K17489	2532703444	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839225	
+ko_K17489	KO:K17489	651202480	methylmalonyl-CoA decarboxylase alpha subunit	651053019	
+ko_K17489	KO:K17489	2869742285	methylmalonyl-CoA carboxyltransferase large subunit	2869740637	
+ko_K17489	KO:K17489	2888668012	methylmalonyl-CoA carboxyltransferase large subunit	2888667245	
+ko_K17489	KO:K17489	651118458	C-terminal part of methylmalonyl-CoA carboxyltransferase	651053058	
+ko_K17489	KO:K17489	2876296171	methylmalonyl-CoA carboxyltransferase large subunit	2876294580	
+ko_K17489	KO:K17489	2869105511	methylmalonyl-CoA carboxyltransferase large subunit	2869103718	
+ko_K17489	KO:K17489	2869103004	methylmalonyl-CoA carboxyltransferase large subunit	2869101221	
+ko_K17489	KO:K17489	2812988656	methylmalonyl-CoA carboxyltransferase large subunit	2811995057	
+ko_K17489	KO:K17489	648330127	putative methylmalonyl-CoA carboxyltransferase 12S subunit	648276634	
+ko_K17489	KO:K17489	648330128	conserved hypothetical protein	648276634	
+ko_K17489	KO:K17489	2641684408	 methylmalonyl-CoA carboxyltransferase 12S subunit	2639763023	
+ko_K17489	KO:K17489	2865305997	methylmalonyl-CoA carboxyltransferase large subunit	2865304215	
+ko_K17489	KO:K17489	2834762042	methylmalonyl-CoA carboxyltransferase large subunit	2834760380	
+ko_K17489	KO:K17489	2537916348	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561598	
+ko_K17489	KO:K17489	2726248421	 methylmalonyl-CoA carboxyltransferase 12S subunit	2724679288	
+ko_K17489	KO:K17489	2848918649	methylmalonyl-CoA carboxyltransferase large subunit	2848918223	
+ko_K17489	KO:K17489	2541473044	methylmalonyl-CoA carboxyltransferase 12S subunit	2541047023	
+ko_K17489	KO:K17489	2523766614	methylmalonyl-CoA carboxyltransferase 12S subunit	2523533555	
+ko_K17489	KO:K17489	2855964250	methylmalonyl-CoA carboxyltransferase large subunit	2855963010	
+ko_K17489	KO:K17489	2726253809	 methylmalonyl-CoA carboxyltransferase 12S subunit	2724679290	
+ko_K17489	KO:K17489	2774809043	methylmalonyl-CoA carboxyltransferase large subunit	2773857907	
+ko_K17489	KO:K17489	2848147495	methylmalonyl-CoA carboxyltransferase large subunit	2848146898	
+ko_K17489	KO:K17489	2848147496	methylmalonyl-CoA carboxyltransferase large subunit	2848146898	
+ko_K17489	KO:K17489	2920139610	methylmalonyl-CoA carboxyltransferase large subunit	2920138197	
+ko_K17489	KO:K17489	2876300708	methylmalonyl-CoA carboxyltransferase large subunit	2876299533	
+ko_K17489	KO:K17489	2869105510	methylmalonyl-CoA carboxyltransferase large subunit	2869103718	
+ko_K17489	KO:K17489	2536297651	methylmalonyl-CoA carboxyltransferase 12S subunit	2534682005	
+ko_K17489	KO:K17489	2559772995	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860419	
+ko_K17489	KO:K17489	2867415034	methylmalonyl-CoA carboxyltransferase large subunit	2867413033	
+ko_K17489	KO:K17489	2537916347	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561598	
+ko_K17489	KO:K17489	2559778814	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860422	
+ko_K17489	KO:K17489	2543163894	methylmalonyl-CoA carboxyltransferase 12S subunit	2541047477	
+ko_K17489	KO:K17489	2668998341	methylmalonyl-CoA carboxyltransferase 12S subunit	2667527668	
+ko_K17489	KO:K17489	643874732	putative acyl-CoA carboxylase subunit	643692019	
+ko_K17489	KO:K17489	2662001933	hypothetical protein	2660238345	
+ko_K17489	KO:K17489	2968637870	methylmalonyl-CoA carboxyltransferase large subunit	2968636246	
+ko_K17489	KO:K17489	2543166002	hypothetical protein	2541047478	
+ko_K17489	KO:K17489	2820982743	hypothetical protein	2820979626	
+ko_K17489	KO:K17489	2834760170	methylmalonyl-CoA carboxyltransferase large subunit	2834757897	
+ko_K17489	KO:K17489	2635685281	methylmalonyl-CoA carboxyltransferase 12S subunit	2634166441	
+ko_K17489	KO:K17489	2790291875	methylmalonyl-CoA carboxyltransferase large subunit	2788500328	
+ko_K17489	KO:K17489	2620986556	methylmalonyl-CoA carboxyltransferase 12S subunit	2619619216	
+ko_K17489	KO:K17489	2858990580	methylmalonyl-CoA carboxyltransferase large subunit	2858988785	
+ko_K17489	KO:K17489	2855984209	methylmalonyl-CoA carboxyltransferase large subunit	2855982558	
+ko_K17489	KO:K17489	2533061870	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839319	
+ko_K17489	KO:K17489	2582925613	methylmalonyl-CoA carboxyltransferase 12S subunit	2582580658	
+ko_K17489	KO:K17489	2740063094	methylmalonyl-CoA carboxyltransferase large subunit	2739367875	
+ko_K17489	KO:K17489	2555942728	methylmalonyl-CoA carboxyltransferase 12S subunit	2554235426	
+ko_K17489	KO:K17489	2877184857	methylmalonyl-CoA carboxyltransferase large subunit	2877184255	
+ko_K17489	KO:K17489	2858985693	methylmalonyl-CoA carboxyltransferase large subunit	2858983548	
+ko_K17489	KO:K17489	2719037258	hypothetical protein	2718217849	
+ko_K17489	KO:K17489	2606595372	methylmalonyl-CoA carboxyltransferase 12S subunit	2606217205	
+ko_K17489	KO:K17489	2688684605	hypothetical protein	2687453413	
+ko_K17489	KO:K17489	2559722468	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860398	
+ko_K17489	KO:K17489	2813504725	methylmalonyl-CoA carboxyltransferase large subunit	2811995217	
+ko_K17489	KO:K17489	2630801691	methylmalonyl-CoA carboxyltransferase 12S subunit	2627854250	
+ko_K17489	KO:K17489	651223565	methylmalonyl-CoA carboxyltransferase 12S subunit (EC 2.1.3.1)	651053059	
+ko_K17489	KO:K17489	2541405972	methylmalonyl-CoA carboxyltransferase 12S subunit	2541047000	
+ko_K17489	KO:K17489	2540441432	hypothetical protein	2540341033	
+ko_K17489	KO:K17489	2649569178	methylmalonyl-CoA carboxyltransferase 12S subunit	2648501352	
+ko_K17489	KO:K17489	2859567981	methylmalonyl-CoA carboxyltransferase large subunit	2859567418	
+ko_K17489	KO:K17489	2874815725	methylmalonyl-CoA carboxyltransferase large subunit	2874814951	
+ko_K17489	KO:K17489	2791257422	methylmalonyl-CoA carboxyltransferase large subunit	2788500598	
+ko_K17489	KO:K17489	2537911155	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561596	
+ko_K17489	KO:K17489	2792124365	methylmalonyl-CoA carboxyltransferase large subunit	2791354959	
+ko_K17489	KO:K17489	644737196	putative partial methylmalonyl-CoA carboxyltransferase	644736345	
+ko_K17489	KO:K17489	2883648967	methylmalonyl-CoA carboxyltransferase large subunit	2883648118	
+ko_K17489	KO:K17489	2559782627	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860423	
+ko_K17489	KO:K17489	2886540615	methylmalonyl-CoA carboxyltransferase large subunit	2886538993	
+ko_K17489	KO:K17489	2886540616	methylmalonyl-CoA carboxyltransferase large subunit	2886538993	
+ko_K17489	KO:K17489	2649636055	methylmalonyl-CoA carboxyltransferase 12S subunit	2648501368	
+ko_K17489	KO:K17489	644341603	methylmalonyl-CoA decarboxylase, alpha-subunit	643886137	
+ko_K17489	KO:K17489	2511814197	hypothetical protein	2511231153	
+ko_K17489	KO:K17489	2894638194	methylmalonyl-CoA carboxyltransferase large subunit	2894636097	
+ko_K17489	KO:K17489	2559727892	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860400	
+ko_K17489	KO:K17489	2719399499	methylmalonyl-CoA carboxyltransferase 12S subunit	2718217930	
+ko_K17489	KO:K17489	2511563066	hypothetical protein	2511231075	
+ko_K17489	KO:K17489	2848943432	methylmalonyl-CoA carboxyltransferase large subunit	2848942949	
+ko_K17489	KO:K17489	637117954	hypothetical protein	637000082	
+ko_K17489	KO:K17489	2862034033	methylmalonyl-CoA carboxyltransferase large subunit	2862033302	
+ko_K17489	KO:K17489	2537905958	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561594	
+ko_K17489	KO:K17489	2883592023	methylmalonyl-CoA carboxyltransferase large subunit	2883589832	
+ko_K17489	KO:K17489	2843838372	methylmalonyl-CoA carboxyltransferase large subunit	2843837395	
+ko_K17489	KO:K17489	2920110233	methylmalonyl-CoA carboxyltransferase large subunit	2920107658	
+ko_K17489	KO:K17489	2882763222	methylmalonyl-CoA carboxyltransferase large subunit	2882762944	
+ko_K17489	KO:K17489	2550334322	methylmalonyl-CoA carboxyltransferase 12S subunit	2548876921	
+ko_K17489	KO:K17489	2610257129	methylmalonyl-CoA carboxyltransferase 12S subunit	2609459851	
+ko_K17489	KO:K17489	2553508632	Acetyl-CoA carboxylase, carboxyltransferase component	2551306544	
+ko_K17489	KO:K17489	2579473800	methylmalonyl-CoA carboxyltransferase 12S subunit	2576861751	
+ko_K17489	KO:K17489	2615885680	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840510	
+ko_K17489	KO:K17489	2902825912	acetyl-CoA carboxylase carboxyltransferase component	2902823744	
+ko_K17489	KO:K17489	2815874231	acetyl-CoA carboxylase carboxyltransferase component	2814123393	
+ko_K17489	KO:K17489	2520845889	Acetyl-CoA carboxylase, carboxyltransferase component	2519899744	
+ko_K17489	KO:K17489	2538204633	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561673	
+ko_K17489	KO:K17489	2533066462	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839320	
+ko_K17489	KO:K17489	2533073651	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839324	
+ko_K17489	KO:K17489	2582853012	methylmalonyl-CoA carboxyltransferase 12S subunit	2582580622	
+ko_K17489	KO:K17489	2894078000	methylmalonyl-CoA carboxyltransferase large subunit	2894077897	
+ko_K17489	KO:K17489	2835224555	hypothetical protein	2835223424	
+ko_K17489	KO:K17489	2624739554	methylmalonyl-CoA carboxyltransferase 12S subunit	2623620514	
+ko_K17489	KO:K17489	642766304	carboxyl transferase	642555129	
+ko_K17489	KO:K17489	2534209934	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839621	
+ko_K17489	KO:K17489	2526060362	methylmalonyl-CoA carboxyltransferase 12S subunit	2524614857	
+ko_K17489	KO:K17489	2730128260	hypothetical protein	2728369357	
+ko_K17489	KO:K17489	2869092375	methylmalonyl-CoA carboxyltransferase large subunit	2869091421	
+ko_K17489	KO:K17489	2869092376	methylmalonyl-CoA carboxyltransferase large subunit	2869091421	
+ko_K17489	KO:K17489	2664270633	methylmalonyl-CoA carboxyltransferase 12S subunit	2663762759	
+ko_K17489	KO:K17489	2533462163	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839422	
+ko_K17489	KO:K17489	2872056550	methylmalonyl-CoA carboxyltransferase large subunit	2872055952	
+ko_K17489	KO:K17489	2851563007	methylmalonyl-CoA carboxyltransferase large subunit	2851562408	
+ko_K17489	KO:K17489	2753226644	methylmalonyl-CoA carboxyltransferase large subunit	2751185773	
+ko_K17489	KO:K17489	2837018598	methylmalonyl-CoA carboxyltransferase large subunit	2837017481	
+ko_K17489	KO:K17489	2820842504	methylmalonyl-CoA carboxyltransferase large subunit	2820840446	
+ko_K17489	KO:K17489	2678540233	hypothetical protein	2675903590	
+ko_K17489	KO:K17489	2524447395	methylmalonyl-CoA carboxyltransferase 12S subunit	2524023206	
+ko_K17489	KO:K17489	2636675103	methylmalonyl-CoA carboxyltransferase 12S subunit	2636415463	
+ko_K17489	KO:K17489	2815906097	acetyl-CoA carboxylase carboxyltransferase component	2814123401	
+ko_K17489	KO:K17489	2615896230	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840513	
+ko_K17489	KO:K17489	2840356218	methylmalonyl-CoA carboxyltransferase large subunit	2840353847	
+ko_K17489	KO:K17489	2843838371	methylmalonyl-CoA carboxyltransferase large subunit	2843837395	
+ko_K17489	KO:K17489	2636423153	methylmalonyl-CoA carboxyltransferase 12S subunit	2636415402	
+ko_K17489	KO:K17489	2916405254	methylmalonyl-CoA carboxyltransferase large subunit	2916404855	
+ko_K17489	KO:K17489	2775100237	methylmalonyl-CoA carboxyltransferase large subunit	2773857984	
+ko_K17489	KO:K17489	2843840620	methylmalonyl-CoA carboxyltransferase large subunit	2843840127	
+ko_K17489	KO:K17489	2628161624	methylmalonyl-CoA carboxyltransferase large subunit	2627853595	
+ko_K17489	KO:K17489	2858971893	methylmalonyl-CoA carboxyltransferase large subunit	2858971191	
+ko_K17489	KO:K17489	643192886	methylmalonyl-CoA carboxyltransferase 12S subunit	642979306	
+ko_K17489	KO:K17489	2834917159	methylmalonyl-CoA carboxyltransferase large subunit	2834914592	
+ko_K17489	KO:K17489	2862065312	methylmalonyl-CoA carboxyltransferase large subunit	2862063619	
+ko_K17489	KO:K17489	2739439397	methylmalonyl-CoA carboxyltransferase large subunit	2739367544	
+ko_K17489	KO:K17489	2533474752	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839427	
+ko_K17489	KO:K17489	2688065028	 methylmalonyl-CoA carboxyltransferase 12S subunit	2687453256	
+ko_K17489	KO:K17489	2878678309	methylmalonyl-CoA carboxyltransferase large subunit	2878677284	
+ko_K17489	KO:K17489	2811889541	methylmalonyl-CoA carboxyltransferase large subunit	2808606991	
+ko_K17489	KO:K17489	2851556050	methylmalonyl-CoA carboxyltransferase large subunit	2851555451	
+ko_K17489	KO:K17489	2876293709	methylmalonyl-CoA carboxyltransferase large subunit	2876292090	
+ko_K17489	KO:K17489	2810164656	methylmalonyl-CoA carboxyltransferase large subunit	2808606645	
+ko_K17489	KO:K17489	2753116694	methylmalonyl-CoA carboxyltransferase large subunit	2751185744	
+ko_K17489	KO:K17489	2524339790	methylmalonyl-CoA carboxyltransferase 12S subunit	2524023180	
+ko_K17489	KO:K17489	2718653746	hypothetical protein	2718217732	
+ko_K17489	KO:K17489	2869098262	methylmalonyl-CoA carboxyltransferase large subunit	2869096312	
+ko_K17489	KO:K17489	2920162395	methylmalonyl-CoA carboxyltransferase large subunit	2920158810	
+ko_K17489	KO:K17489	2917719526	methylmalonyl-CoA carboxyltransferase large subunit	2917719114	
+ko_K17489	KO:K17489	2872060462	methylmalonyl-CoA carboxyltransferase large subunit	2872060370	
+ko_K17489	KO:K17489	2862043977	methylmalonyl-CoA carboxyltransferase large subunit	2862043880	
+ko_K17489	KO:K17489	2847211600	methylmalonyl-CoA carboxyltransferase large subunit	2847208544	
+ko_K17489	KO:K17489	639754077	carboxyl transferase	639633050	
+ko_K17489	KO:K17489	2727714618	methylmalonyl-CoA carboxyltransferase 12S subunit	2724679651	
+ko_K17489	KO:K17489	2639089696	Acetyl-CoA carboxylase, carboxyltransferase component	2636416058	
+ko_K17489	KO:K17489	2615876483	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840508	
+ko_K17489	KO:K17489	2874039444	methylmalonyl-CoA carboxyltransferase large subunit	2874037911	
+ko_K17489	KO:K17489	2832413786	methylmalonyl-CoA carboxyltransferase large subunit	2832413433	
+ko_K17489	KO:K17489	2910850195	hypothetical protein	2910849231	
+ko_K17489	KO:K17489	2512459666	methylmalonyl-CoA carboxyltransferase 12S subunit	2512047068	
+ko_K17489	KO:K17489	2588636175	hypothetical protein	2588253762	
+ko_K17489	KO:K17489	2728372205	methylmalonyl-CoA carboxyltransferase 12S subunit	2728368901	
+ko_K17489	KO:K17489	2654344538	hypothetical protein	2651870304	
+ko_K17489	KO:K17489	2836837445	cupin superfamily acireductone dioxygenase involved in methionine salvage	2836836789	
+ko_K17489	KO:K17489	2850574847	methylmalonyl-CoA carboxyltransferase large subunit	2850574254	
+ko_K17489	KO:K17489	2538223953	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561681	
+ko_K17489	KO:K17489	2685407120	 methylmalonyl-CoA carboxyltransferase 12S subunit	2684622695	
+ko_K17489	KO:K17489	2874831148	methylmalonyl-CoA carboxyltransferase large subunit	2874830548	
+ko_K17489	KO:K17489	2532691315	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839222	
+ko_K17489	KO:K17489	2532691316	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839222	
+ko_K17489	KO:K17489	2852350319	methylmalonyl-CoA carboxyltransferase large subunit	2852349861	
+ko_K17489	KO:K17489	2936349783	methylmalonyl-CoA carboxyltransferase large subunit	2936345690	
+ko_K17489	KO:K17489	2778011490	acetyl-CoA carboxylase carboxyltransferase component	2775507227	
+ko_K17489	KO:K17489	2615912101	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840517	
+ko_K17489	KO:K17489	2656266409	methylmalonyl-CoA carboxyltransferase 12S subunit	2654587917	
+ko_K17489	KO:K17489	2562556719	methylmalonyl-CoA carboxyltransferase 12S subunit	2561511229	
+ko_K17489	KO:K17489	2874825071	methylmalonyl-CoA carboxyltransferase large subunit	2874825049	
+ko_K17489	KO:K17489	2855974807	methylmalonyl-CoA carboxyltransferase large subunit	2855973848	
+ko_K17489	KO:K17489	2523094623	methylmalonyl-CoA carboxyltransferase 12S subunit	2522572156	
+ko_K17489	KO:K17489	2774963783	methylmalonyl-CoA carboxyltransferase large subunit	2773857949	
+ko_K17489	KO:K17489	647415273	conserved hypothetical protein	647000297	
+ko_K17489	KO:K17489	2865732129	methylmalonyl-CoA carboxyltransferase large subunit	2865730395	
+ko_K17489	KO:K17489	2537870539	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561586	
+ko_K17489	KO:K17489	2938679613	methylmalonyl-CoA carboxyltransferase large subunit	2938677204	
+ko_K17489	KO:K17489	2938692209	methylmalonyl-CoA carboxyltransferase large subunit	2938691023	
+ko_K17489	KO:K17489	2938695270	methylmalonyl-CoA carboxyltransferase large subunit	2938693623	
+ko_K17489	KO:K17489	2961869413	methylmalonyl-CoA carboxyltransferase large subunit	2961867708	
+ko_K17489	KO:K17489	2961881243	methylmalonyl-CoA carboxyltransferase large subunit	2961879757	
+ko_K17489	KO:K17489	2961898006	methylmalonyl-CoA carboxyltransferase large subunit	2961896875	
+ko_K17489	KO:K17489	2961898005	methylmalonyl-CoA carboxyltransferase large subunit	2961896875	
+ko_K17489	KO:K17489	2615900442	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840514	
+ko_K17489	KO:K17489	2810554913	acetyl-CoA carboxylase carboxyltransferase component	2808606750	
+ko_K17489	KO:K17489	2938702431	methylmalonyl-CoA carboxyltransferase large subunit	2938701082	
+ko_K17489	KO:K17489	2961858435	methylmalonyl-CoA carboxyltransferase large subunit	2961857765	
+ko_K17489	KO:K17489	2961885703	methylmalonyl-CoA carboxyltransferase large subunit	2961884640	
+ko_K17489	KO:K17489	2934300194	methylmalonyl-CoA carboxyltransferase large subunit	2934294214	
+ko_K17489	KO:K17489	2873606221	chromosome segregation ATPase	2873603790	
+ko_K17489	KO:K17489	2862808625	acetyl-CoA carboxylase carboxyltransferase component	2862807302	
+ko_K17489	KO:K17489	651202481	methylmalonyl-CoA carboxyltransferase 12S subunit	651053019	
+ko_K17489	KO:K17489	2847214090	methylmalonyl-CoA carboxyltransferase large subunit	2847213633	
+ko_K17489	KO:K17489	651118459	methylmalonyl-CoA carboxyltransferase 12S subunit (EC 2.1.3.1)	651053058	
+ko_K17489	KO:K17489	2523856972	methylmalonyl-CoA carboxyltransferase 12S subunit	2523533584	
+ko_K17489	KO:K17489	2513795294	methylmalonyl-CoA carboxyltransferase 12S subunit	2513237117	
+ko_K17489	KO:K17489	2874034836	methylmalonyl-CoA carboxyltransferase large subunit	2874032814	
+ko_K17489	KO:K17489	2848161102	methylmalonyl-CoA carboxyltransferase large subunit	2848159128	
+ko_K17489	KO:K17489	2523162125	methylmalonyl-CoA carboxyltransferase 12S subunit	2522572173	
+ko_K17489	KO:K17489	2865305996	methylmalonyl-CoA carboxyltransferase large subunit	2865304215	
+ko_K17489	KO:K17489	2858974671	methylmalonyl-CoA carboxyltransferase large subunit	2858973661	
+ko_K17489	KO:K17489	2686729164	methylmalonyl-CoA carboxyltransferase 12S subunit	2684623084	
+ko_K17489	KO:K17489	2661861416	 methylmalonyl-CoA carboxyltransferase 12S subunit	2660238308	
+ko_K17489	KO:K17489	2537915841	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561597	
+ko_K17489	KO:K17489	648237174	methylmalonyl-CoA decarboxylase, alpha-subunit	648231702	
+ko_K17489	KO:K17489	2688068967	methylmalonyl-CoA carboxyltransferase 12S subunit	2687453257	
+ko_K17489	KO:K17489	2541473043	methylmalonyl-CoA carboxyltransferase 12S subunit	2541047023	
+ko_K17489	KO:K17489	2546819626	methylmalonyl-CoA carboxyltransferase 12S subunit	2545824790	
+ko_K17489	KO:K17489	2633275946	methylmalonyl-CoA carboxyltransferase 12S subunit	2630968795	
+ko_K17489	KO:K17489	650944496	methylmalonyl-CoA decarboxylase subunit alpha	650716030	
+ko_K17489	KO:K17489	2878672189	methylmalonyl-CoA carboxyltransferase large subunit	2878669964	
+ko_K17489	KO:K17489	2714942258	 methylmalonyl-CoA carboxyltransferase 12S subunit	2713896940	
+ko_K17489	KO:K17489	2872048025	methylmalonyl-CoA carboxyltransferase large subunit	2872047240	
+ko_K17489	KO:K17489	2646948967	hypothetical protein	2645727783	
+ko_K17489	KO:K17489	643874731	putative acyl-CoA carboxylase, beta chain	643692019	
+ko_K17489	KO:K17489	2559768952	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860418	
+ko_K17489	KO:K17489	2540806849	methylmalonyl-CoA carboxyltransferase 12S subunit	2540341165	
+ko_K17489	KO:K17489	2866950921	methylmalonyl-CoA carboxyltransferase large subunit	2866950714	
+ko_K17489	KO:K17489	2538753764	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561817	
+ko_K17489	KO:K17489	2538756101	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561818	
+ko_K17489	KO:K17489	2848941120	methylmalonyl-CoA carboxyltransferase large subunit	2848940657	
+ko_K17489	KO:K17489	2657184871	methylmalonyl-CoA carboxyltransferase 12S subunit	2654588184	
+ko_K17489	KO:K17489	2511530744	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231063	
+ko_K17489	KO:K17489	2869095457	methylmalonyl-CoA carboxyltransferase large subunit	2869093904	
+ko_K17489	KO:K17489	2858982650	methylmalonyl-CoA carboxyltransferase large subunit	2858981065	
+ko_K17489	KO:K17489	2745706870	methylmalonyl-CoA carboxyltransferase large subunit	2744054797	
+ko_K17489	KO:K17489	2691921678	methylmalonyl-CoA carboxyltransferase 12S subunit	2690316020	
+ko_K17489	KO:K17489	2533053754	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839316	
+ko_K17489	KO:K17489	2532705734	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839226	
+ko_K17489	KO:K17489	2968637869	methylmalonyl-CoA carboxyltransferase large subunit	2968636246	
+ko_K17489	KO:K17489	2968653087	methylmalonyl-CoA carboxyltransferase large subunit	2968652349	
+ko_K17489	KO:K17489	2800230897	methylmalonyl-CoA carboxyltransferase large subunit	2799112634	
+ko_K17489	KO:K17489	2873559863	methylmalonyl-CoA carboxyltransferase large subunit	2873558832	
+ko_K17489	KO:K17489	2813667922	methylmalonyl-CoA carboxyltransferase large subunit	2811995274	
+ko_K17489	KO:K17489	2535525522	methylmalonyl-CoA carboxyltransferase 12S subunit	2534681798	
+ko_K17489	KO:K17489	2813622956	methylmalonyl-CoA carboxyltransferase large subunit	2811995256	
+ko_K17489	KO:K17489	2537859904	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561582	
+ko_K17489	KO:K17489	2537859905	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561582	
+ko_K17489	KO:K17489	2677514942	methylmalonyl-CoA carboxyltransferase 12S subunit	2675903328	
+ko_K17489	KO:K17489	2859551934	methylmalonyl-CoA carboxyltransferase large subunit	2859551338	
+ko_K17489	KO:K17489	2859573246	methylmalonyl-CoA carboxyltransferase large subunit	2859572654	
+ko_K17489	KO:K17489	2624793199	methylmalonyl-CoA carboxyltransferase 12S subunit	2623620529	
+ko_K17489	KO:K17489	2620989160	methylmalonyl-CoA carboxyltransferase 12S subunit	2619619217	
+ko_K17489	KO:K17489	2874057281	methylmalonyl-CoA carboxyltransferase large subunit	2874055179	
+ko_K17489	KO:K17489	650436861	Hypothetical protein	650377927	
+ko_K17489	KO:K17489	2641347201	hypothetical protein	2639762940	
+ko_K17489	KO:K17489	2858985694	methylmalonyl-CoA carboxyltransferase large subunit	2858983548	
+ko_K17489	KO:K17489	2867420173	hypothetical protein	2867417816	
+ko_K17489	KO:K17489	2867427101	hypothetical protein	2867425335	
+ko_K17489	KO:K17489	2726254520	 methylmalonyl-CoA carboxyltransferase 12S subunit	2724679291	
+ko_K17489	KO:K17489	2869743631	methylmalonyl-CoA carboxyltransferase large subunit	2869742882	
+ko_K17489	KO:K17489	2511774740	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231142	
+ko_K17489	KO:K17489	2919901441	methylmalonyl-CoA carboxyltransferase large subunit	2919897874	
+ko_K17489	KO:K17489	2919901442	methylmalonyl-CoA carboxyltransferase large subunit	2919897874	
+ko_K17489	KO:K17489	651223564	methylmalonyl-CoA carboxyltransferase 12S subunit	651053059	
+ko_K17489	KO:K17489	2887129315	methylmalonyl-CoA carboxyltransferase large subunit	2887127144	
+ko_K17489	KO:K17489	2968677173	methylmalonyl-CoA carboxyltransferase large subunit	2968675283	
+ko_K17489	KO:K17489	2656245356	methylmalonyl-CoA carboxyltransferase 12S subunit	2654587912	
+ko_K17489	KO:K17489	2876303661	methylmalonyl-CoA carboxyltransferase large subunit	2876301957	
+ko_K17489	KO:K17489	2559782628	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860423	
+ko_K17489	KO:K17489	2732288817	methylmalonyl-CoA carboxyltransferase 12S subunit	2731957581	
+ko_K17489	KO:K17489	2833060884	methylmalonyl-CoA carboxyltransferase large subunit	2833059440	
+ko_K17489	KO:K17489	2649636056	methylmalonyl-CoA carboxyltransferase 12S subunit	2648501368	
+ko_K17489	KO:K17489	2688033281	methylmalonyl-CoA carboxyltransferase 12S subunit	2687453247	
+ko_K17489	KO:K17489	2674240288	methylmalonyl-CoA carboxyltransferase 12S subunit	2671180803	
+ko_K17489	KO:K17489	2847123827	methylmalonyl-CoA carboxyltransferase large subunit	2847123314	
+ko_K17489	KO:K17489	639775843	methylmalonyl-CoA carboxyltransferase 12S subunit	639633046	
+ko_K17489	KO:K17489	2850506419	methylmalonyl-CoA carboxyltransferase large subunit	2850502144	
+ko_K17489	KO:K17489	2910864147	methylmalonyl-CoA carboxyltransferase large subunit	2910862512	
+ko_K17489	KO:K17489	2511563065	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231075	
+ko_K17489	KO:K17489	2848945942	methylmalonyl-CoA carboxyltransferase large subunit	2848942949	
+ko_K17489	KO:K17489	651622559	methylmalonyl-CoA carboxyltransferase 12S subunit (EC 2.1.3.1)	651324091	
+ko_K17489	KO:K17489	2841059647	methylmalonyl-CoA carboxyltransferase large subunit	2841058919	
+ko_K17489	KO:K17489	2820817730	methylmalonyl-CoA carboxyltransferase large subunit	2820816657	
+ko_K17489	KO:K17489	2869758078	methylmalonyl-CoA carboxyltransferase large subunit	2869757482	
+ko_K17489	KO:K17489	2887659362	methylmalonyl-CoA carboxyltransferase large subunit	2887658908	
+ko_K17489	KO:K17489	2572342929	methylmalonyl-CoA carboxyltransferase 12S subunit	2571042378	
+ko_K17489	KO:K17489	2721614470	methylmalonyl-CoA carboxyltransferase 12S subunit	2718218477	
+ko_K17489	KO:K17489	2791165249	methylmalonyl-CoA carboxyltransferase 12S subunit 	2788500575	
+ko_K17489	KO:K17489	2855105631	methylmalonyl-CoA carboxyltransferase large subunit	2855103437	
+ko_K17489	KO:K17489	2683341770	Acetyl-CoA carboxylase, carboxyltransferase component	2681813215	
+ko_K17489	KO:K17489	2525402416	methylmalonyl-CoA carboxyltransferase 12S subunit	2524614686	
+ko_K17489	KO:K17489	2656236252	methylmalonyl-CoA carboxyltransferase 12S subunit	2654587910	
+ko_K17489	KO:K17489	2538204634	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561673	
+ko_K17489	KO:K17489	648092619	hypothetical protein	648028019	
+ko_K17489	KO:K17489	2514260772	methylmalonyl-CoA carboxyltransferase 12S subunit	2513237258	
+ko_K17489	KO:K17489	2535522928	methylmalonyl-CoA carboxyltransferase 12S subunit	2534681797	
+ko_K17489	KO:K17489	2835224554	methylmalonyl-CoA carboxyltransferase large subunit	2835223424	
+ko_K17489	KO:K17489	2514714023	methylmalonyl-CoA carboxyltransferase 12S subunit	2513237389	
+ko_K17489	KO:K17489	2558946689	methylmalonyl-CoA carboxyltransferase 12S subunit	2558860125	
+ko_K17489	KO:K17489	2887991249	methylmalonyl-CoA carboxyltransferase large subunit	2887990687	
+ko_K17489	KO:K17489	2882763223	methylmalonyl-CoA carboxyltransferase large subunit	2882762944	
+ko_K17489	KO:K17489	2649983086	methylmalonyl-CoA carboxyltransferase 12S subunit	2648501457	
+ko_K17489	KO:K17489	2895410230	methylmalonyl-CoA carboxyltransferase large subunit	2895407921	
+ko_K17489	KO:K17489	648239296	methylmalonyl-CoA decarboxylase, alpha-subunit	648231703	
+ko_K17489	KO:K17489	2876308165	methylmalonyl-CoA carboxyltransferase large subunit	2876306851	
+ko_K17489	KO:K17489	2720444717	methylmalonyl-CoA carboxyltransferase 12S subunit	2718218188	
+ko_K17489	KO:K17489	2753226645	methylmalonyl-CoA carboxyltransferase large subunit	2751185773	
+ko_K17489	KO:K17489	2877189440	methylmalonyl-CoA carboxyltransferase large subunit	2877188707	
+ko_K17489	KO:K17489	2511608891	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231089	
+ko_K17489	KO:K17489	2687636630	methylmalonyl-CoA carboxyltransferase 12S subunit	2687453142	
+ko_K17489	KO:K17489	2699845269	Acetyl-CoA carboxylase, carboxyltransferase component	2698536626	
+ko_K17489	KO:K17489	2727712348	methylmalonyl-CoA carboxyltransferase 12S subunit	2724679650	
+ko_K17489	KO:K17489	2704195925	Acetyl-CoA carboxylase, carboxyltransferase component	2703718742	
+ko_K17489	KO:K17489	2636423152	hypothetical protein	2636415402	
+ko_K17489	KO:K17489	2532695624	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839223	
+ko_K17489	KO:K17489	2518592673	methylmalonyl-CoA carboxyltransferase 12S subunit	2518285597	
+ko_K17489	KO:K17489	2518592674	methylmalonyl-CoA carboxyltransferase 12S subunit	2518285597	
+ko_K17489	KO:K17489	2538226755	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561682	
+ko_K17489	KO:K17489	2537852171	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561579	
+ko_K17489	KO:K17489	2537852172	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561579	
+ko_K17489	KO:K17489	2573867613	methylmalonyl-CoA carboxyltransferase 12S subunit	2571042832	
+ko_K17489	KO:K17489	2837018597	cupin superfamily acireductone dioxygenase involved in methionine salvage	2837017481	
+ko_K17489	KO:K17489	2687802593	methylmalonyl-CoA carboxyltransferase 12S subunit	2687453189	
+ko_K17489	KO:K17489	2514711061	methylmalonyl-CoA carboxyltransferase 12S subunit	2513237388	
+ko_K17489	KO:K17489	2739439398	methylmalonyl-CoA carboxyltransferase large subunit	2739367544	
+ko_K17489	KO:K17489	2624292011	methylmalonyl-CoA carboxyltransferase 12S subunit	2623620399	
+ko_K17489	KO:K17489	2595380927	methylmalonyl-CoA carboxyltransferase 12S subunit	2593339219	
+ko_K17489	KO:K17489	2516186564	methylmalonyl-CoA carboxyltransferase 12S subunit	2516143011	
+ko_K17489	KO:K17489	2540764657	hypothetical protein	2540341150	
+ko_K17489	KO:K17489	2847218999	methylmalonyl-CoA carboxyltransferase large subunit	2847216000	
+ko_K17489	KO:K17489	2850498036	methylmalonyl-CoA carboxyltransferase large subunit	2850497574	
+ko_K17489	KO:K17489	2530218137	methylmalonyl-CoA carboxyltransferase 12S subunit	2529292847	
+ko_K17489	KO:K17489	2616431407	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840652	
+ko_K17489	KO:K17489	2616431408	methylmalonyl-CoA carboxyltransferase 12S subunit	2615840652	
+ko_K17489	KO:K17489	2874833357	methylmalonyl-CoA carboxyltransferase large subunit	2874832760	
+ko_K17489	KO:K17489	2518850421	methylmalonyl-CoA carboxyltransferase 12S subunit	2518645564	
+ko_K17489	KO:K17489	2855961602	methylmalonyl-CoA carboxyltransferase large subunit	2855960665	
+ko_K17489	KO:K17489	2523754352	methylmalonyl-CoA carboxyltransferase 12S subunit	2523533551	
+ko_K17489	KO:K17489	2850492974	methylmalonyl-CoA carboxyltransferase large subunit	2850492634	
+ko_K17489	KO:K17489	2624326715	methylmalonyl-CoA carboxyltransferase 12S subunit	2623620407	
+ko_K17489	KO:K17489	2862043976	methylmalonyl-CoA carboxyltransferase large subunit	2862043880	
+ko_K17489	KO:K17489	2651038884	hypothetical protein	2648501731	
+ko_K17489	KO:K17489	2855965457	methylmalonyl-CoA carboxyltransferase large subunit	2855965436	
+ko_K17489	KO:K17489	2847209056	methylmalonyl-CoA carboxyltransferase large subunit	2847208544	
+ko_K17489	KO:K17489	2538748963	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561815	
+ko_K17489	KO:K17489	2511606558	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231088	
+ko_K17489	KO:K17489	2511606559	hypothetical protein	2511231088	
+ko_K17489	KO:K17489	2874039445	methylmalonyl-CoA carboxyltransferase large subunit	2874037911	
+ko_K17489	KO:K17489	2624785495	methylmalonyl-CoA carboxyltransferase 12S subunit	2623620526	
+ko_K17489	KO:K17489	2719020975	methylmalonyl-CoA carboxyltransferase 12S subunit	2718217843	
+ko_K17489	KO:K17489	2836837444	methylmalonyl-CoA carboxyltransferase large subunit	2836836789	
+ko_K17489	KO:K17489	2511665719	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231107	
+ko_K17489	KO:K17489	646101518	propionyl-CoA carboxylase, B subunit	645951842	
+ko_K17489	KO:K17489	2524825695	methylmalonyl-CoA carboxyltransferase 12S subunit	2524614535	
+ko_K17489	KO:K17489	2642123057	methylmalonyl-CoA carboxyltransferase 12S subunit	2639763133	
+ko_K17489	KO:K17489	2598509942	methylmalonyl-CoA carboxyltransferase 12S subunit	2597490150	
+ko_K17489	KO:K17489	2920364778	methylmalonyl-CoA carboxyltransferase large subunit	2920361562	
+ko_K17489	KO:K17489	2920364779	methylmalonyl-CoA carboxyltransferase large subunit	2920361562	
+ko_K17489	KO:K17489	2511495643	methylmalonyl-CoA carboxyltransferase 12S subunit	2511231051	
+ko_K17489	KO:K17489	2872058760	methylmalonyl-CoA carboxyltransferase large subunit	2872058163	
+ko_K17489	KO:K17489	2872058761	methylmalonyl-CoA carboxyltransferase large subunit	2872058163	
+ko_K17489	KO:K17489	2835212086	hypothetical protein	2835211878	
+ko_K17489	KO:K17489	2530650384	methylmalonyl-CoA carboxyltransferase 12S subunit	2529292952	
+ko_K17489	KO:K17489	2917716791	methylmalonyl-CoA carboxyltransferase large subunit	2917716410	
+ko_K17489	KO:K17489	2521588448	methylmalonyl-CoA carboxyltransferase 12S subunit	2521172602	
+ko_K17489	KO:K17489	2938687063	methylmalonyl-CoA carboxyltransferase large subunit	2938686344	
+ko_K17489	KO:K17489	2504585966	methylmalonyl-CoA carboxyltransferase 12S subunit	2504557006	
+ko_K17489	KO:K17489	2874825072	methylmalonyl-CoA carboxyltransferase large subunit	2874825049	
+ko_K17489	KO:K17489	2533057328	methylmalonyl-CoA carboxyltransferase 12S subunit	2531839317	
+ko_K17489	KO:K17489	2523094622	methylmalonyl-CoA carboxyltransferase 12S subunit	2522572156	
+ko_K17489	KO:K17489	2774963784	methylmalonyl-CoA carboxyltransferase large subunit	2773857949	
+ko_K17489	KO:K17489	2865732128	methylmalonyl-CoA carboxyltransferase large subunit	2865730395	
+ko_K17489	KO:K17489	2880800809	methylmalonyl-CoA carboxyltransferase large subunit	2880800201	
+ko_K17489	KO:K17489	2834843050	methylmalonyl-CoA carboxyltransferase large subunit	2834841514	
+ko_K17489	KO:K17489	2537870538	methylmalonyl-CoA carboxyltransferase 12S subunit	2537561586	
+ko_K17489	KO:K17489	2961869414	methylmalonyl-CoA carboxyltransferase large subunit	2961867708	
+ko_K17489	KO:K17489	2961873339	methylmalonyl-CoA carboxyltransferase large subunit	2961872590	
+ko_K17489	KO:K17489	2716741849	methylmalonyl-CoA carboxyltransferase 12S subunit	2713897430	
+ko_K17489	KO:K17489	2691141382	Acetyl-CoA carboxylase, carboxyltransferase component	2690315802	
+ko_K17489	KO:K17489	2800234638	methylmalonyl-CoA carboxyltransferase large subunit	2799112635	
+ko_K17489	KO:K17489	2961873338	methylmalonyl-CoA carboxyltransferase large subunit	2961872590	
+ko_K17489	KO:K17489	2873606222	methylmalonyl-CoA carboxyltransferase large subunit	2873603790	
+ko_K17489	KO:K17489	2587329630	Acetyl-CoA carboxylase, carboxyltransferase component	2585427958	

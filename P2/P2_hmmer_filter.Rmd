@@ -1,0 +1,108 @@
+---
+title: "P2_hmmer_filter"
+output: html_document
+---
+
+# subset the df for only P2 genes
+```{r}
+maxHitScoreDF_P2 <- subset(maxHitScoreDF_P2, gene %in% c("lcdA", "lcdB", "lcdC", "pct", "acrC"))
+
+write.csv(maxHitScoreDF_P2, "maxHitScoreDF_P2.csv")
+```
+
+# determine lowest score for model P2 organisms
+```{r}
+library(dplyr)
+
+model_p2 <- c("Anaerotignum_propionicum_DSM_1682_strain_X2", 
+              "Megasphaera-elsdenii-14-14-MAF-2")
+
+for (thegene in unique(maxHitScoreDF_P2$gene)) {
+  print(slice(subset(maxHitScoreDF_P2, gene == thegene & strain %in% model_p2)), which.min(hit_score))
+}
+
+acrC_min_score = 413.7
+lcdA_min_score = 812.5
+lcdB_min_score = 683.5
+lcdC_min_score = 378.9
+pct_min_score = 861.9
+
+```
+
+```{r}
+library(ggplot2)
+
+acrC_min_score = 413.7
+lcdA_min_score = 812.5
+lcdB_min_score = 683.5
+lcdC_min_score = 378.9
+pct_min_score = 861.9
+
+filter_factor = 0.5
+filter_factor2 = 0.75
+
+# score distributions
+ggplot(subset(maxHitScoreDF_P2, gene %in% c("lcdA", "lcdB", "lcdC", "pct", "acrC")), aes(x = hit_score)) +
+  geom_histogram(binwidth = 10) +
+  facet_wrap(vars(gene)) +
+  
+  geom_vline(data=filter(maxHitScoreDF_P2, gene == "lcdA"), aes(xintercept = lcdA_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P2, gene == "lcdA"), aes(xintercept = lcdA_min_score *filter_factor2), color = "blue") +
+  
+  geom_vline(data=filter(maxHitScoreDF_P2, gene == "lcdB"), aes(xintercept = lcdB_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P2, gene == "lcdB"), aes(xintercept = lcdB_min_score *filter_factor2), color = "blue") +
+  
+  geom_vline(data=filter(maxHitScoreDF_P2, gene == "lcdC"), aes(xintercept = lcdC_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P2, gene == "lcdC"), aes(xintercept = lcdC_min_score *filter_factor2), color = "blue") +
+  
+  geom_vline(data=filter(maxHitScoreDF_P2, gene == "pct"), aes(xintercept = pct_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P2, gene == "pct"), aes(xintercept = pct_min_score *filter_factor2), color = "blue") +
+  
+  geom_vline(data=filter(maxHitScoreDF_P2, gene == "acrC"), aes(xintercept = acrC_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P2, gene == "acrC"), aes(xintercept = acrC_min_score *filter_factor2), color = "blue")
+  
+```
+
+# score filtering
+```{r}
+filter_factor = 0.75
+
+P2_score_filtered_df <- as.data.frame(maxHitScoreDF_P2) %>%
+  filter((gene == "acrC" & hit_score >= acrC_min_score * filter_factor) |
+         (gene == "lcdA" & hit_score >= lcdA_min_score * filter_factor) |
+         (gene == "lcdB" & hit_score >= lcdB_min_score * filter_factor) |
+         (gene == "lcdC" & hit_score >= lcdC_min_score * filter_factor) |
+         (gene == "pct" & hit_score >= pct_min_score * filter_factor))
+
+# reshape filtered_df from long to wide by pHMM (gene)
+
+P2_score_filtered_wide <- reshape(P2_score_filtered_df, timevar = "gene", direction = "wide", idvar = "strain")
+View(P2_score_filtered_wide)
+
+write.csv(P2_score_filtered_wide, "0.75scoreFilter_P2_HMMER_hits.csv")
+
+```
+
+# number of genes filter
+```{r}
+# requirements for genomes:
+# must have lcdA, lcdB, lcdC, pct, and acrC (based on model organisms). so basically all the genes
+
+P2_score_ngenes_filtered_wide <- subset(P2_score_filtered_wide, 
+                                     !is.na(hit_score.lcdA & 
+                                              hit_score.lcdB &
+                                              hit_score.lcdC &
+                                              hit_score.pct &
+                                              hit_score.acrC))
+
+P2_score_ngenes_filtered_wide$pathway <- "acrylate pathway"
+View(P2_score_ngenes_filtered_wide)
+
+
+write.csv(P2_score_ngenes_filtered_wide, "0.75scoreFilter_nGenes_P2_HMMER_hits.csv")
+```
+
+
+
+
+

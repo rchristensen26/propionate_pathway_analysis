@@ -1,0 +1,187 @@
+---
+title: "propionate_hmmer_scorefilter"
+output: html_document
+---
+# purpose of this doc: assess hmmer score distribution for known propionate producers that use the Wood-Werkman cycle (sub-pathway of P1 propionate pathway)
+
+# find lowest and highest scores for each gene 
+```{r}
+library(dplyr)
+
+model_P1_strains <- c("Acidipropionibacterium_acidipropionici",
+              "Propionibacterium_freudenreichii",
+              "Bacteroides_fragilis",
+              "Prevotella_ruminocola",
+              "Propiogenium_modestum",
+              "Selenomonas_ruminantium",
+              "Selenomonas_sputigena",
+              "Veillonella_parvula")
+
+model_P1_df <- (subset(maxHitScoreDF_P1, 
+                       grepl(model_P1_strains[1], strain) | 
+                          grepl(model_P1_strains[2], strain) |
+                         grepl(model_P1_strains[3], strain) | 
+                         grepl(model_P1_strains[4], strain) | 
+                         grepl(model_P1_strains[5], strain) | 
+                         grepl(model_P1_strains[6], strain) | 
+                         grepl(model_P1_strains[7], strain) | 
+                         grepl(model_P1_strains[8], strain) 
+                       == TRUE))
+
+model_WWC_df <- (subset(maxHitScoreDF_P1, 
+                       grepl(model_P1_strains[1], strain) | 
+                          grepl(model_P1_strains[2], strain)
+                       == TRUE))
+
+model_succ_df <- (subset(maxHitScoreDF_P1, 
+                         grepl(model_P1_strains[3], strain) | 
+                         grepl(model_P1_strains[4], strain) | 
+                         grepl(model_P1_strains[5], strain) | 
+                         grepl(model_P1_strains[6], strain) | 
+                         grepl(model_P1_strains[7], strain) | 
+                         grepl(model_P1_strains[8], strain)
+                       == TRUE))
+
+# lowest model score per gene
+# mutase and epimerase
+slice(subset(model_P1_df, model_P1_df$gene == "methylmalonyl-CoA-mutase-EC5-4-99-2"), which.min(hit_score))
+
+slice(subset(model_P1_df, model_P1_df$gene == "methylmalonyl-CoA-epimerase-EC5-1-99-1"), which.min(hit_score))
+
+# carboxyltransferase subunits
+slice(subset(model_WWC_df, model_WWC_df$gene == "methylmalonyl-CoA-carboxyltransferase12S-KOK17489"), which.min(hit_score))
+slice(subset(model_WWC_df, model_WWC_df$gene == "methylmalonyl-CoA-carboxyltransferase5S-KOK03416"), which.min(hit_score))
+slice(subset(model_WWC_df, model_WWC_df$gene == "methylmalonyl-CoA-carboxyltransferase1-3S-KOK17490"), which.min(hit_score))
+
+# decarboxylase subunits
+slice(subset(model_succ_df, model_succ_df$gene == "methylmalonyl-CoA-decarboxylaseAlpha-KOK01604"), which.min(hit_score))
+slice(subset(model_succ_df, model_succ_df$gene == "methylmalonyl-CoA-decarboxylaseBeta-KOK20509"), which.min(hit_score))
+slice(subset(model_succ_df, model_succ_df$gene == "methylmalonyl-CoA-decarboxylaseGamma-KOK23351"), which.min(hit_score))
+slice(subset(model_succ_df, model_succ_df$gene == "methylmalonyl-CoA-decarboxylaseDelta-KOK23352"), which.min(hit_score))
+
+# mininum model hit scores per gene
+mutase_min_score = 768.3
+epimerase_min_score = 175.5
+carboxyltransferase12S_min_score = 904.5
+carboxyltransferase5S_min_score = 1003.1
+carboxyltransferase1_3S_min_score = 171.9
+decarboxylaseAlpha_min_score = 889.1
+decarboxylaseBeta_min_score = 558.1
+decarboxylaseGamma_min_score = 146.4
+decarboxylaseDelta_min_score = 98.1
+
+```
+
+# let's look at the results of the HMMER search for all strains
+# specifically, the distribution of hit_scores for each gene
+```{r}
+library(ggplot2)
+
+filter_factor = 0.5
+filter_factor2 = 0.75
+
+# score distribution for mutase and epimerase
+ggplot(subset(maxHitScoreDF_P1, gene %in% c("methylmalonyl-CoA-epimerase-EC5-1-99-1", "methylmalonyl-CoA-mutase-EC5-4-99-2")), aes(x = hit_score)) +
+  geom_histogram(binwidth = 10) +
+  facet_wrap(vars(gene)) +
+  
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-epimerase-EC5-1-99-1"), aes(xintercept = epimerase_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-mutase-EC5-4-99-2"), aes(xintercept = mutase_min_score *filter_factor), color = "red") +
+  
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-epimerase-EC5-1-99-1"), aes(xintercept = epimerase_min_score *filter_factor2), color = "blue") +
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-mutase-EC5-4-99-2"), aes(xintercept = mutase_min_score *filter_factor2), color = "blue")
+
+
+# distribution of scores for carboxyltransferase subunits
+ggplot(subset(maxHitScoreDF_P1, gene %in% c("methylmalonyl-CoA-carboxyltransferase5S-KOK03416", "methylmalonyl-CoA-carboxyltransferase12S-KOK17489", "methylmalonyl-CoA-carboxyltransferase1-3S-KOK17490")), aes(x = hit_score)) +
+  geom_histogram(binwidth = 10) +
+  facet_wrap(vars(gene)) +
+  
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-carboxyltransferase5S-KOK03416"), aes(xintercept = carboxyltransferase5S_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-carboxyltransferase12S-KOK17489"), aes(xintercept = carboxyltransferase12S_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-carboxyltransferase1-3S-KOK17490"), aes(xintercept = carboxyltransferase1_3S_min_score *filter_factor), color = "red") +
+  
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-carboxyltransferase5S-KOK03416"), aes(xintercept = carboxyltransferase5S_min_score *filter_factor2), color = "blue") +
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-carboxyltransferase12S-KOK17489"), aes(xintercept = carboxyltransferase12S_min_score *filter_factor2), color = "blue") +
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-carboxyltransferase1-3S-KOK17490"), aes(xintercept = carboxyltransferase1_3S_min_score *filter_factor2), color = "blue")
+
+# distribution of scores for decarboxylase subunits
+ggplot(subset(maxHitScoreDF_P1, gene %in% c("methylmalonyl-CoA-decarboxylaseAlpha-KOK01604", "methylmalonyl-CoA-decarboxylaseBeta-KOK20509", "methylmalonyl-CoA-decarboxylaseGamma-KOK23351", "methylmalonyl-CoA-decarboxylaseDelta-KOK23352")), aes(x = hit_score)) +
+  geom_histogram(binwidth = 10) +
+  facet_wrap(vars(gene)) +
+  
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-decarboxylaseAlpha-KOK01604"), aes(xintercept = decarboxylaseAlpha_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-decarboxylaseBeta-KOK20509"), aes(xintercept = decarboxylaseBeta_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-decarboxylaseGamma-KOK23351"), aes(xintercept = decarboxylaseGamma_min_score *filter_factor), color = "red") +
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-decarboxylaseDelta-KOK23352"), aes(xintercept = decarboxylaseDelta_min_score *filter_factor), color = "red") +
+  
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-decarboxylaseAlpha-KOK01604"), aes(xintercept = decarboxylaseAlpha_min_score *filter_factor2), color = "blue") +
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-decarboxylaseBeta-KOK20509"), aes(xintercept = decarboxylaseBeta_min_score *filter_factor2), color = "blue") +
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-decarboxylaseGamma-KOK23351"), aes(xintercept = decarboxylaseGamma_min_score *filter_factor2), color = "blue") +
+  geom_vline(data=filter(maxHitScoreDF_P1, gene == "methylmalonyl-CoA-decarboxylaseDelta-KOK23352"), aes(xintercept = decarboxylaseDelta_min_score *filter_factor2), color = "blue")
+  
+
+```
+
+# subset maxHitScoreDF for score filter of 75% of lowest scoring model propionate producer
+# FIRST FILTERING METHOD: SCORE CUTOFF
+```{r}
+filter_factor = 0.75
+P1_score_filtered_df <- as.data.frame(maxHitScoreDF_P1) %>%
+  filter((gene == "methylmalonyl-CoA-epimerase-EC5-1-99-1" & hit_score >= epimerase_min_score * filter_factor) |
+         (gene == "methylmalonyl-CoA-mutase-EC5-4-99-2" & hit_score >= mutase_min_score * filter_factor) |
+         (gene == "methylmalonyl-CoA-carboxyltransferase5S-KOK03416" & hit_score >= carboxyltransferase5S_min_score * filter_factor) |
+         (gene == "methylmalonyl-CoA-carboxyltransferase12S-KOK17489" & hit_score >= carboxyltransferase12S_min_score * filter_factor) |
+         (gene == "methylmalonyl-CoA-carboxyltransferase1-3S-KOK17490" & hit_score >= carboxyltransferase1_3S_min_score * filter_factor) |
+           (gene == "methylmalonyl-CoA-decarboxylaseAlpha-KOK01604" & hit_score >= decarboxylaseAlpha_min_score * filter_factor) |
+           (gene == "methylmalonyl-CoA-decarboxylaseBeta-KOK20509" & hit_score >= decarboxylaseBeta_min_score * filter_factor) |
+           (gene == "methylmalonyl-CoA-decarboxylaseGamma-KOK23351" & hit_score >= decarboxylaseGamma_min_score * filter_factor) |
+           (gene == "methylmalonyl-CoA-decarboxylaseDelta-KOK23352" & hit_score >= decarboxylaseDelta_min_score * filter_factor))
+
+# reshape filtered_df from long to wide by gene (gene)
+
+P1_score_filtered_wide <- reshape(P1_score_filtered_df, timevar = "gene", direction = "wide", idvar = "strain")
+View(P1_score_filtered_wide)
+
+write.csv(filtered_wide, "0.75scoreFilter_P1_HMMER_hits.csv")
+```
+
+# subset score filtered df by number of genes present
+# SECOND FILTERING METHOD: NUMBER OF GENES
+```{r}
+# requirements for genomes:
+# must have mutase, epimerase, and either ALL carboxyltransferase subunits or ALL decarboxylase subunits
+# (include decarboxylase delta subunit for first iteration. can remove as a requirement later on)
+# FIRST: run HMMER search on model genomes to determine appropriate filter for # of gene requirement
+# done. must have ALL subunits for either the carboxyltransferase or the decarboxylase based on HMMER hits in model strains.
+
+P1_score_ngenes_filtered_wide <- subset(P1_score_filtered_wide, 
+                                        !is.na(`hit_score.methylmalonyl-CoA-epimerase-EC5-1-99-1` &
+                                                 `hit_score.methylmalonyl-CoA-mutase-EC5-4-99-2`) & 
+                                          (!is.na(`hit_score.methylmalonyl-CoA-carboxyltransferase1-3S-KOK17490` & 
+                                                            `hit_score.methylmalonyl-CoA-carboxyltransferase12S-KOK17489` &
+                                                            `hit_score.methylmalonyl-CoA-carboxyltransferase5S-KOK03416`) | 
+                                                     !is.na(`hit_score.methylmalonyl-CoA-decarboxylaseAlpha-KOK01604` & 
+                                                              `hit_score.methylmalonyl-CoA-decarboxylaseBeta-KOK20509` &
+                                                              `hit_score.methylmalonyl-CoA-decarboxylaseDelta-KOK23352` &
+                                                              `hit_score.methylmalonyl-CoA-decarboxylaseGamma-KOK23351`))
+)
+
+View(P1_score_ngenes_filtered_wide)
+
+# add column to distinguish which P1 pathway
+
+P1_score_ngenes_filtered_wide$pathway <- ifelse(!is.na(P1_score_ngenes_filtered_wide$`hit_score.methylmalonyl-CoA-carboxyltransferase1-3S-KOK17490`) & 
+                                          !is.na(P1_score_ngenes_filtered_wide$`hit_score.methylmalonyl-CoA-carboxyltransferase12S-KOK17489`) &
+                                          !is.na(P1_score_ngenes_filtered_wide$`hit_score.methylmalonyl-CoA-carboxyltransferase5S-KOK03416`),
+                                          "Wood-Werkman Cycle",
+                                          ifelse(!is.na(P1_score_ngenes_filtered_wide$`hit_score.methylmalonyl-CoA-decarboxylaseAlpha-KOK01604`) & 
+                                          !is.na(P1_score_ngenes_filtered_wide$`hit_score.methylmalonyl-CoA-decarboxylaseBeta-KOK20509`) &
+                                          !is.na(P1_score_ngenes_filtered_wide$`hit_score.methylmalonyl-CoA-decarboxylaseDelta-KOK23352`) &
+                                          !is.na(P1_score_ngenes_filtered_wide$`hit_score.methylmalonyl-CoA-decarboxylaseGamma-KOK23351`), "sodium-pumping decarboxylase", NA))
+
+write.csv(P1_score_ngenes_filtered_wide, "0.75scoreFilter_nGenes_P1_HMMER_hits.csv")
+
+```
+
+

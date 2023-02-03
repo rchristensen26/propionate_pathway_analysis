@@ -1,0 +1,166 @@
+---
+title: "all_propionate_pathways_filtering"
+output: html_document
+---
+
+# P1 -- entire pipeline
+# something funky is happening with the epimerase HMMER search. check out later. for now, I removed the requirement for epimerase presence.
+```{r}
+# mininum model hit scores per gene
+mutase_min_score = 768.3
+epimerase_min_score = 0
+carboxyltransferase12S_min_score = 904.5
+carboxyltransferase5S_min_score = 1003.1
+carboxyltransferase1_3S_min_score = 171.9
+decarboxylaseAlpha_min_score = 889.1
+decarboxylaseBeta_min_score = 558.1
+decarboxylaseGamma_min_score = 146.4
+decarboxylaseDelta_min_score = 98.1
+
+# subset maxHitScoreDF for score filter of 75% of lowest scoring model propionate producer
+# FIRST FILTERING METHOD: SCORE CUTOFF
+filter_factor = 0.75
+P1_score_filtered_df <- as.data.frame(maxHitScoreDF_P1) %>%
+  filter((gene == "methylmalonyl-CoA-epimerase-EC5-1-99-1" & hit_score >= epimerase_min_score * filter_factor) |
+         (gene == "methylmalonyl-CoA-mutase-EC5-4-99-2" & hit_score >= mutase_min_score * filter_factor) |
+         (gene == "methylmalonyl-CoA-carboxyltransferase5S-KOK03416" & hit_score >= carboxyltransferase5S_min_score * filter_factor) |
+         (gene == "methylmalonyl-CoA-carboxyltransferase12S-KOK17489" & hit_score >= carboxyltransferase12S_min_score * filter_factor) |
+         (gene == "methylmalonyl-CoA-carboxyltransferase1-3S-KOK17490" & hit_score >= carboxyltransferase1_3S_min_score * filter_factor) |
+           (gene == "methylmalonyl-CoA-decarboxylaseAlpha-KOK01604" & hit_score >= decarboxylaseAlpha_min_score * filter_factor) |
+           (gene == "methylmalonyl-CoA-decarboxylaseBeta-KOK20509" & hit_score >= decarboxylaseBeta_min_score * filter_factor) |
+           (gene == "methylmalonyl-CoA-decarboxylaseGamma-KOK23351" & hit_score >= decarboxylaseGamma_min_score * filter_factor) |
+           (gene == "methylmalonyl-CoA-decarboxylaseDelta-KOK23352" & hit_score >= decarboxylaseDelta_min_score * filter_factor))
+
+# reshape filtered_df from long to wide by gene (gene)
+P1_score_filtered_wide <- reshape(P1_score_filtered_df, timevar = "gene", direction = "wide", idvar = "strain")
+write.csv(filtered_wide, "0.75scoreFilter_P1_HMMER_hits.csv")
+
+# subset score filtered df by number of genes present
+# SECOND FILTERING METHOD: NUMBER OF GENES
+P1_score_ngenes_filtered_wide <- subset(P1_score_filtered_wide, 
+                                     !is.na(
+                                        `hit_score.methylmalonyl-CoA-mutase-EC5-4-99-2`) & ( 
+                                          !is.na(`hit_score.methylmalonyl-CoA-carboxyltransferase1-3S-KOK17490` & 
+                                          `hit_score.methylmalonyl-CoA-carboxyltransferase12S-KOK17489` &
+                                          `hit_score.methylmalonyl-CoA-carboxyltransferase5S-KOK03416`) | 
+                                       !is.na(`hit_score.methylmalonyl-CoA-decarboxylaseAlpha-KOK01604` & 
+                                          `hit_score.methylmalonyl-CoA-decarboxylaseBeta-KOK20509` &
+                                          `hit_score.methylmalonyl-CoA-decarboxylaseDelta-KOK23352` &
+                                          `hit_score.methylmalonyl-CoA-decarboxylaseGamma-KOK23351`))
+                                       )
+
+# add column to distinguish which P1 pathway
+P1_score_ngenes_filtered_wide$pathway <- ifelse(!is.na(P1_score_ngenes_filtered_wide$`hit_score.methylmalonyl-CoA-carboxyltransferase1-3S-KOK17490`) & 
+                                          !is.na(P1_score_ngenes_filtered_wide$`hit_score.methylmalonyl-CoA-carboxyltransferase12S-KOK17489`) &
+                                          !is.na(P1_score_ngenes_filtered_wide$`hit_score.methylmalonyl-CoA-carboxyltransferase5S-KOK03416`),
+                                          "Wood-Werkman Cycle",
+                                          ifelse(!is.na(P1_score_ngenes_filtered_wide$`hit_score.methylmalonyl-CoA-decarboxylaseAlpha-KOK01604`) & 
+                                          !is.na(P1_score_ngenes_filtered_wide$`hit_score.methylmalonyl-CoA-decarboxylaseBeta-KOK20509`) &
+                                          !is.na(P1_score_ngenes_filtered_wide$`hit_score.methylmalonyl-CoA-decarboxylaseDelta-KOK23352`) &
+                                          !is.na(P1_score_ngenes_filtered_wide$`hit_score.methylmalonyl-CoA-decarboxylaseGamma-KOK23351`), "sodium-pumping decarboxylase", NA))
+
+write.csv(P1_score_ngenes_filtered_wide, "0.75scoreFilter_nGenes_P1_HMMER_hits.csv")
+
+```
+
+# P2
+```{r}
+# subset the df for only P2 genes
+maxHitScoreDF_P2 <- subset(maxHitScoreDF_P2, gene %in% c("lcdA", "lcdB", "lcdC", "pct", "acrC"))
+write.csv(maxHitScoreDF_P2, "maxHitScoreDF_P2.csv")
+
+# determine lowest score for model P2 organisms
+acrC_min_score = 413.7
+lcdA_min_score = 812.5
+lcdB_min_score = 683.5
+lcdC_min_score = 378.9
+pct_min_score = 861.9
+
+# score filtering
+
+filter_factor = 0.75
+P2_score_filtered_df <- as.data.frame(maxHitScoreDF_P2) %>%
+  filter((gene == "acrC" & hit_score >= acrC_min_score * filter_factor) |
+         (gene == "lcdA" & hit_score >= lcdA_min_score * filter_factor) |
+         (gene == "lcdB" & hit_score >= lcdB_min_score * filter_factor) |
+         (gene == "lcdC" & hit_score >= lcdC_min_score * filter_factor) |
+         (gene == "pct" & hit_score >= pct_min_score * filter_factor))
+
+# reshape filtered_df from long to wide by pHMM (gene)
+P2_score_filtered_wide <- reshape(P2_score_filtered_df, timevar = "gene", direction = "wide", idvar = "strain")
+write.csv(P2_score_filtered_wide, "0.75scoreFilter_P2_HMMER_hits.csv")
+
+# number of genes filter
+P2_score_ngenes_filtered_wide <- subset(P2_score_filtered_wide, 
+                                     !is.na(hit_score.lcdA & 
+                                              hit_score.lcdB &
+                                              hit_score.lcdC &
+                                              hit_score.pct &
+                                              hit_score.acrC))
+
+# add pathway name
+P2_score_ngenes_filtered_wide$pathway <- "acrylate pathway"
+write.csv(P2_score_ngenes_filtered_wide, "0.75scoreFilter_nGenes_P2_HMMER_hits.csv")
+
+```
+
+# P3
+```{r}
+# subset the df for only P3 genes
+maxHitScoreDF_P3 <- subset(maxHitScoreDF_P3, gene %in% c("fucO", "pduP", "pduC", "pduD", "pduE", "pduL", "pduW", "Roseburia-inulivorans-pduCDE"))
+write.csv(maxHitScoreDF_P3, "maxHitScoreDF_P3.csv")
+
+# min score for filtering
+fucO_min_score <- 609.2 
+pduP_min_score <- 528.6
+pduC_min_score <- 1306.5
+pduD_min_score <- 492.9
+pduE_min_score <- 372.4
+pduL_min_score <- 200.9
+pduW_min_score <- 464.6
+pduCDE_min_score <- 816.2
+
+# next: apply score filter of 75% for all genes
+filter_factor = 0.75
+
+P3_score_filtered_df <- as.data.frame(maxHitScoreDF_P3) %>%
+  filter((gene == "fucO" & hit_score >= fucO_min_score * filter_factor) |
+         (gene == "pduP" & hit_score >= pduP_min_score * filter_factor) |
+         (gene == "pduW" & hit_score >= pduW_min_score * filter_factor) |
+         (gene == "pduL" & hit_score >= pduL_min_score * filter_factor) |
+         (gene == "pduC" & hit_score >= pduC_min_score * filter_factor) |
+           (gene == "pduD" & hit_score >= pduD_min_score * filter_factor) |
+           (gene == "pduE" & hit_score >= pduE_min_score * filter_factor) |
+           (gene == "Roseburia-inulivorans-pduCDE" & hit_score >= pduCDE_min_score * filter_factor))
+
+# reshape filtered_df from long to wide by pHMM (gene)
+P3_score_filtered_wide <- reshape(P3_score_filtered_df, timevar = "gene", direction = "wide", idvar = "strain")
+write.csv(P3_score_filtered_wide, "0.75scoreFilter_P3_HMMER_hits.csv")
+
+# number of genes filter
+P3_score_ngenes_filtered_wide <- subset(P3_score_filtered_wide, 
+                                     !is.na(hit_score.pduW & 
+                                              hit_score.pduP &
+                                              hit_score.pduL &
+                                              hit_score.fucO &
+                                              `hit_score.Roseburia-inulivorans-pduCDE`))
+
+P3_score_ngenes_filtered_wide$pathway <- "propanediol pathway"  # add pathway name
+write.csv(P3_score_ngenes_filtered_wide, "0.75scoreFilter_nGenes_P3_HMMER_hits.csv")
+
+```
+
+# merge all pathway df to one df
+```{r}
+allPropionatePathways_score_ngenes_filtered_wide <- bind_rows(P1_score_ngenes_filtered_wide, P2_score_ngenes_filtered_wide, P3_score_ngenes_filtered_wide)
+
+# row number check
+length(c(P1_score_ngenes_filtered_wide$strain, P2_score_ngenes_filtered_wide$strain, P3_score_ngenes_filtered_wide$strain))
+length(unique(allPropionatePathways_score_ngenes_filtered_wide$strain))
+# checks out!
+
+write.csv(allPropionatePathways_score_ngenes_filtered_wide, "merged_pathways_df_afterFiltering.csv")
+
+write_lines(unique(allPropionatePathways_score_ngenes_filtered_wide$strain), file = "/Users/rebeccachristensen/Desktop/Cremer_Lab_2022/propionate_gene_catalogue/config/hit_strains_all_pathways.txt", sep = "\n")
+```
+

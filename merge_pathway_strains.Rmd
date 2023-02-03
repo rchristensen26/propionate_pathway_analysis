@@ -1,0 +1,21 @@
+---
+title: "merge_pathway_strains"
+output: html_document
+---
+
+```{r}
+library("dplyr")
+
+# P1_df <- X75scoreFilter_nGenes_P1_HMMER_hits
+# P3_df <- X75scoreFilter_05scoreFilterpduCDE_nGenes_P3_HMMER_hits
+# P2_df <- X0_5scoreFilter_nGenes_P2_HMMER_hits
+# 
+allPropionatePathways_score_ngenes_filtered_wide <- bind_rows(P1_score_ngenes_filtered_wide, P2_score_ngenes_filtered_wide, P3_score_ngenes_filtered_wide)
+
+# row number check
+length(c(P1_score_ngenes_filtered_wide$strain, P2_score_ngenes_filtered_wide$strain, P3_score_ngenes_filtered_wide$strain))
+length(unique(df$strain))
+# checks out!
+
+write.csv(df, "merged_pathways_df_afterFiltering.csv")
+```

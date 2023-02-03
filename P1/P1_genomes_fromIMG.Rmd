@@ -1,0 +1,317 @@
+---
+title: "propionate_pathway_genomes_fromIMG"
+output: html_document
+---
+# this doc takes a list of genomes with an enzyme (either by EC or KO number search on IMG) and mutates the df
+# to a new df with columns: genome_ID and a list of genes ("yes" or "no" based on IMG search results)
+# and then find genome IDs with a specified number of genes in a pathway
+
+# mutate df to long
+```{r}
+
+# subset for bacteria only
+# met_mutase_df <- subset(met_mutase_df, Domain = "Bacteria")
+# met_epimerase_df <- subset(met_epimerase_df, Domain = "Bacteria")
+
+# list of unique genome_IDs from all P1 gene dfs
+# genome_IDs <- unique(c(scpA_df$`Genome ID`, scpB_df$`Genome ID`, scpC_df$`Genome ID`, met_carboxyltransferase_5S_df$`Genome ID`))
+# 
+# # create df
+P1_df <- data.frame(matrix(ncol = 10, nrow = ((nrow(met_mutase_df)) + 
+                                               (nrow(met_epimerase_df)) + 
+                                               (nrow(met_carboxyltransferase_5S_df)) + 
+                                               (nrow(met_carboxyltransferase_12S_df)) +
+                                               (nrow(met_carboxyltransferase_1_3S_df)) +
+                                               (nrow(met_carboxyltransferase_complex_df)) +
+                                               (nrow(succ_transferase_df)) +
+                                                  (nrow(decarb_alpha)) +
+                                                  (nrow(decarb_beta)) +
+                                                  (nrow(decarb_gamma)) +
+                                                  (nrow(decarb_delta)) +
+                                                (nrow(decarboxylase_df)))))
+colnames(P1_df) <- c("IMG_genome_ID", "genome_name", "met_mutase", "met_epimerase", "12S_carboxyltransferase", "5S_carboxyltransferase", "1_3S_carboxyltransferase", "met_carboxyltransferase_complex", "succ_transferase", "n_genes_present")
+# P1_df$IMG_genome_ID <- genome_IDs
+P1_df$IMG_genome_ID <- c(met_mutase_df$`Genome ID`, 
+                         met_epimerase_df$`Genome ID`, 
+                         met_carboxyltransferase_5S_df$`Genome ID`, 
+                         met_carboxyltransferase_12S_df$`Genome ID`, 
+                         met_carboxyltransferase_1_3S_df$`Genome ID`,
+                         met_carboxyltransferase_complex_df$`Genome ID`,
+                         succ_transferase_df$`Genome ID`,
+                         decarboxylase_df$`Genome ID`,
+                         decarb_alpha$`Genome ID`,
+                         decarb_beta$`Genome ID`,
+                         decarb_gamma$`Genome ID`,
+                         decarb_delta$`Genome ID`)
+
+P1_df$genome_name <- c(met_mutase_df$`Genome Name`, 
+                         met_epimerase_df$`Genome Name`, 
+                         met_carboxyltransferase_5S_df$`Genome Name`, 
+                         met_carboxyltransferase_12S_df$`Genome Name`, 
+                         met_carboxyltransferase_1_3S_df$`Genome Name`,
+                         met_carboxyltransferase_complex_df$`Genome Name`,
+                         succ_transferase_df$`Genome Name`,
+                         decarboxylase_df$`Genome Name`,
+                         decarb_alpha$`Genome Name`,
+                         decarb_beta$`Genome Name`,
+                         decarb_gamma$`Genome Name`,
+                         decarb_delta$`Genome Name`)
+
+P1_df[,c("met_mutase", "met_epimerase", "12S_carboxyltransferase", "5S_carboxyltransferase", "1_3S_carboxyltransferase", "met_carboxyltransferase_complex", "succ_transferase", "decarb", "decarb_alpha", "decarb_beta", "decarb_gamma", "decarb_delta")] <- 0
+
+P1_df <- P1_df %>% distinct()
+
+P1_df$met_mutase[P1_df$IMG_genome_ID %in% met_mutase_df$`Genome ID`] <- 1
+nrow(subset(P1_df, met_mutase == 1))
+length(unique(met_mutase_df$`Genome ID`))
+
+P1_df$met_epimerase[P1_df$IMG_genome_ID %in% met_epimerase_df$`Genome ID`] <- 1
+nrow(subset(P1_df, met_epimerase == 1))
+length(unique(met_epimerase_df$`Genome ID`))
+
+P1_df$`12S_carboxyltransferase`[P1_df$IMG_genome_ID %in% met_carboxyltransferase_12S_df$`Genome ID`] <- 1
+nrow(subset(P1_df, `12S_carboxyltransferase` == 1))
+length(unique(met_carboxyltransferase_12S_df$`Genome ID`))
+
+P1_df$`5S_carboxyltransferase`[P1_df$IMG_genome_ID %in% met_carboxyltransferase_5S_df$`Genome ID`] <- 1
+nrow(subset(P1_df, `5S_carboxyltransferase` == 1))
+length(unique(met_carboxyltransferase_5S_df$`Genome ID`))
+
+P1_df$`1_3S_carboxyltransferase`[P1_df$IMG_genome_ID %in% met_carboxyltransferase_1_3S_df$`Genome ID`] <- 1
+nrow(subset(P1_df, `1_3S_carboxyltransferase` == 1))
+length(unique(met_carboxyltransferase_1_3S_df$`Genome ID`))
+
+P1_df$met_carboxyltransferase_complex[P1_df$IMG_genome_ID %in% met_carboxyltransferase_complex_df$`Genome ID`] <- 1
+nrow(subset(P1_df, met_carboxyltransferase_complex == 1))
+length(unique(met_carboxyltransferase_complex_df$`Genome ID`))
+
+P1_df$succ_transferase[P1_df$IMG_genome_ID %in% succ_transferase_df$`Genome ID`] <- 1
+nrow(subset(P1_df, succ_transferase == 1))
+length(unique(succ_transferase_df$`Genome ID`))
+
+P1_df$decarb[P1_df$IMG_genome_ID %in% decarboxylase_df$`Genome ID`] <- 1
+nrow(subset(P1_df, decarb == 1))
+length(unique(decarboxylase_df$`Genome ID`))
+
+P1_df$decarb_alpha[P1_df$IMG_genome_ID %in% decarb_alpha$`Genome ID`] <- 1
+nrow(subset(P1_df, decarb_alpha == 1))
+length(unique(decarb_alpha$`Genome ID`))
+
+P1_df$decarb_beta[P1_df$IMG_genome_ID %in% decarb_beta$`Genome ID`] <- 1
+nrow(subset(P1_df, decarb_beta == 1))
+length(unique(decarb_beta$`Genome ID`))
+
+P1_df$decarb_gamma[P1_df$IMG_genome_ID %in% decarb_gamma$`Genome ID`] <- 1
+nrow(subset(P1_df, decarb_gamma == 1))
+length(unique(decarb_gamma$`Genome ID`))
+
+P1_df$decarb_delta[P1_df$IMG_genome_ID %in% decarb_delta$`Genome ID`] <- 1
+nrow(subset(P1_df, decarb_delta == 1))
+length(unique(decarb_delta$`Genome ID`))
+
+P1_df$carboxyltransferase_any <- ifelse((P1_df$`12S_carboxyltransferase` | P1_df$`5S_carboxyltransferase` | P1_df$`1_3S_carboxyltransferase` | P1_df$met_carboxyltransferase_complex) == 1, 
+                                        1, 0)
+
+P1_df$decarboxylase_any <- ifelse((P1_df$decarb | P1_df$decarb_alpha | P1_df$decarb_beta | P1_df$decarb_gamma | P1_df$decarb_delta) == 1, 
+                                        1, 0)
+
+P1_df$n_genes_present <- rowSums(P1_df[,c("met_mutase", "met_epimerase", "carboxyltransferase_any", "succ_transferase", "decarboxylase_any")])
+
+```
+
+# results for P1
+```{r}
+table(P1_df$n_genes_present)
+
+
+# paste("genomes with methylmalonyl-CoA mutase, methylmalonyl-CoA epimerase, and at least ONE methylmalonyl-CoA carboxyltransferase subunit: ",
+#       nrow(subset(P1_df, met_mutase == 1 & met_epimerase == 1 &
+#                     carboxyltransferase_any == 1)))
+
+paste("genomes with methylmalonyl-CoA mutase, methylmalonyl-CoA epimerase, and ALL methylmalonyl-CoA carboxyltransferase subunits: ",
+      nrow(subset(P1_df, met_mutase == 1 & met_epimerase == 1 &
+                    ((`12S_carboxyltransferase` & 
+                        `5S_carboxyltransferase` & 
+                        `1_3S_carboxyltransferase`) == 1))))
+
+# paste("genomes with methylmalonyl-CoA mutase, methylmalonyl-CoA epimerase, and at least ONE decarboxylase subunit: ",
+#       nrow(subset(P1_df, met_mutase == 1 & met_epimerase == 1 &
+#                     decarboxylase_any == 1)))
+
+paste("genomes with methylmalonyl-CoA mutase, methylmalonyl-CoA epimerase, and ALL decarboxylase: ",
+      nrow(subset(P1_df, met_mutase == 1 & met_epimerase == 1 &
+                    (decarb_alpha & decarb_beta & decarb_gamma & decarb_delta) == 1)))
+
+paste("genomes with methylmalonyl-CoA mutase, methylmalonyl-CoA epimerase, and ALL decarboxylase except delta: ",
+      nrow(subset(P1_df, met_mutase == 1 & met_epimerase == 1 &
+                    (decarb_alpha & decarb_beta & decarb_gamma) == 1)))
+
+paste("genomes with methylmalonyl-CoA mutase, methylmalonyl-CoA epimerase, ALL decarboxylase (except delta) OR ALL caroxyltransferase subunits: ",
+      nrow(subset(P1_df, met_mutase == 1 & met_epimerase == 1 &
+                    ((decarb_alpha & decarb_beta & decarb_gamma) == 1 |
+             (`12S_carboxyltransferase` &
+                        `5S_carboxyltransferase` &
+                        `1_3S_carboxyltransferase`) == 1))))
+
+```
+
+
+# frequency matrix for P1 genes
+```{r}
+# xtabs(~met_mutase+met_epimerase+`12S_carboxyltransferase`+`5S_carboxyltransferase`+`1_3S_carboxyltransferase`+met_carboxyltransferase_complex+succ_transferase, data=P1_df)
+
+# xtabs(~met_mutase+met_epimerase+carboxyltransferase_any+succ_transferase, data=P1_df)
+
+xtabs(~`12S_carboxyltransferase`+`5S_carboxyltransferase`+`1_3S_carboxyltransferase`+met_carboxyltransferase_complex, data=P1_df)
+```
+
+
+# subset for model propiogenic bacteria 
+```{r}
+# goal: determine a conservative filter for strain-level gene sequences to build a profile HMM out of, based on the gene count in known propiogenic bacteria that use the P1 pathway
+
+# gene requirements based on model bacteria for Wood-Werkman cycle (WWC) or sodium-pumping succinate pathway. The pathways use the same methylmalonyl-CoA mutase and epimerase, but differ in the conversion of methylmalonyl-CoA to propionyl-CoA. The WWC uses a 3-subunit methylmalonyl-CoA carboxyltransferase to produce oxaloacetate and propionyl-CoA. The sodium-pumping pathway uses a 4-subunit methylmalonyl-CoA decarboxylase to produce CO2 and propionyl-CoA.  
+
+WWC_bacteria <- c("Acidipropionibacterium acidipropionici",
+                    "Propionibacterium freudenreichii freudenreichii",
+                    "Propionibacterium freudenreichii shermanii")
+
+succ_bacteria <- c("Bacteroides fragilis",
+"Bacteroides ruminocola",
+"Selenomonas ruminantium",
+"Selenomonas sputigena",
+"Veillonella parvula")
+
+View(subset(P1_df, grepl(WWC_bacteria[1], genome_name) | grepl(WWC_bacteria[2], genome_name) | grepl(WWC_bacteria[3], genome_name) == TRUE))
+
+View(subset(P1_df, grepl(succ_bacteria[1], genome_name) | grepl(succ_bacteria[2], genome_name) | grepl(succ_bacteria[3], genome_name) | grepl(succ_bacteria[4], genome_name) | grepl(succ_bacteria[5], genome_name) == TRUE))
+
+# genome requirements to build profile HMMs for each gene:
+"
+methylmalonyl-CoA mutase:
+MUST have: mutase, epimerase, and either ALL caroxyltransferase subunits OR ALL decarboxyltransferase subunits (except delta)
+
+methylmalonyl-CoA epimerase:
+MUST have: mutase, epimerase, and either ALL caroxyltransferase subunits OR ALL decarboxyltransferase subunits (except delta)
+
+methylmalonyl-CoA carboxyltransferase 12S:
+MUST have: mutase, epimerase, 12S subunit, 5S subunit, 1.3S subunit
+
+methylmalonyl-CoA carboxyltransferase 5S:
+MUST have: mutase, epimerase, 12S subunit, 5S subunit, 1.3S subunit
+
+methylmalonyl-CoA carboxyltransferase 1.3S:
+MUST have: mutase, epimerase, 12S subunit, 5S subunit, 1.3S subunit
+
+methylmalonyl-CoA decarboxylase alpha:
+MUST have: mutase, epimerase, alpha subunit, beta subunit, gamma subunit
+
+methylmalonyl-CoA decarboxylase beta:
+MUST have: mutase, epimerase, alpha subunit, beta subunit, gamma subunit
+
+methylmalonyl-CoA decarboxylase gamma:
+MUST have: mutase, epimerase, alpha subunit, beta subunit, gamma subunit
+
+methylmalonyl-CoA decarboxylase delta:
+MUST have: mutase, epimerase, alpha subunit, beta subunit, gamma subunit, delta subunit
+"
+```
+
+# Observations from frequency matrix of P1 genes in genomes
+```{r}
+# Infrequent (n = 16) to have ALL genes, meaning the mutase, epimerase, succinate transferase, and at least one subunit of the carboxyl transferase
+
+# If a genome was positive for one subunit, it was more likely to have all subunits. n = 579 for genomes with all subunits
+
+# Model Wood-Werkman strains all have the mutase, epimerase and all subunits for the carboxyl transferase, but no annotation for a succinate-CoA transferase.
+# Create filter for Wood-Werkman cycle strains for genomes with mutase, epimerase, and ALL carboxytransferase subunits, but not necessarily succinate-CoA transferase.
+# n genome IDs after filter: 576
+
+View(subset(P1_df, met_mutase == 1 & met_epimerase == 1 & (((`12S_carboxyltransferase` &
+                        `5S_carboxyltransferase` & 
+                        `1_3S_carboxyltransferase` == 1)) | ((decarb_alpha & decarb_beta & decarb_delta & decarb_gamma) == 1))))
+
+
+``` 
+
+# list of IMG genome IDs with 
+```{r}
+
+# genomes for mutase and epimerase profiles
+mutase_epimerase_genome_IDs <- subset(P1_df, met_mutase == 1 & met_epimerase == 1 &
+                    ((decarb_alpha & decarb_beta & decarb_gamma) == 1 |
+             (`12S_carboxyltransferase` &
+                        `5S_carboxyltransferase` &
+                        `1_3S_carboxyltransferase`) == 1))
+
+mutase_epimerase_genome_IDs <- as.vector(mutase_epimerase_genome_IDs$IMG_genome_ID)
+paste("number of genomes used to construct mutase and epimerase profiles: ", length(mutase_epimerase_genome_IDs))
+
+# genomes for carboxyltransferase subunit profiles
+carboxyltransferase_genome_IDs <- subset(P1_df, met_mutase == 1 & met_epimerase == 1 &
+                        (`12S_carboxyltransferase` &
+                        `5S_carboxyltransferase` &
+                        `1_3S_carboxyltransferase`) == 1)
+
+carboxyltransferase_genome_IDs <- as.vector(carboxyltransferase_genome_IDs$IMG_genome_ID)
+paste("number of genomes used to construct carboxylase subunit profiles: ", length(carboxyltransferase_genome_IDs))
+
+# genomes for decarboxylase subunit profiles
+decarboxylase_ABG_genome_IDs <- subset(P1_df, met_mutase == 1 & met_epimerase == 1 &
+                        (decarb_alpha & decarb_beta & decarb_gamma) == 1)
+
+decarboxylase_ABG_genome_IDs <- as.vector(decarboxylase_ABG_genome_IDs$IMG_genome_ID)
+paste("number of genomes used to construct decarboxylase alpha, beta, and gamma profiles: ", length(decarboxylase_ABG_genome_IDs))
+
+decarboxylase_D_genome_IDs <- subset(P1_df, met_mutase == 1 & met_epimerase == 1 &
+                        (decarb_alpha & decarb_beta & decarb_gamma & decarb_delta) == 1)
+
+decarboxylase_D_genome_IDs <- as.vector(decarboxylase_D_genome_IDs$IMG_genome_ID)
+paste("number of genomes used to construct decarboxylase delta profiles: ", length(decarboxylase_D_genome_IDs))
+
+```
+
+
+# subset gene IDs by filtered genome IDs
+```{r}
+# mutase
+df <- genomesAndGenes_mutase_EC_5_4_99_2
+genes <- as.vector(subset(df$gene_id, df$genome_id %in% mutase_epimerase_genome_IDs))
+write_lines(genes, "P1/geneIDs/filteredGeneIDs_forpHMM_mutase_EC_5_4_99_2.txt")
+
+# epimerase
+df <- genomesAndGenes_epimerase_EC_5_1_99_1
+genes <- as.vector(subset(df$gene_id, df$genome_id %in% mutase_epimerase_genome_IDs))
+write_lines(genes, "P1/geneIDs/filteredGeneIDs_forpHMM_epimerase_EC_5_1_99_1.txt")
+
+# carboxyltransferase subunits
+df <- genomesAndGenes_carboxyltransferase12S_KO_K17489
+genes <- as.vector(subset(df$gene_id, df$genome_id %in% carboxyltransferase_genome_IDs))
+write_lines(genes, "P1/geneIDs/filteredGeneIDs_forpHMM_carboxyltransferase12S_KO_K17489.txt")
+
+df <- genomesAndGenes_carboxyltransferase5S_KO_K03416
+genes <- as.vector(subset(df$gene_id, df$genome_id %in% carboxyltransferase_genome_IDs))
+write_lines(genes, "P1/geneIDs/filteredGeneIDs_forpHMM_carboxyltransferase5S_KO_K03416.txt")
+
+df <- genomesAndGenes_carboxyltransferase1_3S_KO_K17490
+genes <- as.vector(subset(df$gene_id, df$genome_id %in% carboxyltransferase_genome_IDs))
+write_lines(genes, "P1/geneIDs/filteredGeneIDs_forpHMM_carboxyltransferase1_3S_KO_K17490.txt")
+
+# decarboxylase subunits
+df <- genomesAndGenes_decarboxylaseAlpha_KO_K01604
+genes <- as.vector(subset(df$gene_id, df$genome_id %in% decarboxylase_ABG_genome_IDs))
+write_lines(genes, "P1/geneIDs/filteredGeneIDs_forpHMM_decarboxylaseAlpha_KO_K01604.txt")
+
+df <- genomesAndGenes_decarboxylaseBeta_KO_K20509
+genes <- as.vector(subset(df$gene_id, df$genome_id %in% decarboxylase_ABG_genome_IDs))
+write_lines(genes, "P1/geneIDs/filteredGeneIDs_forpHMM_decarboxylaseBeta_KO_K20509.txt")
+
+df <- genomesAndGenes_decarboxylaseGamma_KO_K23351
+genes <- as.vector(subset(df$gene_id, df$genome_id %in% decarboxylase_ABG_genome_IDs))
+write_lines(genes, "P1/geneIDs/filteredGeneIDs_forpHMM_decarboxylaseGamma_KO_K23351.txt")
+
+df <- genomesAndGenes_decarboxylaseDelta_KO_K23352
+genes <- as.vector(subset(df$gene_id, df$genome_id %in% decarboxylase_D_genome_IDs))
+write_lines(genes, "P1/geneIDs/filteredGeneIDs_forpHMM_decarboxylaseDelta_KO_K23352.txt")
+
+```

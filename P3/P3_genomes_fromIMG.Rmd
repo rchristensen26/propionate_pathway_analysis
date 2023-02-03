@@ -1,0 +1,107 @@
+---
+title: "P3_genomes_fromIMG"
+output: html_document
+---
+
+# make df for genes and strains from IMG exported df
+```{r}
+# # create df
+P3_df <- data.frame(matrix(ncol = 10, nrow = ((nrow(genomeIDs_fucO_EC_1_1_1_77)) + 
+                                               (nrow(genomeIDs_pduP_KO_K13922)) + 
+                                               (nrow(genomeIDs_pduC_KO_K01699)) + 
+                                               (nrow(genomeIDs_pduD_KO_K13919)) +
+                                               (nrow(genomeIDs_pduE_KO_K13920)) +
+                                                (nrow(genomeIDs_pduL_KO_K13923)) +
+                                                (nrow(genome_IDs_pduW_KO_K19697)))))
+colnames(P3_df) <- c("IMG_genome_ID", "genome_name", "fucO", "pduC", "pduD", "pduE", "pduL", "pduP", "pduW", "n_genes_present")
+# P3_df$IMG_genome_ID <- genome_IDs
+P3_df$IMG_genome_ID <- c(genomeIDs_fucO_EC_1_1_1_77$`Genome ID`, 
+                         genomeIDs_pduP_KO_K13922$`Genome ID`, 
+                         genomeIDs_pduC_KO_K01699$`Genome ID`, 
+                         genomeIDs_pduD_KO_K13919$`Genome ID`, 
+                         genomeIDs_pduE_KO_K13920$`Genome ID`,
+                         genomeIDs_pduL_KO_K13923$`Genome ID`,
+                         genome_IDs_pduW_KO_K19697$`Genome ID`)
+
+P3_df$genome_name <- c(genomeIDs_fucO_EC_1_1_1_77$`Genome Name`, 
+                         genomeIDs_pduP_KO_K13922$`Genome Name`, 
+                         genomeIDs_pduC_KO_K01699$`Genome Name`, 
+                         genomeIDs_pduD_KO_K13919$`Genome Name`, 
+                         genomeIDs_pduE_KO_K13920$`Genome Name`,
+                         genomeIDs_pduL_KO_K13923$`Genome Name`,
+                         genome_IDs_pduW_KO_K19697$`Genome Name`)
+
+P3_df[,c("fucO", "pduC", "pduD", "pduE", "pduL", "pduP", "pduW")] <- 0
+
+P3_df <- P3_df %>% distinct()
+
+P3_df$fucO[P3_df$IMG_genome_ID %in% genomeIDs_fucO_EC_1_1_1_77$`Genome ID`] <- 1
+nrow(subset(P3_df, fucO == 1))
+length(unique(genomeIDs_fucO_EC_1_1_1_77$`Genome ID`))
+
+P3_df$pduP[P3_df$IMG_genome_ID %in% genomeIDs_pduP_KO_K13922$`Genome ID`] <- 1
+nrow(subset(P3_df, pduP == 1))
+length(unique(genomeIDs_pduP_KO_K13922$`Genome ID`))
+
+P3_df$pduD[P3_df$IMG_genome_ID %in% genomeIDs_pduD_KO_K13919$`Genome ID`] <- 1
+nrow(subset(P3_df, pduD == 1))
+length(unique(genomeIDs_pduD_KO_K13919$`Genome ID`))
+
+P3_df$pduC[P3_df$IMG_genome_ID %in% genomeIDs_pduC_KO_K01699$`Genome ID`] <- 1
+nrow(subset(P3_df, pduC == 1))
+length(unique(genomeIDs_pduC_KO_K01699$`Genome ID`))
+
+P3_df$pduE[P3_df$IMG_genome_ID %in% genomeIDs_pduE_KO_K13920$`Genome ID`] <- 1
+nrow(subset(P3_df, pduE == 1))
+length(unique(genomeIDs_pduE_KO_K13920$`Genome ID`))
+
+P3_df$pduL[P3_df$IMG_genome_ID %in% genomeIDs_pduL_KO_K13923$`Genome ID`] <- 1
+nrow(subset(P3_df, pduL == 1))
+length(unique(genomeIDs_pduL_KO_K13923$`Genome ID`))
+
+P3_df$pduW[P3_df$IMG_genome_ID %in% genome_IDs_pduW_KO_K19697$`Genome ID`] <- 1
+nrow(subset(P3_df, pduW == 1))
+length(unique(genome_IDs_pduW_KO_K19697$`Genome ID`))
+
+
+P3_df$propanediol_dehydratase_any <- ifelse((P3_df$pduD | P3_df$pduC | P3_df$pduE) == 1, 
+                                        1, 0)
+
+P3_df$propanediol_dehydratase_all <- ifelse((P3_df$pduD & P3_df$pduC & P3_df$pduE) == 1, 
+                                        1, 0)
+
+P3_df$n_genes_present <- rowSums(P3_df[,c("fucO", "pduC", "pduD", "pduE", "pduL", "pduP", "pduW")])
+
+View(P3_df)
+```
+
+# P3 results
+```{r}
+table(P3_df$n_genes_present)
+
+paste("genomes with ALL genes: ",
+      nrow(subset(P3_df, n_genes_present == 7)))
+
+xtabs(~fucO+pduC+pduD+pduE+pduP+pduL+pduW, data=P3_df)
+```
+
+# model P3 strains
+```{r}
+# um ok. S. tymphimurium is the only strain recorded to have this pathway. But it checks out I guess -- it has all 7 genes.
+# hard to say which strains/gene sequences we should include, but the most conservative thing we could do is take strains with all 7 genes. And luckily there are over 4,000 strains that fit that mark.
+
+```
+
+# P3 genome ID filter for searching genes from IMG
+```{r}
+library(readr)
+
+df <- genomeAndGeneIDs_pduW
+output_file <- "geneIDs/filteredGeneIDs_forpHMM_pduW.txt"
+ 
+P3_genome_IDs <- as.vector(subset(P3_df$IMG_genome_ID, P3_df$n_genes_present == 7))
+
+genes <- as.vector(subset(df$gene_id, df$genome_id %in% P3_genome_IDs))
+write_lines(genes, output_file)
+
+```

@@ -1,0 +1,76 @@
+---
+title: "butyrate_hmmer_filter"
+output: html_document
+---
+
+# determine score threshold for LYSINE pathway genes based on 75% of lowest scoring model lysine genome
+```{r}
+model_lysine_species <- subset(model_butyrate_pathways$species, grepl("lysine", model_butyrate_pathways$proposed_pathway))
+# manual check of strain list to see which strain names correspond to the model_lysine_species list
+model_lysine_strains <- c("Clostridium_sticklandii", "Fusobacterium_nucleatum", "Porphyromonas_gingivalis", "Eubacterium_ramulus")
+
+model_lysine_df <- (subset(maxHitScoreDF_lysine, 
+                       grepl(model_lysine_strains[1], strain) | 
+                          grepl(model_lysine_strains[2], strain) |
+                         grepl(model_lysine_strains[3], strain) | 
+                         grepl(model_lysine_strains[4], strain)
+                       == TRUE))
+
+# lowest model score per gene
+slice(subset(model_lysine_df, model_lysine_df$gene == "kamA"), which.min(hit_score))
+slice(subset(model_lysine_df, model_lysine_df$gene == "kamD"), which.min(hit_score))
+slice(subset(model_lysine_df, model_lysine_df$gene == "kamE"), which.min(hit_score))
+slice(subset(model_lysine_df, model_lysine_df$gene == "kdd"), which.min(hit_score))
+slice(subset(model_lysine_df, model_lysine_df$gene == "kce"), which.min(hit_score))
+slice(subset(model_lysine_df, model_lysine_df$gene == "kal"), which.min(hit_score))
+slice(subset(model_lysine_df, model_lysine_df$gene == "bcd"), which.min(hit_score))
+slice(subset(model_lysine_df, model_lysine_df$gene == "atoA"), which.min(hit_score))
+slice(subset(model_lysine_df, model_lysine_df$gene == "atoD"), which.min(hit_score))
+
+# mininum model hit scores per gene
+# kamA_min_score = 
+# kamD_min_score = 
+# kamE_min_score = 
+# kdd_min_score = 
+# kce_min_score = 
+# kal_min_score = 
+# bcd_min_score = 
+# atoA_min_score = 
+# atoD_min_score = 
+```
+
+# determine score threshold for ACETYLCOA pathway genes based on 75% of lowest scoring model lysine genome
+```{r}
+model_acetylCoA_species <- subset(model_butyrate_pathways$species, grepl("acetylCoA", model_butyrate_pathways$proposed_pathway))
+# manual check of strain list to see which strain names correspond to the model_acetylCoA_species list
+model_acetylCoA_strains <- c("Anaerostipes-caccae-DSM-14662-MAF-2", "Butyricicoccus_pullicaecorum", "Clostridium_butyricum", "Coprococcus_catus", "Eubacterium_limosum", "Eubacterium_rectale", "Megasphaera-elsdenii-14-14-MAF-2", "Roseburia_hominis", "Faecalibacterium_prausnitzii", "Anaerostipes_hadrus", "Anaerotruncus-colihominis-DSM-17241-MAF-2", )
+
+model_acetylCoA_df <- (subset(maxHitScoreDF_acetylCoA, 
+                       grepl(model_acetylCoA_strains[1], strain) | 
+                          grepl(model_acetylCoA_strains[2], strain) |
+                         grepl(model_acetylCoA_strains[3], strain) | 
+                         grepl(model_acetylCoA_strains[4], strain)
+                       == TRUE))
+
+# lowest model score per gene
+slice(subset(model_acetylCoA_df, model_acetylCoA_df$gene == "kamA"), which.min(hit_score))
+slice(subset(model_acetylCoA_df, model_acetylCoA_df$gene == "kamD"), which.min(hit_score))
+slice(subset(model_acetylCoA_df, model_acetylCoA_df$gene == "kamE"), which.min(hit_score))
+slice(subset(model_acetylCoA_df, model_acetylCoA_df$gene == "kdd"), which.min(hit_score))
+slice(subset(model_acetylCoA_df, model_acetylCoA_df$gene == "kce"), which.min(hit_score))
+slice(subset(model_acetylCoA_df, model_acetylCoA_df$gene == "kal"), which.min(hit_score))
+slice(subset(model_acetylCoA_df, model_acetylCoA_df$gene == "bcd"), which.min(hit_score))
+slice(subset(model_acetylCoA_df, model_acetylCoA_df$gene == "atoA"), which.min(hit_score))
+slice(subset(model_acetylCoA_df, model_acetylCoA_df$gene == "atoD"), which.min(hit_score))
+
+# mininum model hit scores per gene
+# kamA_min_score = 
+# kamD_min_score = 
+# kamE_min_score = 
+# kdd_min_score = 
+# kce_min_score = 
+# kal_min_score = 
+# bcd_min_score = 
+# atoA_min_score = 
+# atoD_min_score = 
+```

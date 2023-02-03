@@ -1,0 +1,8 @@
+Domain	Status	Genome ID	Genome Name	
+Bacteria	Permanent Draft	2582581271	Anaerotignum propionicum X2, DSM 1682	
+Bacteria	Finished	2687453271	Comamonas testosteroni P19	
+Bacteria	Permanent Draft	2671180946	Streptacidiphilus neutrinimicus NBRC 100921	
+Bacteria	Permanent Draft	648276631	Comamonas testosteroni S44	
+Bacteria	Finished	2896947763	Streptomyces sp. SUK 48	
+Bacteria	Finished	2808606817	Anaerotignum propionicum X2, DSM 1682	
+Bacteria	Permanent Draft	2882234885	Pseudoflavonifractor sp. Marseille-P3106	

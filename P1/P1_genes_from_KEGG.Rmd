@@ -1,0 +1,43 @@
+---
+title: "P1_genes_from_KEGG"
+output: html_document
+---
+
+# OK so turns out, searching IMG from both EC numbers and KEGG numbers in an extremely inaccurate way to search for specific genes, because they are very inaccurately annotated. Example1 : a KO number (K23352) search for the delta subunit of the methylmalonyl-CoA decarboxylase (mmdD) gives many results for genes annotated as the gamma subunit. Example 2: an EC number (5.1.99.1) search for the methylmalonyl-CoA mutase results in genes annotated as either large or small unit of a heterodimeric version of the enzyme, or a homodimeric version of the enzyme. Ugh. This resulted in inaccurate MSAs (and subsequently, profile HMMs) upon visual inspection for mmdD and mut/A/B. 
+# Thus, I'm going to try collecting genes by KO number from KEGG, finding thethe KEGG organism tag for the each KEGG gene under that KO number, and verify the number of KEGG gene hits for each IMG genome ID to filter out which genes to use to build the profile HMM.
+# Workflow:
+# KO number --> list of KEGG genes --> list of KEGG organism codes --> verify number of pathway KEGG genes annotated under each organism code --> list of organism codes and KEGG genes to build profile HMM --> profile HMM
+# ...and finally: visualize MSA on Geneious! >:)
+
+# doanload genes, sequences, and organism IDs from 
+```{r}
+# library(KEGGREST)
+# library(seqinr)
+# library(Dict)
+
+gene_dict <- Dict$new("mutase" = "K01847",
+                      "decarboxylase_delta" = "K23352")
+
+gene <- "decarboxylase_delta"
+
+KO_ID <- gene_dict$get(gene)
+geneList <- keggFind("genes", KO_ID)
+
+organisms <- c()
+names <- c()
+
+for (geneID in names(geneList)) {
+  names <- append(names, as.character(keggGet(geneID)[[1]]$NAME))
+  organisms <- append(organisms, as.character(keggGet(geneID)[[1]]$ORGANISM))
+}
+
+gene_df <- data.frame(names, organisms)
+gene_df$gene <- gene
+gene_df$ko_id <- gene_dict$get(gene)
+
+KEGG_organisms_decarboxylaseDelta <- gene_df
+View(KEGG_organisms_decarboxylaseDelta)
+# 
+# write.fasta(sequences = as.list(sequences), names = names, file.out = "lcd_K22207_genes.faa")
+
+```

@@ -1,0 +1,163 @@
+job	filter	gene_id	description	genome_id
+lcdB_genomes	KO:K20627	2684183654	benzoyl-CoA reductase, subunit C	2681813453	
+lcdB_genomes	KO:K20627	2583141550	benzoyl-CoA reductase, subunit C	2582580732	
+lcdB_genomes	KO:K20627	2810848293	bcr-type benzoyl-CoA reductase subunit C	2808606817	
+lcdB_genomes	KO:K20627	2831285345	bcr-type benzoyl-CoA reductase subunit C	2831283689	
+lcdB_genomes	KO:K20627	2539299781	benzoyl-CoA reductase, subunit C	2537561963	
+lcdB_genomes	KO:K20627	2793576518	bcr-type benzoyl-CoA reductase subunit C	2791355325	
+lcdB_genomes	KO:K20627	2675314208	benzoyl-CoA reductase, subunit C	2671181058	
+lcdB_genomes	KO:K20627	2823461648	bcr-type benzoyl-CoA reductase subunit C	2823460443	
+lcdB_genomes	KO:K20627	2524472720	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2524023211	
+lcdB_genomes	KO:K20627	2658324833	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2657245163	
+lcdB_genomes	KO:K20627	650810273	R-phenyllactate dehydratase small subunit	650716025	
+lcdB_genomes	KO:K20627	2623239974	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2622736521	
+lcdB_genomes	KO:K20627	2675029602	benzoyl-CoA reductase, subunit C	2671180990	
+lcdB_genomes	KO:K20627	2847455592	bcr-type benzoyl-CoA reductase subunit C	2847453853	
+lcdB_genomes	KO:K20627	2509272705	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2508501136	
+lcdB_genomes	KO:K20627	2517591010	benzoyl-CoA reductase, subunit C	2517572005	
+lcdB_genomes	KO:K20627	2725913513	benzoyl-CoA reductase, subunit C	2724679219	
+lcdB_genomes	KO:K20627	2847457960	bcr-type benzoyl-CoA reductase subunit C	2847455967	
+lcdB_genomes	KO:K20627	2558443795	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2558309039	
+lcdB_genomes	KO:K20627	2846305105	bcr-type benzoyl-CoA reductase subunit C	2846301910	
+lcdB_genomes	KO:K20627	2663254032	benzoyl-CoA reductase, subunit C	2660238657	
+lcdB_genomes	KO:K20627	2911236267	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2911234957	
+lcdB_genomes	KO:K20627	2651649959	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2648501880	
+lcdB_genomes	KO:K20627	2587773000	benzoyl-CoA reductase, subunit C	2585428067	
+lcdB_genomes	KO:K20627	2843667799	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2843666722	
+lcdB_genomes	KO:K20627	2533931960	benzoyl-CoA reductase, subunit C	2531839544	
+lcdB_genomes	KO:K20627	2563303448	benzoyl-CoA reductase, subunit C	2562617180	
+lcdB_genomes	KO:K20627	2694240602	benzoyl-CoA reductase, subunit C	2693429691	
+lcdB_genomes	KO:K20627	2834349863	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2834348801	
+lcdB_genomes	KO:K20627	2895014798	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2895013730	
+lcdB_genomes	KO:K20627	2901395022	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2901394022	
+lcdB_genomes	KO:K20627	2588078132	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2585428150	
+lcdB_genomes	KO:K20627	2599139265	benzoyl-CoA reductase, subunit C	2597490366	
+lcdB_genomes	KO:K20627	2579253775	benzoyl-CoA reductase, subunit C	2576861697	
+lcdB_genomes	KO:K20627	2601473272	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2600255236	
+lcdB_genomes	KO:K20627	2637679965	benzoyl-CoA reductase, subunit C	2636415709	
+lcdB_genomes	KO:K20627	2512447412	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2512047062	
+lcdB_genomes	KO:K20627	2823500026	bcr-type benzoyl-CoA reductase subunit C	2823499335	
+lcdB_genomes	KO:K20627	2775975042	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2775506827	
+lcdB_genomes	KO:K20627	2847466724	bcr-type benzoyl-CoA reductase subunit C	2847466697	
+lcdB_genomes	KO:K20627	2725924603	benzoyl-CoA reductase, subunit C	2724679224	
+lcdB_genomes	KO:K20627	2672961529	benzoyl-CoA reductase, subunit C	2671180483	
+lcdB_genomes	KO:K20627	2696957514	benzoyl-CoA reductase, subunit C	2695420659	
+lcdB_genomes	KO:K20627	2849015020	bcr-type benzoyl-CoA reductase subunit C	2849014993	
+lcdB_genomes	KO:K20627	2837630762	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2837629979	
+lcdB_genomes	KO:K20627	2800778046	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2799112863	
+lcdB_genomes	KO:K20627	2579274589	benzoyl-CoA reductase, subunit C	2576861702	
+lcdB_genomes	KO:K20627	2579294644	benzoyl-CoA reductase, subunit C	2576861708	
+lcdB_genomes	KO:K20627	2841203513	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2841202678	
+lcdB_genomes	KO:K20627	2661083400	benzoyl-CoA reductase, subunit C	2660238114	
+lcdB_genomes	KO:K20627	647375250	putative R-phenyllactate dehydratase, small subunit	647000271	
+lcdB_genomes	KO:K20627	2579237129	benzoyl-CoA reductase, subunit C	2576861692	
+lcdB_genomes	KO:K20627	645587856	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	645058817	
+lcdB_genomes	KO:K20627	2843101714	bcr-type benzoyl-CoA reductase subunit C	2843100240	
+lcdB_genomes	KO:K20627	2668726012	benzoyl-CoA reductase, subunit C	2667527596	
+lcdB_genomes	KO:K20627	2519044890	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2518645616	
+lcdB_genomes	KO:K20627	2800680592	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2799112821	
+lcdB_genomes	KO:K20627	2588078961	benzoyl-CoA reductase, subunit C	2585428150	
+lcdB_genomes	KO:K20627	2579286366	benzoyl-CoA reductase, subunit C	2576861706	
+lcdB_genomes	KO:K20627	2789942790	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2788500228	
+lcdB_genomes	KO:K20627	2805701865	bcr-type benzoyl-CoA reductase subunit C	2802429544	
+lcdB_genomes	KO:K20627	2692757197	benzoyl-CoA reductase, subunit C	2690316223	
+lcdB_genomes	KO:K20627	2514406407	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2513237300	
+lcdB_genomes	KO:K20627	2725931118	benzoyl-CoA reductase, subunit C	2724679227	
+lcdB_genomes	KO:K20627	2641416937	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2639762957	
+lcdB_genomes	KO:K20627	2546752887	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2545824774	
+lcdB_genomes	KO:K20627	2547699226	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2547132182	
+lcdB_genomes	KO:K20627	2632052049	benzoyl-CoA reductase, subunit C	2630968502	
+lcdB_genomes	KO:K20627	2882075918	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2882072473	
+lcdB_genomes	KO:K20627	2653262905	benzoyl-CoA reductase, subunit C	2651869904	
+lcdB_genomes	KO:K20627	2795721961	bcr-type benzoyl-CoA reductase subunit C	2795385452	
+lcdB_genomes	KO:K20627	2725922786	benzoyl-CoA reductase, subunit C	2724679223	
+lcdB_genomes	KO:K20627	2677944684	benzoyl-CoA reductase, subunit C	2675903432	
+lcdB_genomes	KO:K20627	2725903314	benzoyl-CoA reductase, subunit C	2724679215	
+lcdB_genomes	KO:K20627	2579281037	benzoyl-CoA reductase, subunit C	2576861704	
+lcdB_genomes	KO:K20627	2823505334	bcr-type benzoyl-CoA reductase subunit C	2823504971	
+lcdB_genomes	KO:K20627	2511555778	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2511231071	
+lcdB_genomes	KO:K20627	2872340172	bcr-type benzoyl-CoA reductase subunit C	2872337328	
+lcdB_genomes	KO:K20627	2729513057	benzoyl-CoA reductase, subunit C	2728369180	
+lcdB_genomes	KO:K20627	2628734876	benzoyl-CoA reductase, subunit C	2627853734	
+lcdB_genomes	KO:K20627	2548150417	benzoyl-CoA reductase, subunit C	2547132285	
+lcdB_genomes	KO:K20627	2693098430	benzoyl-CoA reductase, subunit C	2690316301	
+lcdB_genomes	KO:K20627	639732463	2-hydroxyglutaryl-CoA dehydratase beta subunit (EC 4.2.1.-)	639633021	
+lcdB_genomes	KO:K20627	2799765450	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2799112414	
+lcdB_genomes	KO:K20627	2585120943	benzoyl-CoA reductase, subunit C	2582581271	
+lcdB_genomes	KO:K20627	2725918507	benzoyl-CoA reductase, subunit C	2724679222	
+lcdB_genomes	KO:K20627	2831281628	bcr-type benzoyl-CoA reductase subunit C	2831281560	
+lcdB_genomes	KO:K20627	2900565631	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2900564547	
+lcdB_genomes	KO:K20627	2725909453	benzoyl-CoA reductase, subunit C	2724679217	
+lcdB_genomes	KO:K20627	2628046108	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2627853554	
+lcdB_genomes	KO:K20627	2653078347	benzoyl-CoA reductase, subunit C	2651869844	
+lcdB_genomes	KO:K20627	2840848550	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2840847127	
+lcdB_genomes	KO:K20627	2595358037	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2593339209	
+lcdB_genomes	KO:K20627	2520495794	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2519899647	
+lcdB_genomes	KO:K20627	2677141372	benzoyl-CoA reductase, subunit C	2675903225	
+lcdB_genomes	KO:K20627	2772172636	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2770939656	
+lcdB_genomes	KO:K20627	2725933334	benzoyl-CoA reductase, subunit C	2724679228	
+lcdB_genomes	KO:K20627	2725926815	benzoyl-CoA reductase, subunit C	2724679225	
+lcdB_genomes	KO:K20627	2800709770	bcr-type benzoyl-CoA reductase subunit C	2799112834	
+lcdB_genomes	KO:K20627	2695791479	benzoyl-CoA reductase, subunit C	2695420390	
+lcdB_genomes	KO:K20627	2673194464	benzoyl-CoA reductase, subunit C	2671180539	
+lcdB_genomes	KO:K20627	2776383348	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2775506928	
+lcdB_genomes	KO:K20627	2834461592	bcr-type benzoyl-CoA reductase subunit C	2834457792	
+lcdB_genomes	KO:K20627	2834101789	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2834101283	
+lcdB_genomes	KO:K20627	2661308471	benzoyl-CoA reductase, subunit C	2660238174	
+lcdB_genomes	KO:K20627	2840806936	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2840805201	
+lcdB_genomes	KO:K20627	651620125	putative R-phenyllactate dehydratase, small subunit	651324070	
+lcdB_genomes	KO:K20627	2698604316	benzoyl-CoA reductase, subunit C	2698536316	
+lcdB_genomes	KO:K20627	2561493341	benzoyl-CoA reductase, subunit C	2558860989	
+lcdB_genomes	KO:K20627	2915084771	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2915083939	
+lcdB_genomes	KO:K20627	2508509204	benzoyl-CoA reductase, subunit C	2508501001	
+lcdB_genomes	KO:K20627	2565690276	benzoyl-CoA reductase, subunit C	2563367167	
+lcdB_genomes	KO:K20627	2807287381	bcr-type benzoyl-CoA reductase subunit C	2806310702	
+lcdB_genomes	KO:K20627	650536886	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	650377925	
+lcdB_genomes	KO:K20627	2510243216	benzoyl-CoA reductase, subunit C	2510065044	
+lcdB_genomes	KO:K20627	2914415310	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2914414013	
+lcdB_genomes	KO:K20627	2621082230	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2619619242	
+lcdB_genomes	KO:K20627	2633664646	benzoyl-CoA reductase, subunit C	2630968892	
+lcdB_genomes	KO:K20627	2872357751	bcr-type benzoyl-CoA reductase subunit C	2872355237	
+lcdB_genomes	KO:K20627	2523528411	benzoyl-CoA reductase, subunit C	2523231085	
+lcdB_genomes	KO:K20627	2645961501	benzoyl-CoA reductase, subunit C	2645727554	
+lcdB_genomes	KO:K20627	2843665498	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2843664229	
+lcdB_genomes	KO:K20627	650536508	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	650377925	
+lcdB_genomes	KO:K20627	2913510111	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2913508488	
+lcdB_genomes	KO:K20627	2894993415	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2894992385	
+lcdB_genomes	KO:K20627	2511485855	benzoyl-CoA reductase, subunit C	2511231048	
+lcdB_genomes	KO:K20627	2859123819	bcr-type benzoyl-CoA reductase subunit C	2859123070	
+lcdB_genomes	KO:K20627	2672631732	benzoyl-CoA reductase, subunit C	2671180403	
+lcdB_genomes	KO:K20627	2725907084	benzoyl-CoA reductase, subunit C	2724679216	
+lcdB_genomes	KO:K20627	2790895614	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2788500499	
+lcdB_genomes	KO:K20627	2588243839	benzoyl-CoA reductase, subunit C	2585428190	
+lcdB_genomes	KO:K20627	2514407800	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2513237301	
+lcdB_genomes	KO:K20627	2823463870	bcr-type benzoyl-CoA reductase subunit C	2823463034	
+lcdB_genomes	KO:K20627	2917530429	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2917528990	
+lcdB_genomes	KO:K20627	642090206	(R)-2-hydroxyglutaryl-CoA dehydratase subunit beta	641736147	
+lcdB_genomes	KO:K20627	2804928397	bcr-type benzoyl-CoA reductase subunit C	2802429311	
+lcdB_genomes	KO:K20627	2875134717	bcr-type benzoyl-CoA reductase subunit C	2875133057	
+lcdB_genomes	KO:K20627	2834446627	bcr-type benzoyl-CoA reductase subunit C	2834443690	
+lcdB_genomes	KO:K20627	2872347354	bcr-type benzoyl-CoA reductase subunit C	2872344946	
+lcdB_genomes	KO:K20627	2841659329	bcr-type benzoyl-CoA reductase subunit C	2841657861	
+lcdB_genomes	KO:K20627	2914416474	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2914415831	
+lcdB_genomes	KO:K20627	2725917788	benzoyl-CoA reductase, subunit C	2724679221	
+lcdB_genomes	KO:K20627	2684181469	benzoyl-CoA reductase, subunit C	2681813452	
+lcdB_genomes	KO:K20627	2589025625	benzoyl-CoA reductase, subunit C	2588253866	
+lcdB_genomes	KO:K20627	2559701636	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2558860389	
+lcdB_genomes	KO:K20627	2661382068	benzoyl-CoA reductase, subunit C	2660238194	
+lcdB_genomes	KO:K20627	2823503296	bcr-type benzoyl-CoA reductase subunit C	2823502015	
+lcdB_genomes	KO:K20627	2840025959	bcr-type benzoyl-CoA reductase subunit C	2840024540	
+lcdB_genomes	KO:K20627	2630600899	benzoyl-CoA reductase, subunit C	2627854196	
+lcdB_genomes	KO:K20627	2860393364	bcr-type benzoyl-CoA reductase subunit C	2860392897	
+lcdB_genomes	KO:K20627	2583915587	benzoyl-CoA reductase, subunit C	2582580916	
+lcdB_genomes	KO:K20627	2775973676	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2775506826	
+lcdB_genomes	KO:K20627	2823466133	bcr-type benzoyl-CoA reductase subunit C	2823466112	
+lcdB_genomes	KO:K20627	2628439439	benzoyl-CoA reductase, subunit C	2627853664	
+lcdB_genomes	KO:K20627	2846304697	bcr-type benzoyl-CoA reductase subunit C	2846301910	
+lcdB_genomes	KO:K20627	2546428870	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2545824689	
+lcdB_genomes	KO:K20627	2820951682	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2820950349	
+lcdB_genomes	KO:K20627	2638611621	Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB	2636415931	
+lcdB_genomes	KO:K20627	2661221712	benzoyl-CoA reductase, subunit C	2660238149	
+lcdB_genomes	KO:K20627	2608658981	benzoyl-CoA reductase, subunit C	2608642105	
+lcdB_genomes	KO:K20627	2757488004	benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit BcrC/BadD/HgdB	2757320373	
+lcdB_genomes	KO:K20627	2635451465	benzoyl-CoA reductase, subunit C	2634166379	

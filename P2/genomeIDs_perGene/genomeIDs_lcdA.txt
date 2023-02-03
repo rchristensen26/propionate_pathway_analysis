@@ -1,0 +1,170 @@
+Domain	Status	Genome ID	Genome Name	
+Bacteria	Permanent Draft	2511231048	Desulfosporosinus sp. Sv. Desulfo HCS1	
+Bacteria	Permanent Draft	2513237330	Fusobacterium necrophorum funduliforme 1_1_36S	
+Bacteria	Permanent Draft	2517572005	Clostridium sp. ASF356	
+Bacteria	Permanent Draft	2519899647	Clostridium sporosphaeroides DSM 1294	
+Bacteria	Permanent Draft	2524023211	Clostridium sp. MSTE9	
+Bacteria	Permanent Draft	2563367167	Clostridium sp. ASF356	
+Bacteria	Permanent Draft	2576861697	Fusobacterium necrophorum BL	
+Bacteria	Permanent Draft	2576861706	Fusobacterium necrophorum BFTR-2	
+Bacteria	Permanent Draft	2582580732	Desulfitobacterium chlororespirans DSM 11544	
+Bacteria	Permanent Draft	2582581271	Anaerotignum propionicum X2, DSM 1682	
+Bacteria	Permanent Draft	2585428190	Anaerotignum lactatifermentans DSM 14214	
+Bacteria	Permanent Draft	2588253866	Fusobacterium necrophorum funduliforme B35	
+Bacteria	Permanent Draft	2630968502	Clostridium botulinum D CCUG 7971	
+Bacteria	Permanent Draft	2648501880	Clostridia bacterium UC5.1-1D10	
+Bacteria	Permanent Draft	2660238174	Clostridium botulinum 50867-CD	
+Bacteria	Permanent Draft	2660238657	Clostridium botulinum 47295-DC	
+Bacteria	Permanent Draft	2724679218	Fusobacterium necrophorum funduliforme LS_1272	
+Bacteria	Permanent Draft	2724679219	Fusobacterium necrophorum funduliforme LS_1280	
+Bacteria	Permanent Draft	2859123070	Fusobacterium necrophorum necrophorum NCTC 13726	
+Bacteria	Finished	2860392897	Clostridium botulinum sv. C/D BKT12695	
+Bacteria	Permanent Draft	2911234957	Megasphaera sp. SW808	
+Bacteria	Permanent Draft	2915083939	Megasphaera genomosp. type_2 KA00229	
+Bacteria	Permanent Draft	2545824774	Megasphaera sp. BL7	
+Bacteria	Permanent Draft	2547132285	Clostridium botulinum BKT028387	
+Bacteria	Permanent Draft	2576861708	Fusobacterium necrophorum DAB	
+Bacteria	Permanent Draft	2585428067	Desulfosporosinus lacus DSM 15449	
+Bacteria	Permanent Draft	2619619091	Desulfococcus multivorans DSM 2059	
+Bacteria	Permanent Draft	2627854196	Clostridium novyi A 4570	
+Bacteria	Permanent Draft	2671180539	Clostridium botulinum 12LNRI-CD	
+Bacteria	Permanent Draft	2675903225	Desulfosporosinus hippei DSM 8344	
+Bacteria	Permanent Draft	2690316301	Clostridium botulinum 51714-DC	
+Bacteria	Permanent Draft	2728369180	Anaerotignum neopropionicum DSM 3847	
+Bacteria	Finished	2802429311	Clostridium sp. K25	
+Bacteria	Permanent Draft	2820010479	Unclassified Spirochaetes Th196P4bin55	
+Bacteria	Permanent Draft	2823460443	Clostridium novyi sv. A GD211209	
+Bacteria	Permanent Draft	2829086156	Desulfobacteraceae bacterium DeMMO3_16	
+Bacteria	Finished	2843666722	Megasphaera elsdenii ATCC 25940	
+Bacteria	Permanent Draft	2861203348	Desulfoprunum benzoelyticum DSM 28570	
+Bacteria	Permanent Draft	641736147	Clostridium botulinum type C - Eklund	
+Bacteria	Permanent Draft	2502422304	Desulfosarcina variabilis Montpellier	
+Bacteria	Finished	2508501136	Desulfosporosinus orientis Singapore I, DSM 765	
+Bacteria	Permanent Draft	2562617180	Fusobacterium necrophorum D12	
+Bacteria	Permanent Draft	2568526001	Desulfococcus multivorans DSM 2059	
+Bacteria	Permanent Draft	2600255236	Peptostreptococcaceae bacterium oral taxon 113 W5053	
+Bacteria	Permanent Draft	2636415709	Clostridium haemolyticum NCTC 8350	
+Bacteria	Permanent Draft	2651869844	Desulfosporosinus acididurans M1	
+Bacteria	Permanent Draft	2651869904	Anaerotignum neopropionicum X4	
+Bacteria	Permanent Draft	2660238194	Clostridium botulinum 12LNR10-CD	
+Bacteria	Permanent Draft	2671181058	Clostridium botulinum 48212-CD	
+Bacteria	Permanent Draft	2695420390	Clostridium botulinum 69285-CD	
+Bacteria	Permanent Draft	2724679214	Fusobacterium necrophorum funduliforme LS_1197	
+Bacteria	Permanent Draft	2724679228	Fusobacterium necrophorum funduliforme F1365	
+Bacteria	Permanent Draft	2757320373	Megasphaera elsdenii NCIMB 702410	
+Bacteria	Permanent Draft	2770939333	unclassified Deltaproteobacteria Obs2_genome_004 Obs2_genome_004	
+Bacteria	Permanent Draft	2775506928	Megasphaera sp. MJR9396C	
+Bacteria	Permanent Draft	2811994937	unclassified Spirochaetales BinDG78mb16	
+Bacteria	Permanent Draft	2831283689	Fusobacterium necrophorum KG35	
+Bacteria	Permanent Draft	2840024540	Megasphaera cerevisiae NSB1	
+Bacteria	Finished	2841657861	Fusobacterium necrophorum FDAARGOS_565	
+Bacteria	Permanent Draft	645058817	Clostridium botulinum D 1873	
+Bacteria	Finished	650716025	Clostridium botulinum sv. Type C/D BKT015925	
+Bacteria	Permanent Draft	2512047062	Megasphaera sp. UPII 135-E	
+Bacteria	Permanent Draft	2513237301	Peptoniphilus indolicus sv. Type C	
+Bacteria	Permanent Draft	2518645616	Megasphaera cerevisiae DSM 20462	
+Bacteria	Permanent Draft	2558860389	Megasphaera vaginalis BV3C16-1	
+Bacteria	Permanent Draft	2608642105	Sarcina sp. DSM 11001	
+Bacteria	Permanent Draft	2619619242	Clostridium jeddahense JCD	
+Bacteria	Permanent Draft	2630968892	Fusobacterium necrophorum funduliforme B35	
+Bacteria	Permanent Draft	2636415931	Megasphaera cerevisiae DSM 20462	
+Bacteria	Permanent Draft	2667527596	Clostridium botulinum Cbot-CD_58272	
+Bacteria	Permanent Draft	2693429691	Clostridium botulinum 49511-CD	
+Bacteria	Permanent Draft	2703718901	Desulfosarcina cetonica JCM 12296	
+Bacteria	Permanent Draft	2724679215	Fusobacterium necrophorum funduliforme LS_1260	
+Bacteria	Permanent Draft	2724679217	Fusobacterium necrophorum funduliforme LS_1266	
+Bacteria	Permanent Draft	2724679221	Fusobacterium necrophorum funduliforme F1250	
+Bacteria	Permanent Draft	2724679227	Fusobacterium necrophorum funduliforme F1353	
+Bacteria	Permanent Draft	2831281560	Fusobacterium necrophorum KG34	
+Bacteria	Permanent Draft	2834348801	Coprococcus catus AF45-17	
+Bacteria	Permanent Draft	2834443690	Desulfosporosinus sp. FKB	
+Bacteria	Permanent Draft	2837629979	Megasphaera elsdenii 24-50	
+Bacteria	Finished	2847455967	Fusobacterium necrophorum funduliforme F1260	
+Bacteria	Finished	2849014993	Fusobacterium necrophorum funduliforme 1_1_36S	
+Bacteria	Finished	639633021	Clostridium novyi NT	
+Bacteria	Permanent Draft	2508501001	Desulfosporosinus youngiae JW/YJL-B18, DSM 17734	
+Bacteria	Permanent Draft	2547132182	Megasphaera massiliensis NP3	
+Bacteria	Permanent Draft	2558860989	Fusobacterium necrophorum HUN048	
+Bacteria	Permanent Draft	2576861692	Fusobacterium necrophorum DJ-1	
+Bacteria	Permanent Draft	2576861704	Fusobacterium necrophorum DJ-2	
+Bacteria	Permanent Draft	2597490366	Fusobacterium necrophorum ATCC 25286	
+Bacteria	Permanent Draft	2622736521	Clostridium homopropionicum DSM 5847	
+Bacteria	Permanent Draft	2627853554	Megasphaera elsdenii J1	
+Bacteria	Permanent Draft	2681813453	Fusobacterium necrophorum funduliforme LS_1291	
+Bacteria	Permanent Draft	2690316223	Clostridium botulinum Cbot-CD_29401	
+Bacteria	Permanent Draft	2708742752	candidate division Zixibacteria bacterium RBG_16_53_22	
+Bacteria	Permanent Draft	2724679222	Fusobacterium necrophorum funduliforme F1285	
+Bacteria	Permanent Draft	2724679224	Fusobacterium necrophorum funduliforme F1314	
+Bacteria	Permanent Draft	2724679225	Fusobacterium necrophorum funduliforme F1330	
+Bacteria	Permanent Draft	2791355325	Clostridium massiliodielmoense MT26	
+Bacteria	Permanent Draft	2795385452	Frisingicoccus caecimuris DSM 28559	
+Bacteria	Finished	2808606817	Anaerotignum propionicum X2, DSM 1682	
+Bacteria	Permanent Draft	2834457792	Desulfosporosinus sp. FKA	
+Bacteria	Finished	2872344946	Clostridium botulinum V891	
+Bacteria	Permanent Draft	2894992385	Megasphaera sp. BIOML-A2	
+Bacteria	Permanent Draft	2901394022	Pelorhabdus rhamnosivorans gen. nov., sp. nov. BoRhaA	
+Bacteria	Permanent Draft	2914415831	Veillonellaceae bacterium M1-70	
+Bacteria	Permanent Draft	2917528990	Veillonellaceae bacterium M2-4	
+Bacteria	Permanent Draft	647000271	Megasphaera genomosp. type_1 28L	
+Bacteria	Finished	650377925	Coprococcus catus GD/7	
+Bacteria	Finished	2510065044	Desulfosporosinus meridiei S10, DSM 13257	
+Bacteria	Permanent Draft	2531839544	Fusobacterium necrophorum Fnf1007	
+Bacteria	Permanent Draft	2576861702	Fusobacterium necrophorum BFTR-1	
+Bacteria	Finished	2639762957	Megasphaera elsdenii 14-14	
+Bacteria	Permanent Draft	2681813452	Fusobacterium necrophorum funduliforme LS_1264	
+Bacteria	Permanent Draft	2695420659	Clostridium botulinum 12LNR13-CD	
+Bacteria	Permanent Draft	2724679226	Fusobacterium necrophorum funduliforme F1351	
+Bacteria	Permanent Draft	2775506826	Veillonellaceae bacterium DNF00751	
+Bacteria	Permanent Draft	2799112834	Lachnospiraceae bacterium RUG710	
+Bacteria	Finished	2806310702	Clostridium haemolyticum NCTC 9693	
+Bacteria	Permanent Draft	2820593525	Unclassified Firmicutes Emb289P1bin7	
+Bacteria	Finished	2823463034	Clostridium novyi sv. B NCTC 9691	
+Bacteria	Finished	2823466112	Clostridium novyi sv. A BKT29909	
+Bacteria	Finished	2823499335	Clostridium novyi sv. A 4540	
+Bacteria	Finished	2823502015	Clostridium novyi sv. B ATCC 27606	
+Bacteria	Permanent Draft	2843100240	Anaerotignum faecicola KCTC 15736	
+Bacteria	Permanent Draft	2882072473	Intestinimonas timonensis GD4	
+Bacteria	Permanent Draft	2893482262	Unclassified Marinimicrobia bacterium S6_FULL_No.1_2.3_96	
+Bacteria	Permanent Draft	2895013730	Megasphaera sp. BIOML-A1	
+Bacteria	Permanent Draft	2913508488	Peptoniphilus stercorisuis DSM 27563	
+Bacteria	Permanent Draft	2558309039	Megasphaera elsdenii T81	
+Bacteria	Permanent Draft	2582580916	Fusobacterium nucleatum W1481	
+Bacteria	Permanent Draft	2585428150	Dethiosulfatibacter aminovorans DSM 17477	
+Bacteria	Permanent Draft	2593339209	Megasphaera elsdenii YE34	
+Bacteria	Permanent Draft	2645727554	Clostridium homopropionicum DSM 5847	
+Bacteria	Permanent Draft	2660238114	Clostridium botulinum 58752-CD	
+Bacteria	Permanent Draft	2671180483	Clostridium botulinum 71840-CD	
+Bacteria	Permanent Draft	2671180990	Clostridium botulinum LNC5-DC	
+Bacteria	Permanent Draft	2698536316	Clostridium botulinum 55741-CD	
+Bacteria	Permanent Draft	2708742775	Deltaproteobacteria bacterium RBG_16_54_11	
+Bacteria	Permanent Draft	2724679216	Fusobacterium necrophorum funduliforme LS_1195	
+Bacteria	Permanent Draft	2775506827	Megasphaera hutchinsoni KA00182	
+Bacteria	Permanent Draft	2788500228	Tyzzerella sp. An114	
+Bacteria	Permanent Draft	2802429544	Anaerotignum lactatifermentans An75	
+Bacteria	Finished	2823504971	Clostridium novyi sv. A NCTC 538	
+Bacteria	Permanent Draft	2834101283	Megasphaera sp. ASD88	
+Bacteria	Permanent Draft	2840805201	Megasphaera sp. DISK 18	
+Bacteria	Permanent Draft	2840847127	Peptoniphilus indolicus NCTC 11088	
+Bacteria	Finished	2841202678	Megasphaera stantonii AJH120	
+Bacteria	Finished	2843664229	Megasphaera elsdenii NCIMB702410	
+Bacteria	Finished	2847466697	Fusobacterium necrophorum ATCC 25286	
+Bacteria	Finished	2872355237	Clostridium botulinum sv. C/D BKT75002	
+Bacteria	Finished	2875133057	Clostridium novyi 150557	
+Bacteria	Permanent Draft	651324070	Megasphaera sp. UPII 199-6	
+Bacteria	Permanent Draft	2511231071	Megasphaera elsdenii DSM 20460	
+Bacteria	Permanent Draft	2537561963	Fusobacterium necrophorum funduliforme ATCC 51357	
+Bacteria	Permanent Draft	2545824689	Megasphaera sp. NM10	
+Bacteria	Permanent Draft	2627853664	Clostridium novyi A 4552	
+Bacteria	Permanent Draft	2627853734	Clostridium botulinum C/D DC5	
+Bacteria	Permanent Draft	2660238149	Clostridium botulinum 43243-CD	
+Bacteria	Permanent Draft	2671180403	Clostridium botulinum 38028-CD	
+Bacteria	Permanent Draft	2675903432	Fusobacterium necrophorum funduliforme F1267	
+Bacteria	Permanent Draft	2724679220	Fusobacterium necrophorum funduliforme F1248	
+Bacteria	Permanent Draft	2724679223	Fusobacterium necrophorum funduliforme F1309	
+Bacteria	Permanent Draft	2788500499	Megasphaera sp. An286	
+Bacteria	Permanent Draft	2799112821	Lachnospiraceae bacterium hRUG899	
+Bacteria	Permanent Draft	2846301910	Coprococcus catus AM28-39	
+Bacteria	Finished	2847453853	Fusobacterium necrophorum funduliforme F1291	
+Bacteria	Finished	2872337328	Clostridium botulinum type C Stockholm	
+Bacteria	Permanent Draft	2900564547	Fusobacterium sp. IOR10	
+Bacteria	Permanent Draft	2914414013	Veillonellaceae bacterium M2-8	
